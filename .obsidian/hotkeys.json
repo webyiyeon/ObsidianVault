@@ -73,5 +73,15 @@
       ],
       "key": "1"
     }
-  ]
+  ],
+  "obsidian-custom-frames:open-custom-frames-todoist": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ],
+  "obsidian-excalidraw-plugin:insert-link": []
 }
