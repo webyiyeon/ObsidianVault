@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
+                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "067906d776659753",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md"
+                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
+                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,19 +171,40 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
+                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "3ffa0844b7176973",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-todoist",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
+      },
+      {
+        "id": "8a858ffcb4b87a0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d92bb2c8f9dc10f",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-google-calendar",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 355,
-    "collapsed": true
+    "width": 505
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,18 +220,18 @@
   },
   "active": "90f3694518e63d0d",
   "lastOpenFiles": [
-    "remoteBrain/_template/tags.md",
-    "remoteBrain/_template/monthly.md",
-    "remoteBrain/Report/2024/January.md",
     "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
+    "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
+    "remoteBrain/Report/2024/January.md",
+    "remoteBrain/_template/monthly.md",
     "remoteBrain/_template/daily.md",
+    "remoteBrain/_template/tags.md",
     "remoteBrain/Report/2024/Test.md",
     "remoteBrain/Report/2024",
     "remoteBrain/_template/tracker.md",
     "remoteBrain/Report/Untitled.md",
     "remoteBrain/Daily-Docs/2024/January",
     "remoteBrain/Daily-Docs/2024",
-    "remoteBrain/_template/Monthly.md",
     "README.md",
     "conflict-files-obsidian-git.md",
     "remoteBrain/Report/January.md",

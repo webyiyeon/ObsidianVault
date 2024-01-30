@@ -22,37 +22,6 @@
     ],
     "tasks": [
       {
-        "id": "7646611043",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2327705031",
-        "sectionId": null,
-        "parentId": null,
-        "order": 1,
-        "content": "- [ ]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기",
-        "description": "[remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/January/2024-01-30%20Tue.md)",
-        "isCompleted": false,
-        "labels": [
-          "study",
-          "todoist"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "47987180",
-        "createdAt": "2024-01-30T11:07:20.471121Z",
-        "due": {
-          "date": "2024-01-29",
-          "timezone": "Asia/Seoul",
-          "string": "2024-01-30 08:00",
-          "lang": "en",
-          "isRecurring": false,
-          "datetime": "2024-01-29T23:00:00Z"
-        },
-        "url": "https://todoist.com/showTask?id=7646611043",
-        "duration": null,
-        "path": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md"
-      },
-      {
         "id": "7646805186",
         "assignerId": null,
         "assigneeId": null,
@@ -82,6 +51,61 @@
         "url": "https://todoist.com/showTask?id=7646805186",
         "duration": null,
         "path": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md"
+      },
+      {
+        "id": "7646611043",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 1,
+        "content": "- [x]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-31",
+        "description": "[remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/January/2024-01-30%20Tue.md)",
+        "isCompleted": false,
+        "labels": [
+          "study",
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-01-30T11:07:20.471121Z",
+        "due": {
+          "date": "2024-01-29",
+          "timezone": "Asia/Seoul",
+          "string": "2024-01-30 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-01-29T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7646611043",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md"
+      },
+      {
+        "id": "7648863212",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 1,
+        "content": "Elasticsearch에 연관분석 적용 연구하기💻 🛫 2024-01-31",
+        "description": "[remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/January/2024-01-31%20Wed.md)",
+        "isCompleted": false,
+        "labels": [
+          "dev",
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-01-30T22:58:38.421660Z",
+        "due": null,
+        "url": "https://todoist.com/showTask?id=7648863212",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md"
       }
     ],
     "events": [
@@ -220,6 +244,105 @@
         "object_type": "item",
         "parent_item_id": null,
         "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T22:54:37.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [x]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-30",
+          "note_count": 0
+        },
+        "extra_data_id": 22897761925,
+        "id": 22811465343,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T22:54:29.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [x]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-31",
+          "note_count": 0
+        },
+        "extra_data_id": 22897761588,
+        "id": 22811465006,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T22:54:35.000000Z",
+        "event_type": "uncompleted",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [ ]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기",
+          "note_count": 0
+        },
+        "extra_data_id": 22897761568,
+        "id": 22811464985,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T22:54:43.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [x]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-30",
+          "last_content": "- [ ]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기",
+          "note_count": 0
+        },
+        "extra_data_id": 22897762358,
+        "id": 22811465779,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T22:54:39.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [ ]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기",
+          "last_content": "- [x]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-31",
+          "note_count": 0
+        },
+        "extra_data_id": 22897763349,
+        "id": 22811466778,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T22:54:37.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [x]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-31",
+          "last_content": "- [ ]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기",
+          "note_count": 0
+        },
+        "extra_data_id": 22897763085,
+        "id": 22811466503,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
       }
     ]
   },
@@ -240,6 +363,12 @@
         "7646805186"
       ],
       "todoistCount": 2
+    },
+    "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md": {
+      "todoistTasks": [
+        "7648863212"
+      ],
+      "todoistCount": 1
     }
   },
   "enableFullVaultSync": false,
