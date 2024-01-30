@@ -22,8 +22,8 @@ WHERE
 
 ```tracker
 searchType: task.done  
-searchTarget: 유산균 1알 먹기
+searchTarget: 무지출 챌린지 
 folder: /remoteBrain/Daily-Docs/{{date:YYYY}}/{{date:MMMM}}
-datasetName: 유산균
-month:
+datasetName: No Expense Challenge 💰
+bar: ™
 ```
