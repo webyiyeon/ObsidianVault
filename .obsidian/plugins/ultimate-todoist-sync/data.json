@@ -20,7 +20,31 @@
         "viewStyle": "list"
       }
     ],
-    "tasks": [],
+    "tasks": [
+      {
+        "id": "7645847490",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 4,
+        "content": "유산균 1알 먹기 🔼 🔁 every day  동하기 🔼 🔁 every day",
+        "description": "[remoteBrain/_template/daily.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/_template/daily.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-01-30T07:03:26.864102Z",
+        "due": null,
+        "url": "https://todoist.com/showTask?id=7645847490",
+        "duration": null,
+        "path": "remoteBrain/_template/daily.md"
+      }
+    ],
     "events": [
       {
         "event_date": "2024-01-29T04:28:21.000000Z",
@@ -42,10 +66,16 @@
   },
   "fileMetadata": {
     "remoteBrain/_template/daily.md": {
-      "defaultProjectId": "2327705031"
+      "defaultProjectId": "2327705031",
+      "todoistTasks": [
+        "7645847490"
+      ],
+      "todoistCount": 1
     },
     "Untitled.md": {
-      "defaultProjectId": "2327705031"
+      "defaultProjectId": "2327705031",
+      "todoistTasks": [],
+      "todoistCount": 0
     }
   },
   "enableFullVaultSync": false,
