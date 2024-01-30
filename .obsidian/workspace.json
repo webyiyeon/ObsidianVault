@@ -44,7 +44,7 @@
       {
         "id": "25ff7ad67751f17e",
         "type": "tabs",
-        "dimension": 22.547914317925592,
+        "dimension": 22.555663117134557,
         "children": [
           {
             "id": "35953dccb53de205",
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#meal-log📝",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,36 +70,19 @@
             }
           },
           {
-            "id": "fda2176e642c56f6",
+            "id": "4b5cc49e555502fb",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "086b14b13c14cc14",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "dfc37c9984f0cfe3",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "067906d776659753",
         "type": "tabs",
-        "dimension": 77.45208568207441,
+        "dimension": 49.4675701839303,
         "children": [
           {
             "id": "26d6ce17f51fb3a5",
@@ -109,6 +92,21 @@
               "state": {
                 "sortOrder": "alphabetical"
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "bd7d9e25b3d33923",
+        "type": "tabs",
+        "dimension": 27.97676669893514,
+        "children": [
+          {
+            "id": "dfc37c9984f0cfe3",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
             }
           }
         ]
@@ -235,13 +233,12 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-custom-frames:Open Chat GPT": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian42-brat:BRAT": false,
       "obsidian-day-planner:Timeline": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "efb8317fc98dbad3",
+  "active": "35953dccb53de205",
   "lastOpenFiles": [
     "Untitled.md",
     "remoteBrain/_template/daily.md",
