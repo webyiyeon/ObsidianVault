@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4190c137b89e919b",
+        "id": "8eadf4eaf5773d0e",
         "type": "tabs",
         "children": [
           {
-            "id": "fa5b2271b7adb204",
+            "id": "c8fb698955b99da1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Report/Untitled.md",
+                "file": "remoteBrain/_template/monthly.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Report/Untitled.md"
+                "file": "remoteBrain/_template/monthly.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Report/Untitled.md",
+                "file": "remoteBrain/_template/monthly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Report/Untitled.md",
+                "file": "remoteBrain/_template/monthly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,25 +228,28 @@
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "periodic-notes:Open today": false,
       "obsidian42-brat:BRAT": false,
       "obsidian-custom-frames:Open Chat GPT": false,
-      "obsidian-day-planner:Timeline": false
+      "obsidian-day-planner:Timeline": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "fa5b2271b7adb204",
+  "active": "c8fb698955b99da1",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
-    "remoteBrain/Report/Untitled.md",
+    "remoteBrain/_template/tags.md",
     "remoteBrain/_template/daily.md",
+    "remoteBrain/_template/monthly.md",
+    "remoteBrain/Report/2024/January.md",
+    "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
+    "remoteBrain/Report/2024",
+    "remoteBrain/_template/tracker.md",
+    "remoteBrain/Report/Untitled.md",
     "remoteBrain/Daily-Docs/2024/January",
     "remoteBrain/Daily-Docs/2024",
-    "remoteBrain/_template/monthly.md",
     "remoteBrain/_template/Monthly.md",
     "README.md",
     "conflict-files-obsidian-git.md",
     "remoteBrain/Report/January.md",
-    "remoteBrain/_template/tags.md",
     "Untitled.md",
     "todoist-backup-2024130155343.json",
     "remoteBrain/Monthly-Reports/2024/January.md",
@@ -269,12 +272,9 @@
     "Blog/Tistory/Obsidian/Tistory와 Obsidian 연동하기.md",
     "Blog/Tistory/Obsidian/맛따라/seoul/서울 종로 대성식당 광장시장.md",
     "Blog/Tistory/Obsidian/맛따라/seoul/IMG_0028.jpg",
-    "Blog/Tistory/Obsidian/Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기.md",
     "Blog/Tistory/Obsidian/1145918_1.png",
-    "Excalidraw/Drawing 2024-01-29 13.26.15.excalidraw.md",
     "remoteBrain/Daily-Docs/2024/January/5 week",
     "remoteBrain/Daily-Docs/2024/2024-W 5",
-    "remoteBrain/Daily-Docs/2024/2024-W05",
     "Blog/Tistory/Obsidian/맛따라/seoul/IMG_0213.JPG",
     "Blog/Tistory/Obsidian/맛따라/seoul/IMG_0098.jpg",
     "Blog/Tistory/Obsidian/맛따라/seoul/IMG_0090.jpg",

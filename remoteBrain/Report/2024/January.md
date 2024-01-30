@@ -6,7 +6,7 @@ TABLE
 FROM 
 	#meal-log📝 
 WHERE 
-	file.folder = "remoteBrain/Daily-Docs/{{date:YYYY}}/{{date:MMMM}}"
+	file.folder = "remoteBrain/Daily-Docs/2024/January"
 ```
 
 
@@ -17,13 +17,13 @@ TABLE
 FROM 
 	#workout-log💪 
 WHERE 
-	file.folder = "remoteBrain/Daily-Docs/{{date:YYYY}}/{{date:MMMM}}"
+	file.folder = "remoteBrain/Daily-Docs/2024/January"
 ```
 
 ```tracker
 searchType: task.done  
-searchTarget: 
-folder: /remoteBrain/Daily-Docs/{{date:YYYY}}/{{date:MMMM}}
+searchTarget: 'Total\s+(?[0-9]+)\s+Pomo'  
+folder: /remoteBrain/Daily-Docs/2024/January
 datasetName: 유산균
 month:
 ```
