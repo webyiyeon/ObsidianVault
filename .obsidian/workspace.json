@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5512351e9147a964",
+        "id": "4190c137b89e919b",
         "type": "tabs",
         "children": [
           {
-            "id": "9b96062ded0717d3",
+            "id": "fa5b2271b7adb204",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -120,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md"
+              }
             }
           },
           {
@@ -140,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,6 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,19 +226,20 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "9b96062ded0717d3",
+  "active": "fa5b2271b7adb204",
   "lastOpenFiles": [
+    "remoteBrain/_template/daily.md",
+    "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
+    "remoteBrain/Daily-Docs/2024/January",
+    "remoteBrain/Daily-Docs/2024",
     "remoteBrain/_template/monthly.md",
     "remoteBrain/_template/Monthly.md",
-    "remoteBrain/_template/daily.md",
     "README.md",
     "conflict-files-obsidian-git.md",
     "remoteBrain/Report/January.md",
     "remoteBrain/_template/tags.md",
     "Untitled.md",
     "todoist-backup-2024130155343.json",
-    "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
-    "remoteBrain/Daily-Docs/2024/January",
     "remoteBrain/Monthly-Reports/2024/January.md",
     "remoteBrain/Daily-Docs/2023/October.md",
     "remoteBrain/Daily-Docs/2023/November.md",
@@ -242,7 +251,6 @@
     "remoteBrain/Monthly-Reports",
     "Spaces/Home/.md",
     "remoteBrain/Report",
-    "remoteBrain/Daily-Docs/2024",
     "2021-11-12.md",
     "Untitled.canvas",
     "remoteBrain/Daily-Docs/2024/January/2024-01-29 Mon.md",
@@ -255,7 +263,6 @@
     "Blog/Tistory/Obsidian/Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기.md",
     "Blog/Tistory/Obsidian/1145918_1.png",
     "Excalidraw/Drawing 2024-01-29 13.26.15.excalidraw.md",
-    "remoteBrain/Daily-Docs/2024/January/5 week/2024-01-29 Mon.md",
     "remoteBrain/Daily-Docs/2024/January/5 week",
     "remoteBrain/Daily-Docs/2024/2024-W 5",
     "remoteBrain/Daily-Docs/2024/2024-W05",
