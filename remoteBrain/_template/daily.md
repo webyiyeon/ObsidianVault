@@ -4,8 +4,8 @@ sleep🌜:
 workout💪: 
 gratitude🙏: 
 breakfast🍳: 
-dinner🥗: 
 lunch🍚: 
+dinner🥗: 
 snack🍬:
 ---
 ### To-do List
