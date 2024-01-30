@@ -16,8 +16,8 @@
   },
   "monthly": {
     "format": "YYYY/MMMM",
-    "template": "remoteBrain/_template/Monthly.md",
-    "folder": "remoteBrain/Monthly-Reports",
+    "template": "remoteBrain/_template/monthly.md",
+    "folder": "remoteBrain/Report",
     "enabled": true
   },
   "quarterly": {

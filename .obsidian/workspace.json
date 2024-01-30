@@ -70,15 +70,7 @@
             }
           },
           {
-            "id": "4b5cc49e555502fb",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "f55b60725363a18c",
+            "id": "959803c5166949e4",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -86,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "067906d776659753",
@@ -233,7 +225,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 670
+    "width": 355
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,15 +239,16 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "dfc37c9984f0cfe3",
+  "active": "84a1b0141abc44eb",
   "lastOpenFiles": [
+    "remoteBrain/_template/monthly.md",
+    "remoteBrain/_template/daily.md",
+    "remoteBrain/Report/January.md",
     "remoteBrain/_template/tags.md",
     "Untitled.md",
-    "remoteBrain/_template/daily.md",
     "todoist-backup-2024130155343.json",
     "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
     "remoteBrain/Daily-Docs/2024/January",
-    "remoteBrain/_template/Monthly.md",
     "remoteBrain/Monthly-Reports/2024/January.md",
     "README.md",
     "remoteBrain/Daily-Docs/2023/October.md",
@@ -266,9 +259,8 @@
     "remoteBrain/Monthly-Reports/January.md",
     "2024-01-30.md",
     "remoteBrain/Monthly-Reports",
-    "Report/January.md",
     "Spaces/Home/.md",
-    "Report",
+    "remoteBrain/Report",
     "remoteBrain/Daily-Docs/2024",
     "2021-11-12.md",
     "Untitled.canvas",

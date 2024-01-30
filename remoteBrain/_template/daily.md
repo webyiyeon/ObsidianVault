@@ -3,6 +3,7 @@ wakeup🌞:
 sleep🌜: 
 workout🏋️: 
 workout-type: 
+workout-routine: 
 gratitude🙏: 
 breakfast🍳: 
 lunch🍚: 
@@ -23,10 +24,7 @@ tags:
 - [ ] 바깥 음식 안 먹기 🔁 every day 
 
 ### To-do List
-- [ ] #study📓 
-- [ ] #workout🏋️ 
-- [ ] #chores🧺 
-- [ ] #play💻 
+
 
 ### Overdue List
 ```tasks
