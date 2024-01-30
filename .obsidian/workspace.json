@@ -178,7 +178,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -199,9 +200,9 @@
   },
   "active": "0ac2c52e17a5c79c",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
-    "remoteBrain/_template/daily.md",
     "remoteBrain/_template/Monthly.md",
+    "remoteBrain/_template/daily.md",
+    "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
     "README.md",
     "remoteBrain/Daily-Docs/2023/October.md",
     "remoteBrain/Daily-Docs/2023/November.md",
