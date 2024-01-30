@@ -1,6 +1,6 @@
 ```dataview
 TABLE
-	wakeup🌞, sleep🌜, dateformat(wakeup🌞, "HH:mm")- dateformat(sleep🌜, "HH:mm") AS "time"
+	wakeup🌞, sleep🌜, date(sleep🌜)
 FROM 
 	#meal-log📝 
 WHERE 
