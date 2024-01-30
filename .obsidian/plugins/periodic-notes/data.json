@@ -1,5 +1,5 @@
 {
-  "showGettingStartedBanner": true,
+  "showGettingStartedBanner": false,
   "hasMigratedDailyNoteSettings": false,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
@@ -15,9 +15,9 @@
     "enabled": false
   },
   "monthly": {
-    "format": "MMM",
-    "template": "",
-    "folder": "",
+    "format": "MMMM",
+    "template": "remoteBrain/_template/Monthly.md",
+    "folder": "remoteBrain/Monthly-Reports",
     "enabled": true
   },
   "quarterly": {
