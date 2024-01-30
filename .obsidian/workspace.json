@@ -197,13 +197,13 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "periodic-notes:Open today": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-custom-frames:Open Chat GPT": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian42-brat:BRAT": false,
-      "obsidian-day-planner:Timeline": false
+      "obsidian-day-planner:Timeline": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "41197f10186fe843",
