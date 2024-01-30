@@ -16,11 +16,10 @@ snack🍬:
 - [ ] #play💻
 
 
-### Overdue Work List
+### Overdue List
 ```tasks
-path include task
 not done
-shortmode
+due before {{date:YYYY-MM-DD}}
 ```
 
 
