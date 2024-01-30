@@ -8,6 +8,7 @@ lunch🍚:
 dinner🥗: 
 snack🍬:
 ---
+
 ### To-do List
 - [ ] #study📓
 - [ ] #workout🏋️
@@ -16,4 +17,5 @@ snack🍬:
 
 #### Daily Report Tags
 #meal-log📝 #workout-log💪 #study-log📓 
+
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/_template/daily.md",
+                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/_template/daily.md"
+                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/_template/daily.md",
+                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/_template/daily.md",
+                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,9 +199,9 @@
   },
   "active": "0ac2c52e17a5c79c",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
     "remoteBrain/_template/daily.md",
     "remoteBrain/_template/Monthly.md",
+    "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
     "README.md",
     "remoteBrain/Daily-Docs/2023/October.md",
     "remoteBrain/Daily-Docs/2023/November.md",
