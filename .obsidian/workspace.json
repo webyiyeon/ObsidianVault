@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "062b33c8635f7e66",
+        "id": "0cea1798d9c31c83",
         "type": "tabs",
         "children": [
           {
-            "id": "191439500f7df3e2",
+            "id": "90f3694518e63d0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -212,12 +212,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "191439500f7df3e2",
+  "active": "90f3694518e63d0d",
   "lastOpenFiles": [
     "remoteBrain/Report/2024/January.md",
-    "remoteBrain/Report/2024/Test.md",
     "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
     "remoteBrain/_template/monthly.md",
+    "remoteBrain/Report/2024/Test.md",
     "remoteBrain/_template/daily.md",
     "remoteBrain/Report/2024",
     "remoteBrain/_template/tags.md",
