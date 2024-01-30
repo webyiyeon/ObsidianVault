@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fad0f0b3dbe2cca7",
+        "id": "54b081bf7634b864",
         "type": "tabs",
         "children": [
           {
-            "id": "e7df3b735d6f0b1c",
+            "id": "46315a950817991b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "879f6a8fc7b20fd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remoteBrain/_template/daily.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5ee9f03298ddce4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Report/January.md",
+                "file": "remoteBrain/_template/Monthly.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Report/January.md"
+                "file": "remoteBrain/_template/Monthly.md"
               }
             }
           },
@@ -172,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Report/January.md",
+                "file": "remoteBrain/_template/Monthly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Report/January.md",
+                "file": "remoteBrain/_template/Monthly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,12 +199,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "26d6ce17f51fb3a5",
+  "active": "46315a950817991b",
   "lastOpenFiles": [
-    "Spaces/Home/.md",
     "Report/January.md",
-    "remoteBrain/_template/daily.md",
+    "remoteBrain/_template/Monthly.md",
     "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
+    "remoteBrain/_template/daily.md",
+    "README.md",
+    "remoteBrain/Test.md",
+    "Spaces/Home/.md",
     "Report",
     "remoteBrain/Daily-Docs/2024/January",
     "remoteBrain/Daily-Docs/2024",
@@ -237,7 +215,6 @@
     "Untitled.canvas",
     "remoteBrain/Daily-Docs/2024/January/2024-01-29 Mon.md",
     "2024-01-29.md",
-    "remoteBrain/Test.md",
     "Excalidraw/Drawing 2024-01-29 13.43.11.excalidraw.md",
     "Excalidraw",
     "remoteBrain/blog/Tistory/Obsidian/Tistory와 Obsidian 연동하기.md",
@@ -261,8 +238,6 @@
     "remoteBrain/Daily-Docs/2024/Test.md",
     "remoteBrain/_template",
     "remoteBrain/Daily-Docs/Untitled.md",
-    "remoteBrain/Daily-Docs/2024.md",
-    "remoteBrain/README.md",
     "Spaces/Home",
     "remoteBrain/wooyeon/Obsidian",
     "remoteBrain/blog/Tistory/Obsidian/맛따라/seoul/IMG_0213.JPG",

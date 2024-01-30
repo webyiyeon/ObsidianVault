@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Monthly",
+      "path": "remoteBrain/_template/Monthly.md"
+    },
+    {
       "basename": "January",
       "path": "Report/January.md"
+    },
+    {
+      "basename": "2024-01-30 Tue",
+      "path": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md"
     },
     {
       "basename": "daily",
       "path": "remoteBrain/_template/daily.md"
     },
     {
-      "basename": "2024-01-30 Tue",
-      "path": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md"
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Test",
+      "path": "remoteBrain/Test.md"
     },
     {
       "basename": "Tistory와 Obsidian 연동하기",
@@ -35,14 +47,6 @@
     {
       "basename": "October",
       "path": "remoteBrain/Daily-Docs/2023/October.md"
-    },
-    {
-      "basename": "README",
-      "path": "remoteBrain/README.md"
-    },
-    {
-      "basename": "Test",
-      "path": "remoteBrain/Test.md"
     }
   ],
   "omittedPaths": [],

@@ -1,3 +1,3 @@
-# remoteBrain
+
 Obsidian synced
 

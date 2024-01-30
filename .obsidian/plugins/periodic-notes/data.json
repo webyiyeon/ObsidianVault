@@ -15,9 +15,10 @@
     "enabled": false
   },
   "monthly": {
-    "format": "",
+    "format": "MMM",
     "template": "",
-    "folder": ""
+    "folder": "",
+    "enabled": true
   },
   "quarterly": {
     "format": "",
