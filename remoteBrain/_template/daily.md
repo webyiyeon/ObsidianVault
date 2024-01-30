@@ -18,10 +18,10 @@ snack🍬:
 - [ ] 바깥 음식 안 먹기 🔁 every day 
 
 ### To-do List
-- [ ] #study📓
-- [ ] #workout🏋️
+- [ ] #study📓 
+- [ ] #workout🏋️ 
 - [ ] #chores🧺 
-- [ ] #play💻
+- [ ] #play💻 
 
 ### Overdue List
 ```tasks
