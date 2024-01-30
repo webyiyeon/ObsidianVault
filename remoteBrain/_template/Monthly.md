@@ -13,7 +13,7 @@ WHERE
 ## Workout Logs
 ```dataview
 TABLE 
-	workout🏋️
+	workout🏋️, workout-type as type, 
 FROM 
 	#workout-log💪 
 WHERE 

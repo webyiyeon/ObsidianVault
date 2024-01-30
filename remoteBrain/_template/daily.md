@@ -2,11 +2,16 @@
 wakeup🌞: 
 sleep🌜: 
 workout🏋️: 
+workout-type: 
 gratitude🙏: 
 breakfast🍳: 
 lunch🍚: 
 dinner🥗: 
-snack🍬:
+snack🍬: 
+tags:
+  - meal-log📝
+  - study-log📓
+  - workout-log💪
 ---
 ### Routines
 - [ ] 유산균 1알 먹기 🔼 🔁 every day 
@@ -28,8 +33,4 @@ snack🍬:
 not done
 due before {{date:YYYY-MM-DD}}
 ```
-
-
-#### Daily Report Tags
-#meal-log📝 #workout-log💪 #study-log📓 
 
