@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "0ac2c52e17a5c79c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/_template/daily.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "84a1b0141abc44eb",
             "type": "leaf",
             "state": {
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -47,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#workout-log💪",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "067906d776659753",
@@ -212,7 +224,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354
+    "width": 670
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,16 +238,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "84a1b0141abc44eb",
+  "active": "35953dccb53de205",
   "lastOpenFiles": [
-    "remoteBrain/_template/monthly.md",
-    "remoteBrain/_template/daily.md",
     "remoteBrain/_template/tags.md",
+    "Untitled.md",
+    "remoteBrain/_template/daily.md",
+    "todoist-backup-2024130155343.json",
     "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
     "remoteBrain/Daily-Docs/2024/January",
-    "remoteBrain/Daily-Docs/2024",
-    "Untitled.md",
-    "todoist-backup-2024130155343.json",
+    "remoteBrain/_template/Monthly.md",
     "remoteBrain/Monthly-Reports/2024/January.md",
     "README.md",
     "remoteBrain/Daily-Docs/2023/October.md",
@@ -249,6 +260,7 @@
     "Report/January.md",
     "Spaces/Home/.md",
     "Report",
+    "remoteBrain/Daily-Docs/2024",
     "2021-11-12.md",
     "Untitled.canvas",
     "remoteBrain/Daily-Docs/2024/January/2024-01-29 Mon.md",
