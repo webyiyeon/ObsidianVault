@@ -76,8 +76,17 @@
               "type": "mk-path-view",
               "state": {}
             }
+          },
+          {
+            "id": "f55b60725363a18c",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "067906d776659753",
@@ -232,13 +241,13 @@
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-custom-frames:Open Chat GPT": false,
+      "periodic-notes:Open today": false,
       "obsidian42-brat:BRAT": false,
-      "obsidian-day-planner:Timeline": false,
-      "periodic-notes:Open today": false
+      "obsidian-custom-frames:Open Chat GPT": false,
+      "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "35953dccb53de205",
+  "active": "dfc37c9984f0cfe3",
   "lastOpenFiles": [
     "remoteBrain/_template/tags.md",
     "Untitled.md",
