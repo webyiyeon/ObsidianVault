@@ -5,12 +5,8 @@
       "path": "remoteBrain/_template/daily.md"
     },
     {
-      "basename": "monthly",
-      "path": "remoteBrain/_template/monthly.md"
-    },
-    {
-      "basename": "tags",
-      "path": "remoteBrain/_template/tags.md"
+      "basename": "Monthly",
+      "path": "remoteBrain/_template/Monthly.md"
     },
     {
       "basename": "README",
