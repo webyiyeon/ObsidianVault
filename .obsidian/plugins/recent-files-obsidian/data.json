@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "daily",
-      "path": "remoteBrain/_template/daily.md"
-    },
-    {
       "basename": "monthly",
       "path": "remoteBrain/_template/monthly.md"
+    },
+    {
+      "basename": "daily",
+      "path": "remoteBrain/_template/daily.md"
     },
     {
       "basename": "tags",

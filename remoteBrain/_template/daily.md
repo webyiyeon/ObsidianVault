@@ -23,7 +23,7 @@ tags:
 - [ ] 개발 공부하기 🔁 every day 
 - [ ] 바깥 음식 안 먹기 🔁 every day 
 
-### To-do List
+### To-do List 
 
 
 ### Overdue List
