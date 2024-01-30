@@ -21,9 +21,10 @@
     "enabled": true
   },
   "quarterly": {
-    "format": "",
+    "format": "YYYY/[Q]Q",
     "template": "",
-    "folder": ""
+    "folder": "remoteBrain/Monthly-Reports",
+    "enabled": false
   },
   "yearly": {
     "format": "",

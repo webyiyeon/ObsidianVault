@@ -20,31 +20,7 @@
         "viewStyle": "list"
       }
     ],
-    "tasks": [
-      {
-        "id": "7645847490",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2327705031",
-        "sectionId": null,
-        "parentId": null,
-        "order": 4,
-        "content": "유산균 1알 먹기 🔼 🔁 every day  동하기 🔼 🔁 every day",
-        "description": "[remoteBrain/_template/daily.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/_template/daily.md)",
-        "isCompleted": false,
-        "labels": [
-          "todoist"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "47987180",
-        "createdAt": "2024-01-30T07:03:26.864102Z",
-        "due": null,
-        "url": "https://todoist.com/showTask?id=7645847490",
-        "duration": null,
-        "path": "remoteBrain/_template/daily.md"
-      }
-    ],
+    "tasks": [],
     "events": [
       {
         "event_date": "2024-01-29T04:28:21.000000Z",
@@ -61,6 +37,23 @@
         "object_type": "project",
         "parent_item_id": null,
         "parent_project_id": null
+      },
+      {
+        "event_date": "2024-01-30T07:03:53.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "유산균 1알 먹기 🔼 🔁 every day  동하기 🔼 🔁 every day",
+          "last_content": "유산균 1알 먹기 🔼 🔁 every day",
+          "note_count": 0
+        },
+        "extra_data_id": 22887562229,
+        "id": 22801265753,
+        "initiator_id": null,
+        "object_id": "7645847490",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
       }
     ]
   },
