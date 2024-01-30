@@ -49,5 +49,13 @@
       ],
       "key": "X"
     }
+  ],
+  "editor:table-col-copy": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
   ]
 }
