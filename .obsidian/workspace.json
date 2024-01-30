@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
+                "file": "remoteBrain/Monthly-Reports/2024/January.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md"
+                "file": "remoteBrain/Monthly-Reports/2024/January.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
+                "file": "remoteBrain/Monthly-Reports/2024/January.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
+                "file": "remoteBrain/Monthly-Reports/2024/January.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,8 +188,6 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "periodic-notes:Open today": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
@@ -201,8 +199,11 @@
   },
   "active": "46315a950817991b",
   "lastOpenFiles": [
-    "2024-01-30.md",
+    "remoteBrain/Monthly-Reports/2024/January.md",
     "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
+    "remoteBrain/Monthly-Reports/2024",
+    "remoteBrain/Monthly-Reports/January.md",
+    "2024-01-30.md",
     "remoteBrain/_template/Monthly.md",
     "remoteBrain/Monthly-Reports",
     "Report/January.md",
@@ -236,10 +237,7 @@
     "remoteBrain/Daily-Docs/2024/2024-W05/2024-01-29.md",
     "remoteBrain/Daily-Docs/2024/2024-W05",
     "remoteBrain/Daily-Docs/2024/2024-01-29.md",
-    "remoteBrain/Daily-Docs/2023/October.md",
-    "remoteBrain/Daily-Docs/2024/Test.md",
     "remoteBrain/_template",
-    "Spaces/Home",
     "remoteBrain/blog/Tistory/Obsidian/맛따라/seoul/IMG_0213.JPG",
     "remoteBrain/blog/Tistory/Obsidian/맛따라/seoul/IMG_0098.jpg",
     "remoteBrain/blog/Tistory/Obsidian/맛따라/seoul/IMG_0090.jpg",

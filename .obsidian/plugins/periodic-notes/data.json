@@ -15,7 +15,7 @@
     "enabled": false
   },
   "monthly": {
-    "format": "MMMM",
+    "format": "YYYY/MMMM",
     "template": "remoteBrain/_template/Monthly.md",
     "folder": "remoteBrain/Monthly-Reports",
     "enabled": true
