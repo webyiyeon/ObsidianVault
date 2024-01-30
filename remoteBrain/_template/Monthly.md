@@ -11,3 +11,11 @@ WHERE
 
 
 ## Workout Logs
+```dataview
+TABLE 
+	workout🏋️
+FROM 
+	#workout-log💪 
+WHERE 
+	file.folder = "remoteBrain/Daily-Docs/{{date:YYYY}}/{{date:MMMM}}"
+```

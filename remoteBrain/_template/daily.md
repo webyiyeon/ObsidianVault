@@ -1,7 +1,7 @@
 ---
 wakeup🌞: 
 sleep🌜: 
-workout💪: 
+workout🏋️: 
 gratitude🙏: 
 breakfast🍳: 
 lunch🍚: 
