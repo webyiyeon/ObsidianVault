@@ -151,6 +151,39 @@
         "object_type": "item",
         "parent_item_id": null,
         "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T12:47:54.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "옵시디언 기능 추가하면서 template 작성하기     ✅ 2024-01-30",
+          "note_count": 0
+        },
+        "extra_data_id": 22890995886,
+        "id": 22804699370,
+        "initiator_id": null,
+        "object_id": "7646805186",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T12:47:51.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "옵시디언 기능 추가하면서 template 작성하기     ✅ 2024-01-30",
+          "last_content": "옵시디언 기능 추가하면서 template 작성하기",
+          "note_count": 0
+        },
+        "extra_data_id": 22890995813,
+        "id": 22804699299,
+        "initiator_id": null,
+        "object_id": "7646805186",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
       }
     ]
   },
