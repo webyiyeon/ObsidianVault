@@ -14,6 +14,12 @@ snack🍬:
 - [ ] #workout🏋️
 - [ ] #chores🧺 
 - [ ] #play💻
+```tasks
+path include task
+not done
+shortmode
+```
+
 
 #### Daily Report Tags
 #meal-log📝 #workout-log💪 #study-log📓 
