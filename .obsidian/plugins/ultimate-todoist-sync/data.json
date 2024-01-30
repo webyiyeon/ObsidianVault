@@ -1,0 +1,38 @@
+{
+  "initialized": true,
+  "apiInitialized": true,
+  "defaultProjectName": "Inbox",
+  "automaticSynchronizationInterval": 300,
+  "todoistTasksData": {
+    "projects": [
+      {
+        "id": "2327705031",
+        "parentId": null,
+        "order": 0,
+        "color": "charcoal",
+        "name": "Inbox",
+        "commentCount": 0,
+        "isShared": false,
+        "isFavorite": false,
+        "isInboxProject": true,
+        "isTeamInbox": false,
+        "url": "https://todoist.com/showProject?id=2327705031",
+        "viewStyle": "list"
+      }
+    ],
+    "tasks": [],
+    "events": []
+  },
+  "fileMetadata": {
+    "remoteBrain/_template/daily.md": {
+      "defaultProjectId": "2327705031"
+    },
+    "Untitled.md": {
+      "defaultProjectId": "2327705031"
+    }
+  },
+  "enableFullVaultSync": false,
+  "statistics": {},
+  "debugMode": false,
+  "todoistAPIToken": "57d33e1b10d4d37a13f212786179e01d795e6360"
+}
