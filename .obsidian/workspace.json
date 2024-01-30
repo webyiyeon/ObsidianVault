@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "54b081bf7634b864",
+        "id": "e34e84b402814d59",
         "type": "tabs",
         "children": [
           {
-            "id": "46315a950817991b",
+            "id": "0ac2c52e17a5c79c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -125,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md"
-              }
+              "state": {}
             }
           },
           {
@@ -147,7 +141,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +157,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,11 +189,15 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "46315a950817991b",
+  "active": "26d6ce17f51fb3a5",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2023/October.md",
+    "remoteBrain/Daily-Docs/2023/November.md",
+    "README.md",
+    "remoteBrain/Test.md",
+    "remoteBrain/_template/Monthly.md",
     "remoteBrain/_template/daily.md",
     "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
-    "remoteBrain/_template/Monthly.md",
     "remoteBrain/Daily-Docs/2024/January/ddddd.md",
     "remoteBrain/Monthly-Reports/2024/January.md",
     "remoteBrain/Monthly-Reports/2024",
@@ -209,8 +205,6 @@
     "2024-01-30.md",
     "remoteBrain/Monthly-Reports",
     "Report/January.md",
-    "README.md",
-    "remoteBrain/Test.md",
     "Spaces/Home/.md",
     "Report",
     "remoteBrain/Daily-Docs/2024/January",
@@ -221,31 +215,29 @@
     "2024-01-29.md",
     "Excalidraw/Drawing 2024-01-29 13.43.11.excalidraw.md",
     "Excalidraw",
-    "remoteBrain/blog/Tistory/Obsidian/Tistory와 Obsidian 연동하기.md",
-    "remoteBrain/blog/Tistory/Obsidian/맛따라/seoul/서울 종로 대성식당 광장시장.md",
-    "remoteBrain/blog/Tistory/Obsidian/맛따라/seoul/IMG_0028.jpg",
-    "remoteBrain/blog/Tistory/Obsidian/Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기.md",
-    "remoteBrain/blog/Tistory/Obsidian/1145918_1.png",
+    "Blog/Tistory/Obsidian/Tistory와 Obsidian 연동하기.md",
+    "Blog/Tistory/Obsidian/맛따라/seoul/서울 종로 대성식당 광장시장.md",
+    "Blog/Tistory/Obsidian/맛따라/seoul/IMG_0028.jpg",
+    "Blog/Tistory/Obsidian/Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기.md",
+    "Blog/Tistory/Obsidian/1145918_1.png",
     "Excalidraw/Drawing 2024-01-29 13.26.15.excalidraw.md",
     "remoteBrain/Daily-Docs/2024/January/5 week/2024-01-29 Mon.md",
-    "remoteBrain/Daily-Docs/2023/November.md",
     "remoteBrain/Daily-Docs/2024/January/5 week",
     "remoteBrain/_template/yearly.md",
     "remoteBrain/_template/weekly.md",
     "remoteBrain/_template/monthly.md",
     "remoteBrain/Daily-Docs/2024/2024-W 5/2024-01-29.md",
     "remoteBrain/Daily-Docs/2024/2024-W 5",
-    "remoteBrain/Daily-Docs/2024/2024-W05/2024-01-29.md",
     "remoteBrain/Daily-Docs/2024/2024-W05",
     "remoteBrain/_template",
-    "remoteBrain/blog/Tistory/Obsidian/맛따라/seoul/IMG_0213.JPG",
-    "remoteBrain/blog/Tistory/Obsidian/맛따라/seoul/IMG_0098.jpg",
-    "remoteBrain/blog/Tistory/Obsidian/맛따라/seoul/IMG_0090.jpg",
-    "remoteBrain/blog/Tistory/Obsidian/맛따라/seoul/IMG_0089.jpg",
-    "remoteBrain/blog/Tistory/Obsidian/맛따라/seoul/IMG_0078.jpg",
-    "remoteBrain/blog/Tistory/Obsidian/맛따라/seoul/IMG_0077.jpg",
-    "remoteBrain/blog/Tistory/Obsidian/맛따라/seoul/IMG_0072.jpg",
-    "remoteBrain/blog/Tistory/Obsidian/맛따라/seoul/IMG_0071.jpg",
+    "Blog/Tistory/Obsidian/맛따라/seoul/IMG_0213.JPG",
+    "Blog/Tistory/Obsidian/맛따라/seoul/IMG_0098.jpg",
+    "Blog/Tistory/Obsidian/맛따라/seoul/IMG_0090.jpg",
+    "Blog/Tistory/Obsidian/맛따라/seoul/IMG_0089.jpg",
+    "Blog/Tistory/Obsidian/맛따라/seoul/IMG_0078.jpg",
+    "Blog/Tistory/Obsidian/맛따라/seoul/IMG_0077.jpg",
+    "Blog/Tistory/Obsidian/맛따라/seoul/IMG_0072.jpg",
+    "Blog/Tistory/Obsidian/맛따라/seoul/IMG_0071.jpg",
     "Untitled 1.canvas"
   ]
 }

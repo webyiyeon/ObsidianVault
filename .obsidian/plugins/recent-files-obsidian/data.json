@@ -1,52 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-01-30 Tue",
-      "path": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md"
-    },
-    {
-      "basename": "daily",
-      "path": "remoteBrain/_template/daily.md"
-    },
-    {
-      "basename": "Monthly",
-      "path": "remoteBrain/_template/Monthly.md"
-    },
-    {
-      "basename": "January",
-      "path": "Report/January.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Test",
-      "path": "remoteBrain/Test.md"
-    },
-    {
-      "basename": "Tistory와 Obsidian 연동하기",
-      "path": "remoteBrain/blog/Tistory/Obsidian/Tistory와 Obsidian 연동하기.md"
-    },
-    {
-      "basename": "IMG_0028",
-      "path": "remoteBrain/blog/Tistory/Obsidian/맛따라/seoul/IMG_0028.jpg"
-    },
-    {
-      "basename": "서울 종로 대성식당 광장시장",
-      "path": "remoteBrain/blog/Tistory/Obsidian/맛따라/seoul/서울 종로 대성식당 광장시장.md"
-    },
-    {
-      "basename": "1145918_1",
-      "path": "remoteBrain/blog/Tistory/Obsidian/1145918_1.png"
+      "basename": "October",
+      "path": "remoteBrain/Daily-Docs/2023/October.md"
     },
     {
       "basename": "November",
       "path": "remoteBrain/Daily-Docs/2023/November.md"
     },
     {
-      "basename": "October",
-      "path": "remoteBrain/Daily-Docs/2023/October.md"
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Monthly",
+      "path": "remoteBrain/_template/Monthly.md"
+    },
+    {
+      "basename": "daily",
+      "path": "remoteBrain/_template/daily.md"
+    },
+    {
+      "basename": "2024-01-30 Tue",
+      "path": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md"
+    },
+    {
+      "basename": "January",
+      "path": "Report/January.md"
+    },
+    {
+      "basename": "Tistory와 Obsidian 연동하기",
+      "path": "Blog/Tistory/Obsidian/Tistory와 Obsidian 연동하기.md"
+    },
+    {
+      "basename": "IMG_0028",
+      "path": "Blog/Tistory/Obsidian/맛따라/seoul/IMG_0028.jpg"
+    },
+    {
+      "basename": "서울 종로 대성식당 광장시장",
+      "path": "Blog/Tistory/Obsidian/맛따라/seoul/서울 종로 대성식당 광장시장.md"
+    },
+    {
+      "basename": "1145918_1",
+      "path": "Blog/Tistory/Obsidian/1145918_1.png"
     }
   ],
   "omittedPaths": [],
