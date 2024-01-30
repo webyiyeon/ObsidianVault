@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f5ee9f03298ddce4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Report/January.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md"
+                "file": "Report/January.md"
               }
             }
           },
@@ -147,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
+                "file": "Report/January.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
+                "file": "Report/January.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,10 +212,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7df3b735d6f0b1c",
+  "active": "26d6ce17f51fb3a5",
   "lastOpenFiles": [
-    "remoteBrain/_template/daily.md",
     "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
+    "Report/January.md",
+    "Report",
+    "remoteBrain/_template/daily.md",
     "remoteBrain/Daily-Docs/2024/January",
     "remoteBrain/Daily-Docs/2024",
     "2021-11-12.md",
@@ -238,7 +253,6 @@
     "remoteBrain/README.md",
     "Spaces/Home",
     "remoteBrain/wooyeon/Obsidian",
-    "remoteBrain/wooyeon",
     "remoteBrain/blog/Tistory/Obsidian/맛따라/seoul/IMG_0213.JPG",
     "remoteBrain/blog/Tistory/Obsidian/맛따라/seoul/IMG_0098.jpg",
     "remoteBrain/blog/Tistory/Obsidian/맛따라/seoul/IMG_0090.jpg",
