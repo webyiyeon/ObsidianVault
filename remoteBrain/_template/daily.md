@@ -17,5 +17,3 @@ gratitude:
 - #meal-log📝  #dinner🥗
 - #meal-log📝  #snack🍬
 
-
-Test 
