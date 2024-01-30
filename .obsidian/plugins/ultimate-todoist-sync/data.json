@@ -153,7 +153,7 @@
         "sectionId": null,
         "parentId": null,
         "order": 4,
-        "content": "- [x]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-31",
+        "content": "- [ ]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-31",
         "description": "[remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/January/2024-01-30%20Tue.md)",
         "isCompleted": true,
         "labels": [
@@ -678,6 +678,55 @@
         },
         "extra_data_id": 22898016116,
         "id": 22811719536,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T23:37:13.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0; Todoist/5134",
+          "content": "- [x]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-31",
+          "note_count": 0
+        },
+        "extra_data_id": 22898066655,
+        "id": 22811770078,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T23:35:07.000000Z",
+        "event_type": "uncompleted",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [x]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-31",
+          "note_count": 0
+        },
+        "extra_data_id": 22898053127,
+        "id": 22811756547,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T23:34:09.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [x]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-31",
+          "last_content": "- [ ]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-31",
+          "note_count": 0
+        },
+        "extra_data_id": 22898045338,
+        "id": 22811748758,
         "initiator_id": null,
         "object_id": "7646611043",
         "object_type": "item",
