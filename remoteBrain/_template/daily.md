@@ -5,8 +5,8 @@ workout:
 gratitude:
 ---
 ### To-do List
-- [ ] #study
-- [ ] #workout
+- [ ] #study📓
+- [ ] #workout🏋️
 - [ ] #diet
 - [ ] #chores 
 - [ ] #play
@@ -16,4 +16,4 @@ gratitude:
 - #meal-log📝  #lunch🍚
 - #meal-log📝  #dinner🥗
 - #meal-log📝  #snack🍬
-
+- #study-log📓 
