@@ -2,7 +2,7 @@
 TABLE
 	dateformat(wakeup🌞, "HH:mm") AS "wakeup🌞", 
 	dateformat(sleep🌜, "HH:mm") AS "sleep🌜", 
-	dateformat((wakeup🌞 - sleep🌜), "HH:mm") AS "time"
+	durationformat((wakeup🌞 - sleep🌜), "hh:mm") AS "time"
 FROM 
 	#meal-log📝 
 WHERE 
