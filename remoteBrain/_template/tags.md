@@ -1,4 +1,6 @@
 
+- routine
+	- #routine 
 - to-do list
 	-  #study📓 #workout🏋️ #chores🧺 #play💻 
 - workout-type
