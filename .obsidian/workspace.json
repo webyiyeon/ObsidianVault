@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
+                "file": "remoteBrain/_template/monthly.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md"
+                "file": "remoteBrain/_template/monthly.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
+                "file": "remoteBrain/_template/monthly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
+                "file": "remoteBrain/_template/monthly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,31 +192,9 @@
               "type": "timeline",
               "state": {}
             }
-          },
-          {
-            "id": "e3d9d4c3780e63ff",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-todoist",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 7
-      },
-      {
-        "id": "2cc335a8834539dc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "efb8317fc98dbad3",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-google-calendar",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -236,9 +214,9 @@
   },
   "active": "67983a8297ecfb21",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
     "remoteBrain/_template/monthly.md",
     "remoteBrain/Report/2024/January.md",
-    "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
     "remoteBrain/Report/2024/Test.md",
     "remoteBrain/_template/daily.md",
     "remoteBrain/_template/tags.md",
