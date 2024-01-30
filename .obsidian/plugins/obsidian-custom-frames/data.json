@@ -21,6 +21,17 @@
       "zoomLevel": 1,
       "forceIframe": false,
       "customCss": ""
+    },
+    {
+      "url": "https://calendar.google.com/calendar/u/0/r/month?pli=1",
+      "displayName": "Google Calendar",
+      "icon": "calendar-heart",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
     }
   ],
   "padding": 5
