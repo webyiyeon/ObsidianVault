@@ -59,9 +59,9 @@
         "sectionId": null,
         "parentId": null,
         "order": 2,
-        "content": "옵시디언 기능 추가하면서 template 작성하기",
+        "content": "옵시디언 기능 추가하면서 template 작성하기     ✅ 2024-01-30",
         "description": "[remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/January/2024-01-30%20Tue.md)",
-        "isCompleted": false,
+        "isCompleted": true,
         "labels": [
           "todoist"
         ],
