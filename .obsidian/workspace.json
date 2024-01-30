@@ -177,9 +177,17 @@
               "type": "custom-frames-chat-gpt",
               "state": {}
             }
+          },
+          {
+            "id": "41197f10186fe843",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -198,11 +206,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "26d6ce17f51fb3a5",
+  "active": "41197f10186fe843",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
-    "remoteBrain/_template/daily.md",
     "remoteBrain/Daily-Docs/2024/January",
+    "remoteBrain/_template/daily.md",
     "remoteBrain/_template/Monthly.md",
     "remoteBrain/Monthly-Reports/2024/January.md",
     "README.md",
