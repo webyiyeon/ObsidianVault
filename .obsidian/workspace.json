@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "2ab1560fc13adbda",
+    "type": "split",
+    "children": [
+      {
+        "id": "fad0f0b3dbe2cca7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7df3b735d6f0b1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/_template/daily.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6bca1bd8cb5affa6",
+    "type": "split",
+    "children": [
+      {
+        "id": "25ff7ad67751f17e",
+        "type": "tabs",
+        "dimension": 22.547914317925592,
+        "children": [
+          {
+            "id": "35953dccb53de205",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "1e72487e7abc3362",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fda2176e642c56f6",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "086b14b13c14cc14",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "dfc37c9984f0cfe3",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "067906d776659753",
+        "type": "tabs",
+        "dimension": 77.45208568207441,
+        "children": [
+          {
+            "id": "26d6ce17f51fb3a5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.5
+  },
+  "right": {
+    "id": "b9172a0d39cef6f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "127ca09b466dc7f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aacd15fccc64da64",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "1a3ff5752482dfae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "remoteBrain/_template/daily.md"
+              }
+            }
+          },
+          {
+            "id": "9ca02d0b20035454",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "70776c5aaec6c2c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "remoteBrain/_template/daily.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9af1ac005f247b5b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "remoteBrain/_template/daily.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9637c14c11b141ff",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-chat-gpt",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 416
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-custom-frames:Open Chat GPT": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-day-planner:Timeline": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "1e72487e7abc3362",
+  "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
+    "remoteBrain/_template/daily.md",
+    "remoteBrain/Daily-Docs/2024/January",
+    "remoteBrain/Daily-Docs/2024",
+    "2021-11-12.md",
+    "Spaces/Home/Untitled.md",
+    "Untitled.canvas",
+    "remoteBrain/Daily-Docs/2024/January/2024-01-29 Mon.md",
+    "2024-01-29.md",
+    "remoteBrain/Test.md",
+    "Excalidraw/Drawing 2024-01-29 13.43.11.excalidraw.md",
+    "Excalidraw",
+    "remoteBrain/blog/Tistory/Obsidian/Tistory와 Obsidian 연동하기.md",
+    "remoteBrain/blog/Tistory/Obsidian/맛따라/seoul/서울 종로 대성식당 광장시장.md",
+    "remoteBrain/blog/Tistory/Obsidian/맛따라/seoul/IMG_0028.jpg",
+    "remoteBrain/blog/Tistory/Obsidian/Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기.md",
+    "remoteBrain/blog/Tistory/Obsidian/1145918_1.png",
+    "Excalidraw/Drawing 2024-01-29 13.26.15.excalidraw.md",
+    "remoteBrain/Daily-Docs/2024/January/5 week/2024-01-29 Mon.md",
+    "remoteBrain/Daily-Docs/2023/November.md",
+    "remoteBrain/Daily-Docs/2024/January/5 week",
+    "remoteBrain/_template/yearly.md",
+    "remoteBrain/_template/weekly.md",
+    "remoteBrain/_template/monthly.md",
+    "remoteBrain/Daily-Docs/2024/2024-W 5/2024-01-29.md",
+    "remoteBrain/Daily-Docs/2024/2024-W 5",
+    "remoteBrain/Daily-Docs/2024/2024-W05/2024-01-29.md",
+    "remoteBrain/Daily-Docs/2024/2024-W05",
+    "remoteBrain/Daily-Docs/2024/2024-01-29.md",
+    "remoteBrain/Daily-Docs/2023/October.md",
+    "remoteBrain/Daily-Docs/2024/Test.md",
+    "remoteBrain/_template",
+    "remoteBrain/Daily-Docs/Untitled.md",
+    "remoteBrain/Daily-Docs/2024.md",
+    "remoteBrain/README.md",
+    "Spaces/Home",
+    "remoteBrain/wooyeon/Obsidian",
+    "remoteBrain/wooyeon",
+    "remoteBrain/blog/Tistory/Obsidian/맛따라/seoul/IMG_0213.JPG",
+    "remoteBrain/blog/Tistory/Obsidian/맛따라/seoul/IMG_0098.jpg",
+    "remoteBrain/blog/Tistory/Obsidian/맛따라/seoul/IMG_0090.jpg",
+    "remoteBrain/blog/Tistory/Obsidian/맛따라/seoul/IMG_0089.jpg",
+    "remoteBrain/blog/Tistory/Obsidian/맛따라/seoul/IMG_0078.jpg",
+    "remoteBrain/blog/Tistory/Obsidian/맛따라/seoul/IMG_0077.jpg",
+    "remoteBrain/blog/Tistory/Obsidian/맛따라/seoul/IMG_0072.jpg",
+    "remoteBrain/blog/Tistory/Obsidian/맛따라/seoul/IMG_0071.jpg",
+    "Untitled 1.canvas"
+  ]
+}
