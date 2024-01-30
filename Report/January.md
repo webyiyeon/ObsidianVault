@@ -1,10 +1,9 @@
 ```dataview
-TABLE wakeup as 기상시간, sleep as 취침시간, workout as 운동, gratitude as 감사일기
+TABLE filter( file.etags, (x) => !contains(x, "#breakfast🍳") AND !contains(x, "#dinner") ) as 아침
 FROM #meal-log📝 
-WHERE file.folder = "../remoteBrain/"
+
+WHERE file.folder = "remoteBrain/Daily-Docs/2024/January"
 ```
-
-
 
 
 
