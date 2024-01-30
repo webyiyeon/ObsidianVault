@@ -1,6 +1,11 @@
 ## Sleep Tracker
 ```dataview
-
+TABLE
+	wakeup🌞, sleep🌜
+FROM 
+	#meal-log📝 
+WHERE 
+	file.folder = "remoteBrain/Daily-Docs/{{date:YYYY}}/{{date:MMMM}}"
 ```
 
 ## Meal Logs
