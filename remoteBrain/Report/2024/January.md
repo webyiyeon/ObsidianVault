@@ -21,7 +21,6 @@ WHERE
 	file.folder = "remoteBrain/Daily-Docs/2024/January"
 ```
 
-
 ## Workout Logs
 ```dataview
 TABLE 
