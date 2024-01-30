@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e34e84b402814d59",
+        "id": "5512351e9147a964",
         "type": "tabs",
         "children": [
           {
-            "id": "0ac2c52e17a5c79c",
+            "id": "9b96062ded0717d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remoteBrain/_template/daily.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84a1b0141abc44eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remoteBrain/_template/monthly.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "remoteBrain/_template/monthly.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/_template/monthly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +156,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/_template/monthly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,10 +218,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "84a1b0141abc44eb",
+  "active": "9b96062ded0717d3",
   "lastOpenFiles": [
-    "remoteBrain/_template/daily.md",
     "remoteBrain/_template/monthly.md",
+    "remoteBrain/_template/Monthly.md",
+    "remoteBrain/_template/daily.md",
+    "README.md",
+    "conflict-files-obsidian-git.md",
     "remoteBrain/Report/January.md",
     "remoteBrain/_template/tags.md",
     "Untitled.md",
@@ -250,7 +232,6 @@
     "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
     "remoteBrain/Daily-Docs/2024/January",
     "remoteBrain/Monthly-Reports/2024/January.md",
-    "README.md",
     "remoteBrain/Daily-Docs/2023/October.md",
     "remoteBrain/Daily-Docs/2023/November.md",
     "remoteBrain/Test.md",
@@ -276,8 +257,6 @@
     "Excalidraw/Drawing 2024-01-29 13.26.15.excalidraw.md",
     "remoteBrain/Daily-Docs/2024/January/5 week/2024-01-29 Mon.md",
     "remoteBrain/Daily-Docs/2024/January/5 week",
-    "remoteBrain/_template/yearly.md",
-    "remoteBrain/_template/weekly.md",
     "remoteBrain/Daily-Docs/2024/2024-W 5",
     "remoteBrain/Daily-Docs/2024/2024-W05",
     "Blog/Tistory/Obsidian/맛따라/seoul/IMG_0213.JPG",
