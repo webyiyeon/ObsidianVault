@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
+                "file": "remoteBrain/Report/2024/January.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md"
+                "file": "remoteBrain/Report/2024/January.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
+                "file": "remoteBrain/Report/2024/January.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
+                "file": "remoteBrain/Report/2024/January.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,21 +208,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
+      "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
       "obsidian42-brat:BRAT": false,
       "obsidian-custom-frames:Open Chat GPT": false,
       "obsidian-day-planner:Timeline": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": true
     }
   },
   "active": "90f3694518e63d0d",
   "lastOpenFiles": [
-    "remoteBrain/Report/2024/January.md",
-    "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
     "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
+    "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
+    "remoteBrain/Report/2024/January.md",
     "remoteBrain/_template/tags.md",
     "remoteBrain/_template/monthly.md",
     "remoteBrain/_template/daily.md",

@@ -44,5 +44,15 @@
   "anuppuccin-theme-settings@@anp-simple-rainbow-collapse-icon-toggle": true,
   "anuppuccin-theme-settings@@anp-simple-rainbow-icon-toggle": false,
   "anuppuccin-theme-settings@@anp-simple-rainbow-indentation-toggle": true,
-  "anuppuccin-theme-settings@@anp-rainbow-subfolder-color-toggle": true
+  "anuppuccin-theme-settings@@anp-rainbow-subfolder-color-toggle": true,
+  "anuppuccin-theme-settings@@anp-h1-divider": false,
+  "anuppuccin-theme-settings@@h1-size": 1.6,
+  "anuppuccin-theme-settings@@h2-size": 1.4,
+  "anuppuccin-theme-settings@@h3-size": 1.24,
+  "anuppuccin-theme-settings@@h4-size": 1.17,
+  "anuppuccin-theme-settings@@h5-size": 1.1,
+  "anuppuccin-theme-settings@@h6-size": 1.05,
+  "anuppuccin-theme-settings@@anp-h1-color-custom": "anp-h1-rosewater",
+  "anuppuccin-theme-settings@@anp-h2-color-custom": "anp-h2-flamingo",
+  "anuppuccin-theme-settings@@anp-h3-color-custom": "anp-h3-pink"
 }
