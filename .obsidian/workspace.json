@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e34e84b402814d59",
+        "id": "0cea1798d9c31c83",
         "type": "tabs",
         "children": [
           {
-            "id": "0ac2c52e17a5c79c",
+            "id": "90f3694518e63d0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/_template/daily.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84a1b0141abc44eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remoteBrain/_template/daily.md",
+                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,14 +57,23 @@
             }
           },
           {
-            "id": "4b5cc49e555502fb",
+            "id": "959803c5166949e4",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "9208f38e218b606d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "067906d776659753",
@@ -137,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/_template/daily.md"
+                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md"
               }
             }
           },
@@ -158,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/_template/daily.md",
+                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,56 +171,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/_template/daily.md",
+                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "9637c14c11b141ff",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-chat-gpt",
-              "state": {}
-            }
-          },
-          {
-            "id": "41197f10186fe843",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          },
-          {
-            "id": "e3d9d4c3780e63ff",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-todoist",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 7
-      },
-      {
-        "id": "2cc335a8834539dc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "efb8317fc98dbad3",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-google-calendar",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 670
+    "width": 355,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,24 +191,32 @@
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-custom-frames:Open Chat GPT": false,
       "obsidian42-brat:BRAT": false,
+      "obsidian-custom-frames:Open Chat GPT": false,
       "obsidian-day-planner:Timeline": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "35953dccb53de205",
+  "active": "90f3694518e63d0d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "remoteBrain/_template/tags.md",
-    "Untitled.md",
-    "remoteBrain/_template/daily.md",
-    "todoist-backup-2024130155343.json",
+    "remoteBrain/_template/monthly.md",
+    "remoteBrain/Report/2024/January.md",
     "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
+    "remoteBrain/_template/daily.md",
+    "remoteBrain/Report/2024/Test.md",
+    "remoteBrain/Report/2024",
+    "remoteBrain/_template/tracker.md",
+    "remoteBrain/Report/Untitled.md",
     "remoteBrain/Daily-Docs/2024/January",
+    "remoteBrain/Daily-Docs/2024",
     "remoteBrain/_template/Monthly.md",
-    "remoteBrain/Monthly-Reports/2024/January.md",
     "README.md",
+    "conflict-files-obsidian-git.md",
+    "remoteBrain/Report/January.md",
+    "Untitled.md",
+    "todoist-backup-2024130155343.json",
+    "remoteBrain/Monthly-Reports/2024/January.md",
     "remoteBrain/Daily-Docs/2023/October.md",
     "remoteBrain/Daily-Docs/2023/November.md",
     "remoteBrain/Test.md",
@@ -258,27 +225,18 @@
     "remoteBrain/Monthly-Reports/January.md",
     "2024-01-30.md",
     "remoteBrain/Monthly-Reports",
-    "Report/January.md",
     "Spaces/Home/.md",
-    "Report",
-    "remoteBrain/Daily-Docs/2024",
+    "remoteBrain/Report",
     "2021-11-12.md",
     "Untitled.canvas",
     "remoteBrain/Daily-Docs/2024/January/2024-01-29 Mon.md",
     "2024-01-29.md",
     "Excalidraw/Drawing 2024-01-29 13.43.11.excalidraw.md",
     "Excalidraw",
-    "Blog/Tistory/Obsidian/Tistory와 Obsidian 연동하기.md",
-    "Blog/Tistory/Obsidian/맛따라/seoul/서울 종로 대성식당 광장시장.md",
     "Blog/Tistory/Obsidian/맛따라/seoul/IMG_0028.jpg",
-    "Blog/Tistory/Obsidian/Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기.md",
     "Blog/Tistory/Obsidian/1145918_1.png",
-    "Excalidraw/Drawing 2024-01-29 13.26.15.excalidraw.md",
-    "remoteBrain/Daily-Docs/2024/January/5 week/2024-01-29 Mon.md",
     "remoteBrain/Daily-Docs/2024/January/5 week",
-    "remoteBrain/_template/yearly.md",
     "remoteBrain/Daily-Docs/2024/2024-W 5",
-    "remoteBrain/Daily-Docs/2024/2024-W05",
     "Blog/Tistory/Obsidian/맛따라/seoul/IMG_0213.JPG",
     "Blog/Tistory/Obsidian/맛따라/seoul/IMG_0098.jpg",
     "Blog/Tistory/Obsidian/맛따라/seoul/IMG_0090.jpg",

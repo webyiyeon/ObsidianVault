@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "workout💪": "multitext",
-    "wakeup🌞": "text"
+    "wakeup🌞": "datetime",
+    "sleep🌜": "datetime"
   }
 }

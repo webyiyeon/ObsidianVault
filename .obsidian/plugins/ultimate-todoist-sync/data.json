@@ -20,7 +20,70 @@
         "viewStyle": "list"
       }
     ],
-    "tasks": [],
+    "tasks": [
+      {
+        "id": "7646611043",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 1,
+        "content": "- [ ]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기",
+        "description": "[remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/January/2024-01-30%20Tue.md)",
+        "isCompleted": false,
+        "labels": [
+          "study",
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-01-30T11:07:20.471121Z",
+        "due": {
+          "date": "2024-01-29",
+          "timezone": "Asia/Seoul",
+          "string": "2024-01-30 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-01-29T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7646611043",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md"
+      },
+      {
+        "id": "7646805186",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 2,
+        "content": "- [x]💻 옵시디언 기능 추가하면서 template 작성하기     ✅ 2024-01-30",
+        "description": "[remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/January/2024-01-30%20Tue.md)",
+        "isCompleted": true,
+        "labels": [
+          "play",
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-01-30T12:16:41.957119Z",
+        "due": {
+          "date": "2024-01-29",
+          "timezone": "Asia/Seoul",
+          "string": "2024-01-30 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-01-29T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7646805186",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md"
+      }
+    ],
     "events": [
       {
         "event_date": "2024-01-29T04:28:21.000000Z",
@@ -54,6 +117,109 @@
         "object_type": "item",
         "parent_item_id": null,
         "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T11:07:25.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "정보처리기사 필기 유튜브 강의 들으면서 공부하기",
+          "due_date": "2024-01-29T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22889932985,
+        "id": 22803636483,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T12:16:51.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "옵시디언 기능 추가하면서 template 작성하기",
+          "due_date": "2024-01-29T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22890656189,
+        "id": 22804359679,
+        "initiator_id": null,
+        "object_id": "7646805186",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T12:47:54.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "옵시디언 기능 추가하면서 template 작성하기     ✅ 2024-01-30",
+          "note_count": 0
+        },
+        "extra_data_id": 22890995886,
+        "id": 22804699370,
+        "initiator_id": null,
+        "object_id": "7646805186",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T12:47:51.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "옵시디언 기능 추가하면서 template 작성하기     ✅ 2024-01-30",
+          "last_content": "옵시디언 기능 추가하면서 template 작성하기",
+          "note_count": 0
+        },
+        "extra_data_id": 22890995813,
+        "id": 22804699299,
+        "initiator_id": null,
+        "object_id": "7646805186",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T13:40:17.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [x]💻 옵시디언 기능 추가하면서 template 작성하기     ✅ 2024-01-30",
+          "last_content": "옵시디언 기능 추가하면서 template 작성하기     ✅ 2024-01-30",
+          "note_count": 0
+        },
+        "extra_data_id": 22891612031,
+        "id": 22805315512,
+        "initiator_id": null,
+        "object_id": "7646805186",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T13:40:10.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [ ]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기",
+          "last_content": "정보처리기사 필기 유튜브 강의 들으면서 공부하기",
+          "note_count": 0
+        },
+        "extra_data_id": 22891610250,
+        "id": 22805313730,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
       }
     ]
   },
@@ -67,6 +233,13 @@
       "defaultProjectId": "2327705031",
       "todoistTasks": [],
       "todoistCount": 0
+    },
+    "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md": {
+      "todoistTasks": [
+        "7646611043",
+        "7646805186"
+      ],
+      "todoistCount": 2
     }
   },
   "enableFullVaultSync": false,
