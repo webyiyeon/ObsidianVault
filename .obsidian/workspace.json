@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
+                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md"
+                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
+                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
+                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,9 +184,25 @@
               "type": "custom-frames-todoist",
               "state": {}
             }
+          },
+          {
+            "id": "d757f6d765f5fc2c",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "9ff3786f7d6117ec",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       },
       {
         "id": "8a858ffcb4b87a0c",
@@ -218,10 +234,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "90f3694518e63d0d",
+  "active": "d757f6d765f5fc2c",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
     "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
+    "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
     "remoteBrain/Report/2024/January.md",
     "remoteBrain/_template/tags.md",
     "remoteBrain/_template/monthly.md",
