@@ -2,7 +2,12 @@
 wakeup: 
 sleep: 
 workout: 
-gratitude:
+gratitude: 
+breakfast🍳: 
+dinner🥗: 
+lunch🍚: 
+snack🍬: 
+workout💪:
 ---
 ### To-do List
 - [ ] #study📓
@@ -10,10 +15,5 @@ gratitude:
 - [ ] #chores🧺 
 - [ ] #play💻
 
-### Daily Report 
-- #meal-log📝 #breakfast🍳 
-- #meal-log📝  #lunch🍚
-- #meal-log📝  #dinner🥗
-- #meal-log📝  #snack🍬
-- #study-log📓 #정보처리기사
-- #workout-log💪 
+### Daily Report Tags
+#meal-log📝 #workout-log💪 #study-log📓 

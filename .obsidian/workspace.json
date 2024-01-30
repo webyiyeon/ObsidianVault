@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "879f6a8fc7b20fd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/_template/daily.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f5ee9f03298ddce4",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -59,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#breakfast🍳",
+                "query": "tag:#meal-log📝",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md"
+                "file": "Report/January.md"
               }
             }
           },
@@ -159,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
+                "file": "Report/January.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
+                "file": "Report/January.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,12 +224,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1e72487e7abc3362",
+  "active": "f5ee9f03298ddce4",
   "lastOpenFiles": [
-    "Report/January.md",
     "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
-    "Report",
     "remoteBrain/_template/daily.md",
+    "Report/January.md",
+    "Report",
     "remoteBrain/Daily-Docs/2024/January",
     "remoteBrain/Daily-Docs/2024",
     "2021-11-12.md",
