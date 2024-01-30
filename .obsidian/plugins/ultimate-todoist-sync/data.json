@@ -20,7 +20,31 @@
         "viewStyle": "list"
       }
     ],
-    "tasks": [],
+    "tasks": [
+      {
+        "id": "7646607830",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 1,
+        "content": "정보처리기사 필기 유튜브 강의 들으면서 공부하기 ⏳ 2024-01-30",
+        "description": "[remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/January/2024-01-30%20Tue.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-01-30T11:06:01.411178Z",
+        "due": null,
+        "url": "https://todoist.com/showTask?id=7646607830",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md"
+      }
+    ],
     "events": [
       {
         "event_date": "2024-01-29T04:28:21.000000Z",
@@ -67,6 +91,12 @@
       "defaultProjectId": "2327705031",
       "todoistTasks": [],
       "todoistCount": 0
+    },
+    "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md": {
+      "todoistTasks": [
+        "7646607830"
+      ],
+      "todoistCount": 1
     }
   },
   "enableFullVaultSync": false,
