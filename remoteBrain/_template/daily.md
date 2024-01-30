@@ -7,8 +7,7 @@ gratitude:
 ### To-do List
 - [ ] #study📓
 - [ ] #workout🏋️
-- [ ] #diet
-- [ ] #chores 
+- [ ] #chores🧺 
 - [ ] #play
 
 ### Daily Report 
