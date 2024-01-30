@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/_template/monthly.md",
+                "file": "remoteBrain/Report/2024/Test.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/_template/monthly.md"
+                "file": "remoteBrain/Report/2024/Test.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/_template/monthly.md",
+                "file": "remoteBrain/Report/2024/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/_template/monthly.md",
+                "file": "remoteBrain/Report/2024/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,13 +214,14 @@
   },
   "active": "67983a8297ecfb21",
   "lastOpenFiles": [
+    "remoteBrain/_template/monthly.md",
+    "remoteBrain/Report/2024/Test.md",
+    "remoteBrain/Report/2024/January.md",
+    "remoteBrain/Report/2024",
     "remoteBrain/_template/tags.md",
     "remoteBrain/_template/daily.md",
-    "remoteBrain/_template/monthly.md",
     "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
-    "remoteBrain/Report/2024/January.md",
     "remoteBrain/Report/2024/Test.md",
-    "remoteBrain/Report/2024",
     "remoteBrain/_template/tracker.md",
     "remoteBrain/Report/Untitled.md",
     "remoteBrain/Daily-Docs/2024/January",
@@ -248,7 +249,6 @@
     "2024-01-29.md",
     "Excalidraw/Drawing 2024-01-29 13.43.11.excalidraw.md",
     "Excalidraw",
-    "Blog/Tistory/Obsidian/Tistory와 Obsidian 연동하기.md",
     "Blog/Tistory/Obsidian/맛따라/seoul/IMG_0028.jpg",
     "Blog/Tistory/Obsidian/1145918_1.png",
     "remoteBrain/Daily-Docs/2024/January/5 week",

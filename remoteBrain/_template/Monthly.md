@@ -1,7 +1,7 @@
 ## Sleep Tracker
 ```dataview
 TABLE
-	wakeup🌞, sleep🌜
+	wakeup🌞, sleep🌜, dateformat(wakeup🌞, "HH:mm")- dateformat(sleep🌜, "HH:mm") AS "time"
 FROM 
 	#meal-log📝 
 WHERE 
