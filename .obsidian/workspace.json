@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/_template/tags.md",
+                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/_template/tags.md"
+                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/_template/tags.md",
+                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/_template/tags.md",
+                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,10 +222,10 @@
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
     "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
+    "remoteBrain/_template/tags.md",
     "remoteBrain/Report/2024/January.md",
     "remoteBrain/_template/monthly.md",
     "remoteBrain/_template/daily.md",
-    "remoteBrain/_template/tags.md",
     "remoteBrain/Report/2024/Test.md",
     "remoteBrain/Report/2024",
     "remoteBrain/_template/tracker.md",
