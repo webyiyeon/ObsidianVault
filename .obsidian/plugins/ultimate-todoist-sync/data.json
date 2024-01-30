@@ -29,10 +29,11 @@
         "sectionId": null,
         "parentId": null,
         "order": 1,
-        "content": "정보처리기사 필기 유튜브 강의 들으면서 공부하기",
+        "content": "- [ ]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기",
         "description": "[remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/January/2024-01-30%20Tue.md)",
         "isCompleted": false,
         "labels": [
+          "study",
           "todoist"
         ],
         "priority": 1,
@@ -59,10 +60,11 @@
         "sectionId": null,
         "parentId": null,
         "order": 2,
-        "content": "옵시디언 기능 추가하면서 template 작성하기     ✅ 2024-01-30",
+        "content": "- [x]💻 옵시디언 기능 추가하면서 template 작성하기     ✅ 2024-01-30",
         "description": "[remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/January/2024-01-30%20Tue.md)",
         "isCompleted": true,
         "labels": [
+          "play",
           "todoist"
         ],
         "priority": 1,

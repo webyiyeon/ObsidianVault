@@ -5,20 +5,20 @@
       "path": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md"
     },
     {
-      "basename": "January",
-      "path": "remoteBrain/Report/2024/January.md"
+      "basename": "daily",
+      "path": "remoteBrain/_template/daily.md"
     },
     {
       "basename": "monthly",
       "path": "remoteBrain/_template/monthly.md"
     },
     {
-      "basename": "daily",
-      "path": "remoteBrain/_template/daily.md"
-    },
-    {
       "basename": "tags",
       "path": "remoteBrain/_template/tags.md"
+    },
+    {
+      "basename": "January",
+      "path": "remoteBrain/Report/2024/January.md"
     },
     {
       "basename": "README",
