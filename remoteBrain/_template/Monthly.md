@@ -22,7 +22,7 @@ WHERE
 
 ```tracker
 searchType: task.done  
-searchTarget: 
+searchTarget: 유산균 1알 먹기
 folder: /remoteBrain/Daily-Docs/{{date:YYYY}}/{{date:MMMM}}
 datasetName: 유산균
 month:
