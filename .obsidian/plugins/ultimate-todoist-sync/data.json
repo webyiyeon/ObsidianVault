@@ -21,7 +21,24 @@
       }
     ],
     "tasks": [],
-    "events": []
+    "events": [
+      {
+        "event_date": "2024-01-29T04:28:21.000000Z",
+        "event_type": "added",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "name": "Inbox",
+          "note_count": 0
+        },
+        "extra_data_id": 22872395110,
+        "id": 22786099244,
+        "initiator_id": null,
+        "object_id": "2327705031",
+        "object_type": "project",
+        "parent_item_id": null,
+        "parent_project_id": null
+      }
+    ]
   },
   "fileMetadata": {
     "remoteBrain/_template/daily.md": {
