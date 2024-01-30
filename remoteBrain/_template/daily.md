@@ -1,13 +1,12 @@
 ---
-wakeup: 
-sleep: 
-workout: 
-gratitude: 
+wakeup🌞: 
+sleep🌜: 
+workout💪: 
+gratitude🙏: 
 breakfast🍳: 
 dinner🥗: 
 lunch🍚: 
-snack🍬: 
-workout💪:
+snack🍬:
 ---
 ### To-do List
 - [ ] #study📓
