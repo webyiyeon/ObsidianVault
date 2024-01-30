@@ -41,7 +41,7 @@ TABLE WITHOUT ID
 	choice(file.tasks[3].completed, "✔️", "❌") AS "무지출 챌린지",
 	choice(file.tasks[4].completed, "✔️", "❌") AS "집 정리・정돈하기",
 	choice(file.tasks[5].completed, "✔️", "❌") AS "개발 공부 하기",
-	choice(file.tasks[6].completed, "✔️", "❌") AS "바깥음식 안 먹기"
+	choice(file.tasks[6].completed, "✔️", "❌") AS "바깥음식 안 먹기"
 	FROM #routine 
 	WHERE
 	file.folder = "remoteBrain/Daily-Docs/2024/January"
