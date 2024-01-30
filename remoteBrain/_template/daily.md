@@ -33,5 +33,3 @@ due before {{date:YYYY-MM-DD}}
 #### Daily Report Tags
 #meal-log📝 #workout-log💪 #study-log📓 
 
-
-Git 동기화 테스트
