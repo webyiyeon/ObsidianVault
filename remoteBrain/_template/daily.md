@@ -1,6 +1,7 @@
 ---
 wakeup🌞: 
 sleep🌜: 
+mood: 
 workout🏋️: 
 workout-type: 
 workout-routine: 
@@ -25,3 +26,6 @@ tags:
 - [ ] 바깥 음식 안 먹기 
 
 ### To-do List 
+
+
+### Diary

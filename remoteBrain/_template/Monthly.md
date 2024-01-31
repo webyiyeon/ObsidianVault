@@ -11,6 +11,7 @@ WHERE
 	file.folder = "remoteBrain/Daily-Docs/{{date:YYYY}}/{{date:MMMM}}"
 ```
 
+
 ## Meal Logs
 ```dataview
 TABLE 
