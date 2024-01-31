@@ -31,6 +31,7 @@ tags:
 not done
 tags include #todoist 
 path does not include {{query.file.path}}
+hide backlink
 ```
 
 ### Diary
