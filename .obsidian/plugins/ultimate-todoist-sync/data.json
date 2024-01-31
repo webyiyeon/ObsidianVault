@@ -217,7 +217,7 @@
         "order": 8,
         "content": "- [ ]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-31",
         "description": "[remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/January/2024-01-30%20Tue.md)",
-        "isCompleted": true,
+        "isCompleted": false,
         "labels": [
           "study",
           "todoist"
@@ -991,6 +991,23 @@
         },
         "extra_data_id": 22898159016,
         "id": 22811862434,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T23:56:01.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [ ]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-31",
+          "last_content": "- [x]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-31",
+          "note_count": 0
+        },
+        "extra_data_id": 22898188565,
+        "id": 22811891985,
         "initiator_id": null,
         "object_id": "7646611043",
         "object_type": "item",
