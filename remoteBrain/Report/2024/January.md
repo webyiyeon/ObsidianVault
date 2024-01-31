@@ -3,13 +3,15 @@
 TABLE
 	dateformat(wakeup🌞, "HH:mm") AS "wakeup🌞", 
 	dateformat(sleep🌜, "HH:mm") AS "sleep🌜", 
-	durationformat((wakeup🌞 - sleep🌜), "h'hr' m'min'") AS "time",
-	"◼︎" * number(durationformat((wakeup🌞 - sleep🌜), "h")) AS " "
+	durationformat((wakeup🌞 - sleep🌜), "hh'′' mm'″'")
+	"◼︎" * number(durationformat((wakeup🌞 - sleep🌜), "h")) AS "time",
+	mood
 FROM 
 	 #routine 
 WHERE 
 	file.folder = "remoteBrain/Daily-Docs/2024/January"
 ```
+
 
 ## Meal Logs
 ```dataview
@@ -20,6 +22,7 @@ FROM
 WHERE 
 	file.folder = "remoteBrain/Daily-Docs/2024/January"
 ```
+
 
 ## Workout Logs
 ```dataview
@@ -41,10 +44,9 @@ TABLE WITHOUT ID
 	choice(file.tasks[3].completed, "✔️", "❌") AS "무지출 챌린지",
 	choice(file.tasks[4].completed, "✔️", "❌") AS "집 정리・정돈하기",
 	choice(file.tasks[5].completed, "✔️", "❌") AS "개발 공부 하기",
-	choice(file.tasks[6].completed, "✔️", "❌") AS "바깥음식 안 먹기"
+	choice(file.tasks[6].completed, "✔️", "❌") AS "바깥음식 안 먹기"
 	FROM #routine 
 	WHERE
 	file.folder = "remoteBrain/Daily-Docs/2024/January"
 	SORT file.name DESC
 ```
-
