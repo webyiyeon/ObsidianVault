@@ -115,37 +115,6 @@
         "path": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md"
       },
       {
-        "id": "7648867625",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2327705031",
-        "sectionId": null,
-        "parentId": null,
-        "order": 3,
-        "content": "정보처리기사 필기 유튜브 요약 강의 이론 숙지📓",
-        "description": "[remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/January/2024-01-31%20Wed.md)",
-        "isCompleted": false,
-        "labels": [
-          "study",
-          "todoist"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "47987180",
-        "createdAt": "2024-01-30T23:00:52.421372Z",
-        "due": {
-          "date": "2024-01-30",
-          "timezone": "Asia/Seoul",
-          "string": "2024-01-31 08:00",
-          "lang": "en",
-          "isRecurring": false,
-          "datetime": "2024-01-30T23:00:00Z"
-        },
-        "url": "https://todoist.com/showTask?id=7648867625",
-        "duration": null,
-        "path": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md"
-      },
-      {
         "id": "7648955980",
         "assignerId": null,
         "assigneeId": null,
@@ -266,6 +235,37 @@
           "datetime": "2024-01-31T23:00:00Z"
         },
         "url": "https://todoist.com/showTask?id=7649128964",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md"
+      },
+      {
+        "id": "7648867625",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 3,
+        "content": "정보처리기사 필기 유튜브 요약 강의 이론 숙지📓     ✅ 2024-01-31",
+        "description": "[remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/January/2024-01-31%20Wed.md)",
+        "isCompleted": true,
+        "labels": [
+          "study",
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-01-30T23:00:52.421372Z",
+        "due": {
+          "date": "2024-01-30",
+          "timezone": "Asia/Seoul",
+          "string": "2024-01-31 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-01-30T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7648867625",
         "duration": null,
         "path": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md"
       }
