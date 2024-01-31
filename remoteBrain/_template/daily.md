@@ -25,11 +25,3 @@ tags:
 - [ ] 바깥 음식 안 먹기 
 
 ### To-do List 
-
-
-### Overdue List
-```tasks
-not done
-due before {{date:YYYY-MM-DD}}
-```
-

@@ -109,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5,
-    "collapsed": true
+    "width": 268.5
   },
   "right": {
     "id": "b9172a0d39cef6f4",
@@ -204,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       },
       {
         "id": "8a858ffcb4b87a0c",
@@ -223,7 +222,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 790
+    "width": 578
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,14 +236,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "280bbd42be091a76",
+  "active": "de559a2300d23ddf",
   "lastOpenFiles": [
-    "remoteBrain/Report/2024/January.md",
-    "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
-    "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
-    "remoteBrain/_template/tags.md",
     "remoteBrain/_template/monthly.md",
     "remoteBrain/_template/daily.md",
+    "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
+    "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
+    "remoteBrain/Report/2024/January.md",
+    "remoteBrain/_template/tags.md",
     "remoteBrain/Report/2024/Test.md",
     "remoteBrain/Report/2024",
     "remoteBrain/_template/tracker.md",
