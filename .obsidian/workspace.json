@@ -210,7 +210,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -228,10 +228,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "363e4082dc8d7b10",
+  "active": "de559a2300d23ddf",
   "lastOpenFiles": [
-    "remoteBrain/_template/monthly.md",
     "remoteBrain/_template/daily.md",
+    "remoteBrain/_template/monthly.md",
     "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
     "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
     "remoteBrain/Report/2024/January.md",
