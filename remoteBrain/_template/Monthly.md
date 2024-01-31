@@ -1,10 +1,11 @@
 ## Sleep Tracker
 ```dataview
+var sleepTime as number = number(durationformat((wakeup🌞 - sleep🌜), "h"))
 TABLE
 	dateformat(wakeup🌞, "HH:mm") AS "wakeup🌞", 
 	dateformat(sleep🌜, "HH:mm") AS "sleep🌜", 
 	durationformat((wakeup🌞 - sleep🌜), "h'hr' m'min'") AS "time",
-	("▨" * number(durationformat((wakeup🌞 - sleep🌜), "h"))) 
+	{}("▨" * number(durationformat((wakeup🌞 - sleep🌜), "h"))) 
 	+ "▢" * (10 - number(durationformat((wakeup🌞 - sleep🌜), "h"))) AS "",
 	mood
 FROM 
@@ -13,7 +14,7 @@ WHERE
 	file.folder = "remoteBrain/Daily-Docs/{{date:YYYY}}/{{date:MMMM}}"
 ```
 
-
+ccc
 ## Meal Logs
 ```dataview
 TABLE 
