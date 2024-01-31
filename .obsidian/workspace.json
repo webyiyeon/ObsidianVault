@@ -206,7 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 570
+    "width": 360
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,12 +223,15 @@
   },
   "active": "8ffe2fffae1801ba",
   "lastOpenFiles": [
-    "remoteBrain/_template/tags.md",
-    "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
     "remoteBrain/Report/2024/January.md",
-    "remoteBrain/_template/monthly.md",
+    "remoteBrain/Report/2024/February.md",
+    "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md",
+    "remoteBrain/Daily-Docs/2024/February",
     "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
     "remoteBrain/_template/daily.md",
+    "remoteBrain/_template/monthly.md",
+    "remoteBrain/_template/tags.md",
     "remoteBrain/_template/test.md",
     "Untitled.md",
     "remoteBrain/Report/2024/Test.md",
@@ -255,13 +258,10 @@
     "2021-11-12.md",
     "Untitled.canvas",
     "remoteBrain/Daily-Docs/2024/January/2024-01-29 Mon.md",
-    "2024-01-29.md",
-    "Excalidraw/Drawing 2024-01-29 13.43.11.excalidraw.md",
     "Excalidraw",
     "Blog/Tistory/Obsidian/맛따라/seoul/IMG_0028.jpg",
     "Blog/Tistory/Obsidian/1145918_1.png",
     "remoteBrain/Daily-Docs/2024/January/5 week",
-    "remoteBrain/Daily-Docs/2024/2024-W 5",
     "Blog/Tistory/Obsidian/맛따라/seoul/IMG_0213.JPG",
     "Blog/Tistory/Obsidian/맛따라/seoul/IMG_0098.jpg",
     "Blog/Tistory/Obsidian/맛따라/seoul/IMG_0090.jpg",

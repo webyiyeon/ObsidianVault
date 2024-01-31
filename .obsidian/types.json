@@ -5,6 +5,8 @@
     "tags": "tags",
     "workout💪": "multitext",
     "wakeup🌞": "datetime",
-    "sleep🌜": "datetime"
+    "sleep🌜": "datetime",
+    "workout-routine": "multitext",
+    "workout-type": "text"
   }
 }
