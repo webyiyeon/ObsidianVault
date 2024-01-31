@@ -119,6 +119,7 @@
       {
         "id": "127ca09b466dc7f1",
         "type": "tabs",
+        "dimension": 66.27906976744185,
         "children": [
           {
             "id": "aacd15fccc64da64",
@@ -201,13 +202,22 @@
               "type": "git-history-view",
               "state": {}
             }
+          },
+          {
+            "id": "280bbd42be091a76",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-chat-gpt",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       },
       {
         "id": "8a858ffcb4b87a0c",
         "type": "tabs",
+        "dimension": 33.72093023255814,
         "children": [
           {
             "id": "0d92bb2c8f9dc10f",
@@ -221,8 +231,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 503,
-    "collapsed": true
+    "width": 721
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,7 +245,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "de559a2300d23ddf",
+  "active": "280bbd42be091a76",
   "lastOpenFiles": [
     "remoteBrain/Report/2024/January.md",
     "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
