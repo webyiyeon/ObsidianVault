@@ -26,6 +26,10 @@ tags:
 - [ ] 바깥 음식 안 먹기 
 
 ### To-do List 
-
+```tasks
+not done
+tags include #todoist 
+started before {{date:YYYY-MM-}}
+```
 
 ### Diary
