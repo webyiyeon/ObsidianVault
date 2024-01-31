@@ -9,7 +9,7 @@ TABLE
 FROM 
 	 #routine 
 WHERE 
-	file.folder = "remoteBrain/Daily-Docs/{{date:YYYY}}/{{date:MMMM}}"
+	file.folder = "remoteBrain/Daily-Docs/2024/January"
 ```
 
 
@@ -20,7 +20,7 @@ TABLE
 FROM 
 	#meal-log📝 
 WHERE 
-	file.folder = "remoteBrain/Daily-Docs/{{date:YYYY}}/{{date:MMMM}}"
+	file.folder = "remoteBrain/Daily-Docs/2024/January"
 ```
 
 
@@ -31,7 +31,7 @@ TABLE
 FROM 
 	#workout-log💪 
 WHERE 
-	file.folder = "remoteBrain/Daily-Docs/{{date:YYYY}}/{{date:MMMM}}"
+	file.folder = "remoteBrain/Daily-Docs/2024/January"
 ```
 
 ## Habit Tracker 
@@ -47,6 +47,6 @@ TABLE WITHOUT ID
 	choice(file.tasks[6].completed, "✔️", "❌") AS "바깥음식 안 먹기"
 	FROM #routine 
 	WHERE
-	file.folder = "remoteBrain/Daily-Docs/{{date:YYYY}}/{{date:MMMM}}"
+	file.folder = "remoteBrain/Daily-Docs/2024/January"
 	SORT file.name DESC
 ```
