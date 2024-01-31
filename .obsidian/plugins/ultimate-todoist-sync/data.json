@@ -237,6 +237,37 @@
         "url": "https://todoist.com/showTask?id=7648986755",
         "duration": null,
         "path": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md"
+      },
+      {
+        "id": "7649128964",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 8,
+        "content": "MAKER_NM 기반으로 브랜드명 추출하여 사용자 사전 구축🏢 🛫 2024-01-31",
+        "description": "[remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/January/2024-01-31%20Wed.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist",
+          "work"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-01-31T01:36:45.883227Z",
+        "due": {
+          "date": "2024-01-31",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-01 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-01-31T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7649128964",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md"
       }
     ],
     "events": [
@@ -1091,9 +1122,10 @@
         "7648865241",
         "7648867625",
         "7648955980",
-        "7648960397"
+        "7648960397",
+        "7649128964"
       ],
-      "todoistCount": 5
+      "todoistCount": 6
     }
   },
   "enableFullVaultSync": false,

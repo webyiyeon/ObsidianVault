@@ -119,7 +119,7 @@
       {
         "id": "127ca09b466dc7f1",
         "type": "tabs",
-        "dimension": 60.85271317829457,
+        "dimension": 58.81782945736435,
         "children": [
           {
             "id": "aacd15fccc64da64",
@@ -180,26 +180,18 @@
             }
           },
           {
-            "id": "3ffa0844b7176973",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-todoist",
-              "state": {}
-            }
-          },
-          {
-            "id": "d757f6d765f5fc2c",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          },
-          {
             "id": "9ff3786f7d6117ec",
             "type": "leaf",
             "state": {
               "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "3ffa0844b7176973",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-todoist",
               "state": {}
             }
           },
@@ -212,12 +204,12 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       },
       {
         "id": "8a858ffcb4b87a0c",
         "type": "tabs",
-        "dimension": 39.14728682170542,
+        "dimension": 41.18217054263566,
         "children": [
           {
             "id": "0d92bb2c8f9dc10f",
