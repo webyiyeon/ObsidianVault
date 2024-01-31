@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2c27801b68265d96",
+        "id": "e398879707dabd26",
         "type": "tabs",
         "children": [
           {
-            "id": "48b66af47e402313",
+            "id": "8ffe2fffae1801ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/_template/test.md",
+                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/_template/test.md"
+                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/_template/test.md",
+                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/_template/test.md",
+                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,17 +225,17 @@
       "obsidian42-brat:BRAT": false,
       "obsidian-custom-frames:Open Chat GPT": false,
       "obsidian-day-planner:Timeline": false,
-      "periodic-notes:Open today": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "48b66af47e402313",
+  "active": "8ffe2fffae1801ba",
   "lastOpenFiles": [
     "remoteBrain/Report/2024/January.md",
+    "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
     "remoteBrain/_template/test.md",
     "remoteBrain/_template/monthly.md",
     "Untitled.md",
-    "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
     "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
     "remoteBrain/_template/tags.md",
     "remoteBrain/_template/daily.md",
