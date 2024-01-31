@@ -29,7 +29,7 @@ tags:
 ```tasks
 not done
 tags include #todoist 
-started before {{date:YYYY-MM-}}
+starts before {{date:YYYY-MM-DD}}
 ```
 
 ### Diary

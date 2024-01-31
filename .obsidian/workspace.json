@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/_template/daily.md",
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/_template/daily.md"
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/_template/daily.md",
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/_template/daily.md",
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,14 +223,14 @@
   },
   "active": "8ffe2fffae1801ba",
   "lastOpenFiles": [
+    "remoteBrain/Report/2024/February.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md",
+    "remoteBrain/_template/daily.md",
     "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
+    "remoteBrain/Daily-Docs/2024/February",
+    "remoteBrain/_template/monthly.md",
     "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
     "remoteBrain/Report/2024/January.md",
-    "remoteBrain/Report/2024/February.md",
-    "remoteBrain/Daily-Docs/2024/February",
-    "remoteBrain/_template/daily.md",
-    "remoteBrain/_template/monthly.md",
     "remoteBrain/_template/tags.md",
     "remoteBrain/_template/test.md",
     "Untitled.md",
@@ -257,7 +257,6 @@
     "remoteBrain/Report",
     "2021-11-12.md",
     "Untitled.canvas",
-    "remoteBrain/Daily-Docs/2024/January/2024-01-29 Mon.md",
     "Excalidraw",
     "Blog/Tistory/Obsidian/맛따라/seoul/IMG_0028.jpg",
     "Blog/Tistory/Obsidian/1145918_1.png",
