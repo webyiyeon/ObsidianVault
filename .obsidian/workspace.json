@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
+                "file": "remoteBrain/Report/2024/January.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md"
+                "file": "remoteBrain/Report/2024/January.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
+                "file": "remoteBrain/Report/2024/January.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
+                "file": "remoteBrain/Report/2024/January.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,12 +230,13 @@
   },
   "active": "48b66af47e402313",
   "lastOpenFiles": [
-    "remoteBrain/Report/2024/January.md",
     "remoteBrain/_template/monthly.md",
+    "Untitled.md",
+    "remoteBrain/Report/2024/January.md",
     "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
+    "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
     "remoteBrain/_template/tags.md",
     "remoteBrain/_template/daily.md",
-    "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
     "remoteBrain/Report/2024/Test.md",
     "remoteBrain/Report/2024",
     "remoteBrain/_template/tracker.md",
@@ -245,7 +246,6 @@
     "README.md",
     "conflict-files-obsidian-git.md",
     "remoteBrain/Report/January.md",
-    "Untitled.md",
     "todoist-backup-2024130155343.json",
     "remoteBrain/Monthly-Reports/2024/January.md",
     "remoteBrain/Daily-Docs/2023/October.md",
