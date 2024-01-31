@@ -268,6 +268,36 @@
         "url": "https://todoist.com/showTask?id=7649128964",
         "duration": null,
         "path": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md"
+      },
+      {
+        "id": "7649771982",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 7,
+        "content": "Elasticsearch에 필요한 것: 동의어 사전, 사용자 사전, 불용어 사전 🛫 2024-01-31  🔼",
+        "description": "[remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/January/2024-01-31%20Wed.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-01-31T07:56:05.736861Z",
+        "due": {
+          "date": "2024-02-05",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-06 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-05T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7649771982",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md"
       }
     ],
     "events": [
@@ -1212,6 +1242,24 @@
         "object_type": "item",
         "parent_item_id": null,
         "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-31T07:56:12.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "Elasticsearch에 필요한 것: 동의어 사전, 사용자 사전, 불용어 사전 🛫 2024-01-31  🔼",
+          "due_date": "2024-02-05T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22901245905,
+        "id": 22814949318,
+        "initiator_id": null,
+        "object_id": "7649771982",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
       }
     ]
   },
@@ -1240,9 +1288,10 @@
         "7648867625",
         "7648955980",
         "7648960397",
-        "7649128964"
+        "7649128964",
+        "7649771982"
       ],
-      "todoistCount": 6
+      "todoistCount": 7
     }
   },
   "enableFullVaultSync": false,
