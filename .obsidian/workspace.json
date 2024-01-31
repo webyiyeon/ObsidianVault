@@ -214,7 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 774
+    "width": 570
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,11 +232,10 @@
   "lastOpenFiles": [
     "remoteBrain/Report/2024/January.md",
     "remoteBrain/_template/monthly.md",
-    "remoteBrain/_template/monthly.md",
-    "remoteBrain/_template/daily.md",
-    "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
     "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
     "remoteBrain/_template/tags.md",
+    "remoteBrain/_template/daily.md",
+    "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
     "remoteBrain/Report/2024/Test.md",
     "remoteBrain/Report/2024",
     "remoteBrain/_template/tracker.md",
