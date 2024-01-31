@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "test",
+      "path": "remoteBrain/_template/test.md"
+    },
+    {
       "basename": "January",
       "path": "remoteBrain/Report/2024/January.md"
     },
