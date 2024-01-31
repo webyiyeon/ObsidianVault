@@ -118,7 +118,6 @@
       {
         "id": "127ca09b466dc7f1",
         "type": "tabs",
-        "dimension": 58.81782945736435,
         "children": [
           {
             "id": "aacd15fccc64da64",
@@ -201,28 +200,21 @@
               "type": "custom-frames-chat-gpt",
               "state": {}
             }
-          }
-        ],
-        "currentTab": 6
-      },
-      {
-        "id": "8a858ffcb4b87a0c",
-        "type": "tabs",
-        "dimension": 41.18217054263566,
-        "children": [
+          },
           {
-            "id": "0d92bb2c8f9dc10f",
+            "id": "363e4082dc8d7b10",
             "type": "leaf",
             "state": {
               "type": "custom-frames-google-calendar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 578
+    "width": 774
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,7 +228,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "de559a2300d23ddf",
+  "active": "363e4082dc8d7b10",
   "lastOpenFiles": [
     "remoteBrain/_template/monthly.md",
     "remoteBrain/_template/daily.md",
