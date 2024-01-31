@@ -26,10 +26,11 @@ tags:
 - [ ] 바깥 음식 안 먹기 
 
 ### To-do List 
+- [ ] 
 ```tasks
 not done
 tags include #todoist 
-starts before {{date:YYYY-MM-DD}}
+path does not include {{query.file.path}}
 ```
 
 ### Diary

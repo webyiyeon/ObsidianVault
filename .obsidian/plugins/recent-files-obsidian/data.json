@@ -5,12 +5,16 @@
       "path": "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md"
     },
     {
-      "basename": "February",
-      "path": "remoteBrain/Report/2024/February.md"
-    },
-    {
       "basename": "daily",
       "path": "remoteBrain/_template/daily.md"
+    },
+    {
+      "basename": "tags",
+      "path": "remoteBrain/_template/tags.md"
+    },
+    {
+      "basename": "February",
+      "path": "remoteBrain/Report/2024/February.md"
     },
     {
       "basename": "2024-01-31 Wed",
@@ -27,10 +31,6 @@
     {
       "basename": "January",
       "path": "remoteBrain/Report/2024/January.md"
-    },
-    {
-      "basename": "tags",
-      "path": "remoteBrain/_template/tags.md"
     },
     {
       "basename": "Untitled",
