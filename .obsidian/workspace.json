@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Report/2024/February.md",
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Report/2024/February.md"
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Report/2024/February.md",
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Report/2024/February.md",
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,13 +200,21 @@
               "type": "custom-frames-chat-gpt",
               "state": {}
             }
+          },
+          {
+            "id": "1625190ca29fa4e1",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-google-calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 454,
-    "collapsed": true
+    "width": 735
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,17 +229,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8ffe2fffae1801ba",
+  "active": "1625190ca29fa4e1",
   "lastOpenFiles": [
     "remoteBrain/Report/2024/January.md",
+    "remoteBrain/_template/monthly.md",
+    "remoteBrain/Report/2024/February.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md",
     "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
     "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
     "remoteBrain/_template/daily.md",
-    "remoteBrain/Report/2024/February.md",
     "remoteBrain/_template/tags.md",
     "remoteBrain/Daily-Docs/2024/February",
-    "remoteBrain/_template/monthly.md",
     "remoteBrain/_template/test.md",
     "Untitled.md",
     "remoteBrain/Report/2024/Test.md",
