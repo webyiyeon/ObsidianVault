@@ -300,36 +300,6 @@
         "path": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md"
       },
       {
-        "id": "7652586628",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2327705031",
-        "sectionId": null,
-        "parentId": null,
-        "order": 8,
-        "content": "에러 로그 확인하기 🛫 2024-02-01",
-        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-01%20Thu.md)",
-        "isCompleted": false,
-        "labels": [
-          "todoist"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "47987180",
-        "createdAt": "2024-01-31T23:44:08.503733Z",
-        "due": {
-          "date": "2024-01-31",
-          "timezone": "Asia/Seoul",
-          "string": "2024-02-01 08:00",
-          "lang": "en",
-          "isRecurring": false,
-          "datetime": "2024-01-31T23:00:00Z"
-        },
-        "url": "https://todoist.com/showTask?id=7652586628",
-        "duration": null,
-        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md"
-      },
-      {
         "id": "7652753522",
         "assignerId": null,
         "assigneeId": null,
@@ -386,6 +356,36 @@
           "datetime": "2024-01-31T23:00:00Z"
         },
         "url": "https://todoist.com/showTask?id=7652754054",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md"
+      },
+      {
+        "id": "7652586628",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 8,
+        "content": "에러 로그 확인하기 🛫 2024-02-01     ✅ 2024-02-01",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-01%20Thu.md)",
+        "isCompleted": true,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-01-31T23:44:08.503733Z",
+        "due": {
+          "date": "2024-01-31",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-01 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-01-31T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7652586628",
         "duration": null,
         "path": "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md"
       }
