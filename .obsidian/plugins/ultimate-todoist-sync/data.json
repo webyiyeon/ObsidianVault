@@ -1454,6 +1454,39 @@
         "object_type": "item",
         "parent_item_id": null,
         "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-01T02:55:31.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "에러 로그 확인하기 🛫 2024-02-01     ✅ 2024-02-01",
+          "note_count": 0
+        },
+        "extra_data_id": 22912387625,
+        "id": 22826090929,
+        "initiator_id": null,
+        "object_id": "7652586628",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-01T02:55:29.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "에러 로그 확인하기 🛫 2024-02-01     ✅ 2024-02-01",
+          "last_content": "에러 로그 확인하기 🛫 2024-02-01",
+          "note_count": 0
+        },
+        "extra_data_id": 22912387467,
+        "id": 22826090771,
+        "initiator_id": null,
+        "object_id": "7652586628",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
       }
     ]
   },
