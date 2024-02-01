@@ -60,9 +60,9 @@
         "sectionId": null,
         "parentId": null,
         "order": 1,
-        "content": "Elasticsearch에 연관분석 적용 연구하기💻",
+        "content": "Elasticsearch에 연관분석 적용 연구하기💻     ✅ 2024-02-01",
         "description": "[remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/January/2024-01-31%20Wed.md)",
-        "isCompleted": false,
+        "isCompleted": true,
         "labels": [
           "dev",
           "todoist"
@@ -1602,6 +1602,39 @@
         "id": 22826908872,
         "initiator_id": null,
         "object_id": "7653142848",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-01T10:41:18.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "Elasticsearch에 연관분석 적용 연구하기💻     ✅ 2024-02-01",
+          "note_count": 0
+        },
+        "extra_data_id": 22915904625,
+        "id": 22829607877,
+        "initiator_id": null,
+        "object_id": "7648863212",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-01T10:41:16.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "Elasticsearch에 연관분석 적용 연구하기💻     ✅ 2024-02-01",
+          "last_content": "Elasticsearch에 연관분석 적용 연구하기💻",
+          "note_count": 0
+        },
+        "extra_data_id": 22915904383,
+        "id": 22829607636,
+        "initiator_id": null,
+        "object_id": "7648863212",
         "object_type": "item",
         "parent_item_id": null,
         "parent_project_id": "2327705031"
