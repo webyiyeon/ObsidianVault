@@ -109,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303,
-    "collapsed": true
+    "width": 237
   },
   "right": {
     "id": "b9172a0d39cef6f4",
@@ -195,14 +194,6 @@
             }
           },
           {
-            "id": "280bbd42be091a76",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-chat-gpt",
-              "state": {}
-            }
-          },
-          {
             "id": "1625190ca29fa4e1",
             "type": "leaf",
             "state": {
@@ -211,11 +202,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 1343
+    "width": 287
   },
   "left-ribbon": {
     "hiddenItems": {
