@@ -34,4 +34,4 @@ path does not include {{query.file.path}}
 hide backlink
 ```
 
-### Diary
+### Thoughts & Inspirations
