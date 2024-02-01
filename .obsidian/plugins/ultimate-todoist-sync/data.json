@@ -388,6 +388,31 @@
         "url": "https://todoist.com/showTask?id=7652586628",
         "duration": null,
         "path": "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md"
+      },
+      {
+        "id": "7653142848",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 11,
+        "content": "- [ ]💻 항공 교역하기 ⏳ 2024-02-01 21:00 🔼",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-01%20Thu.md)",
+        "isCompleted": false,
+        "labels": [
+          "mabinogi",
+          "play",
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-01T05:23:23.935197Z",
+        "due": null,
+        "url": "https://todoist.com/showTask?id=7653142848",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md"
       }
     ],
     "events": [
@@ -1524,9 +1549,10 @@
       "todoistTasks": [
         "7652586628",
         "7652753522",
-        "7652754054"
+        "7652754054",
+        "7653142848"
       ],
-      "todoistCount": 3
+      "todoistCount": 4
     }
   },
   "enableFullVaultSync": false,
