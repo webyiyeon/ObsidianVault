@@ -328,6 +328,66 @@
         "url": "https://todoist.com/showTask?id=7652586628",
         "duration": null,
         "path": "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md"
+      },
+      {
+        "id": "7652753522",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 9,
+        "content": "자산형성지원 콜센터 (1522-3690) 적립금 미지급 확인 전화",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-01%20Thu.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-01T01:02:59.122087Z",
+        "due": {
+          "date": "2024-01-31",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-01 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-01-31T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7652753522",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md"
+      },
+      {
+        "id": "7652754054",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 10,
+        "content": "정보처리기사 필기 이론 유튜브 강의  ⏫",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-01%20Thu.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-01T01:03:22.063704Z",
+        "due": {
+          "date": "2024-01-31",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-01 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-01-31T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7652754054",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md"
       }
     ],
     "events": [
@@ -1358,6 +1418,42 @@
         "object_type": "item",
         "parent_item_id": null,
         "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-01T01:03:24.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "정보처리기사 필기 이론 유튜브 강의  ⏫",
+          "due_date": "2024-01-31T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22911740106,
+        "id": 22825443412,
+        "initiator_id": null,
+        "object_id": "7652754054",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-01T01:03:02.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "자산형성지원 콜센터 (1522-3690) 적립금 미지급 확인 전화",
+          "due_date": "2024-01-31T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22911737909,
+        "id": 22825441215,
+        "initiator_id": null,
+        "object_id": "7652753522",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
       }
     ]
   },
@@ -1393,9 +1489,11 @@
     },
     "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md": {
       "todoistTasks": [
-        "7652586628"
+        "7652586628",
+        "7652753522",
+        "7652754054"
       ],
-      "todoistCount": 1
+      "todoistCount": 3
     }
   },
   "enableFullVaultSync": false,
