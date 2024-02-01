@@ -397,9 +397,9 @@
         "sectionId": null,
         "parentId": null,
         "order": 11,
-        "content": "- [ ]💻 항공 교역하기  🔼",
+        "content": "- [x]💻 항공 교역하기  🔼    ✅ 2024-02-01",
         "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-01%20Thu.md)",
-        "isCompleted": false,
+        "isCompleted": true,
         "labels": [
           "mabinogi",
           "play",
@@ -1635,6 +1635,56 @@
         "id": 22829607636,
         "initiator_id": null,
         "object_id": "7648863212",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-01T13:20:08.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [x]💻 항공 교역하기  🔼    ✅ 2024-02-01",
+          "note_count": 0
+        },
+        "extra_data_id": 22917558103,
+        "id": 22831261338,
+        "initiator_id": null,
+        "object_id": "7653142848",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-01T13:21:18.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [x]💻 항공 교역하기  🔼",
+          "last_content": "- [x]💻 항공 교역하기  🔼    ✅ 2024-02-01",
+          "note_count": 0
+        },
+        "extra_data_id": 22917575231,
+        "id": 22831278466,
+        "initiator_id": null,
+        "object_id": "7653142848",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-01T13:20:05.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [x]💻 항공 교역하기  🔼    ✅ 2024-02-01",
+          "last_content": "- [ ]💻 항공 교역하기  🔼",
+          "note_count": 0
+        },
+        "extra_data_id": 22917558149,
+        "id": 22831261386,
+        "initiator_id": null,
+        "object_id": "7653142848",
         "object_type": "item",
         "parent_item_id": null,
         "parent_project_id": "2327705031"
