@@ -1571,6 +1571,40 @@
         "object_type": "item",
         "parent_item_id": null,
         "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-01T05:26:54.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [ ]💻 항공 교역하기  🔼",
+          "last_content": "- [ ]💻 항공 교역하기  21:00 🔼",
+          "note_count": 0
+        },
+        "extra_data_id": 22913205832,
+        "id": 22826909135,
+        "initiator_id": null,
+        "object_id": "7653142848",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-01T05:26:46.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [ ]💻 항공 교역하기  21:00 🔼",
+          "last_content": "- [ ]💻 항공 교역하기  21:00🔼",
+          "note_count": 0
+        },
+        "extra_data_id": 22913205569,
+        "id": 22826908872,
+        "initiator_id": null,
+        "object_id": "7653142848",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
       }
     ]
   },
