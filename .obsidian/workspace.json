@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md",
+                "file": "remoteBrain/Report/2024/February.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303,
-    "collapsed": true
+    "width": 303
   },
   "right": {
     "id": "b9172a0d39cef6f4",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md"
+                "file": "remoteBrain/Report/2024/February.md"
               }
             }
           },
@@ -155,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md",
+                "file": "remoteBrain/Report/2024/February.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md",
+                "file": "remoteBrain/Report/2024/February.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,11 +223,11 @@
   },
   "active": "8ffe2fffae1801ba",
   "lastOpenFiles": [
+    "remoteBrain/Report/2024/January.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md",
     "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
     "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
     "remoteBrain/_template/daily.md",
-    "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md",
-    "remoteBrain/Report/2024/January.md",
     "remoteBrain/Report/2024/February.md",
     "remoteBrain/_template/tags.md",
     "remoteBrain/Daily-Docs/2024/February",
