@@ -3,5 +3,6 @@
   "cssTheme": "AnuPpuccin",
   "theme": "moonstone",
   "baseFontSizeAction": true,
-  "baseFontSize": 14
+  "baseFontSize": 14,
+  "textFontFamily": "Arial Rounded MT"
 }
