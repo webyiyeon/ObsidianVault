@@ -200,13 +200,21 @@
               "type": "custom-frames-google-calendar",
               "state": {}
             }
+          },
+          {
+            "id": "30e4d65bc41f8ead",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-chat-gpt",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 594.5
+    "width": 709.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,7 +229,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8ffe2fffae1801ba",
+  "active": "30e4d65bc41f8ead",
   "lastOpenFiles": [
     "remoteBrain/Report/2024/February.md",
     "remoteBrain/_template/daily.md",
