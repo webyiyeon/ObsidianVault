@@ -109,7 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237
+    "width": 346
   },
   "right": {
     "id": "b9172a0d39cef6f4",
@@ -223,10 +223,10 @@
   },
   "active": "8ffe2fffae1801ba",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md",
-    "remoteBrain/Daily-Docs/2024/February/2024-02-02 Fri.md",
-    "remoteBrain/Report/2024/February.md",
     "remoteBrain/Report/2024/January.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-02 Fri.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md",
+    "remoteBrain/Report/2024/February.md",
     "remoteBrain/_template/monthly.md",
     "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
     "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
