@@ -214,7 +214,11 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 709.5
+=======
+    "width": 350
+>>>>>>> f45d51f (vault backup: 2024-02-02 18:58:15)
   },
   "left-ribbon": {
     "hiddenItems": {
