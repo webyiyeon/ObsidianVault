@@ -481,6 +481,67 @@
         "url": "https://todoist.com/showTask?id=7656678598",
         "duration": null,
         "path": "remoteBrain/Daily-Docs/2024/February/2024-02-02 Fri.md"
+      },
+      {
+        "id": "7656814673",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 12,
+        "content": "저녁 먹고 레모나 꼭 먹기",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-02 Fri.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-02%20Fri.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-02T05:49:13.257523Z",
+        "due": {
+          "date": "2024-02-01",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-02 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-01T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7656814673",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-02 Fri.md"
+      },
+      {
+        "id": "7656814991",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 13,
+        "content": "정보처리기사 필기 유튜브 강의 이론 공부하기📓",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-02 Fri.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-02%20Fri.md)",
+        "isCompleted": false,
+        "labels": [
+          "study",
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-02T05:49:26.081145Z",
+        "due": {
+          "date": "2024-02-01",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-02 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-01T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7656814991",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-02 Fri.md"
       }
     ],
     "events": [
@@ -1868,6 +1929,59 @@
         "object_type": "item",
         "parent_item_id": null,
         "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-02T05:49:38.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "정보처리기사 필기 유튜브 강의 이론 공부하기📓",
+          "last_content": "정보처리기사 필기 유튜브 강의 이론 공부하기",
+          "note_count": 0
+        },
+        "extra_data_id": 22926036901,
+        "id": 22839740089,
+        "initiator_id": null,
+        "object_id": "7656814991",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-02T05:49:38.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "정보처리기사 필기 유튜브 강의 이론 공부하기📓",
+          "due_date": "2024-02-01T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22926036367,
+        "id": 22839739556,
+        "initiator_id": null,
+        "object_id": "7656814991",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-02T05:49:19.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "저녁 먹고 레모나 꼭 먹기",
+          "due_date": "2024-02-01T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22926035413,
+        "id": 22839738601,
+        "initiator_id": null,
+        "object_id": "7656814673",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
       }
     ]
   },
@@ -1913,9 +2027,11 @@
     "remoteBrain/Daily-Docs/2024/February/2024-02-02 Fri.md": {
       "todoistTasks": [
         "7656598994",
-        "7656678598"
+        "7656678598",
+        "7656814673",
+        "7656814991"
       ],
-      "todoistCount": 2
+      "todoistCount": 4
     }
   },
   "enableFullVaultSync": false,
