@@ -62,10 +62,10 @@
   "anuppuccin-theme-settings@@h2-line-height": 1,
   "anuppuccin-theme-settings@@h1-line-height": 1,
   "anuppuccin-theme-settings@@anp-header-margin-value": 8,
-  "anuppuccin-theme-settings@@h1-font": "Arial Rounded MT",
-  "anuppuccin-theme-settings@@h2-font": "Arial Rounded MT",
-  "anuppuccin-theme-settings@@h3-font": "Arial Rounded MT",
-  "anuppuccin-theme-settings@@h4-font": "Arial Rounded MT",
-  "anuppuccin-theme-settings@@h5-font": "Arial Rounded MT",
-  "anuppuccin-theme-settings@@h6-font": "Arial Rounded MT"
+  "anuppuccin-theme-settings@@h1-font": "\"\"",
+  "anuppuccin-theme-settings@@h2-font": "\"\"",
+  "anuppuccin-theme-settings@@h3-font": "\"\"",
+  "anuppuccin-theme-settings@@h4-font": "\"\"",
+  "anuppuccin-theme-settings@@h5-font": "\"\"",
+  "anuppuccin-theme-settings@@h6-font": "\"\""
 }
