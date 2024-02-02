@@ -34,6 +34,7 @@ WHERE
 	file.folder = "remoteBrain/Daily-Docs/{{date:YYYY}}/{{date:MMMM}}"
 ```
 
+
 ## Habit Tracker 
 ```dataview
 TABLE WITHOUT ID
