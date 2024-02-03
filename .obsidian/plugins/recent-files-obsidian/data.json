@@ -5,6 +5,10 @@
       "path": "remoteBrain/Daily-Docs/2024/February/2024-02-03 Sat.md"
     },
     {
+      "basename": "daily",
+      "path": "remoteBrain/_template/daily.md"
+    },
+    {
       "basename": "2024-02-02 Fri",
       "path": "remoteBrain/Daily-Docs/2024/February/2024-02-02 Fri.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "January",
       "path": "remoteBrain/Report/2024/January.md"
-    },
-    {
-      "basename": "daily",
-      "path": "remoteBrain/_template/daily.md"
     },
     {
       "basename": "tags",

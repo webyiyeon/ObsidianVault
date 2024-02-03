@@ -2015,6 +2015,39 @@
         "object_type": "item",
         "parent_item_id": null,
         "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-03T08:04:49.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "정보처리기사 필기 유튜브 강의 이론 공부하기📓      ✅ 2024-02-03",
+          "note_count": 0
+        },
+        "extra_data_id": 22938029353,
+        "id": 22851732451,
+        "initiator_id": null,
+        "object_id": "7656814991",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-03T08:04:47.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "정보처리기사 필기 유튜브 강의 이론 공부하기📓      ✅ 2024-02-03",
+          "last_content": "정보처리기사 필기 유튜브 강의 이론 공부하기📓",
+          "note_count": 0
+        },
+        "extra_data_id": 22938029254,
+        "id": 22851732352,
+        "initiator_id": null,
+        "object_id": "7656814991",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
       }
     ]
   },
