@@ -85,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 261.5,
+    "collapsed": true
   },
   "right": {
     "id": "e8a174d2ef2a88cf",
@@ -94,7 +95,6 @@
       {
         "id": "a9eec56abe6d678a",
         "type": "tabs",
-        "dimension": 39.338235294117645,
         "children": [
           {
             "id": "a5cae0b6cbbbd6b6",
@@ -153,28 +153,21 @@
               "type": "calendar",
               "state": {}
             }
-          }
-        ]
-      },
-      {
-        "id": "80d84a9cba0ed0bf",
-        "type": "tabs",
-        "dimension": 60.66176470588235,
-        "children": [
+          },
           {
-            "id": "159face78e00ed17",
+            "id": "c5f131c05eebf47a",
             "type": "leaf",
             "state": {
-              "type": "custom-frames-chat-gpt",
+              "type": "custom-frames-google-calendar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 481.5,
-    "collapsed": true
+    "width": 449.5
   },
   "left-ribbon": {
     "hiddenItems": {

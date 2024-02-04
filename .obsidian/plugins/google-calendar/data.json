@@ -15,7 +15,7 @@
   "importEndOffset": 1,
   "optionalNotePrefix": "",
   "eventNoteNameFormat": "{{prefix}}{{event-title}}",
-  "defaultCalendar": "",
+  "defaultCalendar": "Default",
   "calendarBlackList": [],
   "insertTemplates": [],
   "useDefaultTemplate": false,
