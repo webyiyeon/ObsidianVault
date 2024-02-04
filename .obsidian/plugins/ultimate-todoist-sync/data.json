@@ -513,36 +513,6 @@
         "path": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md"
       },
       {
-        "id": "7662176604",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2327705031",
-        "sectionId": null,
-        "parentId": null,
-        "order": 13,
-        "content": "정보처리기사 유튜브 강의 보면서 이론 공부하기 ⏫  ➕ 2024-02-04",
-        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-04 Sun.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-04%20Sun.md)",
-        "isCompleted": false,
-        "labels": [
-          "todoist"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "47987180",
-        "createdAt": "2024-02-04T04:06:43.038833Z",
-        "due": {
-          "date": "2024-02-03",
-          "timezone": "Asia/Seoul",
-          "string": "2024-02-04 08:00",
-          "lang": "en",
-          "isRecurring": false,
-          "datetime": "2024-02-03T23:00:00Z"
-        },
-        "url": "https://todoist.com/showTask?id=7662176604",
-        "duration": null,
-        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-04 Sun.md"
-      },
-      {
         "id": "7662176218",
         "assignerId": null,
         "assigneeId": null,
@@ -608,6 +578,66 @@
           "unit": "minute"
         },
         "path": "remoteBrain/Daily-Docs/2024/February/2024-02-02 Fri.md"
+      },
+      {
+        "id": "7662176604",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 13,
+        "content": "정보처리기사 유튜브 강의 보면서 이론 공부하기 ⏫  ➕ 2024-02-04    ✅ 2024-02-04",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-04 Sun.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-04%20Sun.md)",
+        "isCompleted": true,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-04T04:06:43.038833Z",
+        "due": {
+          "date": "2024-02-03",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-04 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-03T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7662176604",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-04 Sun.md"
+      },
+      {
+        "id": "7662736275",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 14,
+        "content": "커튼 달기  🔼",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-04 Sun.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-04%20Sun.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-04T11:54:19.921994Z",
+        "due": {
+          "date": "2024-02-03",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-04 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-03T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7662736275",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-04 Sun.md"
       }
     ],
     "events": [
@@ -2414,9 +2444,10 @@
     },
     "remoteBrain/Daily-Docs/2024/February/2024-02-04 Sun.md": {
       "todoistTasks": [
-        "7662176604"
+        "7662176604",
+        "7662736275"
       ],
-      "todoistCount": 1
+      "todoistCount": 2
     }
   },
   "enableFullVaultSync": false,
