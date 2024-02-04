@@ -10,7 +10,9 @@ FROM
 	 #routine 
 WHERE 
 	file.folder = "remoteBrain/Daily-Docs/{{date:YYYY}}/{{date:MMMM}}"
+sort 
 ```
+
 
 
 ## Meal Logs

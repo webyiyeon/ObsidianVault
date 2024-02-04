@@ -32,7 +32,8 @@ not done
 tags include #todoist 
 path does not include {{query.file.path}}
 hide backlink
-
+priority is high
 ```
+
 
 ### Thoughts & Inspirations
