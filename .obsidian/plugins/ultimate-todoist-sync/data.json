@@ -577,36 +577,6 @@
         "path": "remoteBrain/Daily-Docs/2024/February/2024-02-04 Sun.md"
       },
       {
-        "id": "7662736275",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2327705031",
-        "sectionId": null,
-        "parentId": null,
-        "order": 14,
-        "content": "커튼 달기  🔼    ✅ 2024-02-04",
-        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-04 Sun.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-04%20Sun.md)",
-        "isCompleted": true,
-        "labels": [
-          "todoist"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "47987180",
-        "createdAt": "2024-02-04T11:54:19.921994Z",
-        "due": {
-          "date": "2024-02-03",
-          "timezone": "Asia/Seoul",
-          "string": "2024-02-04 08:00",
-          "lang": "en",
-          "isRecurring": false,
-          "datetime": "2024-02-03T23:00:00Z"
-        },
-        "url": "https://todoist.com/showTask?id=7662736275",
-        "duration": null,
-        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-04 Sun.md"
-      },
-      {
         "id": "7662176218",
         "assignerId": null,
         "assigneeId": null,
@@ -638,6 +608,39 @@
           "unit": "minute"
         },
         "path": "remoteBrain/Daily-Docs/2024/February/2024-02-03 Sat.md"
+      },
+      {
+        "id": "7662736275",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 14,
+        "content": "커튼 달기  🔼    ✅ 2024-02-04",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-04 Sun.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-04%20Sun.md)",
+        "isCompleted": true,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-04T11:54:19.921994Z",
+        "due": {
+          "date": "2024-02-03",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-04 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-03T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7662736275",
+        "duration": {
+          "amount": 60,
+          "unit": "minute"
+        },
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-04 Sun.md"
       }
     ],
     "events": [
@@ -2520,6 +2523,41 @@
         "id": 22861057843,
         "initiator_id": null,
         "object_id": "7662176218",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-04T23:12:55.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "content": "커튼 달기  🔼    ✅ 2024-02-04",
+          "due_date": "2024-02-04T07:00:00.000000Z",
+          "last_due_date": "2024-02-03T23:00:00.000000Z",
+          "note_count": 0
+        },
+        "extra_data_id": 22951902048,
+        "id": 22865605126,
+        "initiator_id": null,
+        "object_id": "7662736275",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-04T23:13:41.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "커튼 달기  🔼    ✅ 2024-02-04",
+          "due_date": "2024-02-03T23:00:00.000000Z",
+          "last_due_date": "2024-02-04T07:00:00.000000Z",
+          "note_count": 0
+        },
+        "extra_data_id": 22951907704,
+        "id": 22865610783,
+        "initiator_id": null,
+        "object_id": "7662736275",
         "object_type": "item",
         "parent_item_id": null,
         "parent_project_id": "2327705031"
