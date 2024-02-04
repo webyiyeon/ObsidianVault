@@ -1,0 +1,36 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiClapperboard",
+      "LiInbox",
+      "LiHand",
+      "LiCalendarCheck2",
+      "LiFileBarChart"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
+  },
+  "remoteBrain/Daily-Docs": "LiCalendarCheck2",
+  "remoteBrain/_template": "FiHash",
+  "remoteBrain/Report": "LiFileBarChart",
+  "wooyeon": "LiHand",
+  "remoteBrain": "LiInbox",
+  "Blog": "LiClapperboard"
+}

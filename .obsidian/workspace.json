@@ -154,12 +154,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 481.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,7 +174,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ad32a7a6b21afa1c",
+  "active": "ebb86c9abd32151f",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-02 Fri.md",
