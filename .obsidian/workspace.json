@@ -97,14 +97,6 @@
         "dimension": 39.338235294117645,
         "children": [
           {
-            "id": "1257693646e67640",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "a5cae0b6cbbbd6b6",
             "type": "leaf",
             "state": {
@@ -153,6 +145,14 @@
                 "file": "remoteBrain/Daily-Docs/2024/February/2024-02-04 Sun.md"
               }
             }
+          },
+          {
+            "id": "123581347d5a9085",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       },
@@ -188,7 +188,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ad32a7a6b21afa1c",
+  "active": "a5cae0b6cbbbd6b6",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2024/February/2024-02-03 Sat.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md",
