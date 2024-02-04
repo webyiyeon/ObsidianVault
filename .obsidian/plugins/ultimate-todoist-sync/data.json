@@ -361,37 +361,6 @@
         "path": "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md"
       },
       {
-        "id": "7656598994",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2327705031",
-        "sectionId": null,
-        "parentId": null,
-        "order": 10,
-        "content": "동우랑 놀기💻  🛫 2024-02-02     ✅ 2024-02-02",
-        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-02 Fri.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-02%20Fri.md)",
-        "isCompleted": true,
-        "labels": [
-          "play",
-          "todoist"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "47987180",
-        "createdAt": "2024-02-02T03:08:54.487761Z",
-        "due": {
-          "date": "2024-02-03",
-          "timezone": "Asia/Seoul",
-          "string": "2024-02-04 08:00",
-          "lang": "en",
-          "isRecurring": false,
-          "datetime": "2024-02-03T23:00:00Z"
-        },
-        "url": "https://todoist.com/showTask?id=7656598994",
-        "duration": null,
-        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-02 Fri.md"
-      },
-      {
         "id": "7656814991",
         "assignerId": null,
         "assigneeId": null,
@@ -605,6 +574,40 @@
           "unit": "minute"
         },
         "path": "remoteBrain/Daily-Docs/2024/February/2024-02-03 Sat.md"
+      },
+      {
+        "id": "7656598994",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 10,
+        "content": "동우랑 놀기💻  🛫 2024-02-02     ✅ 2024-02-02",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-02 Fri.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-02%20Fri.md)",
+        "isCompleted": true,
+        "labels": [
+          "play",
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-02T03:08:54.487761Z",
+        "due": {
+          "date": "2024-02-03",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-04 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-03T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7656598994",
+        "duration": {
+          "amount": 240,
+          "unit": "minute"
+        },
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-02 Fri.md"
       }
     ],
     "events": [
@@ -2313,6 +2316,24 @@
         "id": 22858460143,
         "initiator_id": null,
         "object_id": "7662176218",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-04T06:01:08.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "App (Amazon Alexa Skill)",
+          "content": "동우랑 놀기💻  🛫 2024-02-02     ✅ 2024-02-02",
+          "due_date": "2024-02-04T02:00:00.000000Z",
+          "last_due_date": "2024-02-03T23:00:00.000000Z",
+          "note_count": 0
+        },
+        "extra_data_id": 22945116158,
+        "id": 22858819246,
+        "initiator_id": null,
+        "object_id": "7656598994",
         "object_type": "item",
         "parent_item_id": null,
         "parent_project_id": "2327705031"
