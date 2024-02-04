@@ -10,6 +10,7 @@ FROM
 	 #routine 
 WHERE 
 	file.folder = "remoteBrain/Daily-Docs/2024/January"
+sort file.name
 ```
 
 
@@ -21,6 +22,7 @@ FROM
 	#meal-log📝 
 WHERE 
 	file.folder = "remoteBrain/Daily-Docs/2024/January"
+sort file.name
 ```
 
 
@@ -32,6 +34,7 @@ FROM
 	#workout-log💪 
 WHERE 
 	file.folder = "remoteBrain/Daily-Docs/2024/January"
+sort file.name
 ```
 
 
@@ -49,5 +52,5 @@ TABLE WITHOUT ID
 	FROM #routine 
 	WHERE
 	file.folder = "remoteBrain/Daily-Docs/2024/January"
-	SORT file.name DESC
+SORT file.name DESC
 ```

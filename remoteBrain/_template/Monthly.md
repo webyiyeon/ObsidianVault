@@ -10,7 +10,7 @@ FROM
 	 #routine 
 WHERE 
 	file.folder = "remoteBrain/Daily-Docs/{{date:YYYY}}/{{date:MMMM}}"
-sort 
+sort file.name
 ```
 
 
@@ -23,6 +23,7 @@ FROM
 	#meal-log📝 
 WHERE 
 	file.folder = "remoteBrain/Daily-Docs/{{date:YYYY}}/{{date:MMMM}}"
+sort file.name	
 ```
 
 
@@ -34,6 +35,7 @@ FROM
 	#workout-log💪 
 WHERE 
 	file.folder = "remoteBrain/Daily-Docs/{{date:YYYY}}/{{date:MMMM}}"
+sort file.name
 ```
 
 

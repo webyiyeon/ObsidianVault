@@ -2299,6 +2299,23 @@
         "object_type": "item",
         "parent_item_id": null,
         "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-04T04:07:52.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "정보처리기사 필기 이론 공부하기    ⏫  ✅ 2024-02-03",
+          "last_content": "정보처리기사 필기 이론 공부하기     ⏫",
+          "note_count": 0
+        },
+        "extra_data_id": 22944757054,
+        "id": 22858460143,
+        "initiator_id": null,
+        "object_id": "7662176218",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
       }
     ]
   },

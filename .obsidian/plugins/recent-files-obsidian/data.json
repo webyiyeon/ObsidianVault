@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "monthly",
-      "path": "remoteBrain/_template/monthly.md"
+      "basename": "2024-02-04 Sun",
+      "path": "remoteBrain/Daily-Docs/2024/February/2024-02-04 Sun.md"
     },
     {
       "basename": "February",
       "path": "remoteBrain/Report/2024/February.md"
     },
     {
-      "basename": "January",
-      "path": "remoteBrain/Report/2024/January.md"
-    },
-    {
-      "basename": "2024-02-04 Sun",
-      "path": "remoteBrain/Daily-Docs/2024/February/2024-02-04 Sun.md"
+      "basename": "2024-01-31 Wed",
+      "path": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md"
     },
     {
       "basename": "2024-02-03 Sat",
       "path": "remoteBrain/Daily-Docs/2024/February/2024-02-03 Sat.md"
+    },
+    {
+      "basename": "monthly",
+      "path": "remoteBrain/_template/monthly.md"
+    },
+    {
+      "basename": "January",
+      "path": "remoteBrain/Report/2024/January.md"
     },
     {
       "basename": "2024-02-01 Thu",
@@ -27,10 +31,6 @@
     {
       "basename": "daily",
       "path": "remoteBrain/_template/daily.md"
-    },
-    {
-      "basename": "2024-01-31 Wed",
-      "path": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md"
     },
     {
       "basename": "2024-01-30 Tue",
