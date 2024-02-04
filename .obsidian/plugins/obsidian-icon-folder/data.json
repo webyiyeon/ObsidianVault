@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiPanelTop",
       "LiClapperboard",
       "LiInbox",
       "LiHand",
-      "LiCalendarCheck2",
-      "LiFileBarChart"
+      "LiCalendarCheck2"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -28,7 +28,7 @@
     "iconIdentifier": ":"
   },
   "remoteBrain/Daily-Docs": "LiCalendarCheck2",
-  "remoteBrain/_template": "FiHash",
+  "remoteBrain/_template": "LiPanelTop",
   "remoteBrain/Report": "LiFileBarChart",
   "wooyeon": "LiHand",
   "remoteBrain": "LiInbox",

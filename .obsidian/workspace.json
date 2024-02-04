@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-04 Sun.md",
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 261.5
   },
   "right": {
     "id": "e8a174d2ef2a88cf",
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-04 Sun.md",
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-04 Sun.md",
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-04 Sun.md"
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md"
               }
             }
           },
@@ -189,16 +189,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a5cae0b6cbbbd6b6",
+  "active": "ad32a7a6b21afa1c",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2024/February/2024-02-03 Sat.md",
-    "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-02 Fri.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-03 Sat.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-04 Sun.md",
+    "remoteBrain/Report/2024/February.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md",
     "remoteBrain/_template/daily.md",
     "remoteBrain/_template/monthly.md",
     "remoteBrain/_template/tags.md",
-    "remoteBrain/Report/2024/February.md",
     "remoteBrain/Report/2024/January.md",
     "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
     "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md"
