@@ -617,9 +617,9 @@
         "sectionId": null,
         "parentId": null,
         "order": 14,
-        "content": "커튼 달기  🔼",
+        "content": "커튼 달기  🔼    ✅ 2024-02-04",
         "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-04 Sun.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-04%20Sun.md)",
-        "isCompleted": false,
+        "isCompleted": true,
         "labels": [
           "todoist"
         ],
@@ -2382,6 +2382,90 @@
         "id": 22860207134,
         "initiator_id": null,
         "object_id": "7656598994",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-04T11:54:25.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "정보처리기사 유튜브 강의 보면서 이론 공부하기 ⏫  ➕ 2024-02-04    ✅ 2024-02-04",
+          "note_count": 0
+        },
+        "extra_data_id": 22946785647,
+        "id": 22860488734,
+        "initiator_id": null,
+        "object_id": "7662176604",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-04T11:54:26.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "커튼 달기  🔼",
+          "due_date": "2024-02-03T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22946785794,
+        "id": 22860488882,
+        "initiator_id": null,
+        "object_id": "7662736275",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-04T11:54:23.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "정보처리기사 유튜브 강의 보면서 이론 공부하기 ⏫  ➕ 2024-02-04    ✅ 2024-02-04",
+          "last_content": "정보처리기사 유튜브 강의 보면서 이론 공부하기 ⏫  ➕ 2024-02-04",
+          "note_count": 0
+        },
+        "extra_data_id": 22946785622,
+        "id": 22860488708,
+        "initiator_id": null,
+        "object_id": "7662176604",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-04T11:58:30.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "커튼 달기  🔼    ✅ 2024-02-04",
+          "note_count": 0
+        },
+        "extra_data_id": 22946810396,
+        "id": 22860513482,
+        "initiator_id": null,
+        "object_id": "7662736275",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-04T11:58:28.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "커튼 달기  🔼    ✅ 2024-02-04",
+          "last_content": "커튼 달기  🔼",
+          "note_count": 0
+        },
+        "extra_data_id": 22946810206,
+        "id": 22860513292,
+        "initiator_id": null,
+        "object_id": "7662736275",
         "object_type": "item",
         "parent_item_id": null,
         "parent_project_id": "2327705031"
