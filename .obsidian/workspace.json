@@ -31,6 +31,7 @@
       {
         "id": "d12ef210e8c99db8",
         "type": "tabs",
+        "dimension": 24.509803921568626,
         "children": [
           {
             "id": "7c659066c4993733",
@@ -38,16 +39,6 @@
             "state": {
               "type": "recent-files",
               "state": {}
-            }
-          },
-          {
-            "id": "ebb86c9abd32151f",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
             }
           },
           {
@@ -64,29 +55,29 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "80d02f9b267bbeee",
+        "type": "tabs",
+        "dimension": 75.49019607843137,
+        "children": [
           {
-            "id": "4bb1f9403f2a5572",
+            "id": "ebb86c9abd32151f",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "1140847d0092af0c",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {}
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "e8a174d2ef2a88cf",
@@ -95,6 +86,7 @@
       {
         "id": "a9eec56abe6d678a",
         "type": "tabs",
+        "dimension": 39.338235294117645,
         "children": [
           {
             "id": "1257693646e67640",
@@ -143,19 +135,23 @@
                 "useHierarchy": true
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "80d84a9cba0ed0bf",
+        "type": "tabs",
+        "dimension": 60.66176470588235,
+        "children": [
           {
-            "id": "84b4e4077267300d",
+            "id": "159face78e00ed17",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-03 Sat.md"
-              }
+              "type": "custom-frames-chat-gpt",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,22 +159,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian42-brat:BRAT": false,
-      "obsidian-custom-frames:Open Chat GPT": false,
-      "obsidian-day-planner:Timeline": false,
-      "templater-obsidian:Templater": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "periodic-notes:Open today": false
+      "obsidian42-brat:BRAT": true,
+      "obsidian-custom-frames:Open Chat GPT": true,
+      "obsidian-day-planner:Timeline": true,
+      "templater-obsidian:Templater": true,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "periodic-notes:Open today": true
     }
   },
   "active": "ebb86c9abd32151f",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2024/February/2024-02-03 Sat.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-02 Fri.md",
-    "remoteBrain/Daily-Docs/2024/February/2024-02-03 Sat.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-04 Sun.md",
     "remoteBrain/_template/daily.md",
     "remoteBrain/_template/monthly.md",
