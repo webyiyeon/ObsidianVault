@@ -31,7 +31,7 @@
       {
         "id": "d12ef210e8c99db8",
         "type": "tabs",
-        "dimension": 24.509803921568626,
+        "dimension": 24.50980392156863,
         "children": [
           {
             "id": "7c659066c4993733",
@@ -54,6 +54,14 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "b16a1c2ecec72054",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -135,6 +143,16 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "81bf61ee05acbd17",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-04 Sun.md"
+              }
+            }
           }
         ]
       },
@@ -167,7 +185,7 @@
       "graph:Open graph view": true,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
-      "periodic-notes:Open today": true
+      "periodic-notes:Open today": false
     }
   },
   "active": "ad32a7a6b21afa1c",
