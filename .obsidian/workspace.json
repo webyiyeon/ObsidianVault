@@ -85,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 282.5
   },
   "right": {
     "id": "e8a174d2ef2a88cf",
@@ -95,7 +94,6 @@
       {
         "id": "a9eec56abe6d678a",
         "type": "tabs",
-        "dimension": 38.856589147286826,
         "children": [
           {
             "id": "a5cae0b6cbbbd6b6",
@@ -156,22 +154,6 @@
             }
           },
           {
-            "id": "21db5c22f9306f33",
-            "type": "leaf",
-            "state": {
-              "type": "googleTaskView",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 5
-      },
-      {
-        "id": "e3dc34ed6835b512",
-        "type": "tabs",
-        "dimension": 61.143410852713174,
-        "children": [
-          {
             "id": "c5f131c05eebf47a",
             "type": "leaf",
             "state": {
@@ -179,11 +161,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 786.5
+    "width": 639.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,19 +178,19 @@
       "graph:Open graph view": true,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
-      "obsidian-google-tasks:Google Tasks": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": true,
+      "sync-google-calendar:Sync Google Calendar": false
     }
   },
   "active": "6d4418a5d0fa323c",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2024/February/2024-02-04 Sun.md",
-    "remoteBrain/Daily-Docs/2024/February/2024-02-05 Mon.md",
-    "conflict-files-obsidian-git.md",
-    "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md",
-    "remoteBrain/Daily-Docs/2024/February/2024-02-02 Fri.md",
-    "remoteBrain/Daily-Docs/2024/February/2024-02-03 Sat.md",
     "remoteBrain/Report/2024/February.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-05 Mon.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-04 Sun.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-03 Sat.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-02 Fri.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md",
+    "conflict-files-obsidian-git.md",
     "remoteBrain/_template/daily.md",
     "remoteBrain/_template/monthly.md",
     "remoteBrain/_template/tags.md",

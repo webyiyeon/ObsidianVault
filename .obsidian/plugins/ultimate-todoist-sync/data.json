@@ -641,6 +641,30 @@
           "unit": "minute"
         },
         "path": "remoteBrain/Daily-Docs/2024/February/2024-02-04 Sun.md"
+      },
+      {
+        "id": "7664641200",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 13,
+        "content": "Elasticsearch에서 사용할 검색 처리 프로세스 구상🏢 🛫 2024-02-02  ⏫",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-05 Mon.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-05%20Mon.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist",
+          "work"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-05T03:07:22.228962Z",
+        "due": null,
+        "url": "https://todoist.com/showTask?id=7664641200",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-05 Mon.md"
       }
     ],
     "events": [
@@ -2624,10 +2648,10 @@
         "7662176218"
       ],
       "todoistCount": 1
-    }
-  },
-  "enableFullVaultSync": false,
-  "statistics": {},
-  "debugMode": false,
-  "todoistAPIToken": "57d33e1b10d4d37a13f212786179e01d795e6360"
-}
+    },
+    "remoteBrain/Daily-Docs/2024/February/2024-02-05 Mon.md": {
+      "todoistTasks": [
+        "7664641200"
+      ],
+      "todoistCount": 1
+ 

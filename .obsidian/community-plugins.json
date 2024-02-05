@@ -17,5 +17,6 @@
   "templater-obsidian",
   "obsidian-icon-folder",
   "google-calendar",
-  "obsidian-google-tasks"
+  "todoist-sync-plugin",
+  "ultimate-todoist-sync"
 ]
