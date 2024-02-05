@@ -167,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 639.5,
-    "collapsed": true
+    "width": 639.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,7 +179,7 @@
       "graph:Open graph view": true,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": true
     }
   },
   "active": "6d4418a5d0fa323c",
