@@ -95,7 +95,7 @@
       {
         "id": "a9eec56abe6d678a",
         "type": "tabs",
-        "dimension": 43.604651162790695,
+        "dimension": 38.856589147286826,
         "children": [
           {
             "id": "a5cae0b6cbbbd6b6",
@@ -169,7 +169,7 @@
       {
         "id": "e3dc34ed6835b512",
         "type": "tabs",
-        "dimension": 56.395348837209305,
+        "dimension": 61.143410852713174,
         "children": [
           {
             "id": "c5f131c05eebf47a",
@@ -183,7 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 525.5
+    "width": 590.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,7 +199,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "21db5c22f9306f33",
+  "active": "6d4418a5d0fa323c",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2024/February/2024-02-04 Sun.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-05 Mon.md",
