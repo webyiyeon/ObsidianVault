@@ -707,6 +707,36 @@
         "url": "https://todoist.com/showTask?id=7649128964",
         "duration": null,
         "path": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md"
+      },
+      {
+        "id": "7668422762",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 15,
+        "content": "고객 검색어 데이터 기반으로 동의어 사전 구축 🛫 2024-02-05  ⏫",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-06 Tue.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-06%20Tue.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-05T22:51:55.833243Z",
+        "due": {
+          "date": "2024-02-06",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-07 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-06T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7668422762",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-06 Tue.md"
       }
     ],
     "events": [
@@ -2713,6 +2743,12 @@
         "7665047080"
       ],
       "todoistCount": 2
+    },
+    "remoteBrain/Daily-Docs/2024/February/2024-02-06 Tue.md": {
+      "todoistTasks": [
+        "7668422762"
+      ],
+      "todoistCount": 1
     }
   },
   "enableFullVaultSync": false,
