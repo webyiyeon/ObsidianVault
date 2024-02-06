@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-06 Tue.md",
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-05 Mon.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#recipe👩",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,8 +64,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "80d02f9b267bbeee",
@@ -86,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 282.5,
+    "collapsed": true
   },
   "right": {
     "id": "e8a174d2ef2a88cf",
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-06 Tue.md",
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-05 Mon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-06 Tue.md",
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-05 Mon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-06 Tue.md"
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-05 Mon.md"
               }
             }
           },
@@ -167,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 702.5,
-    "collapsed": true
+    "width": 728.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,19 +185,19 @@
   "active": "6d4418a5d0fa323c",
   "lastOpenFiles": [
     "remoteBrain/_template/recipe.md",
-    "remoteBrain/_template/tags.md",
-    "remoteBrain/_template/daily.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-06 Tue.md",
-    "remoteBrain/Report/2024/February.md",
-    "remoteBrain/Daily-Docs/2024/February/2024-02-05 Mon.md",
     "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
-    "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-05 Mon.md",
+    "remoteBrain/Report/2024/February.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-04 Sun.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-03 Sat.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-02 Fri.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md",
-    "remoteBrain/Report/2024/January.md",
     "conflict-files-obsidian-git.md",
-    "remoteBrain/_template/monthly.md"
+    "remoteBrain/_template/daily.md",
+    "remoteBrain/_template/monthly.md",
+    "remoteBrain/_template/tags.md",
+    "remoteBrain/Report/2024/January.md",
+    "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md"
   ]
 }
