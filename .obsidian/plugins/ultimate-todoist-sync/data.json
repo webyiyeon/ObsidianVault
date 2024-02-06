@@ -770,6 +770,37 @@
         "path": "remoteBrain/Daily-Docs/2024/February/2024-02-06 Tue.md"
       },
       {
+        "id": "7669181012",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 16,
+        "content": "검색어 - 실제 주문 데이터 자연어 비교 분석 방안 연구🏢",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-06 Tue.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-06%20Tue.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist",
+          "work"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-06T06:34:23.494567Z",
+        "due": {
+          "date": "2024-02-05",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-06 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-05T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7669181012",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-06 Tue.md"
+      },
+      {
         "id": "7669180111",
         "assignerId": null,
         "assigneeId": null,
@@ -777,9 +808,9 @@
         "sectionId": null,
         "parentId": null,
         "order": 15,
-        "content": "Local Elasticsearch에 사용자 사전 적용 테스트 해보기🏢",
+        "content": "Local Elasticsearch에 사용자 사전 적용 테스트 해보기🏢      ✅ 2024-02-06",
         "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-06 Tue.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-06%20Tue.md)",
-        "isCompleted": false,
+        "isCompleted": true,
         "labels": [
           "todoist",
           "work"
@@ -2767,6 +2798,22 @@
         "object_type": "item",
         "parent_item_id": null,
         "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-06T06:35:33.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "Local Elasticsearch에 사용자 사전 적용 테스트 해보기🏢      ✅ 2024-02-06",
+          "note_count": 0
+        },
+        "extra_data_id": 22969022749,
+        "id": 22882725695,
+        "initiator_id": null,
+        "object_id": "7669180111",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
       }
     ]
   },
@@ -2842,9 +2889,10 @@
       "todoistTasks": [
         "7668422762",
         "7668803770",
-        "7669180111"
+        "7669180111",
+        "7669181012"
       ],
-      "todoistCount": 3
+      "todoistCount": 4
     }
   },
   "enableFullVaultSync": false,
