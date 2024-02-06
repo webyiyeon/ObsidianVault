@@ -7,3 +7,6 @@
 	- #weight #cardio #stretch
 - workout-routine
 	- #상체 #하체  #코어 #가슴 #홈트 
+
+- daily
+	- #recipe🏷️ 

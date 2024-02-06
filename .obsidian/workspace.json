@@ -47,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#recipe👩",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +64,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "80d02f9b267bbeee",
@@ -166,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 732.5
+    "width": 702.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,8 +185,9 @@
   },
   "active": "6d4418a5d0fa323c",
   "lastOpenFiles": [
-    "remoteBrain/_template/daily.md",
+    "remoteBrain/_template/tags.md",
     "remoteBrain/_template/recipe.md",
+    "remoteBrain/_template/daily.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-06 Tue.md",
     "remoteBrain/Report/2024/February.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-05 Mon.md",
@@ -196,7 +199,6 @@
     "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md",
     "remoteBrain/Report/2024/January.md",
     "conflict-files-obsidian-git.md",
-    "remoteBrain/_template/monthly.md",
-    "remoteBrain/_template/tags.md"
+    "remoteBrain/_template/monthly.md"
   ]
 }
