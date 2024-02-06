@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-05 Mon.md",
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-06 Tue.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5,
-    "collapsed": true
+    "width": 282.5
   },
   "right": {
     "id": "e8a174d2ef2a88cf",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-05 Mon.md",
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-06 Tue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-05 Mon.md",
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-06 Tue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-05 Mon.md"
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-06 Tue.md"
               }
             }
           },
@@ -167,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 728.5
+    "width": 728.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,10 +184,10 @@
   },
   "active": "6d4418a5d0fa323c",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2024/February/2024-02-05 Mon.md",
     "remoteBrain/_template/recipe.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-06 Tue.md",
     "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
-    "remoteBrain/Daily-Docs/2024/February/2024-02-05 Mon.md",
     "remoteBrain/Report/2024/February.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-04 Sun.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-03 Sat.md",
