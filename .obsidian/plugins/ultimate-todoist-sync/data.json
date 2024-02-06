@@ -861,6 +861,66 @@
         "url": "https://todoist.com/showTask?id=7672190245",
         "duration": null,
         "path": "remoteBrain/Daily-Docs/2024/February/2024-02-07 Wed.md"
+      },
+      {
+        "id": "7672207493",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 16,
+        "content": "손톱 정리하기",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-07 Wed.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-07%20Wed.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-06T23:17:53.633094Z",
+        "due": {
+          "date": "2024-02-06",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-07 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-06T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7672207493",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-07 Wed.md"
+      },
+      {
+        "id": "7672208355",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 17,
+        "content": "내일 울산 갈 짐 챙기기  ⏫",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-07 Wed.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-07%20Wed.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-06T23:18:27.720664Z",
+        "due": {
+          "date": "2024-02-06",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-07 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-06T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7672208355",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-07 Wed.md"
       }
     ],
     "events": [
@@ -2943,9 +3003,11 @@
     },
     "remoteBrain/Daily-Docs/2024/February/2024-02-07 Wed.md": {
       "todoistTasks": [
-        "7672190245"
+        "7672190245",
+        "7672207493",
+        "7672208355"
       ],
-      "todoistCount": 1
+      "todoistCount": 3
     }
   },
   "enableFullVaultSync": false,
