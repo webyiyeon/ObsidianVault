@@ -1,6 +1,7 @@
 {
   "recentFiles": [
     {
+<<<<<<< HEAD
       "basename": "Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기",
       "path": "Blog/Tistory/Obsidian/Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기.md"
     },
@@ -17,8 +18,14 @@
       "path": "remoteBrain/Report/2024/February.md"
     },
     {
+=======
+>>>>>>> 95fedda (vault backup: 2024-02-08 18:27:43)
       "basename": "2024-02-07 Wed",
       "path": "remoteBrain/Daily-Docs/2024/February/2024-02-07 Wed.md"
+    },
+    {
+      "basename": "February",
+      "path": "remoteBrain/Report/2024/February.md"
     },
     {
       "basename": "2024-02-06 Tue",

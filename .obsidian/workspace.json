@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Blog/Tistory/Obsidian/Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기.md",
+=======
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-07 Wed.md",
+>>>>>>> 95fedda (vault backup: 2024-02-08 18:27:43)
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +106,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Blog/Tistory/Obsidian/Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기.md",
+=======
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-07 Wed.md",
+>>>>>>> 95fedda (vault backup: 2024-02-08 18:27:43)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +127,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Blog/Tistory/Obsidian/Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기.md",
+=======
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-07 Wed.md",
+>>>>>>> 95fedda (vault backup: 2024-02-08 18:27:43)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +154,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Blog/Tistory/Obsidian/Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기.md"
+=======
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-07 Wed.md"
+>>>>>>> 95fedda (vault backup: 2024-02-08 18:27:43)
               }
             }
           },
@@ -185,8 +201,11 @@
   },
   "active": "6d4418a5d0fa323c",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Blog/Tistory/Obsidian/Tistory와 Obsidian 연동하기.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-08 Thu.md",
+=======
+>>>>>>> 95fedda (vault backup: 2024-02-08 18:27:43)
     "remoteBrain/Report/2024/February.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-07 Wed.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-06 Tue.md",
