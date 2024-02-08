@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-07 Wed.md",
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-08 Thu.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5,
-    "collapsed": true
+    "width": 282.5
   },
   "right": {
     "id": "e8a174d2ef2a88cf",
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-07 Wed.md",
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-08 Thu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-07 Wed.md",
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-08 Thu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-07 Wed.md"
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-08 Thu.md"
               }
             }
           },
@@ -186,9 +185,10 @@
   },
   "active": "6d4418a5d0fa323c",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2024/February/2024-02-06 Tue.md",
-    "remoteBrain/Daily-Docs/2024/February/2024-02-07 Wed.md",
     "remoteBrain/Report/2024/February.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-08 Thu.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-07 Wed.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-06 Tue.md",
     "remoteBrain/_template/recipe.md",
     "remoteBrain/_template/tags.md",
     "remoteBrain/_template/daily.md",
