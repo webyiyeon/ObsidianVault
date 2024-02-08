@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-08 Thu.md",
+                "file": "Blog/Tistory/Obsidian/Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#recipe👩",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-08 Thu.md",
+                "file": "Blog/Tistory/Obsidian/Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-08 Thu.md",
+                "file": "Blog/Tistory/Obsidian/Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-08 Thu.md"
+                "file": "Blog/Tistory/Obsidian/Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기.md"
               }
             }
           },
@@ -185,8 +185,9 @@
   },
   "active": "6d4418a5d0fa323c",
   "lastOpenFiles": [
-    "remoteBrain/Report/2024/February.md",
+    "Blog/Tistory/Obsidian/Tistory와 Obsidian 연동하기.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-08 Thu.md",
+    "remoteBrain/Report/2024/February.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-07 Wed.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-06 Tue.md",
     "remoteBrain/_template/recipe.md",
