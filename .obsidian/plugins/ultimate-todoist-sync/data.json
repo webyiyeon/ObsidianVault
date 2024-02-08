@@ -862,37 +862,6 @@
         "path": "remoteBrain/Daily-Docs/2024/February/2024-02-07 Wed.md"
       },
       {
-        "id": "7672190245",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2327705031",
-        "sectionId": null,
-        "parentId": null,
-        "order": 15,
-        "content": "에러로그 확인하기🏢   ⏫    ✅ 2024-02-07",
-        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-07 Wed.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-07%20Wed.md)",
-        "isCompleted": true,
-        "labels": [
-          "todoist",
-          "work"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "47987180",
-        "createdAt": "2024-02-06T23:08:21.842545Z",
-        "due": {
-          "date": "2024-02-06",
-          "timezone": "Asia/Seoul",
-          "string": "2024-02-07 08:00",
-          "lang": "en",
-          "isRecurring": false,
-          "datetime": "2024-02-06T23:00:00Z"
-        },
-        "url": "https://todoist.com/showTask?id=7672190245",
-        "duration": null,
-        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-07 Wed.md"
-      },
-      {
         "id": "7672208355",
         "assignerId": null,
         "assigneeId": null,
@@ -951,6 +920,37 @@
         "url": "https://todoist.com/showTask?id=7675981849",
         "duration": null,
         "path": "remoteBrain/Daily-Docs/2024/February/2024-02-08 Thu.md"
+      },
+      {
+        "id": "7672190245",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 15,
+        "content": "에러로그 확인하기🏢   ⏫    ✅ 2024-02-07",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-07 Wed.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-07%20Wed.md)",
+        "isCompleted": true,
+        "labels": [
+          "todoist",
+          "work"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-06T23:08:21.842545Z",
+        "due": {
+          "date": "2024-02-06",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-07 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-06T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7672190245",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-07 Wed.md"
       }
     ],
     "events": [
@@ -2980,6 +2980,22 @@
         "id": 22895858797,
         "initiator_id": null,
         "object_id": "7672190245",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-08T01:37:46.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "내일 울산 갈 짐 챙기기  ⏫    ✅ 2024-02-07",
+          "note_count": 0
+        },
+        "extra_data_id": 22993002058,
+        "id": 22906704735,
+        "initiator_id": null,
+        "object_id": "7672208355",
         "object_type": "item",
         "parent_item_id": null,
         "parent_project_id": "2327705031"
