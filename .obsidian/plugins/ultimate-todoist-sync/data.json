@@ -922,6 +922,36 @@
         "path": "remoteBrain/Daily-Docs/2024/February/2024-02-08 Thu.md"
       },
       {
+        "id": "7680027756",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 15,
+        "content": "정보처리기사 필기 1과목 위주로 문제 풀이 및 오답노트 정리  ⏫",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-09 Fri.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-09%20Fri.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-09T08:35:02.449703Z",
+        "due": {
+          "date": "2024-02-08",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-09 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-08T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7680027756",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-09 Fri.md"
+      },
+      {
         "id": "7672190245",
         "assignerId": null,
         "assigneeId": null,
@@ -951,36 +981,6 @@
         "url": "https://todoist.com/showTask?id=7672190245",
         "duration": null,
         "path": "remoteBrain/Daily-Docs/2024/February/2024-02-07 Wed.md"
-      },
-      {
-        "id": "7680027756",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2327705031",
-        "sectionId": null,
-        "parentId": null,
-        "order": 15,
-        "content": "정보처리기사 필기 1과목 위주로 문제 풀이 및 오답노트 정리  ⏫",
-        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-09 Fri.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-09%20Fri.md)",
-        "isCompleted": false,
-        "labels": [
-          "todoist"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "47987180",
-        "createdAt": "2024-02-09T08:35:02.449703Z",
-        "due": {
-          "date": "2024-02-08",
-          "timezone": "Asia/Seoul",
-          "string": "2024-02-09 08:00",
-          "lang": "en",
-          "isRecurring": false,
-          "datetime": "2024-02-08T23:00:00Z"
-        },
-        "url": "https://todoist.com/showTask?id=7680027756",
-        "duration": null,
-        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-09 Fri.md"
       }
     ],
     "events": [
@@ -3042,6 +3042,285 @@
         "id": 22920454854,
         "initiator_id": null,
         "object_id": "7675981849",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-09T08:39:57.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "정보처리기사 필기 1과목 위주로 문제 풀이 및 오답노트 정리  ⏫",
+          "due_date": "2024-02-08T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 23007662434,
+        "id": 22921364997,
+        "initiator_id": null,
+        "object_id": "7680027756",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-09T06:42:22.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "울산 갈 짐 마저 챙기기 ⏫     ✅ 2024-02-08",
+          "last_content": "울산 갈 짐 마저 챙기기 ⏫",
+          "note_count": 0
+        },
+        "extra_data_id": 23006752227,
+        "id": 22920454792,
+        "initiator_id": null,
+        "object_id": "7675981849",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-08T01:37:44.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "울산 갈 짐 마저 챙기기 ⏫",
+          "due_date": "2024-02-07T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22993001955,
+        "id": 22906704633,
+        "initiator_id": null,
+        "object_id": "7675981849",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-08T01:37:42.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "내일 울산 갈 짐 챙기기  ⏫    ✅ 2024-02-07",
+          "last_content": "내일 울산 갈 짐 챙기기  ⏫",
+          "note_count": 0
+        },
+        "extra_data_id": 22993001724,
+        "id": 22906704402,
+        "initiator_id": null,
+        "object_id": "7672208355",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-08T01:32:46.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "손톱 정리하기     ✅ 2024-02-07",
+          "last_content": "손톱 정리하기",
+          "note_count": 0
+        },
+        "extra_data_id": 22992972086,
+        "id": 22906674764,
+        "initiator_id": null,
+        "object_id": "7672207493",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-07T08:25:25.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "MAKER_NM 기반으로 브랜드명 추출하여 사용자 사전 구축🏢 🛫 2024-01-31     ✅ 2024-01-31",
+          "last_content": "MAKER_NM 기반으로 브랜드명 추출하여 사용자 사전 구축🏢 🛫 2024-01-31     ✅ 2024-01-31\r ^CUAWZKZM2QG0",
+          "note_count": 0
+        },
+        "extra_data_id": 22982968864,
+        "id": 22896671626,
+        "initiator_id": null,
+        "object_id": "7649128964",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-07T07:39:41.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "상품명의 형태소 분절을 기반으로 상품 간 TF-IDF 알고리즘 이용하여 유사도 파악🏢 🛫 2024-01-31    ✅ 2024-01-31",
+          "last_content": "상품명의 형태소 분절을 기반으로 상품 간 TF-IDF 알고리즘 이용하여 유사도 파악🏢 🛫 2024-01-31    ✅ 2024-01-31\r ^SU0SZN4Y62O0",
+          "note_count": 0
+        },
+        "extra_data_id": 22982564395,
+        "id": 22896267156,
+        "initiator_id": null,
+        "object_id": "7648960397",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-07T06:48:22.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "에러로그 확인하기🏢   ⏫    ✅ 2024-02-07",
+          "last_content": "에러로그 확인하기🏢   ⏫",
+          "note_count": 0
+        },
+        "extra_data_id": 22982155242,
+        "id": 22895858012,
+        "initiator_id": null,
+        "object_id": "7672190245",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-06T23:18:30.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "내일 울산 갈 짐 챙기기  ⏫",
+          "due_date": "2024-02-06T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22979537587,
+        "id": 22893240361,
+        "initiator_id": null,
+        "object_id": "7672208355",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-06T23:17:56.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "손톱 정리하기",
+          "due_date": "2024-02-06T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22979533549,
+        "id": 22893236323,
+        "initiator_id": null,
+        "object_id": "7672207493",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-06T23:08:31.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "에러로그 확인하기🏢   ⏫",
+          "last_content": "에러로그 확인하기  ⏫",
+          "note_count": 0
+        },
+        "extra_data_id": 22979468615,
+        "id": 22893171388,
+        "initiator_id": null,
+        "object_id": "7672190245",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-06T23:08:31.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "에러로그 확인하기🏢   ⏫",
+          "due_date": "2024-02-06T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22979468588,
+        "id": 22893171363,
+        "initiator_id": null,
+        "object_id": "7672190245",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-06T22:56:41.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "검색어 - 실제 주문 데이터 자연어 비교 분석 방안 연구🏢     ✅ 2024-02-06",
+          "last_content": "검색어 - 실제 주문 데이터 자연어 비교 분석 방안 연구🏢",
+          "note_count": 0
+        },
+        "extra_data_id": 22979381733,
+        "id": 22893084508,
+        "initiator_id": null,
+        "object_id": "7669181012",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-06T06:35:34.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "Local Elasticsearch에 사용자 사전 적용 테스트 해보기🏢      ✅ 2024-02-06",
+          "last_content": "Local Elasticsearch에 사용자 사전 적용 테스트 해보기🏢",
+          "note_count": 0
+        },
+        "extra_data_id": 22969023024,
+        "id": 22882725964,
+        "initiator_id": null,
+        "object_id": "7669180111",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-06T06:34:41.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "검색어 - 실제 주문 데이터 자연어 비교 분석 방안 연구🏢",
+          "due_date": "2024-02-05T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22969018149,
+        "id": 22882721090,
+        "initiator_id": null,
+        "object_id": "7669181012",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-06T06:34:12.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "Local Elasticsearch에 사용자 사전 적용 테스트 해보기🏢",
+          "due_date": "2024-02-05T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22969015452,
+        "id": 22882718393,
+        "initiator_id": null,
+        "object_id": "7669180111",
         "object_type": "item",
         "parent_item_id": null,
         "parent_project_id": "2327705031"
