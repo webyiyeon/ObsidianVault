@@ -929,7 +929,7 @@
         "sectionId": null,
         "parentId": null,
         "order": 15,
-        "content": "에러로그 확인하기🏢   ⏫",
+        "content": "에러로그 확인하기🏢   ⏫    ✅ 2024-02-07",
         "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-07 Wed.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-07%20Wed.md)",
         "isCompleted": true,
         "labels": [
@@ -951,6 +951,36 @@
         "url": "https://todoist.com/showTask?id=7672190245",
         "duration": null,
         "path": "remoteBrain/Daily-Docs/2024/February/2024-02-07 Wed.md"
+      },
+      {
+        "id": "7680027756",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 15,
+        "content": "정보처리기사 필기 1과목 위주로 문제 풀이 및 오답노트 정리  ⏫",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-09 Fri.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-09%20Fri.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-09T08:35:02.449703Z",
+        "due": {
+          "date": "2024-02-08",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-09 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-08T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7680027756",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-09 Fri.md"
       }
     ],
     "events": [
@@ -3106,6 +3136,12 @@
     "remoteBrain/Daily-Docs/2024/February/2024-02-08 Thu.md": {
       "todoistTasks": [
         "7675981849"
+      ],
+      "todoistCount": 1
+    },
+    "remoteBrain/Daily-Docs/2024/February/2024-02-09 Fri.md": {
+      "todoistTasks": [
+        "7680027756"
       ],
       "todoistCount": 1
     }
