@@ -5,68 +5,12 @@
       "path": "remoteBrain/Daily-Docs/2024/February/2024-02-13 Tue.md"
     },
     {
-      "basename": "recipe",
-      "path": "remoteBrain/_template/recipe.md"
-    },
-    {
-      "basename": "2024-02-10 Sat",
-      "path": "remoteBrain/Daily-Docs/2024/February/2024-02-10 Sat.md"
-    },
-    {
-      "basename": "2024-02-08 Thu",
-      "path": "remoteBrain/Daily-Docs/2024/February/2024-02-08 Thu.md"
-    },
-    {
-      "basename": "WSL에 Elasticsearch 설치하기",
-      "path": "Blog/Tistory/Obsidian/WSL에 Elasticsearch 설치하기.md"
-    },
-    {
-      "basename": "Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기",
-      "path": "Blog/Tistory/Obsidian/Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기.md"
-    },
-    {
-      "basename": "Tistory와 Obsidian 연동하기",
-      "path": "Blog/Tistory/Obsidian/Tistory와 Obsidian 연동하기.md"
+      "basename": "monthly",
+      "path": "remoteBrain/_template/monthly.md"
     },
     {
       "basename": "February",
       "path": "remoteBrain/Report/2024/February.md"
-    },
-    {
-      "basename": "2024-02-07 Wed",
-      "path": "remoteBrain/Daily-Docs/2024/February/2024-02-07 Wed.md"
-    },
-    {
-      "basename": "2024-02-06 Tue",
-      "path": "remoteBrain/Daily-Docs/2024/February/2024-02-06 Tue.md"
-    },
-    {
-      "basename": "tags",
-      "path": "remoteBrain/_template/tags.md"
-    },
-    {
-      "basename": "daily",
-      "path": "remoteBrain/_template/daily.md"
-    },
-    {
-      "basename": "2024-02-05 Mon",
-      "path": "remoteBrain/Daily-Docs/2024/February/2024-02-05 Mon.md"
-    },
-    {
-      "basename": "2024-01-31 Wed",
-      "path": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md"
-    },
-    {
-      "basename": "2024-01-30 Tue",
-      "path": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md"
-    },
-    {
-      "basename": "2024-02-04 Sun",
-      "path": "remoteBrain/Daily-Docs/2024/February/2024-02-04 Sun.md"
-    },
-    {
-      "basename": "2024-02-03 Sat",
-      "path": "remoteBrain/Daily-Docs/2024/February/2024-02-03 Sat.md"
     },
     {
       "basename": "2024-02-02 Fri",
@@ -77,40 +21,20 @@
       "path": "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md"
     },
     {
-      "basename": "January",
-      "path": "remoteBrain/Report/2024/January.md"
+      "basename": "daily",
+      "path": "remoteBrain/_template/daily.md"
     },
     {
-      "basename": "monthly",
-      "path": "remoteBrain/_template/monthly.md"
+      "basename": "2024-02-09 Fri",
+      "path": "remoteBrain/Daily-Docs/2024/February/2024-02-09 Fri.md"
     },
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
+      "basename": "2024-02-10 Sat",
+      "path": "remoteBrain/Daily-Docs/2024/February/2024-02-10 Sat.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "October",
-      "path": "remoteBrain/Daily-Docs/2023/October.md"
-    },
-    {
-      "basename": "November",
-      "path": "remoteBrain/Daily-Docs/2023/November.md"
-    },
-    {
-      "basename": "IMG_0028",
-      "path": "Blog/Tistory/Obsidian/맛따라/seoul/IMG_0028.jpg"
-    },
-    {
-      "basename": "서울 종로 대성식당 광장시장",
-      "path": "Blog/Tistory/Obsidian/맛따라/seoul/서울 종로 대성식당 광장시장.md"
-    },
-    {
-      "basename": "1145918_1",
-      "path": "Blog/Tistory/Obsidian/1145918_1.png"
+      "basename": "2024-02-08 Thu",
+      "path": "remoteBrain/Daily-Docs/2024/February/2024-02-08 Thu.md"
     }
   ],
   "omittedPaths": [],
