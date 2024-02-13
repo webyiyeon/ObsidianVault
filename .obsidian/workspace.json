@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "eeb3cbd96568ebde",
+        "id": "ea92aa31f8331484",
         "type": "tabs",
         "children": [
           {
-            "id": "bad3988e14cbe834",
+            "id": "8790124289be8eda",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-08 Thu.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -102,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-08 Thu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-08 Thu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-08 Thu.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,8 +175,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bad3988e14cbe834",
+  "active": "8790124289be8eda",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2024/February/2024-02-08 Thu.md",
+    "conflict-files-obsidian-git.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-10 Sat.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-09 Fri.md",
     "Blog/Tistory/Obsidian/WSL에 Elasticsearch 설치하기.md",
     "img.png",
     "Untitled (5).png",
@@ -196,7 +192,6 @@
     "Blog/Tistory/Obsidian/Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기.md",
     "Blog/Tistory/Obsidian/Untitled",
     "Blog/Tistory/Obsidian/Tistory와 Obsidian 연동하기.md",
-    "remoteBrain/Daily-Docs/2024/February/2024-02-08 Thu.md",
     "remoteBrain/Report/2024/February.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-07 Wed.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-06 Tue.md",
@@ -211,7 +206,6 @@
     "remoteBrain/Daily-Docs/2024/February/2024-02-02 Fri.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md",
     "remoteBrain/Report/2024/January.md",
-    "conflict-files-obsidian-git.md",
     "remoteBrain/_template/monthly.md"
   ]
 }
