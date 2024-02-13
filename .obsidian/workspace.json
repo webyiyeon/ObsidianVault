@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "498d92d0b8250611",
+    "id": "05b8acec64d4c413",
     "type": "split",
     "children": [
       {
-        "id": "c8c08a4f1a55f201",
+        "id": "ea92aa31f8331484",
         "type": "tabs",
         "children": [
           {
-            "id": "96f725e1a1b11107",
+            "id": "8790124289be8eda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-09 Fri.md",
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-13 Tue.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,16 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "66d454b5d370bd0a",
+    "id": "f14d3116655117c1",
     "type": "split",
     "children": [
       {
-        "id": "b169a12232764c9d",
+        "id": "d12ef210e8c99db8",
         "type": "tabs",
+        "dimension": 24.50980392156863,
         "children": [
           {
-            "id": "d5a6c400f313d25b",
+            "id": "7c659066c4993733",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -41,17 +42,7 @@
             }
           },
           {
-            "id": "1e60b5fb7eacede2",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "b432b797100d2ad9",
+            "id": "568e9c972ece4e3a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -66,7 +57,7 @@
             }
           },
           {
-            "id": "02cd05a01b0b3997",
+            "id": "b16a1c2ecec72054",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -75,34 +66,43 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "80d02f9b267bbeee",
+        "type": "tabs",
+        "dimension": 75.49019607843137,
+        "children": [
+          {
+            "id": "ebb86c9abd32151f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 282.5
   },
   "right": {
-    "id": "4101b7d1cb315891",
+    "id": "e8a174d2ef2a88cf",
     "type": "split",
     "children": [
       {
-        "id": "b0170167dcd69f71",
+        "id": "a9eec56abe6d678a",
         "type": "tabs",
         "children": [
           {
-            "id": "945310ab6c0413d7",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "ba1f7d6722df1ef6",
+            "id": "a5cae0b6cbbbd6b6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-09 Fri.md",
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-13 Tue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,19 +114,19 @@
             }
           },
           {
-            "id": "527d672aedc4d85b",
+            "id": "31e0fb9b0647681f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-09 Fri.md",
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-13 Tue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ab9e422341d14c38",
+            "id": "a2afa45c3699c6ae",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,48 +137,84 @@
             }
           },
           {
-            "id": "a4e196f010241d5a",
+            "id": "81bf61ee05acbd17",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-09 Fri.md"
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-13 Tue.md"
               }
             }
+          },
+          {
+            "id": "123581347d5a9085",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c5f131c05eebf47a",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-google-calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 702.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian42-brat:BRAT": false,
-      "obsidian-custom-frames:Open Chat GPT": false,
-      "obsidian-day-planner:Timeline": false,
-      "templater-obsidian:Templater": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "obsidian42-brat:BRAT": true,
+      "obsidian-custom-frames:Open Chat GPT": true,
+      "obsidian-day-planner:Timeline": true,
+      "templater-obsidian:Templater": true,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
       "periodic-notes:Open today": false
     }
   },
-  "active": "96f725e1a1b11107",
+  "active": "8790124289be8eda",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2024/February/2024-02-10 Sat.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-13 Tue.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-08 Thu.md",
+    "conflict-files-obsidian-git.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-09 Fri.md",
+    "Blog/Tistory/Obsidian/WSL에 Elasticsearch 설치하기.md",
     "img.png",
-    "Untitled.png",
     "Untitled (5).png",
     "Untitled (4).png",
     "Untitled (3).png",
     "Untitled (2).png",
     "Untitled (1).png",
-    "Blog/Tistory/Obsidian/WSL에 Elasticsearch 설치하기.md",
-    "remoteBrain/Daily-Docs/2024/February/2024-02-10 Sat.md",
-    "remoteBrain/Daily-Docs/2024/February/2024-02-09 Fri.md",
-    "remoteBrain/Daily-Docs/2024/February/2024-02-08 Thu.md"
+    "Untitled.png",
+    "Blog/Tistory/Obsidian/Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기.md",
+    "Blog/Tistory/Obsidian/Untitled",
+    "Blog/Tistory/Obsidian/Tistory와 Obsidian 연동하기.md",
+    "remoteBrain/Report/2024/February.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-07 Wed.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-06 Tue.md",
+    "remoteBrain/_template/recipe.md",
+    "remoteBrain/_template/tags.md",
+    "remoteBrain/_template/daily.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-05 Mon.md",
+    "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
+    "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-04 Sun.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-03 Sat.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-02 Fri.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md",
+    "remoteBrain/Report/2024/January.md",
+    "remoteBrain/_template/monthly.md"
   ]
 }
