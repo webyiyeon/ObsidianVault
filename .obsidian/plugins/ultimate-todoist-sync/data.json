@@ -1,0 +1,3415 @@
+{
+  "initialized": true,
+  "apiInitialized": true,
+  "defaultProjectName": "Inbox",
+  "automaticSynchronizationInterval": 300,
+  "todoistTasksData": {
+    "projects": [
+      {
+        "id": "2327705031",
+        "parentId": null,
+        "order": 0,
+        "color": "charcoal",
+        "name": "Inbox",
+        "commentCount": 0,
+        "isShared": false,
+        "isFavorite": false,
+        "isInboxProject": true,
+        "isTeamInbox": false,
+        "url": "https://todoist.com/showProject?id=2327705031",
+        "viewStyle": "list"
+      }
+    ],
+    "tasks": [
+      {
+        "id": "7646805186",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 2,
+        "content": "- [x]💻 옵시디언 기능 추가하면서 template 작성하기     ✅ 2024-01-30",
+        "description": "[remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/January/2024-01-30%20Tue.md)",
+        "isCompleted": true,
+        "labels": [
+          "play",
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-01-30T12:16:41.957119Z",
+        "due": {
+          "date": "2024-01-29",
+          "timezone": "Asia/Seoul",
+          "string": "2024-01-30 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-01-29T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7646805186",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md"
+      },
+      {
+        "id": "7648863212",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 1,
+        "content": "Elasticsearch에 연관분석 적용 연구하기💻     ✅ 2024-02-01",
+        "description": "[remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/January/2024-01-31%20Wed.md)",
+        "isCompleted": true,
+        "labels": [
+          "dev",
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-01-30T22:58:38.421660Z",
+        "due": {
+          "date": "2024-01-30",
+          "timezone": "Asia/Seoul",
+          "string": "2024-01-31 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-01-30T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7648863212",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md"
+      },
+      {
+        "id": "7648986755",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 8,
+        "content": "- [x]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기     ✅ 2024-01-31",
+        "description": "[remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/January/2024-01-30%20Tue.md)",
+        "isCompleted": true,
+        "labels": [
+          "study",
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-01-31T00:05:13.623771Z",
+        "due": {
+          "date": "2024-01-29",
+          "timezone": "Asia/Seoul",
+          "string": "2024-01-30 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-01-29T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7648986755",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md"
+      },
+      {
+        "id": "7648867625",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 3,
+        "content": "정보처리기사 필기 유튜브 요약 강의 이론 숙지📓     ✅ 2024-01-31",
+        "description": "[remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/January/2024-01-31%20Wed.md)",
+        "isCompleted": true,
+        "labels": [
+          "study",
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-01-30T23:00:52.421372Z",
+        "due": {
+          "date": "2024-01-30",
+          "timezone": "Asia/Seoul",
+          "string": "2024-01-31 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-01-30T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7648867625",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md"
+      },
+      {
+        "id": "7648865241",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 2,
+        "content": "개인 운동🏋️ 등, 코어 위주     ⏫ ✅ 2024-01-31",
+        "description": "[remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/January/2024-01-31%20Wed.md)",
+        "isCompleted": true,
+        "labels": [
+          "todoist",
+          "workout"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-01-30T22:59:40.428123Z",
+        "due": {
+          "date": "2024-01-30",
+          "timezone": "Asia/Seoul",
+          "string": "2024-01-31 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-01-30T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7648865241",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md"
+      },
+      {
+        "id": "7653142848",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 11,
+        "content": "- [x]💻 항공 교역하기  🔼    ✅ 2024-02-01",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-01%20Thu.md)",
+        "isCompleted": true,
+        "labels": [
+          "mabinogi",
+          "play",
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-01T05:23:23.935197Z",
+        "due": {
+          "date": "2024-01-31",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-01 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-01-31T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7653142848",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md"
+      },
+      {
+        "id": "7652754054",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 10,
+        "content": "정보처리기사 필기 이론 유튜브 강의  ⏫    ✅ 2024-02-01",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-01%20Thu.md)",
+        "isCompleted": true,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-01T01:03:22.063704Z",
+        "due": {
+          "date": "2024-01-31",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-01 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-01-31T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7652754054",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md"
+      },
+      {
+        "id": "7652753522",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 9,
+        "content": "자산형성지원 콜센터 (1522-3690) 적립금 미지급 확인 전화     ✅ 2024-02-02",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-01%20Thu.md)",
+        "isCompleted": true,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-01T01:02:59.122087Z",
+        "due": {
+          "date": "2024-01-31",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-01 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-01-31T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7652753522",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md"
+      },
+      {
+        "id": "7656814991",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 13,
+        "content": "정보처리기사 필기 유튜브 강의 이론 공부하기📓      ✅ 2024-02-03",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-02 Fri.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-02%20Fri.md)",
+        "isCompleted": true,
+        "labels": [
+          "study",
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-02T05:49:26.081145Z",
+        "due": {
+          "date": "2024-02-01",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-02 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-01T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7656814991",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-02 Fri.md"
+      },
+      {
+        "id": "7656814673",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 12,
+        "content": "저녁 먹고 레모나 꼭 먹기     🔽",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-02 Fri.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-02%20Fri.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-02T05:49:13.257523Z",
+        "due": {
+          "date": "2024-02-01",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-02 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-01T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7656814673",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-02 Fri.md"
+      },
+      {
+        "id": "7656678598",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 11,
+        "content": "일기 쓰기     🔽",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-02 Fri.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-02%20Fri.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-02T04:13:52.805282Z",
+        "due": {
+          "date": "2024-02-01",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-02 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-01T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7656678598",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-02 Fri.md"
+      },
+      {
+        "id": "7649771982",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 7,
+        "content": "Elasticsearch에 필요한 것: 동의어 사전, 사용자 사전, 불용어 사전 🛫 2024-01-31      ⏫",
+        "description": "[remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/January/2024-01-31%20Wed.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-01-31T07:56:05.736861Z",
+        "due": {
+          "date": "2024-02-05",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-06 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-05T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7649771982",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md"
+      },
+      {
+        "id": "7656598994",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 10,
+        "content": "동우랑 놀기💻  🛫 2024-02-02     ✅ 2024-02-02",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-02 Fri.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-02%20Fri.md)",
+        "isCompleted": true,
+        "labels": [
+          "play",
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-02T03:08:54.487761Z",
+        "due": {
+          "date": "2024-02-03",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-04 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-03T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7656598994",
+        "duration": {
+          "amount": 240,
+          "unit": "minute"
+        },
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-02 Fri.md"
+      },
+      {
+        "id": "7662176604",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 13,
+        "content": "정보처리기사 유튜브 강의 보면서 이론 공부하기 ⏫  ➕ 2024-02-04    ✅ 2024-02-04",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-04 Sun.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-04%20Sun.md)",
+        "isCompleted": true,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-04T04:06:43.038833Z",
+        "due": {
+          "date": "2024-02-03",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-04 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-03T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7662176604",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-04 Sun.md"
+      },
+      {
+        "id": "7662176218",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 13,
+        "content": "정보처리기사 필기 이론 공부하기    ⏫  ✅ 2024-02-03",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-03 Sat.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-03%20Sat.md)",
+        "isCompleted": true,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-04T04:06:12.556076Z",
+        "due": {
+          "date": "2024-02-02",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-03 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-02T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7662176218",
+        "duration": {
+          "amount": 60,
+          "unit": "minute"
+        },
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-03 Sat.md"
+      },
+      {
+        "id": "7662736275",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 14,
+        "content": "커튼 달기  🔼    ✅ 2024-02-04",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-04 Sun.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-04%20Sun.md)",
+        "isCompleted": true,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-04T11:54:19.921994Z",
+        "due": {
+          "date": "2024-02-03",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-04 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-03T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7662736275",
+        "duration": {
+          "amount": 60,
+          "unit": "minute"
+        },
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-04 Sun.md"
+      },
+      {
+        "id": "7664641200",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 13,
+        "content": "Elasticsearch에서 사용할 검색 처리 프로세스 구상🏢 🛫 2024-02-02   ⏫",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-05 Mon.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-05%20Mon.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist",
+          "work"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-05T03:07:22.228962Z",
+        "due": {
+          "date": "2024-02-05",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-06 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-05T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7664641200",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-05 Mon.md"
+      },
+      {
+        "id": "7652586628",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 8,
+        "content": "에러 로그 확인하기 🛫 2024-02-01     ✅ 2024-02-01  ^23NO80ITPDKW0",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-01%20Thu.md)",
+        "isCompleted": true,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-01-31T23:44:08.503733Z",
+        "due": {
+          "date": "2024-01-31",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-01 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-01-31T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7652586628",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md"
+      },
+      {
+        "id": "7648955980",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 6,
+        "content": "차후 ES에 적용할 동의어 사전 구축🏢 🛫 2024-01-31     ⏫ \r ^2OXOLKKFLX400",
+        "description": "[remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/January/2024-01-31%20Wed.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist",
+          "work"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-01-30T23:47:33.200232Z",
+        "due": {
+          "date": "2024-02-02",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-03 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-02T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7648955980",
+        "duration": {
+          "amount": 12060,
+          "unit": "minute"
+        },
+        "path": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md"
+      },
+      {
+        "id": "7665047080",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 15,
+        "content": "한가위 점심 식사 예약  ⏫💗👪    ✅ 2024-02-05",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-05 Mon.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-05%20Mon.md)",
+        "isCompleted": true,
+        "labels": [
+          "family",
+          "love",
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-05T07:03:38.099461Z",
+        "due": {
+          "date": "2024-02-04",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-05 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-04T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7665047080",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-05 Mon.md"
+      },
+      {
+        "id": "7648960397",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 7,
+        "content": "상품명의 형태소 분절을 기반으로 상품 간 TF-IDF 알고리즘 이용하여 유사도 파악🏢 🛫 2024-01-31    ✅ 2024-01-31",
+        "description": "[remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/January/2024-01-31%20Wed.md)",
+        "isCompleted": true,
+        "labels": [
+          "todoist",
+          "work"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-01-30T23:49:36.494461Z",
+        "due": {
+          "date": "2024-01-31",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-01 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-01-31T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7648960397",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md"
+      },
+      {
+        "id": "7649128964",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 8,
+        "content": "MAKER_NM 기반으로 브랜드명 추출하여 사용자 사전 구축🏢 🛫 2024-01-31     ✅ 2024-01-31",
+        "description": "[remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/January/2024-01-31%20Wed.md)",
+        "isCompleted": true,
+        "labels": [
+          "todoist",
+          "work"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-01-31T01:36:45.883227Z",
+        "due": {
+          "date": "2024-01-31",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-01 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-01-31T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7649128964",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md"
+      },
+      {
+        "id": "7668803770",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 15,
+        "content": "Local Elasticsearch에 동의어 사전, nori token analyzer 적용 테스트 해보기🏢  ⏫    ✅ 2024-02-06",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-06 Tue.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-06%20Tue.md)",
+        "isCompleted": true,
+        "labels": [
+          "todoist",
+          "work"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-06T02:20:51.224529Z",
+        "due": {
+          "date": "2024-02-05",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-06 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-05T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7668803770",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-06 Tue.md"
+      },
+      {
+        "id": "7668422762",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 15,
+        "content": "고객 검색어 데이터 기반으로 동의어 사전 구축 🛫 2024-02-05  ⏫    ✅ 2024-02-06",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-06 Tue.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-06%20Tue.md)",
+        "isCompleted": true,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-05T22:51:55.833243Z",
+        "due": {
+          "date": "2024-02-04",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-05 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-04T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7668422762",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-06 Tue.md"
+      },
+      {
+        "id": "7669180111",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 15,
+        "content": "Local Elasticsearch에 사용자 사전 적용 테스트 해보기🏢      ✅ 2024-02-06",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-06 Tue.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-06%20Tue.md)",
+        "isCompleted": true,
+        "labels": [
+          "todoist",
+          "work"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-06T06:33:53.161104Z",
+        "due": {
+          "date": "2024-02-05",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-06 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-05T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7669180111",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-06 Tue.md"
+      },
+      {
+        "id": "7669181012",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 16,
+        "content": "검색어 - 실제 주문 데이터 자연어 비교 분석 방안 연구🏢     ✅ 2024-02-06",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-06 Tue.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-06%20Tue.md)",
+        "isCompleted": true,
+        "labels": [
+          "todoist",
+          "work"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-06T06:34:23.494567Z",
+        "due": {
+          "date": "2024-02-05",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-06 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-05T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7669181012",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-06 Tue.md"
+      },
+      {
+        "id": "7672207493",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 16,
+        "content": "손톱 정리하기     ✅ 2024-02-07",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-07 Wed.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-07%20Wed.md)",
+        "isCompleted": true,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-06T23:17:53.633094Z",
+        "due": {
+          "date": "2024-02-06",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-07 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-06T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7672207493",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-07 Wed.md"
+      },
+      {
+        "id": "7672208355",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 17,
+        "content": "내일 울산 갈 짐 챙기기  ⏫    ✅ 2024-02-07",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-07 Wed.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-07%20Wed.md)",
+        "isCompleted": true,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-06T23:18:27.720664Z",
+        "due": {
+          "date": "2024-02-06",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-07 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-06T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7672208355",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-07 Wed.md"
+      },
+      {
+        "id": "7675981849",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 18,
+        "content": "울산 갈 짐 마저 챙기기 ⏫     ✅ 2024-02-08",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-08 Thu.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-08%20Thu.md)",
+        "isCompleted": true,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-08T01:34:32.984016Z",
+        "due": {
+          "date": "2024-02-07",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-08 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-07T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7675981849",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-08 Thu.md"
+      },
+      {
+        "id": "7672190245",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 15,
+        "content": "에러로그 확인하기🏢   ⏫    ✅ 2024-02-07",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-07 Wed.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-07%20Wed.md)",
+        "isCompleted": true,
+        "labels": [
+          "todoist",
+          "work"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-06T23:08:21.842545Z",
+        "due": {
+          "date": "2024-02-06",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-07 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-06T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7672190245",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-07 Wed.md"
+      },
+      {
+        "id": "7690641292",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 15,
+        "content": "Elastic Cloud MySQL 연결 해보기🏢  ⏫",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-13 Tue.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-13%20Tue.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist",
+          "work"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-13T03:10:28.347637Z",
+        "due": {
+          "date": "2024-02-12",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-13 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-12T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7690641292",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-13 Tue.md"
+      }
+    ],
+    "events": [
+      {
+        "event_date": "2024-01-29T04:28:21.000000Z",
+        "event_type": "added",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "name": "Inbox",
+          "note_count": 0
+        },
+        "extra_data_id": 22872395110,
+        "id": 22786099244,
+        "initiator_id": null,
+        "object_id": "2327705031",
+        "object_type": "project",
+        "parent_item_id": null,
+        "parent_project_id": null
+      },
+      {
+        "event_date": "2024-01-30T07:03:53.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "유산균 1알 먹기 🔼 🔁 every day  동하기 🔼 🔁 every day",
+          "last_content": "유산균 1알 먹기 🔼 🔁 every day",
+          "note_count": 0
+        },
+        "extra_data_id": 22887562229,
+        "id": 22801265753,
+        "initiator_id": null,
+        "object_id": "7645847490",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T11:07:25.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "정보처리기사 필기 유튜브 강의 들으면서 공부하기",
+          "due_date": "2024-01-29T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22889932985,
+        "id": 22803636483,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T12:16:51.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "옵시디언 기능 추가하면서 template 작성하기",
+          "due_date": "2024-01-29T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22890656189,
+        "id": 22804359679,
+        "initiator_id": null,
+        "object_id": "7646805186",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T12:47:54.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "옵시디언 기능 추가하면서 template 작성하기     ✅ 2024-01-30",
+          "note_count": 0
+        },
+        "extra_data_id": 22890995886,
+        "id": 22804699370,
+        "initiator_id": null,
+        "object_id": "7646805186",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T12:47:51.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "옵시디언 기능 추가하면서 template 작성하기     ✅ 2024-01-30",
+          "last_content": "옵시디언 기능 추가하면서 template 작성하기",
+          "note_count": 0
+        },
+        "extra_data_id": 22890995813,
+        "id": 22804699299,
+        "initiator_id": null,
+        "object_id": "7646805186",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T13:40:17.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [x]💻 옵시디언 기능 추가하면서 template 작성하기     ✅ 2024-01-30",
+          "last_content": "옵시디언 기능 추가하면서 template 작성하기     ✅ 2024-01-30",
+          "note_count": 0
+        },
+        "extra_data_id": 22891612031,
+        "id": 22805315512,
+        "initiator_id": null,
+        "object_id": "7646805186",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T13:40:10.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [ ]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기",
+          "last_content": "정보처리기사 필기 유튜브 강의 들으면서 공부하기",
+          "note_count": 0
+        },
+        "extra_data_id": 22891610250,
+        "id": 22805313730,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T22:54:37.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [x]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-30",
+          "note_count": 0
+        },
+        "extra_data_id": 22897761925,
+        "id": 22811465343,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T22:54:29.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [x]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-31",
+          "note_count": 0
+        },
+        "extra_data_id": 22897761588,
+        "id": 22811465006,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T22:54:35.000000Z",
+        "event_type": "uncompleted",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [ ]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기",
+          "note_count": 0
+        },
+        "extra_data_id": 22897761568,
+        "id": 22811464985,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T22:54:43.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [x]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-30",
+          "last_content": "- [ ]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기",
+          "note_count": 0
+        },
+        "extra_data_id": 22897762358,
+        "id": 22811465779,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T22:54:39.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [ ]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기",
+          "last_content": "- [x]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-31",
+          "note_count": 0
+        },
+        "extra_data_id": 22897763349,
+        "id": 22811466778,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T22:54:37.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [x]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-31",
+          "last_content": "- [ ]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기",
+          "note_count": 0
+        },
+        "extra_data_id": 22897763085,
+        "id": 22811466503,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T23:00:55.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "정보처리기사 필기 유튜브 요약 강의 이론 숙지📓",
+          "due_date": "2024-01-30T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22897809422,
+        "id": 22811512842,
+        "initiator_id": null,
+        "object_id": "7648867625",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T23:00:25.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "Elasticsearch에 연관분석 적용 연구하기💻",
+          "due_date": "2024-01-30T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22897805452,
+        "id": 22811508872,
+        "initiator_id": null,
+        "object_id": "7648863212",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T23:00:25.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "Elasticsearch에 연관분석 적용 연구하기💻",
+          "last_content": "Elasticsearch에 연관분석 적용 연구하기💻 🛫 2024-01-31",
+          "note_count": 0
+        },
+        "extra_data_id": 22897805449,
+        "id": 22811508870,
+        "initiator_id": null,
+        "object_id": "7648863212",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T22:59:46.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "개인 운동🏋️ 등, 코어 위주    ⏫",
+          "due_date": "2024-01-30T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22897800583,
+        "id": 22811504004,
+        "initiator_id": null,
+        "object_id": "7648865241",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T22:59:46.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "개인 운동🏋️ 등, 코어 위주    ⏫",
+          "last_content": "개인 운동🏋️ 등, 코어 위주",
+          "note_count": 0
+        },
+        "extra_data_id": 22897800582,
+        "id": 22811504002,
+        "initiator_id": null,
+        "object_id": "7648865241",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T22:59:11.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [ ]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-30",
+          "last_content": "- [x]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-30",
+          "note_count": 0
+        },
+        "extra_data_id": 22897796612,
+        "id": 22811500032,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T23:04:28.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [x]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-39",
+          "note_count": 0
+        },
+        "extra_data_id": 22897837191,
+        "id": 22811540611,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T23:04:12.000000Z",
+        "event_type": "uncompleted",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [ ]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-30",
+          "note_count": 0
+        },
+        "extra_data_id": 22897835263,
+        "id": 22811538684,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T23:04:30.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [x]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-30",
+          "last_content": "- [x]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-39",
+          "note_count": 0
+        },
+        "extra_data_id": 22897837457,
+        "id": 22811540877,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T23:04:27.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [x]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-39",
+          "last_content": "- [ ]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-30",
+          "note_count": 0
+        },
+        "extra_data_id": 22897837084,
+        "id": 22811540508,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T23:09:42.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [ ]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기",
+          "last_content": "- [ ]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-30",
+          "note_count": 0
+        },
+        "extra_data_id": 22897874775,
+        "id": 22811578196,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T23:09:11.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [ ]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-30",
+          "last_content": "- [x]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-30",
+          "note_count": 0
+        },
+        "extra_data_id": 22897871025,
+        "id": 22811574445,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T23:14:10.000000Z",
+        "event_type": "uncompleted",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [ ]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기",
+          "note_count": 0
+        },
+        "extra_data_id": 22897906001,
+        "id": 22811609421,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T23:20:21.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [x]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-31",
+          "note_count": 0
+        },
+        "extra_data_id": 22897948583,
+        "id": 22811652004,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T23:20:20.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [x]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-31",
+          "last_content": "- [ ]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기",
+          "note_count": 0
+        },
+        "extra_data_id": 22897948453,
+        "id": 22811651874,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T23:30:07.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [ ]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-31",
+          "last_content": "- [x]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-31",
+          "note_count": 0
+        },
+        "extra_data_id": 22898016116,
+        "id": 22811719536,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T23:37:13.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0; Todoist/5134",
+          "content": "- [x]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-31",
+          "note_count": 0
+        },
+        "extra_data_id": 22898066655,
+        "id": 22811770078,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T23:35:07.000000Z",
+        "event_type": "uncompleted",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [x]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-31",
+          "note_count": 0
+        },
+        "extra_data_id": 22898053127,
+        "id": 22811756547,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T23:34:09.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [x]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-31",
+          "last_content": "- [ ]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-31",
+          "note_count": 0
+        },
+        "extra_data_id": 22898045338,
+        "id": 22811748758,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T23:41:01.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [ ]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-31",
+          "last_content": "- [x]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-31",
+          "note_count": 0
+        },
+        "extra_data_id": 22898091964,
+        "id": 22811795384,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T23:48:26.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0; Todoist/5134",
+          "content": "- [ ]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기",
+          "note_count": 0
+        },
+        "extra_data_id": 22898138247,
+        "id": 22811841668,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T23:46:00.000000Z",
+        "event_type": "uncompleted",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [ ]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-31",
+          "note_count": 0
+        },
+        "extra_data_id": 22898122796,
+        "id": 22811826215,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T23:50:06.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [ ]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-31",
+          "last_content": "- [ ]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기",
+          "note_count": 0
+        },
+        "extra_data_id": 22898149998,
+        "id": 22811853417,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T23:49:41.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "상품명의 형태소 분절을 기반으로 상품 간 TF-IDF 알고리즘 이용하여 유사도 파악🏢 🛫 2024-01-31",
+          "due_date": "2024-01-31T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22898147050,
+        "id": 22811850470,
+        "initiator_id": null,
+        "object_id": "7648960397",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T23:48:22.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [ ]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기",
+          "last_content": "- [ ]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-31",
+          "note_count": 0
+        },
+        "extra_data_id": 22898137919,
+        "id": 22811841340,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T23:47:53.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "차후 ES에 적용할 동의어 사전 구축🏢 🛫 2024-01-31",
+          "last_content": "차후 ES에 적용할 동의어 사전 구축 🛫 2024-01-31",
+          "note_count": 0
+        },
+        "extra_data_id": 22898134834,
+        "id": 22811838254,
+        "initiator_id": null,
+        "object_id": "7648955980",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T23:47:53.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "차후 ES에 적용할 동의어 사전 구축🏢 🛫 2024-01-31",
+          "due_date": "2024-02-02T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22898134833,
+        "id": 22811838253,
+        "initiator_id": null,
+        "object_id": "7648955980",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T23:51:42.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [x]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-31",
+          "note_count": 0
+        },
+        "extra_data_id": 22898161369,
+        "id": 22811864784,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T23:51:24.000000Z",
+        "event_type": "uncompleted",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [ ]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-30",
+          "note_count": 0
+        },
+        "extra_data_id": 22898159158,
+        "id": 22811862576,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T23:51:40.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [x]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-31",
+          "last_content": "- [ ]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-30",
+          "note_count": 0
+        },
+        "extra_data_id": 22898161040,
+        "id": 22811864460,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T23:51:23.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [ ]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-30",
+          "last_content": "- [ ]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-31",
+          "note_count": 0
+        },
+        "extra_data_id": 22898159016,
+        "id": 22811862434,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-30T23:56:01.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [ ]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-31",
+          "last_content": "- [x]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기    ✅ 2024-01-31",
+          "note_count": 0
+        },
+        "extra_data_id": 22898188565,
+        "id": 22811891985,
+        "initiator_id": null,
+        "object_id": "7646611043",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-31T00:05:18.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [ ]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기",
+          "due_date": "2024-01-29T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22898249199,
+        "id": 22811952618,
+        "initiator_id": null,
+        "object_id": "7648986755",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-31T00:06:06.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [x]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기     ✅ 2024-01-31",
+          "note_count": 0
+        },
+        "extra_data_id": 22898255699,
+        "id": 22811959119,
+        "initiator_id": null,
+        "object_id": "7648986755",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-31T00:06:01.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [x]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기     ✅ 2024-01-31",
+          "last_content": "- [ ]📓 정보처리기사 필기 유튜브 강의 들으면서 공부하기",
+          "note_count": 0
+        },
+        "extra_data_id": 22898255099,
+        "id": 22811958519,
+        "initiator_id": null,
+        "object_id": "7648986755",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-31T01:36:53.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "MAKER_NM 기반으로 브랜드명 추출하여 사용자 사전 구축🏢 🛫 2024-01-31",
+          "due_date": "2024-01-31T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22898829331,
+        "id": 22812532748,
+        "initiator_id": null,
+        "object_id": "7649128964",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-31T03:06:03.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "정보처리기사 필기 유튜브 요약 강의 이론 숙지📓     ✅ 2024-01-31",
+          "note_count": 0
+        },
+        "extra_data_id": 22899342108,
+        "id": 22813045526,
+        "initiator_id": null,
+        "object_id": "7648867625",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-31T03:06:01.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "정보처리기사 필기 유튜브 요약 강의 이론 숙지📓     ✅ 2024-01-31",
+          "last_content": "정보처리기사 필기 유튜브 요약 강의 이론 숙지📓",
+          "note_count": 0
+        },
+        "extra_data_id": 22899341918,
+        "id": 22813045334,
+        "initiator_id": null,
+        "object_id": "7648867625",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-31T07:00:46.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "상품명의 형태소 분절을 기반으로 상품 간 TF-IDF 알고리즘 이용하여 유사도 파악🏢 🛫 2024-01-31    ✅ 2024-01-31",
+          "note_count": 0
+        },
+        "extra_data_id": 22900762820,
+        "id": 22814466237,
+        "initiator_id": null,
+        "object_id": "7648960397",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-31T07:00:44.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "상품명의 형태소 분절을 기반으로 상품 간 TF-IDF 알고리즘 이용하여 유사도 파악🏢 🛫 2024-01-31    ✅ 2024-01-31",
+          "last_content": "상품명의 형태소 분절을 기반으로 상품 간 TF-IDF 알고리즘 이용하여 유사도 파악🏢 🛫 2024-01-31",
+          "note_count": 0
+        },
+        "extra_data_id": 22900762577,
+        "id": 22814465991,
+        "initiator_id": null,
+        "object_id": "7648960397",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-31T07:02:20.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "MAKER_NM 기반으로 브랜드명 추출하여 사용자 사전 구축🏢 🛫 2024-01-31     ✅ 2024-01-31",
+          "note_count": 0
+        },
+        "extra_data_id": 22900775347,
+        "id": 22814478764,
+        "initiator_id": null,
+        "object_id": "7649128964",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-31T07:02:18.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "MAKER_NM 기반으로 브랜드명 추출하여 사용자 사전 구축🏢 🛫 2024-01-31     ✅ 2024-01-31",
+          "last_content": "MAKER_NM 기반으로 브랜드명 추출하여 사용자 사전 구축🏢 🛫 2024-01-31",
+          "note_count": 0
+        },
+        "extra_data_id": 22900775218,
+        "id": 22814478630,
+        "initiator_id": null,
+        "object_id": "7649128964",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-31T07:56:12.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "Elasticsearch에 필요한 것: 동의어 사전, 사용자 사전, 불용어 사전 🛫 2024-01-31  🔼",
+          "due_date": "2024-02-05T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22901245905,
+        "id": 22814949318,
+        "initiator_id": null,
+        "object_id": "7649771982",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-31T23:21:00.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "개인 운동🏋️ 등, 코어 위주     ⏫ ✅ 2024-01-31",
+          "note_count": 0
+        },
+        "extra_data_id": 22911081648,
+        "id": 22824784954,
+        "initiator_id": null,
+        "object_id": "7648865241",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-31T23:20:59.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "개인 운동🏋️ 등, 코어 위주     ⏫ ✅ 2024-01-31",
+          "last_content": "개인 운동🏋️ 등, 코어 위주    ⏫",
+          "note_count": 0
+        },
+        "extra_data_id": 22911081451,
+        "id": 22824784757,
+        "initiator_id": null,
+        "object_id": "7648865241",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-31T23:44:57.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "에러 로그 확인하기 🛫 2024-02-01",
+          "last_content": "에러 로그 확인하기",
+          "note_count": 0
+        },
+        "extra_data_id": 22911245735,
+        "id": 22824949041,
+        "initiator_id": null,
+        "object_id": "7652586628",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-01-31T23:44:11.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "에러 로그 확인하기",
+          "due_date": "2024-01-31T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22911240935,
+        "id": 22824944241,
+        "initiator_id": null,
+        "object_id": "7652586628",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-01T01:03:24.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "정보처리기사 필기 이론 유튜브 강의  ⏫",
+          "due_date": "2024-01-31T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22911740106,
+        "id": 22825443412,
+        "initiator_id": null,
+        "object_id": "7652754054",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-01T01:03:02.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "자산형성지원 콜센터 (1522-3690) 적립금 미지급 확인 전화",
+          "due_date": "2024-01-31T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22911737909,
+        "id": 22825441215,
+        "initiator_id": null,
+        "object_id": "7652753522",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-01T02:55:31.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "에러 로그 확인하기 🛫 2024-02-01     ✅ 2024-02-01",
+          "note_count": 0
+        },
+        "extra_data_id": 22912387625,
+        "id": 22826090929,
+        "initiator_id": null,
+        "object_id": "7652586628",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-01T02:55:29.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "에러 로그 확인하기 🛫 2024-02-01     ✅ 2024-02-01",
+          "last_content": "에러 로그 확인하기 🛫 2024-02-01",
+          "note_count": 0
+        },
+        "extra_data_id": 22912387467,
+        "id": 22826090771,
+        "initiator_id": null,
+        "object_id": "7652586628",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-01T05:25:10.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [ ]💻 항공 교역하기  21:00🔼",
+          "due_date": "2024-01-31T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22913196495,
+        "id": 22826899797,
+        "initiator_id": null,
+        "object_id": "7653142848",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-01T05:25:10.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [ ]💻 항공 교역하기  21:00🔼",
+          "last_content": "- [ ]💻 항공 교역하기 ⏳ 2024-02-01 21:00 🔼",
+          "note_count": 0
+        },
+        "extra_data_id": 22913196478,
+        "id": 22826899779,
+        "initiator_id": null,
+        "object_id": "7653142848",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-01T05:23:55.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [ ]💻 항공 교역하기 ⏳ 2024-02-01 21:00 🔼",
+          "last_content": "- [ ]💻 항공 교역하기 ⏳ 2024-02-01 09:00 🔼",
+          "note_count": 0
+        },
+        "extra_data_id": 22913189410,
+        "id": 22826892713,
+        "initiator_id": null,
+        "object_id": "7653142848",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-01T05:26:54.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [ ]💻 항공 교역하기  🔼",
+          "last_content": "- [ ]💻 항공 교역하기  21:00 🔼",
+          "note_count": 0
+        },
+        "extra_data_id": 22913205832,
+        "id": 22826909135,
+        "initiator_id": null,
+        "object_id": "7653142848",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-01T05:26:46.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [ ]💻 항공 교역하기  21:00 🔼",
+          "last_content": "- [ ]💻 항공 교역하기  21:00🔼",
+          "note_count": 0
+        },
+        "extra_data_id": 22913205569,
+        "id": 22826908872,
+        "initiator_id": null,
+        "object_id": "7653142848",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-01T10:41:18.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "Elasticsearch에 연관분석 적용 연구하기💻     ✅ 2024-02-01",
+          "note_count": 0
+        },
+        "extra_data_id": 22915904625,
+        "id": 22829607877,
+        "initiator_id": null,
+        "object_id": "7648863212",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-01T10:41:16.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "Elasticsearch에 연관분석 적용 연구하기💻     ✅ 2024-02-01",
+          "last_content": "Elasticsearch에 연관분석 적용 연구하기💻",
+          "note_count": 0
+        },
+        "extra_data_id": 22915904383,
+        "id": 22829607636,
+        "initiator_id": null,
+        "object_id": "7648863212",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-01T13:20:08.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [x]💻 항공 교역하기  🔼    ✅ 2024-02-01",
+          "note_count": 0
+        },
+        "extra_data_id": 22917558103,
+        "id": 22831261338,
+        "initiator_id": null,
+        "object_id": "7653142848",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-01T13:21:18.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [x]💻 항공 교역하기  🔼",
+          "last_content": "- [x]💻 항공 교역하기  🔼    ✅ 2024-02-01",
+          "note_count": 0
+        },
+        "extra_data_id": 22917575231,
+        "id": 22831278466,
+        "initiator_id": null,
+        "object_id": "7653142848",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-01T13:20:05.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "- [x]💻 항공 교역하기  🔼    ✅ 2024-02-01",
+          "last_content": "- [ ]💻 항공 교역하기  🔼",
+          "note_count": 0
+        },
+        "extra_data_id": 22917558149,
+        "id": 22831261386,
+        "initiator_id": null,
+        "object_id": "7653142848",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-01T22:53:12.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "정보처리기사 필기 이론 유튜브 강의  ⏫    ✅ 2024-02-01",
+          "note_count": 0
+        },
+        "extra_data_id": 22923701296,
+        "id": 22837404487,
+        "initiator_id": null,
+        "object_id": "7652754054",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-01T22:53:11.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "정보처리기사 필기 이론 유튜브 강의  ⏫    ✅ 2024-02-01",
+          "last_content": "정보처리기사 필기 이론 유튜브 강의  ⏫",
+          "note_count": 0
+        },
+        "extra_data_id": 22923701189,
+        "id": 22837404388,
+        "initiator_id": null,
+        "object_id": "7652754054",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-02T03:10:59.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "자산형성지원 콜센터 (1522-3690) 적립금 미지급 확인 전화     ✅ 2024-02-02",
+          "note_count": 0
+        },
+        "extra_data_id": 22925226429,
+        "id": 22838929622,
+        "initiator_id": null,
+        "object_id": "7652753522",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-02T03:10:58.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "자산형성지원 콜센터 (1522-3690) 적립금 미지급 확인 전화     ✅ 2024-02-02",
+          "last_content": "자산형성지원 콜센터 (1522-3690) 적립금 미지급 확인 전화",
+          "note_count": 0
+        },
+        "extra_data_id": 22925226298,
+        "id": 22838929487,
+        "initiator_id": null,
+        "object_id": "7652753522",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-02T03:09:01.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "동우랑 놀기💻  🛫 2024-02-02",
+          "due_date": "2024-02-03T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22925215983,
+        "id": 22838919173,
+        "initiator_id": null,
+        "object_id": "7656598994",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-02T03:09:01.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "동우랑 놀기💻  🛫 2024-02-02",
+          "last_content": "동우랑 놀기 🛫 2024-02-02",
+          "note_count": 0
+        },
+        "extra_data_id": 22925215979,
+        "id": 22838919169,
+        "initiator_id": null,
+        "object_id": "7656598994",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-02T04:13:55.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "일기 쓰기",
+          "due_date": "2024-02-01T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22925531630,
+        "id": 22839234818,
+        "initiator_id": null,
+        "object_id": "7656678598",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-02T05:49:38.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "정보처리기사 필기 유튜브 강의 이론 공부하기📓",
+          "last_content": "정보처리기사 필기 유튜브 강의 이론 공부하기",
+          "note_count": 0
+        },
+        "extra_data_id": 22926036901,
+        "id": 22839740089,
+        "initiator_id": null,
+        "object_id": "7656814991",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-02T05:49:38.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "정보처리기사 필기 유튜브 강의 이론 공부하기📓",
+          "due_date": "2024-02-01T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22926036367,
+        "id": 22839739556,
+        "initiator_id": null,
+        "object_id": "7656814991",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-02T05:49:19.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "저녁 먹고 레모나 꼭 먹기",
+          "due_date": "2024-02-01T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22926035413,
+        "id": 22839738601,
+        "initiator_id": null,
+        "object_id": "7656814673",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-02T10:05:23.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "동우랑 놀기💻  🛫 2024-02-02     ✅ 2024-02-02",
+          "note_count": 0
+        },
+        "extra_data_id": 22928228909,
+        "id": 22841932093,
+        "initiator_id": null,
+        "object_id": "7656598994",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-02T10:05:21.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "동우랑 놀기💻  🛫 2024-02-02     ✅ 2024-02-02",
+          "last_content": "동우랑 놀기💻  🛫 2024-02-02",
+          "note_count": 0
+        },
+        "extra_data_id": 22928228697,
+        "id": 22841931881,
+        "initiator_id": null,
+        "object_id": "7656598994",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-03T08:04:49.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "정보처리기사 필기 유튜브 강의 이론 공부하기📓      ✅ 2024-02-03",
+          "note_count": 0
+        },
+        "extra_data_id": 22938029353,
+        "id": 22851732451,
+        "initiator_id": null,
+        "object_id": "7656814991",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-03T08:04:47.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "정보처리기사 필기 유튜브 강의 이론 공부하기📓      ✅ 2024-02-03",
+          "last_content": "정보처리기사 필기 유튜브 강의 이론 공부하기📓",
+          "note_count": 0
+        },
+        "extra_data_id": 22938029254,
+        "id": 22851732352,
+        "initiator_id": null,
+        "object_id": "7656814991",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-04T04:02:44.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "Elasticsearch에 필요한 것: 동의어 사전, 사용자 사전, 불용어 사전 🛫 2024-01-31  ⏫",
+          "last_content": "Elasticsearch에 필요한 것: 동의어 사전, 사용자 사전, 불용어 사전 🛫 2024-01-31  🔼",
+          "note_count": 0
+        },
+        "extra_data_id": 22944740977,
+        "id": 22858444066,
+        "initiator_id": null,
+        "object_id": "7649771982",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-04T04:02:16.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "저녁 먹고 레모나 꼭 먹기     🔽",
+          "last_content": "저녁 먹고 레모나 꼭 먹기",
+          "note_count": 0
+        },
+        "extra_data_id": 22944739684,
+        "id": 22858442772,
+        "initiator_id": null,
+        "object_id": "7656814673",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-04T04:06:33.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "정보처리기사 필기 이론 공부하기     ⏫",
+          "note_count": 0
+        },
+        "extra_data_id": 22944753288,
+        "id": 22858456377,
+        "initiator_id": null,
+        "object_id": "7662176218",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-04T04:06:47.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "정보처리기사 유튜브 강의 보면서 이론 공부하기 ⏫  ➕ 2024-02-04",
+          "due_date": "2024-02-03T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22944753979,
+        "id": 22858457068,
+        "initiator_id": null,
+        "object_id": "7662176604",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-04T04:06:32.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "App (Amazon Alexa Skill)",
+          "content": "정보처리기사 필기 이론 공부하기     ⏫",
+          "last_content": "정보처리기사 필기 이론 공부하기    ⏫  ✅ 2024-02-03",
+          "note_count": 0
+        },
+        "extra_data_id": 22944753248,
+        "id": 22858456337,
+        "initiator_id": null,
+        "object_id": "7662176218",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-04T04:06:31.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "정보처리기사 필기 이론 공부하기    ⏫  ✅ 2024-02-03",
+          "last_content": "정보처리기사 필기 이론 공부하기     ⏫",
+          "note_count": 0
+        },
+        "extra_data_id": 22944753200,
+        "id": 22858456289,
+        "initiator_id": null,
+        "object_id": "7662176218",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-04T04:06:30.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "정보처리기사 필기 이론 공부하기     ⏫",
+          "due_date": "2024-02-02T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22944753124,
+        "id": 22858456214,
+        "initiator_id": null,
+        "object_id": "7662176218",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-04T04:06:30.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "정보처리기사 필기 이론 공부하기     ⏫",
+          "last_content": "정보처리기사 필기 이론 공부하기",
+          "note_count": 0
+        },
+        "extra_data_id": 22944753125,
+        "id": 22858456213,
+        "initiator_id": null,
+        "object_id": "7662176218",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-04T04:03:26.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "Elasticsearch에 필요한 것: 동의어 사전, 사용자 사전, 불용어 사전 🛫 2024-01-31      ⏫",
+          "last_content": "Elasticsearch에 필요한 것: 동의어 사전, 사용자 사전, 불용어 사전 🛫 2024-01-31  ⏫",
+          "note_count": 0
+        },
+        "extra_data_id": 22944743091,
+        "id": 22858446180,
+        "initiator_id": null,
+        "object_id": "7649771982",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-04T04:02:54.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "일기 쓰기     🔽",
+          "last_content": "일기 쓰기",
+          "note_count": 0
+        },
+        "extra_data_id": 22944741445,
+        "id": 22858444535,
+        "initiator_id": null,
+        "object_id": "7656678598",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-04T04:02:52.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "차후 ES에 적용할 동의어 사전 구축🏢 🛫 2024-01-31     ⏫",
+          "last_content": "차후 ES에 적용할 동의어 사전 구축🏢 🛫 2024-01-31",
+          "note_count": 0
+        },
+        "extra_data_id": 22944741366,
+        "id": 22858444456,
+        "initiator_id": null,
+        "object_id": "7648955980",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-04T04:07:52.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "정보처리기사 필기 이론 공부하기    ⏫  ✅ 2024-02-03",
+          "last_content": "정보처리기사 필기 이론 공부하기     ⏫",
+          "note_count": 0
+        },
+        "extra_data_id": 22944757054,
+        "id": 22858460143,
+        "initiator_id": null,
+        "object_id": "7662176218",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-04T06:01:08.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "App (Amazon Alexa Skill)",
+          "content": "동우랑 놀기💻  🛫 2024-02-02     ✅ 2024-02-02",
+          "due_date": "2024-02-04T02:00:00.000000Z",
+          "last_due_date": "2024-02-03T23:00:00.000000Z",
+          "note_count": 0
+        },
+        "extra_data_id": 22945116158,
+        "id": 22858819246,
+        "initiator_id": null,
+        "object_id": "7656598994",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-04T11:03:15.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "동우랑 놀기💻  🛫 2024-02-02     ✅ 2024-02-02",
+          "due_date": "2024-02-03T23:00:00.000000Z",
+          "last_due_date": "2024-02-04T02:00:00.000000Z",
+          "note_count": 0
+        },
+        "extra_data_id": 22946504046,
+        "id": 22860207134,
+        "initiator_id": null,
+        "object_id": "7656598994",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-04T11:54:25.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "정보처리기사 유튜브 강의 보면서 이론 공부하기 ⏫  ➕ 2024-02-04    ✅ 2024-02-04",
+          "note_count": 0
+        },
+        "extra_data_id": 22946785647,
+        "id": 22860488734,
+        "initiator_id": null,
+        "object_id": "7662176604",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-04T11:54:26.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "커튼 달기  🔼",
+          "due_date": "2024-02-03T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22946785794,
+        "id": 22860488882,
+        "initiator_id": null,
+        "object_id": "7662736275",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-04T11:54:23.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "정보처리기사 유튜브 강의 보면서 이론 공부하기 ⏫  ➕ 2024-02-04    ✅ 2024-02-04",
+          "last_content": "정보처리기사 유튜브 강의 보면서 이론 공부하기 ⏫  ➕ 2024-02-04",
+          "note_count": 0
+        },
+        "extra_data_id": 22946785622,
+        "id": 22860488708,
+        "initiator_id": null,
+        "object_id": "7662176604",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-04T11:58:30.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "커튼 달기  🔼    ✅ 2024-02-04",
+          "note_count": 0
+        },
+        "extra_data_id": 22946810396,
+        "id": 22860513482,
+        "initiator_id": null,
+        "object_id": "7662736275",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-04T11:58:28.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "커튼 달기  🔼    ✅ 2024-02-04",
+          "last_content": "커튼 달기  🔼",
+          "note_count": 0
+        },
+        "extra_data_id": 22946810206,
+        "id": 22860513292,
+        "initiator_id": null,
+        "object_id": "7662736275",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-04T13:26:05.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "App (Amazon Alexa Skill)",
+          "content": "정보처리기사 필기 이론 공부하기    ⏫  ✅ 2024-02-03",
+          "description": "[remoteBrain/Daily-Docs/2024/2024-02-03 Sat.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/2024-02-03%20Sat.md)",
+          "last_description": "[remoteBrain/Daily-Docs/2024/February/2024-02-03 Sat.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-03%20Sat.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22947355245,
+        "id": 22861058332,
+        "initiator_id": null,
+        "object_id": "7662176218",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-04T13:26:04.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "정보처리기사 필기 이론 공부하기    ⏫  ✅ 2024-02-03",
+          "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-03 Sat.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-03%20Sat.md)",
+          "last_description": "[remoteBrain/Daily-Docs/2024/2024-02-03 Sat.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/2024-02-03%20Sat.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22947355130,
+        "id": 22861058217,
+        "initiator_id": null,
+        "object_id": "7662176218",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-04T13:26:01.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "정보처리기사 필기 이론 공부하기    ⏫  ✅ 2024-02-03",
+          "description": "[remoteBrain/Daily-Docs/2024/2024-02-03 Sat.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/2024-02-03%20Sat.md)",
+          "last_description": "[remoteBrain/Daily-Docs/2024/February/2024-02-03 Sat.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-03%20Sat.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22947354754,
+        "id": 22861057843,
+        "initiator_id": null,
+        "object_id": "7662176218",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-04T23:12:55.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "content": "커튼 달기  🔼    ✅ 2024-02-04",
+          "due_date": "2024-02-04T07:00:00.000000Z",
+          "last_due_date": "2024-02-03T23:00:00.000000Z",
+          "note_count": 0
+        },
+        "extra_data_id": 22951902048,
+        "id": 22865605126,
+        "initiator_id": null,
+        "object_id": "7662736275",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-04T23:13:41.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "커튼 달기  🔼    ✅ 2024-02-04",
+          "due_date": "2024-02-03T23:00:00.000000Z",
+          "last_due_date": "2024-02-04T07:00:00.000000Z",
+          "note_count": 0
+        },
+        "extra_data_id": 22951907704,
+        "id": 22865610783,
+        "initiator_id": null,
+        "object_id": "7662736275",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-05T07:04:08.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "한가위 점심 식사 예약  ⏫💗👪    ✅ 2024-02-05",
+          "note_count": 0
+        },
+        "extra_data_id": 22954950632,
+        "id": 22868653706,
+        "initiator_id": null,
+        "object_id": "7665047080",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-06T02:20:14.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "고객 검색어 데이터 기반으로 동의어 사전 구축 🛫 2024-02-05  ⏫    ✅ 2024-02-06",
+          "note_count": 0
+        },
+        "extra_data_id": 22967550661,
+        "id": 22881253604,
+        "initiator_id": null,
+        "object_id": "7668422762",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-06T04:12:07.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "Local Elasticsearch에 동의어 사전, nori token analyzer 적용 테스트 해보기🏢  ⏫    ✅ 2024-02-06",
+          "note_count": 0
+        },
+        "extra_data_id": 22968159852,
+        "id": 22881862795,
+        "initiator_id": null,
+        "object_id": "7668803770",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-06T06:35:33.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "Local Elasticsearch에 사용자 사전 적용 테스트 해보기🏢      ✅ 2024-02-06",
+          "note_count": 0
+        },
+        "extra_data_id": 22969022749,
+        "id": 22882725695,
+        "initiator_id": null,
+        "object_id": "7669180111",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-06T22:56:43.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "검색어 - 실제 주문 데이터 자연어 비교 분석 방안 연구🏢     ✅ 2024-02-06",
+          "note_count": 0
+        },
+        "extra_data_id": 22979381910,
+        "id": 22893084686,
+        "initiator_id": null,
+        "object_id": "7669181012",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-08T01:32:48.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "손톱 정리하기     ✅ 2024-02-07",
+          "note_count": 0
+        },
+        "extra_data_id": 22992972251,
+        "id": 22906674929,
+        "initiator_id": null,
+        "object_id": "7672207493",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-07T06:48:24.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "에러로그 확인하기🏢   ⏫    ✅ 2024-02-07",
+          "note_count": 0
+        },
+        "extra_data_id": 22982156028,
+        "id": 22895858797,
+        "initiator_id": null,
+        "object_id": "7672190245",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-08T01:37:46.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "내일 울산 갈 짐 챙기기  ⏫    ✅ 2024-02-07",
+          "note_count": 0
+        },
+        "extra_data_id": 22993002058,
+        "id": 22906704735,
+        "initiator_id": null,
+        "object_id": "7672208355",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-09T06:42:22.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "울산 갈 짐 마저 챙기기 ⏫     ✅ 2024-02-08",
+          "note_count": 0
+        },
+        "extra_data_id": 23006752289,
+        "id": 22920454854,
+        "initiator_id": null,
+        "object_id": "7675981849",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-09T06:42:22.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "울산 갈 짐 마저 챙기기 ⏫     ✅ 2024-02-08",
+          "last_content": "울산 갈 짐 마저 챙기기 ⏫",
+          "note_count": 0
+        },
+        "extra_data_id": 23006752227,
+        "id": 22920454792,
+        "initiator_id": null,
+        "object_id": "7675981849",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-08T01:37:44.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "울산 갈 짐 마저 챙기기 ⏫",
+          "due_date": "2024-02-07T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22993001955,
+        "id": 22906704633,
+        "initiator_id": null,
+        "object_id": "7675981849",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-08T01:37:42.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "내일 울산 갈 짐 챙기기  ⏫    ✅ 2024-02-07",
+          "last_content": "내일 울산 갈 짐 챙기기  ⏫",
+          "note_count": 0
+        },
+        "extra_data_id": 22993001724,
+        "id": 22906704402,
+        "initiator_id": null,
+        "object_id": "7672208355",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-08T01:32:46.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "손톱 정리하기     ✅ 2024-02-07",
+          "last_content": "손톱 정리하기",
+          "note_count": 0
+        },
+        "extra_data_id": 22992972086,
+        "id": 22906674764,
+        "initiator_id": null,
+        "object_id": "7672207493",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-07T08:25:25.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "MAKER_NM 기반으로 브랜드명 추출하여 사용자 사전 구축🏢 🛫 2024-01-31     ✅ 2024-01-31",
+          "last_content": "MAKER_NM 기반으로 브랜드명 추출하여 사용자 사전 구축🏢 🛫 2024-01-31     ✅ 2024-01-31\r ^CUAWZKZM2QG0",
+          "note_count": 0
+        },
+        "extra_data_id": 22982968864,
+        "id": 22896671626,
+        "initiator_id": null,
+        "object_id": "7649128964",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-07T07:39:41.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "상품명의 형태소 분절을 기반으로 상품 간 TF-IDF 알고리즘 이용하여 유사도 파악🏢 🛫 2024-01-31    ✅ 2024-01-31",
+          "last_content": "상품명의 형태소 분절을 기반으로 상품 간 TF-IDF 알고리즘 이용하여 유사도 파악🏢 🛫 2024-01-31    ✅ 2024-01-31\r ^SU0SZN4Y62O0",
+          "note_count": 0
+        },
+        "extra_data_id": 22982564395,
+        "id": 22896267156,
+        "initiator_id": null,
+        "object_id": "7648960397",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-07T06:48:22.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "에러로그 확인하기🏢   ⏫    ✅ 2024-02-07",
+          "last_content": "에러로그 확인하기🏢   ⏫",
+          "note_count": 0
+        },
+        "extra_data_id": 22982155242,
+        "id": 22895858012,
+        "initiator_id": null,
+        "object_id": "7672190245",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-06T23:18:30.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "내일 울산 갈 짐 챙기기  ⏫",
+          "due_date": "2024-02-06T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22979537587,
+        "id": 22893240361,
+        "initiator_id": null,
+        "object_id": "7672208355",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-06T23:17:56.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "손톱 정리하기",
+          "due_date": "2024-02-06T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22979533549,
+        "id": 22893236323,
+        "initiator_id": null,
+        "object_id": "7672207493",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-06T23:08:31.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "에러로그 확인하기🏢   ⏫",
+          "last_content": "에러로그 확인하기  ⏫",
+          "note_count": 0
+        },
+        "extra_data_id": 22979468615,
+        "id": 22893171388,
+        "initiator_id": null,
+        "object_id": "7672190245",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-06T23:08:31.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "에러로그 확인하기🏢   ⏫",
+          "due_date": "2024-02-06T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22979468588,
+        "id": 22893171363,
+        "initiator_id": null,
+        "object_id": "7672190245",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-06T22:56:41.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "검색어 - 실제 주문 데이터 자연어 비교 분석 방안 연구🏢     ✅ 2024-02-06",
+          "last_content": "검색어 - 실제 주문 데이터 자연어 비교 분석 방안 연구🏢",
+          "note_count": 0
+        },
+        "extra_data_id": 22979381733,
+        "id": 22893084508,
+        "initiator_id": null,
+        "object_id": "7669181012",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-06T06:35:34.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "Local Elasticsearch에 사용자 사전 적용 테스트 해보기🏢      ✅ 2024-02-06",
+          "last_content": "Local Elasticsearch에 사용자 사전 적용 테스트 해보기🏢",
+          "note_count": 0
+        },
+        "extra_data_id": 22969023024,
+        "id": 22882725964,
+        "initiator_id": null,
+        "object_id": "7669180111",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-06T06:34:41.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "검색어 - 실제 주문 데이터 자연어 비교 분석 방안 연구🏢",
+          "due_date": "2024-02-05T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22969018149,
+        "id": 22882721090,
+        "initiator_id": null,
+        "object_id": "7669181012",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-13T03:14:00.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "Elastic Cloud MySQL 연결 해보기🏢  ⏫",
+          "due_date": "2024-02-12T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 23045413721,
+        "id": 22959116021,
+        "initiator_id": null,
+        "object_id": "7690641292",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      }
+    ]
+  },
+  "fileMetadata": {
+    "remoteBrain/_template/daily.md": {
+      "defaultProjectId": "2327705031",
+      "todoistTasks": [],
+      "todoistCount": 0
+    },
+    "Untitled.md": {
+      "defaultProjectId": "2327705031",
+      "todoistTasks": [],
+      "todoistCount": 0
+    },
+    "remoteBrain/Daily-Docs/2024/January/2024-01-30 Tue.md": {
+      "todoistTasks": [
+        "7646805186",
+        "7648986755"
+      ],
+      "todoistCount": 2
+    },
+    "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md": {
+      "todoistTasks": [
+        "7648863212",
+        "7648865241",
+        "7648867625",
+        "7648955980",
+        "7648960397",
+        "7649128964",
+        "7649771982"
+      ],
+      "todoistCount": 7
+    },
+    "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md": {
+      "todoistTasks": [
+        "7652586628",
+        "7652753522",
+        "7652754054",
+        "7653142848"
+      ],
+      "todoistCount": 4
+    },
+    "remoteBrain/Daily-Docs/2024/February/2024-02-02 Fri.md": {
+      "todoistTasks": [
+        "7656598994",
+        "7656678598",
+        "7656814673",
+        "7656814991"
+      ],
+      "todoistCount": 4
+    },
+    "remoteBrain/Daily-Docs/2024/February/2024-02-04 Sun.md": {
+      "todoistTasks": [
+        "7662176604",
+        "7662736275"
+      ],
+      "todoistCount": 2
+    },
+    "remoteBrain/Daily-Docs/2024/February/2024-02-03 Sat.md": {
+      "todoistTasks": [
+        "7662176218"
+      ],
+      "todoistCount": 1
+    },
+    "remoteBrain/Daily-Docs/2024/February/2024-02-05 Mon.md": {
+      "todoistTasks": [
+        "7664641200",
+        "7665047080"
+      ],
+      "todoistCount": 2
+    },
+    "remoteBrain/Daily-Docs/2024/February/2024-02-06 Tue.md": {
+      "todoistTasks": [
+        "7668422762",
+        "7668803770",
+        "7669180111",
+        "7669181012"
+      ],
+      "todoistCount": 4
+    },
+    "remoteBrain/Daily-Docs/2024/February/2024-02-07 Wed.md": {
+      "todoistTasks": [
+        "7672190245",
+        "7672207493",
+        "7672208355"
+      ],
+      "todoistCount": 3
+    },
+    "remoteBrain/Daily-Docs/2024/February/2024-02-08 Thu.md": {
+      "todoistTasks": [
+        "7675981849"
+      ],
+      "todoistCount": 1
+    },
+    "remoteBrain/Daily-Docs/2024/February/2024-02-13 Tue.md": {
+      "todoistTasks": [
+        "7690641292"
+      ],
+      "todoistCount": 1
+    }
+  },
+  "enableFullVaultSync": false,
+  "statistics": {},
+  "debugMode": false,
+  "todoistAPIToken": "57d33e1b10d4d37a13f212786179e01d795e6360"
+}
