@@ -953,34 +953,35 @@
         "path": "remoteBrain/Daily-Docs/2024/February/2024-02-07 Wed.md"
       },
       {
-        "id": "7680027756",
+        "id": "7690641292",
         "assignerId": null,
         "assigneeId": null,
         "projectId": "2327705031",
         "sectionId": null,
         "parentId": null,
         "order": 15,
-        "content": "정보처리기사 필기 1과목 위주로 문제 풀이 및 오답노트 정리  ⏫    ✅ 2024-02-09",
-        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-09 Fri.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-09%20Fri.md)",
-        "isCompleted": true,
+        "content": "Elastic Cloud MySQL 연결 해보기🏢  ⏫",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-13 Tue.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-13%20Tue.md)",
+        "isCompleted": false,
         "labels": [
-          "todoist"
+          "todoist",
+          "work"
         ],
         "priority": 1,
         "commentCount": 0,
         "creatorId": "47987180",
-        "createdAt": "2024-02-09T08:35:02.449703Z",
+        "createdAt": "2024-02-13T03:10:28.347637Z",
         "due": {
-          "date": "2024-02-08",
+          "date": "2024-02-12",
           "timezone": "Asia/Seoul",
-          "string": "2024-02-09 08:00",
+          "string": "2024-02-13 08:00",
           "lang": "en",
           "isRecurring": false,
-          "datetime": "2024-02-08T23:00:00Z"
+          "datetime": "2024-02-12T23:00:00Z"
         },
-        "url": "https://todoist.com/showTask?id=7680027756",
+        "url": "https://todoist.com/showTask?id=7690641292",
         "duration": null,
-        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-09 Fri.md"
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-13 Tue.md"
       }
     ],
     "events": [
@@ -3047,24 +3048,6 @@
         "parent_project_id": "2327705031"
       },
       {
-        "event_date": "2024-02-09T08:39:57.000000Z",
-        "event_type": "updated",
-        "extra_data": {
-          "client": "Mozilla/5.0",
-          "content": "정보처리기사 필기 1과목 위주로 문제 풀이 및 오답노트 정리  ⏫",
-          "due_date": "2024-02-08T23:00:00.000000Z",
-          "last_due_date": null,
-          "note_count": 0
-        },
-        "extra_data_id": 23007662434,
-        "id": 22921364997,
-        "initiator_id": null,
-        "object_id": "7680027756",
-        "object_type": "item",
-        "parent_item_id": null,
-        "parent_project_id": "2327705031"
-      },
-      {
         "event_date": "2024-02-09T06:42:22.000000Z",
         "event_type": "updated",
         "extra_data": {
@@ -3308,69 +3291,19 @@
         "parent_project_id": "2327705031"
       },
       {
-        "event_date": "2024-02-06T06:34:12.000000Z",
+        "event_date": "2024-02-13T03:14:00.000000Z",
         "event_type": "updated",
         "extra_data": {
           "client": "Mozilla/5.0",
-          "content": "Local Elasticsearch에 사용자 사전 적용 테스트 해보기🏢",
-          "due_date": "2024-02-05T23:00:00.000000Z",
+          "content": "Elastic Cloud MySQL 연결 해보기🏢  ⏫",
+          "due_date": "2024-02-12T23:00:00.000000Z",
           "last_due_date": null,
           "note_count": 0
         },
-        "extra_data_id": 22969015452,
-        "id": 22882718393,
+        "extra_data_id": 23045413721,
+        "id": 22959116021,
         "initiator_id": null,
-        "object_id": "7669180111",
-        "object_type": "item",
-        "parent_item_id": null,
-        "parent_project_id": "2327705031"
-      },
-      {
-        "event_date": "2024-02-09T16:44:19.000000Z",
-        "event_type": "completed",
-        "extra_data": {
-          "client": "Mozilla/5.0",
-          "content": "정보처리기사 필기 1과목 위주로 문제 풀이 및 오답노트 정리  ⏫    ✅ 2024-02-10",
-          "note_count": 0
-        },
-        "extra_data_id": 23012661486,
-        "id": 22926363965,
-        "initiator_id": null,
-        "object_id": "7680027756",
-        "object_type": "item",
-        "parent_item_id": null,
-        "parent_project_id": "2327705031"
-      },
-      {
-        "event_date": "2024-02-09T16:44:19.000000Z",
-        "event_type": "updated",
-        "extra_data": {
-          "client": "Mozilla/5.0",
-          "content": "정보처리기사 필기 1과목 위주로 문제 풀이 및 오답노트 정리  ⏫    ✅ 2024-02-09",
-          "last_content": "정보처리기사 필기 1과목 위주로 문제 풀이 및 오답노트 정리  ⏫    ✅ 2024-02-10",
-          "note_count": 0
-        },
-        "extra_data_id": 23012661585,
-        "id": 22926364064,
-        "initiator_id": null,
-        "object_id": "7680027756",
-        "object_type": "item",
-        "parent_item_id": null,
-        "parent_project_id": "2327705031"
-      },
-      {
-        "event_date": "2024-02-09T16:44:14.000000Z",
-        "event_type": "updated",
-        "extra_data": {
-          "client": "Mozilla/5.0",
-          "content": "정보처리기사 필기 1과목 위주로 문제 풀이 및 오답노트 정리  ⏫    ✅ 2024-02-10",
-          "last_content": "정보처리기사 필기 1과목 위주로 문제 풀이 및 오답노트 정리  ⏫",
-          "note_count": 0
-        },
-        "extra_data_id": 23012660681,
-        "id": 22926363160,
-        "initiator_id": null,
-        "object_id": "7680027756",
+        "object_id": "7690641292",
         "object_type": "item",
         "parent_item_id": null,
         "parent_project_id": "2327705031"
@@ -3468,9 +3401,9 @@
       ],
       "todoistCount": 1
     },
-    "remoteBrain/Daily-Docs/2024/February/2024-02-09 Fri.md": {
+    "remoteBrain/Daily-Docs/2024/February/2024-02-13 Tue.md": {
       "todoistTasks": [
-        "7680027756"
+        "7690641292"
       ],
       "todoistCount": 1
     }
