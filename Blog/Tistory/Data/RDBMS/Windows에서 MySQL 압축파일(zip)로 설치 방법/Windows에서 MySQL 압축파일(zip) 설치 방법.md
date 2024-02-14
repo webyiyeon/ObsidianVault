@@ -10,15 +10,12 @@
 ### MySQL 다운로드
 
 MySQL 공식 다운로드 페이지에서 **DOWNLOADS → MySQL Community Downloads → MySQL Community Server → 버전 선택, zip 파일 다운로드** 해준다.
-
-<img src="Untitled (6).png" alt="이미지 설명" style="width:400px;height:300px;">
-
-
-![[Untitled (6).png]]
+![[231227_1.png]]
 ![[Untitled (7).png]]
 ![[Untitled (8).png]]
 
 현재 글 작성일(2023년 12월 27일)에는 기존의 참고 블로그나 링크 캡쳐들과 웹사이트의 디자인이 조금 바뀌면서 혼돈이 올 수 있을 것 같아 화면 캡쳐 이미지를 첨부했다.
+
 ![[Untitled (9).png]]
 ![[Untitled.png]]
 
@@ -65,8 +62,9 @@ mysqld --initialize
 ![[Untitled (4).png]]
 작성 후 정상 작동 되었다면 `data`라는 폴더가 생성된 것을 확인할 수 있다.
 
-<aside> 💡 혹시 위 커맨드가 정상작동되지 않을 경우 파워쉘(powershell)로 작성하고 있는게 아닌지 확인하자.
 
+<aside> 
+💡 혹시 위 커맨드가 정상작동되지 않을 경우 파워쉘(powershell)로 작성하고 있는게 아닌지 확인하자.
 </aside>
 
 
@@ -114,5 +112,6 @@ mysql -u root -p
 ```
 
 비밀번호는 변경된 `새 비밀번호`를 입력한다. (당연히 이 때는 따옴표 없이 문자열만 입력해준다.)
+![[Untitled (15).png]]
 
-이제 MySQL 설치와 기본적인 설정을 완료했다! 쿼리도 공부하고, DB 스키마도 짜보고 이런저런 장난을 시작해보자.
+👍 이제 MySQL 설치와 기본적인 설정을 완료했다! 쿼리도 공부하고, DB 스키마도 짜보고 이런저런 장난을 시작해보자.

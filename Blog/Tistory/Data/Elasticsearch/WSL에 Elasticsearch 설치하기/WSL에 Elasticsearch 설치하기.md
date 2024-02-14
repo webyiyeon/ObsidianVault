@@ -60,7 +60,7 @@ sudo apt install openjdk-8-jdk
 
 설치 후 java 잘 설치되었는 지 확인
 
-![[230207_1.png]]
+![[240207_1.png]]
 
 ```
 java -version
@@ -103,7 +103,7 @@ sudo service elasticsearch **status**
 
 정상적으로 설치되었다면, sudo에 대한 password를 요구한 후 아래와 같이 진행될 것이다.
 
-![[230207_2.png]]
+![[240207_2.png]]
 
 나와 같이 WARNING이 뜨는 경우도 있을텐데 이 때는 말 그대로 ‘주의’ 정도 단계이기 때문에, 염두에 두고 작업을 이어가면 된다. (어떤 문제인지 기억은 해두자!)
 
@@ -115,11 +115,11 @@ curl -X GET localhost:9200
 
 elasticsearch는 기본적으로 port 9200에 설정되며, 위와 같이 localhost의 9200 port에 GET 접근한다는 커맨드를 입력하였을 때 정상 작동한다면 아래와 같이 elasticsearch의 버전 정보나 루씬의 버전 등에 대한 정보를 확인할 수 있다.
 
-![[230207_3.png]]
+![[240207_3.png]]
 
 web에서도 같은 요청을 하면, 같은 정보가 출력될 것이다.
 
-![[230207_4.png]]
+![[240207_4.png]]
 
 
 ### Kibana 설치
@@ -134,11 +134,11 @@ sudo apt-get install kibana
 sudo service kibana start
 ```
 
-![[230207_5.png]]
+![[240207_5.png]]
 
 Elasticsearch가 port 9200에서 열리듯, Kibana는 port 5601에서 열린다. [localhost:5601](http://localhost:5601) 에서 kibana 화면이 잘 실행되는지 들어가보자.
 
-![[230207_6.png]]
+![[240207_6.png]]
 
 
 ### Logstash 설정

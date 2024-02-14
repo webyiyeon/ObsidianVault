@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9a8d638745563e4a",
+        "id": "320eb4c5773751b1",
         "type": "tabs",
         "children": [
           {
-            "id": "5e8d9791cf6f2aac",
+            "id": "f592a9553618a3b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -166,20 +166,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5e8d9791cf6f2aac",
+  "active": "f592a9553618a3b2",
   "lastOpenFiles": [
+    "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/231227_1.png",
+    "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/Windows에서 MySQL 압축파일(zip) 설치 방법.md",
+    "Blog/Tistory/Data/Elasticsearch/WSL에 Elasticsearch 설치하기/240207_2.png",
+    "Untitled (15).png",
     "Untitled (14).png",
     "Untitled (13).png",
     "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/Untitled (7).png",
-    "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/Windows에서 MySQL 압축파일(zip) 설치 방법.md",
     "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/Untitled (5).png",
     "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/스크린샷 2023-12-27 085552.png",
     "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/Untitled.png",
     "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/Untitled (4).png",
-    "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/Untitled (3).png",
-    "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/Untitled (2).png",
-    "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/Untitled (1).png",
-    "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/Untitled (12).png",
     "remoteBrain/Daily-Docs/2024/February/2024-02-15 Thu.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-14 Wed.md",
     "Blog/Tistory/Data/RDBMS/Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기.md",
