@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "320eb4c5773751b1",
+        "id": "14e386ccecbc1922",
         "type": "tabs",
         "children": [
           {
-            "id": "f592a9553618a3b2",
+            "id": "438c0bbd0261cd72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/Windows에서 MySQL 압축파일(zip) 설치 방법.md",
+                "file": "Blog/Tistory/Data/Elasticsearch/WSL에 Elasticsearch 설치하기/00.WSL에 Elasticsearch 설치하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/Windows에서 MySQL 압축파일(zip) 설치 방법.md",
+                "file": "Blog/Tistory/Data/Elasticsearch/WSL에 Elasticsearch 설치하기/00.WSL에 Elasticsearch 설치하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/Windows에서 MySQL 압축파일(zip) 설치 방법.md",
+                "file": "Blog/Tistory/Data/Elasticsearch/WSL에 Elasticsearch 설치하기/00.WSL에 Elasticsearch 설치하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/Windows에서 MySQL 압축파일(zip) 설치 방법.md"
+                "file": "Blog/Tistory/Data/Elasticsearch/WSL에 Elasticsearch 설치하기/00.WSL에 Elasticsearch 설치하기.md"
               }
             }
           }
@@ -166,25 +166,25 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f592a9553618a3b2",
+  "active": "438c0bbd0261cd72",
   "lastOpenFiles": [
+    "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/00.Windows에서 MySQL 압축파일(zip) 설치 방법.md",
+    "Blog/Tistory/Data/Elasticsearch/WSL에 Elasticsearch 설치하기/00.WSL에 Elasticsearch 설치하기.md",
+    "Blog/Tistory/Data/Elasticsearch/WSL에 Elasticsearch 설치하기/240207_7.png",
+    "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/Untitled (12).png",
+    "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/Untitled (11).png",
+    "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/Untitled (10).png",
+    "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/231227_12.png",
+    "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/231227_14.png",
+    "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/231227_13.png",
+    "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/231227_2.png",
     "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/231227_1.png",
-    "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/Windows에서 MySQL 압축파일(zip) 설치 방법.md",
     "Blog/Tistory/Data/Elasticsearch/WSL에 Elasticsearch 설치하기/240207_2.png",
-    "Untitled (15).png",
-    "Untitled (14).png",
-    "Untitled (13).png",
-    "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/Untitled (7).png",
-    "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/Untitled (5).png",
-    "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/스크린샷 2023-12-27 085552.png",
-    "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/Untitled.png",
-    "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/Untitled (4).png",
     "remoteBrain/Daily-Docs/2024/February/2024-02-15 Thu.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-14 Wed.md",
     "Blog/Tistory/Data/RDBMS/Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기.md",
     "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법",
     "Blog/Tistory/Data/RDBMS",
-    "Blog/Tistory/Data/Elasticsearch/WSL에 Elasticsearch 설치하기/WSL에 Elasticsearch 설치하기.md",
     "Blog/Tistory/Data/Elasticsearch",
     "Blog/Tistory/Data",
     "Blog/Tistory/Obsidian/Tistory와 Obsidian 연동하기/Tistory와 Obsidian 연동하기.md",

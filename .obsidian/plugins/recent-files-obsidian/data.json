@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Windows에서 MySQL 압축파일(zip) 설치 방법",
-      "path": "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/Windows에서 MySQL 압축파일(zip) 설치 방법.md"
+      "basename": "00.WSL에 Elasticsearch 설치하기",
+      "path": "Blog/Tistory/Data/Elasticsearch/WSL에 Elasticsearch 설치하기/00.WSL에 Elasticsearch 설치하기.md"
+    },
+    {
+      "basename": "00.Windows에서 MySQL 압축파일(zip) 설치 방법",
+      "path": "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/00.Windows에서 MySQL 압축파일(zip) 설치 방법.md"
+    },
+    {
+      "basename": "240207_7",
+      "path": "Blog/Tistory/Data/Elasticsearch/WSL에 Elasticsearch 설치하기/240207_7.png"
+    },
+    {
+      "basename": "231227_12",
+      "path": "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/231227_12.png"
+    },
+    {
+      "basename": "231227_14",
+      "path": "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/231227_14.png"
+    },
+    {
+      "basename": "231227_13",
+      "path": "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/231227_13.png"
+    },
+    {
+      "basename": "231227_2",
+      "path": "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/231227_2.png"
     },
     {
       "basename": "231227_1",
@@ -13,56 +37,40 @@
       "path": "Blog/Tistory/Data/Elasticsearch/WSL에 Elasticsearch 설치하기/240207_2.png"
     },
     {
-      "basename": "Untitled (7)",
-      "path": "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/Untitled (7).png"
+      "basename": "231227_11",
+      "path": "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/231227_11.png"
     },
     {
-      "basename": "Untitled (5)",
-      "path": "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/Untitled (5).png"
+      "basename": "231227_5",
+      "path": "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/231227_5.png"
     },
     {
-      "basename": "Untitled",
-      "path": "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/Untitled.png"
+      "basename": "231227_10",
+      "path": "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/231227_10.png"
     },
     {
-      "basename": "Untitled (4)",
-      "path": "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/Untitled (4).png"
+      "basename": "231227_9",
+      "path": "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/231227_9.png"
     },
     {
-      "basename": "Untitled (3)",
-      "path": "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/Untitled (3).png"
+      "basename": "231227_8",
+      "path": "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/231227_8.png"
     },
     {
-      "basename": "Untitled (2)",
-      "path": "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/Untitled (2).png"
-    },
-    {
-      "basename": "Untitled (1)",
-      "path": "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/Untitled (1).png"
-    },
-    {
-      "basename": "Untitled (12)",
-      "path": "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/Untitled (12).png"
-    },
-    {
-      "basename": "Untitled (11)",
-      "path": "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/Untitled (11).png"
-    },
-    {
-      "basename": "Untitled (10)",
-      "path": "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/Untitled (10).png"
+      "basename": "231227_6",
+      "path": "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/231227_6.png"
     },
     {
       "basename": "2024-02-15 Thu",
       "path": "remoteBrain/Daily-Docs/2024/February/2024-02-15 Thu.md"
     },
     {
-      "basename": "Untitled (9)",
-      "path": "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/Untitled (9).png"
+      "basename": "231227_4",
+      "path": "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/231227_4.png"
     },
     {
-      "basename": "Untitled (8)",
-      "path": "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/Untitled (8).png"
+      "basename": "231227_3",
+      "path": "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/231227_3.png"
     },
     {
       "basename": "2024-02-14 Wed",
@@ -71,10 +79,6 @@
     {
       "basename": "Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기",
       "path": "Blog/Tistory/Data/RDBMS/Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기.md"
-    },
-    {
-      "basename": "WSL에 Elasticsearch 설치하기",
-      "path": "Blog/Tistory/Data/Elasticsearch/WSL에 Elasticsearch 설치하기/WSL에 Elasticsearch 설치하기.md"
     },
     {
       "basename": "240207_1",
