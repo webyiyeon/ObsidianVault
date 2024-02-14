@@ -1015,37 +1015,6 @@
         "path": "remoteBrain/Daily-Docs/2024/February/2024-02-13 Tue.md"
       },
       {
-        "id": "7693670942",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2327705031",
-        "sectionId": null,
-        "parentId": null,
-        "order": 16,
-        "content": "Elastic docker logstash 생성 작업 이어서 진행🏢 🛫 2024-02-13",
-        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-14 Wed.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-14%20Wed.md)",
-        "isCompleted": false,
-        "labels": [
-          "todoist",
-          "work"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "47987180",
-        "createdAt": "2024-02-13T22:53:13.628502Z",
-        "due": {
-          "date": "2024-02-13",
-          "timezone": "Asia/Seoul",
-          "string": "2024-02-14 08:00",
-          "lang": "en",
-          "isRecurring": false,
-          "datetime": "2024-02-13T23:00:00Z"
-        },
-        "url": "https://todoist.com/showTask?id=7693670942",
-        "duration": null,
-        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-14 Wed.md"
-      },
-      {
         "id": "7693677872",
         "assignerId": null,
         "assigneeId": null,
@@ -1135,6 +1104,37 @@
         "url": "https://todoist.com/showTask?id=7693674678",
         "duration": null,
         "path": "remoteBrain/Daily-Docs/2024/February/2024-02-13 Tue.md"
+      },
+      {
+        "id": "7693670942",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 16,
+        "content": "Elastic docker logstash 생성 작업 이어서 진행🏢 🛫 2024-02-13     ⏫",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-14 Wed.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-14%20Wed.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist",
+          "work"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-13T22:53:13.628502Z",
+        "due": {
+          "date": "2024-02-13",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-14 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-13T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7693670942",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-14 Wed.md"
       }
     ],
     "events": [
@@ -3630,6 +3630,23 @@
         "id": 22971259507,
         "initiator_id": null,
         "object_id": "7693674678",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-14T06:03:01.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "Elastic docker logstash 생성 작업 이어서 진행🏢 🛫 2024-02-13     ⏫",
+          "last_content": "Elastic docker logstash 생성 작업 이어서 진행🏢 🛫 2024-02-13",
+          "note_count": 0
+        },
+        "extra_data_id": 23058312288,
+        "id": 22972014496,
+        "initiator_id": null,
+        "object_id": "7693670942",
         "object_type": "item",
         "parent_item_id": null,
         "parent_project_id": "2327705031"
