@@ -11,11 +11,12 @@
 
 MySQL 공식 다운로드 페이지에서 **DOWNLOADS → MySQL Community Downloads → MySQL Community Server → 버전 선택, zip 파일 다운로드** 해준다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/281d9ed4-4571-45b8-9b44-440dd5f32a11/f5d68f4f-9ab7-4bb4-a72a-c05863e505a3/Untitled.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/281d9ed4-4571-45b8-9b44-440dd5f32a11/f0f2d870-417e-4c12-b063-e0eb52dcf6ce/Untitled.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/281d9ed4-4571-45b8-9b44-440dd5f32a11/2505b2d5-2704-4b84-9f7a-a3d2ecd66a0a/Untitled.png)
+
+![[Untitled (6).png]]
+![[Untitled (7).png]]
+![[Untitled (8).png]]
 
 현재 글 작성일(2023년 12월 27일)에는 기존의 참고 블로그나 링크 캡쳐들과 웹사이트의 디자인이 조금 바뀌면서 혼돈이 올 수 있을 것 같아 화면 캡쳐 이미지를 첨부했다.
 
