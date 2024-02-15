@@ -1137,37 +1137,6 @@
         "path": "remoteBrain/Daily-Docs/2024/February/2024-02-14 Wed.md"
       },
       {
-        "id": "7697073738",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2327705031",
-        "sectionId": null,
-        "parentId": null,
-        "order": 15,
-        "content": "Logstash 정상 작동하는지 확인하기 🏢   ⏫",
-        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-15 Thu.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-15%20Thu.md)",
-        "isCompleted": false,
-        "labels": [
-          "todoist",
-          "work"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "47987180",
-        "createdAt": "2024-02-14T23:57:03.601144Z",
-        "due": {
-          "date": "2024-02-14",
-          "timezone": "Asia/Seoul",
-          "string": "2024-02-15 08:00",
-          "lang": "en",
-          "isRecurring": false,
-          "datetime": "2024-02-14T23:00:00Z"
-        },
-        "url": "https://todoist.com/showTask?id=7697073738",
-        "duration": null,
-        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-15 Thu.md"
-      },
-      {
         "id": "7697074150",
         "assignerId": null,
         "assigneeId": null,
@@ -1194,6 +1163,69 @@
           "datetime": "2024-02-14T23:00:00Z"
         },
         "url": "https://todoist.com/showTask?id=7697074150",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-15 Thu.md"
+      },
+      {
+        "id": "7697616235",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 17,
+        "content": "다이소 쇼핑 - 치즈케이크 선물 상자용💗👪",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-15 Thu.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-15%20Thu.md)",
+        "isCompleted": false,
+        "labels": [
+          "family",
+          "love",
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-15T06:38:16.644475Z",
+        "due": {
+          "date": "2024-02-14",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-15 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-14T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7697616235",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-15 Thu.md"
+      },
+      {
+        "id": "7697073738",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 15,
+        "content": "Logstash 정상 작동하는지 확인하기 🏢    ⏫ ✅ 2024-02-15",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-15 Thu.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-15%20Thu.md)",
+        "isCompleted": true,
+        "labels": [
+          "todoist",
+          "work"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-14T23:57:03.601144Z",
+        "due": {
+          "date": "2024-02-14",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-15 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-14T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7697073738",
         "duration": null,
         "path": "remoteBrain/Daily-Docs/2024/February/2024-02-15 Thu.md"
       }
@@ -3913,6 +3945,24 @@
         "object_type": "item",
         "parent_item_id": null,
         "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-15T06:38:24.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "다이소 쇼핑 - 치즈케이크 선물 상자용💗👪",
+          "due_date": "2024-02-14T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 23070361645,
+        "id": 22984063710,
+        "initiator_id": null,
+        "object_id": "7697616235",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
       }
     ]
   },
@@ -4026,9 +4076,10 @@
     "remoteBrain/Daily-Docs/2024/February/2024-02-15 Thu.md": {
       "todoistTasks": [
         "7697073738",
-        "7697074150"
+        "7697074150",
+        "7697616235"
       ],
-      "todoistCount": 2
+      "todoistCount": 3
     }
   },
   "enableFullVaultSync": false,
