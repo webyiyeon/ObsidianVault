@@ -1135,6 +1135,67 @@
         "url": "https://todoist.com/showTask?id=7693677872",
         "duration": null,
         "path": "remoteBrain/Daily-Docs/2024/February/2024-02-14 Wed.md"
+      },
+      {
+        "id": "7697073738",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 15,
+        "content": "Logstash 정상 작동하는지 확인하기 🏢   ⏫",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-15 Thu.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-15%20Thu.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist",
+          "work"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-14T23:57:03.601144Z",
+        "due": {
+          "date": "2024-02-14",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-15 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-14T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7697073738",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-15 Thu.md"
+      },
+      {
+        "id": "7697074150",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 16,
+        "content": "울산 갈 짐 챙기기",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-15 Thu.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-15%20Thu.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-14T23:57:24.211538Z",
+        "due": {
+          "date": "2024-02-14",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-15 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-14T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7697074150",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-15 Thu.md"
       }
     ],
     "events": [
@@ -3782,6 +3843,59 @@
         "object_type": "item",
         "parent_item_id": null,
         "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-14T23:57:34.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "울산 갈 짐 챙기기",
+          "due_date": "2024-02-14T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 23068263814,
+        "id": 22981965882,
+        "initiator_id": null,
+        "object_id": "7697074150",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-14T23:57:08.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "Logstash 정상 작동하는지 확인하기 🏢   ⏫",
+          "due_date": "2024-02-14T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 23068261373,
+        "id": 22981963440,
+        "initiator_id": null,
+        "object_id": "7697073738",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-14T23:57:08.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "Logstash 정상 작동하는지 확인하기 🏢   ⏫",
+          "last_content": "Logstash 정상 작동하는지 확인하기 🏢",
+          "note_count": 0
+        },
+        "extra_data_id": 23068261365,
+        "id": 22981963434,
+        "initiator_id": null,
+        "object_id": "7697073738",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
       }
     ]
   },
@@ -3891,6 +4005,13 @@
       "defaultProjectId": "2327705031",
       "todoistTasks": [],
       "todoistCount": 0
+    },
+    "remoteBrain/Daily-Docs/2024/February/2024-02-15 Thu.md": {
+      "todoistTasks": [
+        "7697073738",
+        "7697074150"
+      ],
+      "todoistCount": 2
     }
   },
   "enableFullVaultSync": false,
