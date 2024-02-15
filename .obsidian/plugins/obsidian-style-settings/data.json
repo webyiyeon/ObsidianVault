@@ -68,5 +68,6 @@
   "anuppuccin-theme-settings@@h4-font": "\"\"",
   "anuppuccin-theme-settings@@h5-font": "\"\"",
   "anuppuccin-theme-settings@@h6-font": "\"\"",
-  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte"
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
+  "minimal-advanced@@cursor": "pointer"
 }
