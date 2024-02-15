@@ -981,6 +981,38 @@
         "url": "https://todoist.com/showTask?id=7680027756",
         "duration": null,
         "path": "remoteBrain/Daily-Docs/2024/February/2024-02-09 Fri.md"
+      },
+      {
+        "id": "7698705820",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 18,
+        "content": "정보처리기사 필기 기출 문제 풀어보기📓💻",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-15 Thu.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-15%20Thu.md)",
+        "isCompleted": false,
+        "labels": [
+          "dev",
+          "study",
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-15T13:47:53.935962Z",
+        "due": {
+          "date": "2024-02-14",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-15 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-14T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7698705820",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-15 Thu.md"
       }
     ],
     "events": [
@@ -3374,6 +3406,24 @@
         "object_type": "item",
         "parent_item_id": null,
         "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-15T13:47:59.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "정보처리기사 필기 기출 문제 풀어보기📓💻",
+          "due_date": "2024-02-14T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 23074449033,
+        "id": 22988151046,
+        "initiator_id": null,
+        "object_id": "7698705820",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
       }
     ]
   },
@@ -3471,6 +3521,12 @@
     "remoteBrain/Daily-Docs/2024/February/2024-02-09 Fri.md": {
       "todoistTasks": [
         "7680027756"
+      ],
+      "todoistCount": 1
+    },
+    "remoteBrain/Daily-Docs/2024/February/2024-02-15 Thu.md": {
+      "todoistTasks": [
+        "7698705820"
       ],
       "todoistCount": 1
     }
