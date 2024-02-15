@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d31c165319beb944",
+        "id": "c8c08a4f1a55f201",
         "type": "tabs",
         "children": [
           {
-            "id": "adc5d6edb5d3da4f",
+            "id": "96f725e1a1b11107",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-15 Thu.md",
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-14 Wed.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,14 +31,23 @@
       {
         "id": "b169a12232764c9d",
         "type": "tabs",
-        "dimension": 19.379844961240313,
         "children": [
           {
-            "id": "02cd05a01b0b3997",
+            "id": "d5a6c400f313d25b",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
+              "type": "recent-files",
               "state": {}
+            }
+          },
+          {
+            "id": "1e60b5fb7eacede2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -57,32 +66,15 @@
             }
           },
           {
-            "id": "d5a6c400f313d25b",
+            "id": "02cd05a01b0b3997",
             "type": "leaf",
             "state": {
-              "type": "recent-files",
+              "type": "bookmarks",
               "state": {}
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "2f8c89dd1773ddf2",
-        "type": "tabs",
-        "dimension": 80.62015503875969,
-        "children": [
-          {
-            "id": "1e60b5fb7eacede2",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-15 Thu.md",
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-14 Wed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-15 Thu.md",
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-14 Wed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,12 +135,23 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "a4e196f010241d5a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-14 Wed.md"
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,41 +166,45 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "adc5d6edb5d3da4f",
+  "active": "96f725e1a1b11107",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2024/February/2024-02-17 Sat.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-15 Thu.md",
-    "remoteBrain/Daily-Docs/2024/February/2024-02-08 Thu.md",
-    "remoteBrain/Daily-Docs/2024/February/2024-02-09 Fri.md",
-    "remoteBrain/Daily-Docs/2024/February/2024-02-10 Sat.md",
-    "remoteBrain/Daily-Docs/2024/February/2024-02-14 Wed.md",
-    "Blog/Tistory/Data/Elasticsearch/WSL에 Elasticsearch 설치하기/00.WSL에 Elasticsearch 설치하기.md",
+    "Blog/Tistory/맛따라/seoul/서울 종로 대성식당 광장시장.md",
+    "Blog/Tistory/맛따라/seoul/IMG_0213.JPG",
+    "Blog/Tistory/맛따라/seoul/IMG_0098.jpg",
+    "Blog/Tistory/맛따라/seoul/IMG_0090.jpg",
+    "Blog/Tistory/맛따라/seoul/IMG_0089.jpg",
+    "Blog/Tistory/맛따라/seoul/IMG_0078.jpg",
+    "Blog/Tistory/맛따라/seoul/IMG_0077.jpg",
+    "Blog/Tistory/맛따라/seoul/IMG_0073.MOV",
+    "Blog/Tistory/맛따라/seoul/IMG_0072.jpg",
+    "Blog/Tistory/맛따라/seoul/IMG_0071.jpg",
+    "Blog/Tistory/맛따라/seoul/IMG_0070.jpg",
+    "Blog/Tistory/맛따라/seoul/IMG_0068.jpg",
+    "Blog/Tistory/맛따라/seoul",
+    "Blog/Tistory/맛따라",
+    "Blog/Tistory/Obsidian/Tistory와 Obsidian 연동하기/Tistory와 Obsidian 연동하기.md",
+    "Blog/Tistory/Obsidian/Tistory와 Obsidian 연동하기",
     "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/00.Windows에서 MySQL 압축파일(zip) 설치 방법.md",
-    "Blog/Tistory/Data/Elasticsearch/WSL에 Elasticsearch 설치하기/240207_7.png",
-    "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/Untitled (12).png",
-    "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/Untitled (11).png",
-    "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/Untitled (10).png",
-    "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/231227_12.png",
-    "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/231227_14.png",
-    "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/231227_13.png",
-    "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/231227_2.png",
-    "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/231227_1.png",
-    "Blog/Tistory/Data/Elasticsearch/WSL에 Elasticsearch 설치하기/240207_2.png",
-    "Blog/Tistory/Data/RDBMS/Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기.md",
+    "Blog/Tistory/Data/Elasticsearch/WSL에 Elasticsearch 설치하기/00.WSL에 Elasticsearch 설치하기.md",
     "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법",
+    "Blog/Tistory/Data/RDBMS/Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기.md",
+    "Blog/Tistory/Data/Elasticsearch/WSL에 Elasticsearch 설치하기",
     "Blog/Tistory/Data/RDBMS",
     "Blog/Tistory/Data/Elasticsearch",
     "Blog/Tistory/Data",
-    "Blog/Tistory/Obsidian/Tistory와 Obsidian 연동하기/Tistory와 Obsidian 연동하기.md",
-    "Blog/Tistory/Obsidian/WSL에 Elasticsearch 설치하기/Untitled.md",
-    "Blog/Tistory/Obsidian/Tistory와 Obsidian 연동하기",
-    "Blog/Tistory/Data/Elasticsearch/WSL에 Elasticsearch 설치하기",
     "remoteBrain/Daily-Docs/2024/February/2024-02-13 Tue.md",
     "conflict-files-obsidian-git.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-14 Wed.md",
     "remoteBrain/_template/monthly.md",
     "remoteBrain/Report/2024/February.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-02 Fri.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-01 Thu.md",
-    "remoteBrain/_template/daily.md"
+    "remoteBrain/_template/daily.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-09 Fri.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-10 Sat.md",
+    "Blog/Tistory/Obsidian/WSL에 Elasticsearch 설치하기.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-08 Thu.md"
   ]
 }

@@ -953,139 +953,15 @@
         "path": "remoteBrain/Daily-Docs/2024/February/2024-02-07 Wed.md"
       },
       {
-        "id": "7693669249",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2327705031",
-        "sectionId": null,
-        "parentId": null,
-        "order": 16,
-        "content": "정보처리기사 필기 기출문제 풀어보기📓     ✅ 2024-02-13",
-        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-13 Tue.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-13%20Tue.md)",
-        "isCompleted": true,
-        "labels": [
-          "study",
-          "todoist"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "47987180",
-        "createdAt": "2024-02-13T22:52:13.964851Z",
-        "due": {
-          "date": "2024-02-12",
-          "timezone": "Asia/Seoul",
-          "string": "2024-02-13 08:00",
-          "lang": "en",
-          "isRecurring": false,
-          "datetime": "2024-02-12T23:00:00Z"
-        },
-        "url": "https://todoist.com/showTask?id=7693669249",
-        "duration": null,
-        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-13 Tue.md"
-      },
-      {
-        "id": "7693674678",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2327705031",
-        "sectionId": null,
-        "parentId": null,
-        "order": 17,
-        "content": "디버깅 건 해결하기🏢 🛫 2024-02-13      ✅ 2024-02-14",
-        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-13 Tue.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-13%20Tue.md)",
-        "isCompleted": true,
-        "labels": [
-          "todoist",
-          "work"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "47987180",
-        "createdAt": "2024-02-13T22:55:21.173656Z",
-        "due": {
-          "date": "2024-02-13",
-          "timezone": "Asia/Seoul",
-          "string": "2024-02-14 08:00",
-          "lang": "en",
-          "isRecurring": false,
-          "datetime": "2024-02-13T23:00:00Z"
-        },
-        "url": "https://todoist.com/showTask?id=7693674678",
-        "duration": null,
-        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-13 Tue.md"
-      },
-      {
-        "id": "7690641292",
+        "id": "7680027756",
         "assignerId": null,
         "assigneeId": null,
         "projectId": "2327705031",
         "sectionId": null,
         "parentId": null,
         "order": 15,
-        "content": "Elastic Cloud MySQL 연결 해보기🏢     ⏫ ✅ 2024-02-14",
-        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-13 Tue.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-13%20Tue.md)",
-        "isCompleted": true,
-        "labels": [
-          "todoist",
-          "work"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "47987180",
-        "createdAt": "2024-02-13T03:10:28.347637Z",
-        "due": {
-          "date": "2024-02-12",
-          "timezone": "Asia/Seoul",
-          "string": "2024-02-13 08:00",
-          "lang": "en",
-          "isRecurring": false,
-          "datetime": "2024-02-12T23:00:00Z"
-        },
-        "url": "https://todoist.com/showTask?id=7690641292",
-        "duration": null,
-        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-13 Tue.md"
-      },
-      {
-        "id": "7693670942",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2327705031",
-        "sectionId": null,
-        "parentId": null,
-        "order": 16,
-        "content": "Elastic docker logstash 생성 작업 이어서 진행🏢 🛫 2024-02-13     ⏫ ✅ 2024-02-14",
-        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-14 Wed.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-14%20Wed.md)",
-        "isCompleted": true,
-        "labels": [
-          "todoist",
-          "work"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "47987180",
-        "createdAt": "2024-02-13T22:53:13.628502Z",
-        "due": {
-          "date": "2024-02-13",
-          "timezone": "Asia/Seoul",
-          "string": "2024-02-14 08:00",
-          "lang": "en",
-          "isRecurring": false,
-          "datetime": "2024-02-13T23:00:00Z"
-        },
-        "url": "https://todoist.com/showTask?id=7693670942",
-        "duration": null,
-        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-14 Wed.md"
-      },
-      {
-        "id": "7693676791",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2327705031",
-        "sectionId": null,
-        "parentId": null,
-        "order": 18,
-        "content": "바스크 치즈 케이크 만들기  ⏫    ✅ 2024-02-14",
-        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-14 Wed.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-14%20Wed.md)",
+        "content": "정보처리기사 필기 1과목 위주로 문제 풀이 및 오답노트 정리  ⏫    ✅ 2024-02-09",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-09 Fri.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-09%20Fri.md)",
         "isCompleted": true,
         "labels": [
           "todoist"
@@ -1093,141 +969,18 @@
         "priority": 1,
         "commentCount": 0,
         "creatorId": "47987180",
-        "createdAt": "2024-02-13T22:56:20.182368Z",
+        "createdAt": "2024-02-09T08:35:02.449703Z",
         "due": {
-          "date": "2024-02-13",
+          "date": "2024-02-08",
           "timezone": "Asia/Seoul",
-          "string": "2024-02-14 08:00",
+          "string": "2024-02-09 08:00",
           "lang": "en",
           "isRecurring": false,
-          "datetime": "2024-02-13T23:00:00Z"
+          "datetime": "2024-02-08T23:00:00Z"
         },
-        "url": "https://todoist.com/showTask?id=7693676791",
+        "url": "https://todoist.com/showTask?id=7680027756",
         "duration": null,
-        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-14 Wed.md"
-      },
-      {
-        "id": "7693677872",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2327705031",
-        "sectionId": null,
-        "parentId": null,
-        "order": 19,
-        "content": "↑ 만들어보고 괜찮으면 크림치즈 추가 주문해서 하나 더 만들기     ✅ 2024-02-14",
-        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-14 Wed.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-14%20Wed.md)",
-        "isCompleted": true,
-        "labels": [
-          "todoist"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "47987180",
-        "createdAt": "2024-02-13T22:57:00.146646Z",
-        "due": {
-          "date": "2024-02-13",
-          "timezone": "Asia/Seoul",
-          "string": "2024-02-14 08:00",
-          "lang": "en",
-          "isRecurring": false,
-          "datetime": "2024-02-13T23:00:00Z"
-        },
-        "url": "https://todoist.com/showTask?id=7693677872",
-        "duration": null,
-        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-14 Wed.md"
-      },
-      {
-        "id": "7697074150",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2327705031",
-        "sectionId": null,
-        "parentId": null,
-        "order": 16,
-        "content": "울산 갈 짐 챙기기     ⏫",
-        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-15 Thu.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-15%20Thu.md)",
-        "isCompleted": false,
-        "labels": [
-          "todoist"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "47987180",
-        "createdAt": "2024-02-14T23:57:24.211538Z",
-        "due": {
-          "date": "2024-02-14",
-          "timezone": "Asia/Seoul",
-          "string": "2024-02-15 08:00",
-          "lang": "en",
-          "isRecurring": false,
-          "datetime": "2024-02-14T23:00:00Z"
-        },
-        "url": "https://todoist.com/showTask?id=7697074150",
-        "duration": null,
-        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-15 Thu.md"
-      },
-      {
-        "id": "7697616235",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2327705031",
-        "sectionId": null,
-        "parentId": null,
-        "order": 17,
-        "content": "다이소 쇼핑 - 치즈케이크 선물 상자용💗👪",
-        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-15 Thu.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-15%20Thu.md)",
-        "isCompleted": false,
-        "labels": [
-          "family",
-          "love",
-          "todoist"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "47987180",
-        "createdAt": "2024-02-15T06:38:16.644475Z",
-        "due": {
-          "date": "2024-02-14",
-          "timezone": "Asia/Seoul",
-          "string": "2024-02-15 08:00",
-          "lang": "en",
-          "isRecurring": false,
-          "datetime": "2024-02-14T23:00:00Z"
-        },
-        "url": "https://todoist.com/showTask?id=7697616235",
-        "duration": null,
-        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-15 Thu.md"
-      },
-      {
-        "id": "7697073738",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2327705031",
-        "sectionId": null,
-        "parentId": null,
-        "order": 15,
-        "content": "Logstash 정상 작동하는지 확인하기 🏢    ⏫ ✅ 2024-02-15",
-        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-15 Thu.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-15%20Thu.md)",
-        "isCompleted": true,
-        "labels": [
-          "todoist",
-          "work"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "47987180",
-        "createdAt": "2024-02-14T23:57:03.601144Z",
-        "due": {
-          "date": "2024-02-14",
-          "timezone": "Asia/Seoul",
-          "string": "2024-02-15 08:00",
-          "lang": "en",
-          "isRecurring": false,
-          "datetime": "2024-02-14T23:00:00Z"
-        },
-        "url": "https://todoist.com/showTask?id=7697073738",
-        "duration": null,
-        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-15 Thu.md"
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-09 Fri.md"
       }
     ],
     "events": [
@@ -3294,6 +3047,24 @@
         "parent_project_id": "2327705031"
       },
       {
+        "event_date": "2024-02-09T08:39:57.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "정보처리기사 필기 1과목 위주로 문제 풀이 및 오답노트 정리  ⏫",
+          "due_date": "2024-02-08T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 23007662434,
+        "id": 22921364997,
+        "initiator_id": null,
+        "object_id": "7680027756",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
         "event_date": "2024-02-09T06:42:22.000000Z",
         "event_type": "updated",
         "extra_data": {
@@ -3537,462 +3308,69 @@
         "parent_project_id": "2327705031"
       },
       {
-        "event_date": "2024-02-13T03:14:00.000000Z",
+        "event_date": "2024-02-06T06:34:12.000000Z",
         "event_type": "updated",
         "extra_data": {
           "client": "Mozilla/5.0",
-          "content": "Elastic Cloud MySQL 연결 해보기🏢  ⏫",
-          "due_date": "2024-02-12T23:00:00.000000Z",
+          "content": "Local Elasticsearch에 사용자 사전 적용 테스트 해보기🏢",
+          "due_date": "2024-02-05T23:00:00.000000Z",
           "last_due_date": null,
           "note_count": 0
         },
-        "extra_data_id": 23045413721,
-        "id": 22959116021,
+        "extra_data_id": 22969015452,
+        "id": 22882718393,
         "initiator_id": null,
-        "object_id": "7690641292",
+        "object_id": "7669180111",
         "object_type": "item",
         "parent_item_id": null,
         "parent_project_id": "2327705031"
       },
       {
-        "event_date": "2024-02-13T22:52:22.000000Z",
+        "event_date": "2024-02-09T16:44:19.000000Z",
         "event_type": "completed",
         "extra_data": {
           "client": "Mozilla/5.0",
-          "content": "정보처리기사 필기 기출문제 풀어보기📓     ✅ 2024-02-13",
+          "content": "정보처리기사 필기 1과목 위주로 문제 풀이 및 오답노트 정리  ⏫    ✅ 2024-02-10",
           "note_count": 0
         },
-        "extra_data_id": 23055979294,
-        "id": 22969681508,
+        "extra_data_id": 23012661486,
+        "id": 22926363965,
         "initiator_id": null,
-        "object_id": "7693669249",
+        "object_id": "7680027756",
         "object_type": "item",
         "parent_item_id": null,
         "parent_project_id": "2327705031"
       },
       {
-        "event_date": "2024-02-13T22:52:42.000000Z",
+        "event_date": "2024-02-09T16:44:19.000000Z",
         "event_type": "updated",
         "extra_data": {
           "client": "Mozilla/5.0",
-          "content": "Elastic Cloud MySQL 연결 해보기🏢     ⏫",
-          "last_content": "Elastic Cloud MySQL 연결 해보기🏢  ⏫",
+          "content": "정보처리기사 필기 1과목 위주로 문제 풀이 및 오답노트 정리  ⏫    ✅ 2024-02-09",
+          "last_content": "정보처리기사 필기 1과목 위주로 문제 풀이 및 오답노트 정리  ⏫    ✅ 2024-02-10",
           "note_count": 0
         },
-        "extra_data_id": 23055982937,
-        "id": 22969685159,
+        "extra_data_id": 23012661585,
+        "id": 22926364064,
         "initiator_id": null,
-        "object_id": "7690641292",
+        "object_id": "7680027756",
         "object_type": "item",
         "parent_item_id": null,
         "parent_project_id": "2327705031"
       },
       {
-        "event_date": "2024-02-13T22:52:19.000000Z",
+        "event_date": "2024-02-09T16:44:14.000000Z",
         "event_type": "updated",
         "extra_data": {
           "client": "Mozilla/5.0",
-          "content": "정보처리기사 필기 기출문제 풀어보기📓     ✅ 2024-02-13",
-          "last_content": "정보처리기사 필기 기출문제 풀어보기📓",
+          "content": "정보처리기사 필기 1과목 위주로 문제 풀이 및 오답노트 정리  ⏫    ✅ 2024-02-10",
+          "last_content": "정보처리기사 필기 1과목 위주로 문제 풀이 및 오답노트 정리  ⏫",
           "note_count": 0
         },
-        "extra_data_id": 23055979715,
-        "id": 22969681922,
+        "extra_data_id": 23012660681,
+        "id": 22926363160,
         "initiator_id": null,
-        "object_id": "7693669249",
-        "object_type": "item",
-        "parent_item_id": null,
-        "parent_project_id": "2327705031"
-      },
-      {
-        "event_date": "2024-02-13T22:52:19.000000Z",
-        "event_type": "updated",
-        "extra_data": {
-          "client": "Mozilla/5.0",
-          "content": "정보처리기사 필기 기출문제 풀어보기📓",
-          "due_date": "2024-02-12T23:00:00.000000Z",
-          "last_due_date": null,
-          "note_count": 0
-        },
-        "extra_data_id": 23055978848,
-        "id": 22969681064,
-        "initiator_id": null,
-        "object_id": "7693669249",
-        "object_type": "item",
-        "parent_item_id": null,
-        "parent_project_id": "2327705031"
-      },
-      {
-        "event_date": "2024-02-13T22:57:03.000000Z",
-        "event_type": "updated",
-        "extra_data": {
-          "client": "Mozilla/5.0",
-          "content": "↑ 만들어보고 괜찮으면 크림치즈 추가 주문해서 하나 더 만들기",
-          "due_date": "2024-02-13T23:00:00.000000Z",
-          "last_due_date": null,
-          "note_count": 0
-        },
-        "extra_data_id": 23056013882,
-        "id": 22969716095,
-        "initiator_id": null,
-        "object_id": "7693677872",
-        "object_type": "item",
-        "parent_item_id": null,
-        "parent_project_id": "2327705031"
-      },
-      {
-        "event_date": "2024-02-13T22:55:08.000000Z",
-        "event_type": "updated",
-        "extra_data": {
-          "client": "Mozilla/5.0",
-          "content": "Elastic docker logstash 생성 작업 이어서 진행🏢 🛫 2024-02-13",
-          "due_date": "2024-02-13T23:00:00.000000Z",
-          "last_due_date": null,
-          "note_count": 0
-        },
-        "extra_data_id": 23055999988,
-        "id": 22969702204,
-        "initiator_id": null,
-        "object_id": "7693670942",
-        "object_type": "item",
-        "parent_item_id": null,
-        "parent_project_id": "2327705031"
-      },
-      {
-        "event_date": "2024-02-13T23:00:29.000000Z",
-        "event_type": "updated",
-        "extra_data": {
-          "client": "Mozilla/5.0",
-          "content": "바스크 치즈 케이크 만들기  ⏫",
-          "due_date": "2024-02-13T23:00:00.000000Z",
-          "last_due_date": null,
-          "note_count": 0
-        },
-        "extra_data_id": 23056038245,
-        "id": 22969740460,
-        "initiator_id": null,
-        "object_id": "7693676791",
-        "object_type": "item",
-        "parent_item_id": null,
-        "parent_project_id": "2327705031"
-      },
-      {
-        "event_date": "2024-02-13T23:00:22.000000Z",
-        "event_type": "updated",
-        "extra_data": {
-          "client": "Mozilla/5.0",
-          "content": "어제 들어온 디버깅 건 해결하기🏢 🛫 2024-02-13",
-          "due_date": "2024-02-13T23:00:00.000000Z",
-          "last_due_date": null,
-          "note_count": 0
-        },
-        "extra_data_id": 23056037304,
-        "id": 22969739518,
-        "initiator_id": null,
-        "object_id": "7693674678",
-        "object_type": "item",
-        "parent_item_id": null,
-        "parent_project_id": "2327705031"
-      },
-      {
-        "event_date": "2024-02-14T03:33:27.000000Z",
-        "event_type": "completed",
-        "extra_data": {
-          "client": "Mozilla/5.0",
-          "content": "디버깅 건 해결하기🏢 🛫 2024-02-13      ✅ 2024-02-14",
-          "note_count": 0
-        },
-        "extra_data_id": 23057557425,
-        "id": 22971259633,
-        "initiator_id": null,
-        "object_id": "7693674678",
-        "object_type": "item",
-        "parent_item_id": null,
-        "parent_project_id": "2327705031"
-      },
-      {
-        "event_date": "2024-02-14T03:33:26.000000Z",
-        "event_type": "updated",
-        "extra_data": {
-          "client": "Mozilla/5.0",
-          "content": "디버깅 건 해결하기🏢 🛫 2024-02-13      ✅ 2024-02-14",
-          "last_content": "어제 들어온 디버깅 건 해결하기🏢 🛫 2024-02-13",
-          "note_count": 0
-        },
-        "extra_data_id": 23057557298,
-        "id": 22971259507,
-        "initiator_id": null,
-        "object_id": "7693674678",
-        "object_type": "item",
-        "parent_item_id": null,
-        "parent_project_id": "2327705031"
-      },
-      {
-        "event_date": "2024-02-14T06:03:01.000000Z",
-        "event_type": "updated",
-        "extra_data": {
-          "client": "Mozilla/5.0",
-          "content": "Elastic docker logstash 생성 작업 이어서 진행🏢 🛫 2024-02-13     ⏫",
-          "last_content": "Elastic docker logstash 생성 작업 이어서 진행🏢 🛫 2024-02-13",
-          "note_count": 0
-        },
-        "extra_data_id": 23058312288,
-        "id": 22972014496,
-        "initiator_id": null,
-        "object_id": "7693670942",
-        "object_type": "item",
-        "parent_item_id": null,
-        "parent_project_id": "2327705031"
-      },
-      {
-        "event_date": "2024-02-14T07:55:09.000000Z",
-        "event_type": "completed",
-        "extra_data": {
-          "client": "Mozilla/5.0",
-          "content": "Elastic docker logstash 생성 작업 이어서 진행🏢 🛫 2024-02-13     ⏫ ✅ 2024-02-14",
-          "note_count": 0
-        },
-        "extra_data_id": 23059128470,
-        "id": 22972830668,
-        "initiator_id": null,
-        "object_id": "7693670942",
-        "object_type": "item",
-        "parent_item_id": null,
-        "parent_project_id": "2327705031"
-      },
-      {
-        "event_date": "2024-02-14T07:55:08.000000Z",
-        "event_type": "completed",
-        "extra_data": {
-          "client": "Mozilla/5.0",
-          "content": "Elastic Cloud MySQL 연결 해보기🏢     ⏫ ✅ 2024-02-14",
-          "note_count": 0
-        },
-        "extra_data_id": 23059128383,
-        "id": 22972830581,
-        "initiator_id": null,
-        "object_id": "7690641292",
-        "object_type": "item",
-        "parent_item_id": null,
-        "parent_project_id": "2327705031"
-      },
-      {
-        "event_date": "2024-02-14T07:55:07.000000Z",
-        "event_type": "updated",
-        "extra_data": {
-          "client": "Mozilla/5.0",
-          "content": "Elastic docker logstash 생성 작업 이어서 진행🏢 🛫 2024-02-13     ⏫ ✅ 2024-02-14",
-          "last_content": "Elastic docker logstash 생성 작업 이어서 진행🏢 🛫 2024-02-13     ⏫",
-          "note_count": 0
-        },
-        "extra_data_id": 23059128233,
-        "id": 22972830432,
-        "initiator_id": null,
-        "object_id": "7693670942",
-        "object_type": "item",
-        "parent_item_id": null,
-        "parent_project_id": "2327705031"
-      },
-      {
-        "event_date": "2024-02-14T07:55:06.000000Z",
-        "event_type": "updated",
-        "extra_data": {
-          "client": "Mozilla/5.0",
-          "content": "Elastic Cloud MySQL 연결 해보기🏢     ⏫ ✅ 2024-02-14",
-          "last_content": "Elastic Cloud MySQL 연결 해보기🏢     ⏫",
-          "note_count": 0
-        },
-        "extra_data_id": 23059128258,
-        "id": 22972830456,
-        "initiator_id": null,
-        "object_id": "7690641292",
-        "object_type": "item",
-        "parent_item_id": null,
-        "parent_project_id": "2327705031"
-      },
-      {
-        "event_date": "2024-02-14T22:58:44.000000Z",
-        "event_type": "completed",
-        "extra_data": {
-          "client": "Mozilla/5.0",
-          "content": "바스크 치즈 케이크 만들기  ⏫    ✅ 2024-02-14",
-          "note_count": 0
-        },
-        "extra_data_id": 23067888110,
-        "id": 22981590178,
-        "initiator_id": null,
-        "object_id": "7693676791",
-        "object_type": "item",
-        "parent_item_id": null,
-        "parent_project_id": "2327705031"
-      },
-      {
-        "event_date": "2024-02-14T22:58:42.000000Z",
-        "event_type": "updated",
-        "extra_data": {
-          "client": "Mozilla/5.0",
-          "content": "바스크 치즈 케이크 만들기  ⏫    ✅ 2024-02-14",
-          "last_content": "바스크 치즈 케이크 만들기  ⏫",
-          "note_count": 0
-        },
-        "extra_data_id": 23067887939,
-        "id": 22981590006,
-        "initiator_id": null,
-        "object_id": "7693676791",
-        "object_type": "item",
-        "parent_item_id": null,
-        "parent_project_id": "2327705031"
-      },
-      {
-        "event_date": "2024-02-14T22:59:23.000000Z",
-        "event_type": "completed",
-        "extra_data": {
-          "client": "Mozilla/5.0",
-          "content": "↑ 만들어보고 괜찮으면 크림치즈 추가 주문해서 하나 더 만들기     ✅ 2024-02-14",
-          "note_count": 0
-        },
-        "extra_data_id": 23067892327,
-        "id": 22981594395,
-        "initiator_id": null,
-        "object_id": "7693677872",
-        "object_type": "item",
-        "parent_item_id": null,
-        "parent_project_id": "2327705031"
-      },
-      {
-        "event_date": "2024-02-14T22:59:19.000000Z",
-        "event_type": "updated",
-        "extra_data": {
-          "client": "Mozilla/5.0",
-          "content": "↑ 만들어보고 괜찮으면 크림치즈 추가 주문해서 하나 더 만들기     ✅ 2024-02-14",
-          "last_content": "↑ 만들어보고 괜찮으면 크림치즈 추가 주문해서 하나 더 만들기",
-          "note_count": 0
-        },
-        "extra_data_id": 23067891968,
-        "id": 22981594037,
-        "initiator_id": null,
-        "object_id": "7693677872",
-        "object_type": "item",
-        "parent_item_id": null,
-        "parent_project_id": "2327705031"
-      },
-      {
-        "event_date": "2024-02-14T23:57:34.000000Z",
-        "event_type": "updated",
-        "extra_data": {
-          "client": "Mozilla/5.0",
-          "content": "울산 갈 짐 챙기기",
-          "due_date": "2024-02-14T23:00:00.000000Z",
-          "last_due_date": null,
-          "note_count": 0
-        },
-        "extra_data_id": 23068263814,
-        "id": 22981965882,
-        "initiator_id": null,
-        "object_id": "7697074150",
-        "object_type": "item",
-        "parent_item_id": null,
-        "parent_project_id": "2327705031"
-      },
-      {
-        "event_date": "2024-02-14T23:57:08.000000Z",
-        "event_type": "updated",
-        "extra_data": {
-          "client": "Mozilla/5.0",
-          "content": "Logstash 정상 작동하는지 확인하기 🏢   ⏫",
-          "due_date": "2024-02-14T23:00:00.000000Z",
-          "last_due_date": null,
-          "note_count": 0
-        },
-        "extra_data_id": 23068261373,
-        "id": 22981963440,
-        "initiator_id": null,
-        "object_id": "7697073738",
-        "object_type": "item",
-        "parent_item_id": null,
-        "parent_project_id": "2327705031"
-      },
-      {
-        "event_date": "2024-02-14T23:57:08.000000Z",
-        "event_type": "updated",
-        "extra_data": {
-          "client": "Mozilla/5.0",
-          "content": "Logstash 정상 작동하는지 확인하기 🏢   ⏫",
-          "last_content": "Logstash 정상 작동하는지 확인하기 🏢",
-          "note_count": 0
-        },
-        "extra_data_id": 23068261365,
-        "id": 22981963434,
-        "initiator_id": null,
-        "object_id": "7697073738",
-        "object_type": "item",
-        "parent_item_id": null,
-        "parent_project_id": "2327705031"
-      },
-      {
-        "event_date": "2024-02-15T04:30:12.000000Z",
-        "event_type": "updated",
-        "extra_data": {
-          "client": "Mozilla/5.0",
-          "content": "울산 갈 짐 챙기기     ⏫",
-          "last_content": "울산 갈 짐 챙기기",
-          "note_count": 0
-        },
-        "extra_data_id": 23069640659,
-        "id": 22983342721,
-        "initiator_id": null,
-        "object_id": "7697074150",
-        "object_type": "item",
-        "parent_item_id": null,
-        "parent_project_id": "2327705031"
-      },
-      {
-        "event_date": "2024-02-15T06:38:24.000000Z",
-        "event_type": "updated",
-        "extra_data": {
-          "client": "Mozilla/5.0",
-          "content": "다이소 쇼핑 - 치즈케이크 선물 상자용💗👪",
-          "due_date": "2024-02-14T23:00:00.000000Z",
-          "last_due_date": null,
-          "note_count": 0
-        },
-        "extra_data_id": 23070361645,
-        "id": 22984063710,
-        "initiator_id": null,
-        "object_id": "7697616235",
-        "object_type": "item",
-        "parent_item_id": null,
-        "parent_project_id": "2327705031"
-      },
-      {
-        "event_date": "2024-02-15T06:39:23.000000Z",
-        "event_type": "completed",
-        "extra_data": {
-          "client": "Mozilla/5.0",
-          "content": "Logstash 정상 작동하는지 확인하기 🏢    ⏫ ✅ 2024-02-15",
-          "note_count": 0
-        },
-        "extra_data_id": 23070369488,
-        "id": 22984071552,
-        "initiator_id": null,
-        "object_id": "7697073738",
-        "object_type": "item",
-        "parent_item_id": null,
-        "parent_project_id": "2327705031"
-      },
-      {
-        "event_date": "2024-02-15T06:39:20.000000Z",
-        "event_type": "updated",
-        "extra_data": {
-          "client": "Mozilla/5.0",
-          "content": "Logstash 정상 작동하는지 확인하기 🏢    ⏫ ✅ 2024-02-15",
-          "last_content": "Logstash 정상 작동하는지 확인하기 🏢   ⏫",
-          "note_count": 0
-        },
-        "extra_data_id": 23070369119,
-        "id": 22984071184,
-        "initiator_id": null,
-        "object_id": "7697073738",
+        "object_id": "7680027756",
         "object_type": "item",
         "parent_item_id": null,
         "parent_project_id": "2327705031"
@@ -4001,6 +3379,11 @@
   },
   "fileMetadata": {
     "remoteBrain/_template/daily.md": {
+      "defaultProjectId": "2327705031",
+      "todoistTasks": [],
+      "todoistCount": 0
+    },
+    "Untitled.md": {
       "defaultProjectId": "2327705031",
       "todoistTasks": [],
       "todoistCount": 0
@@ -4085,34 +3468,11 @@
       ],
       "todoistCount": 1
     },
-    "remoteBrain/Daily-Docs/2024/February/2024-02-13 Tue.md": {
+    "remoteBrain/Daily-Docs/2024/February/2024-02-09 Fri.md": {
       "todoistTasks": [
-        "7690641292",
-        "7693669249",
-        "7693674678"
+        "7680027756"
       ],
-      "todoistCount": 3
-    },
-    "remoteBrain/Daily-Docs/2024/February/2024-02-14 Wed.md": {
-      "todoistTasks": [
-        "7693670942",
-        "7693676791",
-        "7693677872"
-      ],
-      "todoistCount": 3
-    },
-    "Blog/Tistory/Obsidian/WSL에 Elasticsearch 설치하기/Untitled.md": {
-      "defaultProjectId": "2327705031",
-      "todoistTasks": [],
-      "todoistCount": 0
-    },
-    "remoteBrain/Daily-Docs/2024/February/2024-02-15 Thu.md": {
-      "todoistTasks": [
-        "7697073738",
-        "7697074150",
-        "7697616235"
-      ],
-      "todoistCount": 3
+      "todoistCount": 1
     }
   },
   "enableFullVaultSync": false,
