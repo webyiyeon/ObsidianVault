@@ -3963,6 +3963,39 @@
         "object_type": "item",
         "parent_item_id": null,
         "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-15T06:39:23.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "Logstash 정상 작동하는지 확인하기 🏢    ⏫ ✅ 2024-02-15",
+          "note_count": 0
+        },
+        "extra_data_id": 23070369488,
+        "id": 22984071552,
+        "initiator_id": null,
+        "object_id": "7697073738",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-15T06:39:20.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "Logstash 정상 작동하는지 확인하기 🏢    ⏫ ✅ 2024-02-15",
+          "last_content": "Logstash 정상 작동하는지 확인하기 🏢   ⏫",
+          "note_count": 0
+        },
+        "extra_data_id": 23070369119,
+        "id": 22984071184,
+        "initiator_id": null,
+        "object_id": "7697073738",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
       }
     ]
   },
