@@ -1,0 +1,23 @@
+{
+  "format": {
+    "timeFormat": "HH:mm",
+    "dataViewSyntax": false
+  },
+  "calendars": {
+    "✒️::일정::": {
+      "icsName": "✒️::일정::",
+      "icsUrl": "https://calendar.google.com/calendar/ical/yiyeon79%40gmail.com/private-448cff6a563701b14c82db84e1128058/basic.ics",
+      "format": {
+        "checkbox": true,
+        "includeEventEndTime": true,
+        "icsName": true,
+        "summary": true,
+        "location": true,
+        "description": true,
+        "calendarType": "remote",
+        "showAttendees": true
+      },
+      "calendarType": "remote"
+    }
+  }
+}
