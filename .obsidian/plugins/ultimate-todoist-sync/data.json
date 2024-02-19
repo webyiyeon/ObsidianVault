@@ -1015,74 +1015,6 @@
         "path": "remoteBrain/Daily-Docs/2024/February/2024-02-15 Thu.md"
       },
       {
-        "id": "7708328052",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2327705031",
-        "sectionId": null,
-        "parentId": null,
-        "order": 19,
-        "content": "운동하고 장보고 식자재 마트 들려서 장보기🧺",
-        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-19%20Mon.md)",
-        "isCompleted": false,
-        "labels": [
-          "chores",
-          "todoist"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "47987180",
-        "createdAt": "2024-02-19T03:08:06.498878Z",
-        "due": {
-          "date": "2024-02-18",
-          "timezone": "Asia/Seoul",
-          "string": "2024-02-19 08:00",
-          "lang": "en",
-          "isRecurring": false,
-          "datetime": "2024-02-18T23:00:00Z"
-        },
-        "url": "https://todoist.com/showTask?id=7708328052",
-        "duration": {
-          "amount": 60,
-          "unit": "minute"
-        },
-        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md"
-      },
-      {
-        "id": "7708366090",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2327705031",
-        "sectionId": null,
-        "parentId": null,
-        "order": 21,
-        "content": "밥 해서 냉동밥 쟁여두기🧺",
-        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-19%20Mon.md)",
-        "isCompleted": false,
-        "labels": [
-          "chores",
-          "todoist"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "47987180",
-        "createdAt": "2024-02-19T03:36:44.322739Z",
-        "due": {
-          "date": "2024-02-18",
-          "timezone": "Asia/Seoul",
-          "string": "2024-02-19 08:00",
-          "lang": "en",
-          "isRecurring": false,
-          "datetime": "2024-02-18T23:00:00Z"
-        },
-        "url": "https://todoist.com/showTask?id=7708366090",
-        "duration": {
-          "amount": 60,
-          "unit": "minute"
-        },
-        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md"
-      },
-      {
         "id": "7708365409",
         "assignerId": null,
         "assigneeId": null,
@@ -1112,6 +1044,40 @@
         "url": "https://todoist.com/showTask?id=7708365409",
         "duration": {
           "amount": 360,
+          "unit": "minute"
+        },
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md"
+      },
+      {
+        "id": "7708328052",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 19,
+        "content": "운동하고 장보고 식자재 마트 들려서 장보기🧺     ✅ 2024-02-19",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-19%20Mon.md)",
+        "isCompleted": true,
+        "labels": [
+          "chores",
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-19T03:08:06.498878Z",
+        "due": {
+          "date": "2024-02-18",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-19 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-18T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7708328052",
+        "duration": {
+          "amount": 60,
           "unit": "minute"
         },
         "path": "remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md"
@@ -1156,9 +1122,9 @@
         "sectionId": null,
         "parentId": null,
         "order": 22,
-        "content": "query 검색단에서 가중치 부여해서 category 우선🏢   ⏫  ✅ 2024-02-19",
+        "content": "query 검색단에서 가중치 부여해서 category 우선🏢   ⏫   ✅ 2024-02-19",
         "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-19%20Mon.md)",
-        "isCompleted": false,
+        "isCompleted": true,
         "labels": [
           "elasticsearch",
           "todoist",
@@ -1179,6 +1145,134 @@
         "url": "https://todoist.com/showTask?id=7708922010",
         "duration": null,
         "path": "remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md"
+      },
+      {
+        "id": "7708366090",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 21,
+        "content": "밥 해서 냉동밥 쟁여두기🧺     ✅ 2024-02-19",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-19%20Mon.md)",
+        "isCompleted": true,
+        "labels": [
+          "chores",
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-19T03:36:44.322739Z",
+        "due": {
+          "date": "2024-02-18",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-19 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-18T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7708366090",
+        "duration": {
+          "amount": 60,
+          "unit": "minute"
+        },
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md"
+      },
+      {
+        "id": "7711809927",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 19,
+        "content": "변경된 구조에 맞게 logstash 재구축🏢",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-20%20Tue.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist",
+          "work"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-19T23:09:40.139924Z",
+        "due": {
+          "date": "2024-02-19",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-20 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-19T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7711809927",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md"
+      },
+      {
+        "id": "7711810292",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 20,
+        "content": "Category 쪽 동의어 사전 update 테스트🏢",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-20%20Tue.md)",
+        "isCompleted": false,
+        "labels": [
+          "elasticsearch",
+          "todoist",
+          "work"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-19T23:09:51.787861Z",
+        "due": {
+          "date": "2024-02-19",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-20 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-19T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7711810292",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md"
+      },
+      {
+        "id": "7711809407",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 18,
+        "content": "Elasticsearch analyze에 user_dictionary 개별 적용 테스트🏢",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-20%20Tue.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist",
+          "work"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-19T23:09:21.370629Z",
+        "due": {
+          "date": "2024-02-19",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-20 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-19T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7711809407",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md"
       }
     ],
     "events": [
@@ -3783,6 +3877,142 @@
         "object_type": "item",
         "parent_item_id": null,
         "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-19T07:59:50.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "각 필드별로 개별 동의어사전 적용하기🏢     ⏫ ✅ 2024-02-19",
+          "note_count": 0
+        },
+        "extra_data_id": 23110451565,
+        "id": 23024153439,
+        "initiator_id": null,
+        "object_id": "7708920260",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-19T07:59:22.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "에러로그 체크 및 디버깅 작업🏢     ✅ 2024-02-19",
+          "note_count": 0
+        },
+        "extra_data_id": 23110446670,
+        "id": 23024148542,
+        "initiator_id": null,
+        "object_id": "7708365409",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-19T08:00:36.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "query 검색단에서 가중치 부여해서 category 우선🏢   ⏫  ✅ 2024-02-19",
+          "last_content": "query 검색단에서 가중치 부여해서 category 우선🏢  ⏫",
+          "note_count": 0
+        },
+        "extra_data_id": 23110459775,
+        "id": 23024161650,
+        "initiator_id": null,
+        "object_id": "7708922010",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-19T08:00:36.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "query 검색단에서 가중치 부여해서 category 우선🏢   ⏫  ✅ 2024-02-19",
+          "due_date": "2024-02-18T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 23110457555,
+        "id": 23024159428,
+        "initiator_id": null,
+        "object_id": "7708922010",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-19T07:59:52.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "각 필드별로 개별 동의어사전 적용하기🏢     ⏫ ✅ 2024-02-19",
+          "last_content": "각 필드별로 개별 동의어사전 적용하기🏢     ⏫",
+          "note_count": 0
+        },
+        "extra_data_id": 23110450612,
+        "id": 23024152481,
+        "initiator_id": null,
+        "object_id": "7708920260",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-19T07:59:44.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "각 필드별로 개별 동의어사전 적용하기🏢",
+          "due_date": "2024-02-18T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 23110451753,
+        "id": 23024153625,
+        "initiator_id": null,
+        "object_id": "7708920260",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-19T07:59:44.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "각 필드별로 개별 동의어사전 적용하기🏢     ⏫",
+          "last_content": "각 필드별로 개별 동의어사전 적용하기🏢",
+          "note_count": 0
+        },
+        "extra_data_id": 23110450618,
+        "id": 23024152495,
+        "initiator_id": null,
+        "object_id": "7708920260",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-19T07:59:24.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "에러로그 체크 및 디버깅 작업🏢     ✅ 2024-02-19",
+          "last_content": "에러로그 체크 및 디버깅 작업🏢",
+          "note_count": 0
+        },
+        "extra_data_id": 23110445375,
+        "id": 23024147249,
+        "initiator_id": null,
+        "object_id": "7708365409",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
       }
     ]
   },
@@ -3898,6 +4128,14 @@
       "defaultProjectId": "2327705031",
       "todoistTasks": [],
       "todoistCount": 0
+    },
+    "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md": {
+      "todoistTasks": [
+        "7711809407",
+        "7711809927",
+        "7711810292"
+      ],
+      "todoistCount": 3
     }
   },
   "enableFullVaultSync": false,

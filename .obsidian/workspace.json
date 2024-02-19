@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9f09c920f67bb274",
+        "id": "7ef1519736b1fbcd",
         "type": "tabs",
         "children": [
           {
-            "id": "3585c168d4504633",
+            "id": "4349382c05f7b2ad",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -29,14 +33,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c0622d42e7570c13",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
-          {
             "id": "9b220db4279a6df2",
             "type": "leaf",
             "state": {
@@ -44,6 +40,14 @@
               "state": {
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "c0622d42e7570c13",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
             }
           },
           {
@@ -97,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md"
+              }
             }
           }
         ]
@@ -157,6 +165,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c0622d42e7570c13",
-  "lastOpenFiles": []
+  "active": "4349382c05f7b2ad",
+  "lastOpenFiles": [
+    "remoteBrain/Report/2024/February.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md",
+    "Blog/Tistory/맛따라/Recipe/바스크 치즈케이크.md",
+    "Blog/Tistory/맛따라/Recipe/브리치즈 오일 파스타.md"
+  ]
 }
