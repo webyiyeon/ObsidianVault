@@ -1013,6 +1013,36 @@
         "url": "https://todoist.com/showTask?id=7698705820",
         "duration": null,
         "path": "remoteBrain/Daily-Docs/2024/February/2024-02-15 Thu.md"
+      },
+      {
+        "id": "7708328052",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 19,
+        "content": "운동하고 장보고 식자재 마트 들려서 계란 사가기",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-19%20Mon.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-19T03:08:06.498878Z",
+        "due": {
+          "date": "2024-02-18",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-19 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-18T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7708328052",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md"
       }
     ],
     "events": [
@@ -3424,6 +3454,24 @@
         "object_type": "item",
         "parent_item_id": null,
         "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-19T03:08:09.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "운동하고 장보고 식자재 마트 들려서 계란 사가기",
+          "due_date": "2024-02-18T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 23108419173,
+        "id": 23022121056,
+        "initiator_id": null,
+        "object_id": "7708328052",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
       }
     ]
   },
@@ -3527,6 +3575,12 @@
     "remoteBrain/Daily-Docs/2024/February/2024-02-15 Thu.md": {
       "todoistTasks": [
         "7698705820"
+      ],
+      "todoistCount": 1
+    },
+    "remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md": {
+      "todoistTasks": [
+        "7708328052"
       ],
       "todoistCount": 1
     }
