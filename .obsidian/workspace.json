@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md",
+                "file": "remoteBrain/Report/2024/February.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md",
+                "file": "remoteBrain/Report/2024/February.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md",
+                "file": "remoteBrain/Report/2024/February.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md"
+                "file": "remoteBrain/Report/2024/February.md"
               }
             }
           }
@@ -167,8 +167,8 @@
   },
   "active": "4349382c05f7b2ad",
   "lastOpenFiles": [
-    "remoteBrain/Report/2024/February.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md",
+    "remoteBrain/Report/2024/February.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md",
     "Blog/Tistory/맛따라/Recipe/바스크 치즈케이크.md",
     "Blog/Tistory/맛따라/Recipe/브리치즈 오일 파스타.md"
