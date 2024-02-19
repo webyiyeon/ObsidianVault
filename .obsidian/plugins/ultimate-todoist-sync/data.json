@@ -1014,37 +1014,6 @@
         "path": "remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md"
       },
       {
-        "id": "7708366090",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2327705031",
-        "sectionId": null,
-        "parentId": null,
-        "order": 21,
-        "content": "밥 해서 냉동밥 쟁여두기🧺",
-        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-19%20Mon.md)",
-        "isCompleted": false,
-        "labels": [
-          "chores",
-          "todoist"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "47987180",
-        "createdAt": "2024-02-19T03:36:44.322739Z",
-        "due": {
-          "date": "2024-02-18",
-          "timezone": "Asia/Seoul",
-          "string": "2024-02-19 08:00",
-          "lang": "en",
-          "isRecurring": false,
-          "datetime": "2024-02-18T23:00:00Z"
-        },
-        "url": "https://todoist.com/showTask?id=7708366090",
-        "duration": null,
-        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md"
-      },
-      {
         "id": "7698705820",
         "assignerId": null,
         "assigneeId": null,
@@ -1104,7 +1073,44 @@
           "datetime": "2024-02-18T23:00:00Z"
         },
         "url": "https://todoist.com/showTask?id=7708328052",
-        "duration": null,
+        "duration": {
+          "amount": 60,
+          "unit": "minute"
+        },
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md"
+      },
+      {
+        "id": "7708366090",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 21,
+        "content": "밥 해서 냉동밥 쟁여두기🧺",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-19%20Mon.md)",
+        "isCompleted": false,
+        "labels": [
+          "chores",
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-19T03:36:44.322739Z",
+        "due": {
+          "date": "2024-02-18",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-19 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-18T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7708366090",
+        "duration": {
+          "amount": 60,
+          "unit": "minute"
+        },
         "path": "remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md"
       }
     ],
@@ -3635,6 +3641,42 @@
         "id": 23022390785,
         "initiator_id": null,
         "object_id": "7708328052",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-19T05:02:55.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "App (Google Calendar)",
+          "content": "운동하고 장보고 식자재 마트 들려서 장보기🧺",
+          "due_date": "2024-02-19T10:00:00.000000Z",
+          "last_due_date": "2024-02-18T23:00:00.000000Z",
+          "note_count": 0
+        },
+        "extra_data_id": 23109005884,
+        "id": 23022707764,
+        "initiator_id": null,
+        "object_id": "7708328052",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-19T05:02:32.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "App (Google Calendar)",
+          "content": "밥 해서 냉동밥 쟁여두기🧺",
+          "due_date": "2024-02-19T11:00:00.000000Z",
+          "last_due_date": "2024-02-18T23:00:00.000000Z",
+          "note_count": 0
+        },
+        "extra_data_id": 23109004252,
+        "id": 23022706132,
+        "initiator_id": null,
+        "object_id": "7708366090",
         "object_type": "item",
         "parent_item_id": null,
         "parent_project_id": "2327705031"
