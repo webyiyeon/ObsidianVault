@@ -983,37 +983,6 @@
         "path": "remoteBrain/Daily-Docs/2024/February/2024-02-09 Fri.md"
       },
       {
-        "id": "7708365409",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2327705031",
-        "sectionId": null,
-        "parentId": null,
-        "order": 20,
-        "content": "에러로그 체크 및 디버깅 작업🏢",
-        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-19%20Mon.md)",
-        "isCompleted": false,
-        "labels": [
-          "todoist",
-          "work"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "47987180",
-        "createdAt": "2024-02-19T03:36:13.144360Z",
-        "due": {
-          "date": "2024-02-18",
-          "timezone": "Asia/Seoul",
-          "string": "2024-02-19 08:00",
-          "lang": "en",
-          "isRecurring": false,
-          "datetime": "2024-02-18T23:00:00Z"
-        },
-        "url": "https://todoist.com/showTask?id=7708365409",
-        "duration": null,
-        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md"
-      },
-      {
         "id": "7698705820",
         "assignerId": null,
         "assigneeId": null,
@@ -1111,6 +1080,104 @@
           "amount": 60,
           "unit": "minute"
         },
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md"
+      },
+      {
+        "id": "7708365409",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 20,
+        "content": "에러로그 체크 및 디버깅 작업🏢     ✅ 2024-02-19",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-19%20Mon.md)",
+        "isCompleted": true,
+        "labels": [
+          "todoist",
+          "work"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-19T03:36:13.144360Z",
+        "due": {
+          "date": "2024-02-18",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-19 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-18T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7708365409",
+        "duration": {
+          "amount": 360,
+          "unit": "minute"
+        },
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md"
+      },
+      {
+        "id": "7708920260",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 22,
+        "content": "각 필드별로 개별 동의어사전 적용하기🏢     ⏫ ✅ 2024-02-19",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-19%20Mon.md)",
+        "isCompleted": true,
+        "labels": [
+          "elasticsearch",
+          "todoist",
+          "work"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-19T07:59:29.572227Z",
+        "due": {
+          "date": "2024-02-18",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-19 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-18T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7708920260",
+        "duration": null,
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md"
+      },
+      {
+        "id": "7708922010",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 22,
+        "content": "query 검색단에서 가중치 부여해서 category 우선🏢   ⏫  ✅ 2024-02-19",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-19%20Mon.md)",
+        "isCompleted": false,
+        "labels": [
+          "elasticsearch",
+          "todoist",
+          "work"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-19T08:00:11.645398Z",
+        "due": {
+          "date": "2024-02-18",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-19 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-18T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7708922010",
+        "duration": null,
         "path": "remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md"
       }
     ],
@@ -3821,9 +3888,11 @@
       "todoistTasks": [
         "7708328052",
         "7708365409",
-        "7708366090"
+        "7708366090",
+        "7708920260",
+        "7708922010"
       ],
-      "todoistCount": 3
+      "todoistCount": 5
     },
     "Blog/Tistory/맛따라/Recipe/브리치즈 오일 파스타.md": {
       "defaultProjectId": "2327705031",
