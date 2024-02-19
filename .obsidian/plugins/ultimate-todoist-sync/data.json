@@ -3553,6 +3553,41 @@
         "object_type": "item",
         "parent_item_id": null,
         "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-19T03:39:11.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "밥 해서 냉동밥 쟁여두기🧺",
+          "due_date": "2024-02-18T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 23108576721,
+        "id": 23022278603,
+        "initiator_id": null,
+        "object_id": "7708366090",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-19T03:39:08.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "운동하고 장보고 식자재 마트 들려서 계란 사가기🧺",
+          "last_content": "운동하고 장보고 식자재 마트 들려서 계란 사가기",
+          "note_count": 0
+        },
+        "extra_data_id": 23108576482,
+        "id": 23022278367,
+        "initiator_id": null,
+        "object_id": "7708328052",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
       }
     ]
   },
