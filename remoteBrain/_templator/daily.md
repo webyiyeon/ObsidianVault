@@ -45,8 +45,8 @@ type: week
 date: <% tp.file.title %>
 navigation: false
 showAllDay: false
-hourRange: [6, 22]
-offset: -3
+hourRange: [8, 24]
+offset: -2
 include: ["Schedule", "Todoist", "Korea"]
 timespan: 7
 ```
@@ -64,40 +64,24 @@ timespan: 7
 - [ ] 바깥 음식 안 먹기 
 - [ ] Speak 영어 공부하기 🔼 
 
---- start-multi-column: Main-Part  
-```column-settings  
-number of columns: 3  
-Column Size: Large
-Border: off
-Shadow: on
-Column Spacing: 10px
 
-Overflow: [Scroll, Scroll, Scroll]
-```
 # To-do List
 
 - [ ] 
 
---- end-column ---
 
 # Overdue List
 
 ```tasks
 not done
 tags include #todoist 
-path does not include {{query.file.path}}
+path does not include <%tp.file.title%>
 hide backlink
 priority is high
 ```
 
---- end-column ---
-
 # Related Pages
 
-
-
---- end-column ---
---- end-multi-column
 
 
 # Thoughts & Inspirations
