@@ -4,36 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7beb491ad00ab18d",
+        "id": "b937faf5b6ecfb62",
         "type": "tabs",
         "children": [
           {
-            "id": "419d3dd63ea18760",
+            "id": "56a8bf23ae6863c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/_templator/daily.md",
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "d64222a36561e3f1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "958c254d11c425c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remoteBrain/_templator/TP-DailyNote.md",
-                "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -95,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e4edd94b43e922fd",
@@ -120,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/_templator/TP-DailyNote.md",
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/_templator/TP-DailyNote.md",
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/_templator/TP-DailyNote.md"
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md"
               }
             }
           }
@@ -184,13 +165,13 @@
       "templates:Insert template": false
     }
   },
-  "active": "958c254d11c425c4",
+  "active": "56a8bf23ae6863c2",
   "lastOpenFiles": [
-    "remoteBrain/_templator/daily.md",
-    "2024-02-20 Tue.md",
-    "remoteBrain/_templator/TP-DailyNote.md",
-    "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue ++ 임시.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md",
+    "remoteBrain/_templator/daily.md",
+    "remoteBrain/_templator/TP-DailyNote.md",
+    "2024-02-20 Tue.md",
     "remoteBrain/_template/daily.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md",
     "remoteBrain/Daily-Docs/2024/February/Untitled.md",
