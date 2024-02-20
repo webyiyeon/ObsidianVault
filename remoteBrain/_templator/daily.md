@@ -55,6 +55,7 @@ timespan: 7
 
 
 # Routine 
+
 - [ ] 유산균 1알 먹기 🔼 
 - [ ] 운동하기 🔼
 - [ ] 아침, 점심, 간식, 저녁 건강하게 4끼 챙겨먹기
@@ -67,17 +68,13 @@ timespan: 7
 
 # To-do List
 
-- [ ] 
-
 
 # Overdue List
 
 ```tasks
 not done
-tags include #todoist 
+tags include #work💼, #chores🧺 
 path does not include <%tp.file.title%>
-hide backlink
-priority is high
 ```
 
 # Related Pages
