@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fafe0c3eb0f2388e",
+        "id": "e659c4ce25544f7f",
         "type": "tabs",
         "children": [
           {
-            "id": "f045054492dc64ac",
+            "id": "cda13c5a29c31fbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,7 +165,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f045054492dc64ac",
+  "active": "cda13c5a29c31fbf",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md",
     "remoteBrain/_templator/daily.md",
