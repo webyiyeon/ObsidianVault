@@ -6,16 +6,16 @@
   "calendars": {
     "#schedule": {
       "icsName": "#schedule",
-      "icsUrl": "https://calendar.google.com/calendar/ical/yiyeon79%40gmail.com/private-448cff6a563701b14c82db84e1128058/basic.ics",
+      "icsUrl": "https://calendar.google.com/calendar/ical/ca01425c7a7dbb5a08c84ae9aa5deba2e7d84abe2ef565184dd45cd21b224c27%40group.calendar.google.com/private-aecce73937e227a1f649f356100bbcb6/basic.ics",
       "format": {
         "checkbox": true,
         "includeEventEndTime": true,
         "icsName": true,
         "summary": true,
         "location": true,
-        "description": true,
+        "description": false,
         "calendarType": "remote",
-        "showAttendees": true
+        "showAttendees": false
       },
       "calendarType": "remote"
     },
