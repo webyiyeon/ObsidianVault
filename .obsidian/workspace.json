@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5185292ee8a261b9",
+        "id": "1370754e86f1985b",
         "type": "tabs",
         "children": [
           {
-            "id": "d3c72a5d533cc99a",
+            "id": "dde5ab614890c678",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -161,19 +161,19 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "periodic-notes:Open today": false,
-      "templates:Insert template": false
+      "templates:Insert template": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "d3c72a5d533cc99a",
+  "active": "dde5ab614890c678",
   "lastOpenFiles": [
-    "remoteBrain/_templator/TP-DailyNote.md",
-    "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md",
-    "remoteBrain/_templator/daily.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue ++ 임시.md",
-    "2024-02-20 Tue.md",
-    "remoteBrain/_template/daily.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md",
+    "remoteBrain/_templator/daily.md",
+    "remoteBrain/_template/daily.md",
+    "remoteBrain/_templator/TP-DailyNote.md",
+    "2024-02-20 Tue.md",
     "remoteBrain/Daily-Docs/2024/February/Untitled.md",
     "README.md",
     "Untitled 1.md",

@@ -47,7 +47,7 @@ navigation: false
 showAllDay: false
 hourRange: [8, 24]
 offset: -2
-include: ["Schedule", "Todoist", "Korea"]
+include: ["Schedule", "Todoist", "Korea", "Work"]
 timespan: 7
 ```
 

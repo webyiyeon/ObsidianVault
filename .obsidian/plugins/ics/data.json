@@ -4,8 +4,8 @@
     "dataViewSyntax": false
   },
   "calendars": {
-    "✒️::일정::": {
-      "icsName": "✒️::일정::",
+    "#schedule": {
+      "icsName": "#schedule",
       "icsUrl": "https://calendar.google.com/calendar/ical/yiyeon79%40gmail.com/private-448cff6a563701b14c82db84e1128058/basic.ics",
       "format": {
         "checkbox": true,
@@ -16,6 +16,21 @@
         "description": true,
         "calendarType": "remote",
         "showAttendees": true
+      },
+      "calendarType": "remote"
+    },
+    "#work💼": {
+      "icsName": "#work💼",
+      "icsUrl": "https://calendar.google.com/calendar/ical/d98979f0179c75a3e3390f7e908281782a64a49ec59783ef4658fc5f3deefbcc%40group.calendar.google.com/private-a27e4e118585c4c5c5b777017017c1ea/basic.ics",
+      "format": {
+        "checkbox": true,
+        "includeEventEndTime": true,
+        "icsName": true,
+        "summary": true,
+        "location": true,
+        "description": false,
+        "calendarType": "remote",
+        "showAttendees": false
       },
       "calendarType": "remote"
     }
