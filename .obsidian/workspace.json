@@ -4,30 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "22e7a63dd51b3dc0",
+        "id": "7beb491ad00ab18d",
         "type": "tabs",
         "children": [
           {
-            "id": "7a0390c75a705f98",
+            "id": "419d3dd63ea18760",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/_template/daily.md",
+                "file": "remoteBrain/_templator/daily.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "d64222a36561e3f1",
+        "type": "tabs",
+        "children": [
           {
-            "id": "c466dfc90c6d184c",
+            "id": "958c254d11c425c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "remoteBrain/_templator/TP-DailyNote.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -89,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e4edd94b43e922fd",
@@ -113,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/_template/daily.md",
+                "file": "remoteBrain/_templator/TP-DailyNote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/_template/daily.md",
+                "file": "remoteBrain/_templator/TP-DailyNote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/_template/daily.md"
+                "file": "remoteBrain/_templator/TP-DailyNote.md"
               }
             }
           }
@@ -177,16 +184,18 @@
       "templates:Insert template": false
     }
   },
-  "active": "7a0390c75a705f98",
+  "active": "958c254d11c425c4",
   "lastOpenFiles": [
+    "remoteBrain/_templator/daily.md",
+    "2024-02-20 Tue.md",
+    "remoteBrain/_templator/TP-DailyNote.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md",
-    "remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue ++ 임시.md",
     "remoteBrain/_template/daily.md",
-    "Untitled.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md",
     "remoteBrain/Daily-Docs/2024/February/Untitled.md",
     "README.md",
     "Untitled 1.md",
-    "remoteBrain/_templator/TP-DailyNote.md",
     "Blog/Tistory/맛따라/Recipe/브리치즈 오일 파스타.md",
     "Untitled 2.md",
     "remoteBrain/_templator",

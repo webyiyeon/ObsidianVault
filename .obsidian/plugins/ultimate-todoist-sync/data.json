@@ -1189,7 +1189,7 @@
         "parentId": null,
         "order": 19,
         "content": "변경된 구조에 맞게 logstash 재구축🏢",
-        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-20%20Tue.md)",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue ++ 임시.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-20%20Tue%20++%20%EC%9E%84%EC%8B%9C.md)",
         "isCompleted": false,
         "labels": [
           "todoist",
@@ -1209,7 +1209,7 @@
         },
         "url": "https://todoist.com/showTask?id=7711809927",
         "duration": null,
-        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md"
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue ++ 임시.md"
       },
       {
         "id": "7711809407",
@@ -1220,7 +1220,7 @@
         "parentId": null,
         "order": 18,
         "content": "Elasticsearch analyze에 user_dictionary 개별 적용 테스트🏢",
-        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-20%20Tue.md)",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue ++ 임시.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-20%20Tue%20++%20%EC%9E%84%EC%8B%9C.md)",
         "isCompleted": false,
         "labels": [
           "elasticsearch",
@@ -1241,7 +1241,7 @@
         },
         "url": "https://todoist.com/showTask?id=7711809407",
         "duration": null,
-        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md"
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue ++ 임시.md"
       },
       {
         "id": "7711810292",
@@ -1252,7 +1252,7 @@
         "parentId": null,
         "order": 20,
         "content": "Category 쪽 동의어 사전 update 테스트🏢     ✅ 2024-02-20",
-        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-20%20Tue.md)",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue ++ 임시.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-20%20Tue%20++%20%EC%9E%84%EC%8B%9C.md)",
         "isCompleted": true,
         "labels": [
           "elasticsearch",
@@ -1276,7 +1276,7 @@
           "amount": 60,
           "unit": "minute"
         },
-        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md"
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue ++ 임시.md"
       },
       {
         "id": "7711962667",
@@ -1287,7 +1287,7 @@
         "parentId": null,
         "order": 20,
         "content": "Category를 기반으로 표준 동의어 사전 구축🏢",
-        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-20%20Tue.md)",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue ++ 임시.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-20%20Tue%20++%20%EC%9E%84%EC%8B%9C.md)",
         "isCompleted": false,
         "labels": [
           "elasticsearch",
@@ -1308,7 +1308,7 @@
         },
         "url": "https://todoist.com/showTask?id=7711962667",
         "duration": null,
-        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md"
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue ++ 임시.md"
       }
     ],
     "events": [
@@ -4321,6 +4321,78 @@
         "object_type": "item",
         "parent_item_id": null,
         "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-20T03:22:12.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "Category를 기반으로 표준 동의어 사전 구축🏢",
+          "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue ++ 임시.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-20%20Tue%20++%20%EC%9E%84%EC%8B%9C.md)",
+          "last_description": "[remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-20%20Tue.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 23122148756,
+        "id": 23035850535,
+        "initiator_id": null,
+        "object_id": "7711962667",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-20T03:22:10.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "Category 쪽 동의어 사전 update 테스트🏢     ✅ 2024-02-20",
+          "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue ++ 임시.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-20%20Tue%20++%20%EC%9E%84%EC%8B%9C.md)",
+          "last_description": "[remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-20%20Tue.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 23122148601,
+        "id": 23035850380,
+        "initiator_id": null,
+        "object_id": "7711810292",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-20T03:22:09.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "변경된 구조에 맞게 logstash 재구축🏢",
+          "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue ++ 임시.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-20%20Tue%20++%20%EC%9E%84%EC%8B%9C.md)",
+          "last_description": "[remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-20%20Tue.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 23122148515,
+        "id": 23035850294,
+        "initiator_id": null,
+        "object_id": "7711809927",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-20T03:22:09.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "Elasticsearch analyze에 user_dictionary 개별 적용 테스트🏢",
+          "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue ++ 임시.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-20%20Tue%20++%20%EC%9E%84%EC%8B%9C.md)",
+          "last_description": "[remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-20%20Tue.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 23122148509,
+        "id": 23035850292,
+        "initiator_id": null,
+        "object_id": "7711809407",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
       }
     ]
   },
@@ -4437,7 +4509,7 @@
       "todoistTasks": [],
       "todoistCount": 0
     },
-    "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md": {
+    "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue ++ 임시.md": {
       "todoistTasks": [
         "7711809407",
         "7711809927",

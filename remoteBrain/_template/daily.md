@@ -15,16 +15,16 @@ tags:
   - study-log📓
   - workout-log💪
   - "#routine"
-
 ---
-🔺 [[2024-02-19 Mon]]
+
+🔺 [[{{}}]]
 🔻 [[2024-02-21 Wed]]
 ___
 <h1> <center>⏰TimeTable </center> </h1>
 
 ```gEvent
 type: week
-date: 2024-02-20 Tue
+date: {{query.file.path}}
 navigation: false
 showAllDay: false
 hourRange: [6, 22]

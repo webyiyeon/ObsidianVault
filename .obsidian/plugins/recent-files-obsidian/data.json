@@ -1,28 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "TP-DailyNote",
+      "path": "remoteBrain/_templator/TP-DailyNote.md"
+    },
+    {
       "basename": "daily",
-      "path": "remoteBrain/_template/daily.md"
+      "path": "remoteBrain/_templator/daily.md"
     },
     {
       "basename": "2024-02-20 Tue",
-      "path": "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md"
+      "path": "2024-02-20 Tue.md"
+    },
+    {
+      "basename": "2024-02-20 Tue ++ 임시",
+      "path": "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue ++ 임시.md"
+    },
+    {
+      "basename": "daily",
+      "path": "remoteBrain/_template/daily.md"
     },
     {
       "basename": "2024-02-19 Mon",
       "path": "remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md"
     },
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "TP-DailyNote",
-      "path": "remoteBrain/_templator/TP-DailyNote.md"
     },
     {
       "basename": "브리치즈 오일 파스타",
