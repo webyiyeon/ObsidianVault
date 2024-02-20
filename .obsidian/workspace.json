@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1370754e86f1985b",
+        "id": "fafe0c3eb0f2388e",
         "type": "tabs",
         "children": [
           {
-            "id": "dde5ab614890c678",
+            "id": "f045054492dc64ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,10 +165,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "dde5ab614890c678",
+  "active": "f045054492dc64ac",
   "lastOpenFiles": [
-    "remoteBrain/_templator/daily.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md",
+    "remoteBrain/_templator/daily.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue ++ 임시.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md",
     "remoteBrain/_template/daily.md",
