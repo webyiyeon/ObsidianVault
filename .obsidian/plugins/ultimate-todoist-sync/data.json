@@ -1251,9 +1251,9 @@
         "sectionId": null,
         "parentId": null,
         "order": 20,
-        "content": "Category 쪽 동의어 사전 update 테스트🏢",
+        "content": "Category 쪽 동의어 사전 update 테스트🏢     ✅ 2024-02-20",
         "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-20%20Tue.md)",
-        "isCompleted": false,
+        "isCompleted": true,
         "labels": [
           "elasticsearch",
           "todoist",
@@ -1276,6 +1276,31 @@
           "amount": 60,
           "unit": "minute"
         },
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md"
+      },
+      {
+        "id": "7711962667",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 20,
+        "content": "Category를 기반으로 표준 동의어 사전 구축🏢",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-20%20Tue.md)",
+        "isCompleted": false,
+        "labels": [
+          "elasticsearch",
+          "todoist",
+          "work"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-20T00:43:38.677565Z",
+        "due": null,
+        "url": "https://todoist.com/showTask?id=7711962667",
+        "duration": null,
         "path": "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md"
       }
     ],
@@ -4358,9 +4383,10 @@
       "todoistTasks": [
         "7711809407",
         "7711809927",
-        "7711810292"
+        "7711810292",
+        "7711962667"
       ],
-      "todoistCount": 3
+      "todoistCount": 4
     }
   },
   "enableFullVaultSync": false,
