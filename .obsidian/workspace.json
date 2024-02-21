@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "9f09c920f67bb274",
+        "id": "4f43121840f99fc5",
         "type": "tabs",
         "children": [
           {
-            "id": "a8cf4f32fe6772b0",
+            "id": "cba9ed2f4fe6282f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4fe134400060d1e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -33,14 +46,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c0622d42e7570c13",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
-          {
             "id": "9b220db4279a6df2",
             "type": "leaf",
             "state": {
@@ -48,6 +53,14 @@
               "state": {
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "c0622d42e7570c13",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
             }
           },
           {
@@ -73,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,25 +173,45 @@
       "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "templates:Insert template": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "a8cf4f32fe6772b0",
+  "active": "4fe134400060d1e0",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md",
-    "conflict-files-obsidian-git.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-21 Wed.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md",
+    "[remoteBrain/Daily-docs/2024/February/2024-02-19 Mon.md",
+    "[remoteBrain/Daily-docs/2024/February",
+    "[remoteBrain/Daily-docs/2024/Feb/2024-02-21 Wed.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-21 Wed ++.md",
+    "[remoteBrain/Daily-docs/2024/Feb",
+    "[remoteBrain/Daily-docs/2024",
+    "[remoteBrain/Daily-docs",
+    "[remoteBrain",
     "remoteBrain/_templater/daily.md",
     "remoteBrain/_templater/TP-DailyNote.md",
-    "remoteBrain/Daily-Docs/2024/February/2024-02-21 Wed.md",
-    "[remoteBrain/Daily-docs/2024/February/2024-02-19 Mon.md",
-    "[remoteBrain/Daily-docs/2024/Feb/2024-02-21 Wed.md",
+    "remoteBrain/Report/2024/February.md",
     "01_PLANER/2024/Feb/2024-02-20 Tue.md",
-    "remoteBrain/Daily-Docs/2024/February/2024-02-18 Sun.md",
+    "01_PLANER/2024/Feb",
+    "01_PLANER/2024",
+    "01_PLANER",
+    "remoteBrain/_template/daily.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue ++ 임시.md",
+    "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/영화 웡카 후기.md",
+    "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/common.jfif",
+    "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/common (1).jfif",
+    "Blog/Tistory/Untitled.md",
+    "2024-02-20 Tue.md",
+    "remoteBrain/Daily-Docs/2024/February/Untitled.md",
+    "README.md",
+    "Untitled 1.md",
     "Blog/Tistory/맛따라/Recipe/브리치즈 오일 파스타.md",
-    "Blog/Tistory/맛따라/Recipe/바스크 치즈케이크.md",
-    "remoteBrain/_template/recipe.md"
+    "Untitled 2.md",
+    "remoteBrain/_template/tags.md",
+    "Blog/Tistory/Data/Python/pd.melt 사용법.md",
+    "Blog/Tistory/맛따라/Recipe/바스크 치즈케이크.md"
   ]
 }
