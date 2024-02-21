@@ -4593,6 +4593,159 @@
         "object_type": "item",
         "parent_item_id": null,
         "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-21T06:51:25.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "밥 해서 냉동밥 쟁여두기🧺     ✅ 2024-02-19",
+          "last_content": "밥 해서 냉동밥 쟁여두기🧺",
+          "note_count": 0
+        },
+        "extra_data_id": 23136444059,
+        "id": 23050145709,
+        "initiator_id": null,
+        "object_id": "7708366090",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-21T06:51:22.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "운동하고 장보고 식자재 마트 들려서 장보기🧺     ✅ 2024-02-19",
+          "last_content": "운동하고 장보고 식자재 마트 들려서 장보기🧺     ✅ 2024-02-21",
+          "note_count": 0
+        },
+        "extra_data_id": 23136443597,
+        "id": 23050145246,
+        "initiator_id": null,
+        "object_id": "7708328052",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-21T06:47:28.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "에러로그 체크 및 디버깅 작업🏢     ✅ 2024-02-19",
+          "last_content": "에러로그 체크 및 디버깅 작업🏢",
+          "note_count": 0
+        },
+        "extra_data_id": 23136414078,
+        "id": 23050115730,
+        "initiator_id": null,
+        "object_id": "7708365409",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-21T06:47:20.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "App (Amazon Alexa Skill)",
+          "content": "운동하고 장보고 식자재 마트 들려서 장보기🧺     ✅ 2024-02-21",
+          "last_content": "운동하고 장보고 식자재 마트 들려서 장보기🧺     ✅ 2024-02-19",
+          "note_count": 0
+        },
+        "extra_data_id": 23136412859,
+        "id": 23050114511,
+        "initiator_id": null,
+        "object_id": "7708328052",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-21T06:47:18.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "운동하고 장보고 식자재 마트 들려서 장보기🧺     ✅ 2024-02-19",
+          "last_content": "운동하고 장보고 식자재 마트 들려서 장보기🧺     ✅ 2024-02-21",
+          "note_count": 0
+        },
+        "extra_data_id": 23136412549,
+        "id": 23050114200,
+        "initiator_id": null,
+        "object_id": "7708328052",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-21T06:47:16.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "운동하고 장보고 식자재 마트 들려서 장보기🧺     ✅ 2024-02-21",
+          "last_content": "운동하고 장보고 식자재 마트 들려서 장보기🧺",
+          "note_count": 0
+        },
+        "extra_data_id": 23136412290,
+        "id": 23050113942,
+        "initiator_id": null,
+        "object_id": "7708328052",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-21T06:36:31.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "밥 해서 냉동밥 쟁여두기🧺",
+          "last_content": "밥 해서 냉동밥 쟁여두기🧺     ✅ 2024-02-19",
+          "note_count": 0
+        },
+        "extra_data_id": 23136330527,
+        "id": 23050032180,
+        "initiator_id": null,
+        "object_id": "7708366090",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-21T06:36:29.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "에러로그 체크 및 디버깅 작업🏢",
+          "last_content": "에러로그 체크 및 디버깅 작업🏢     ✅ 2024-02-19",
+          "note_count": 0
+        },
+        "extra_data_id": 23136330356,
+        "id": 23050032008,
+        "initiator_id": null,
+        "object_id": "7708365409",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-21T06:36:28.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "운동하고 장보고 식자재 마트 들려서 장보기🧺",
+          "last_content": "운동하고 장보고 식자재 마트 들려서 장보기🧺     ✅ 2024-02-19",
+          "note_count": 0
+        },
+        "extra_data_id": 23136330124,
+        "id": 23050031775,
+        "initiator_id": null,
+        "object_id": "7708328052",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
       }
     ]
   },
