@@ -5,6 +5,7 @@
       "path": "remoteBrain/Daily-Docs/2024/February/2024-02-21 Wed.md"
     },
     {
+<<<<<<< HEAD
       "basename": "2024-02-22 Thu",
       "path": "remoteBrain/Daily-Docs/2024/February/2024-02-22 Thu.md"
     },
@@ -15,6 +16,14 @@
     {
       "basename": "2024-02-20 Tue",
       "path": "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md"
+=======
+      "basename": "2024-02-20 Tue",
+      "path": "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md"
+    },
+    {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+>>>>>>> 4df57e7 (test)
     },
     {
       "basename": "2024-02-19 Mon",
