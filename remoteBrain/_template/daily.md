@@ -16,6 +16,27 @@ tags:
   - workout-log💪
   - "#routine"
 ---
+<<<<<<< HEAD
+=======
+
+🔺 [[{{}}]]
+🔻 [[2024-02-21 Wed ++]]
+___
+<h1> <center>⏰TimeTable </center> </h1>
+
+```gEvent
+type: week
+date: {{query.file.path}}
+navigation: false
+showAllDay: false
+hourRange: [6, 22]
+offset: -3
+include: ["Schedule", "Todoist", "Korea"]
+timespan: 7
+```
+
+--- 
+>>>>>>> origin/master
 ### Routine 
 - [ ] 유산균 1알 먹기 🔼 
 - [ ] 운동하기 🔼
@@ -26,13 +47,12 @@ tags:
 - [ ] 바깥 음식 안 먹기 
 
 ### To-do List 
-- [ ] 
+
 ```tasks
 not done
-tags include #todoist 
-path does not include {{query.file.path}}
+tags include #work💼 
+path does not include <%tp.file.title%>
 hide backlink
-priority is high
 ```
 
 
