@@ -9,8 +9,32 @@
       "path": "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md"
     },
     {
+      "basename": "2024-02-19 Mon",
+      "path": "remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md"
+    },
+    {
+      "basename": "2024-02-19 Mon",
+      "path": "[remoteBrain/Daily-docs/2024/February/2024-02-19 Mon.md"
+    },
+    {
+      "basename": "2024-02-21 Wed",
+      "path": "[remoteBrain/Daily-docs/2024/Feb/2024-02-21 Wed.md"
+    },
+    {
       "basename": "daily",
       "path": "remoteBrain/_templater/daily.md"
+    },
+    {
+      "basename": "TP-DailyNote",
+      "path": "remoteBrain/_templater/TP-DailyNote.md"
+    },
+    {
+      "basename": "February",
+      "path": "remoteBrain/Report/2024/February.md"
+    },
+    {
+      "basename": "2024-02-20 Tue",
+      "path": "01_PLANER/2024/Feb/2024-02-20 Tue.md"
     },
     {
       "basename": "daily",
@@ -19,14 +43,6 @@
     {
       "basename": "영화 웡카 후기",
       "path": "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/영화 웡카 후기.md"
-    },
-    {
-      "basename": "2024-02-19 Mon",
-      "path": "remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md"
-    },
-    {
-      "basename": "TP-DailyNote",
-      "path": "remoteBrain/_templater/TP-DailyNote.md"
     },
     {
       "basename": "2024-02-20 Tue",
@@ -47,10 +63,6 @@
     {
       "basename": "pd.melt 사용법",
       "path": "Blog/Tistory/Data/Python/pd.melt 사용법.md"
-    },
-    {
-      "basename": "February",
-      "path": "remoteBrain/Report/2024/February.md"
     },
     {
       "basename": "바스크 치즈케이크",

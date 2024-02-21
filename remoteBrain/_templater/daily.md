@@ -25,18 +25,18 @@ tags:
 
 	/* Previous date parsing */
 	previousDate_year  = previousDate.format("YYYY")
-	previousDate_month = previousDate.format("MMM")
+	previousDate_month = previousDate.format("MMMM")
 	previousDate_ymd   = previousDate.format("YYYY-MM-DD")
 	previousDate_wday  = previousDate.format("ddd") 
 
 	/* Past date parsing */ 
 	nextDate_year  = nextDate.format("YYYY")
-	nextDate_month = nextDate.format("MMM") 
+	nextDate_month = nextDate.format("MMMM") 
 	nextDate_ymd   = nextDate.format("YYYY-MM-DD")
 	nextDate_wday  = nextDate.format("ddd")
 	
--%>🔺 [[01_PLANER/<% previousDate_year %>/<% previousDate_month%>/<% previousDate_ymd %> <% previousDate_wday %> | <% previousDate_ymd %> <% previousDate_wday %>]]
-🔻 [[01_PLANER/<% nextDate_year %>/<% nextDate_month %>/<% nextDate_ymd %> <% nextDate_wday %> | <% nextDate_ymd %> <% nextDate_wday %>]]
+-%>🔺 [[remoteBrain/Daily-docs/<% previousDate_year %>/<% previousDate_month%>/<% previousDate_ymd %> <% previousDate_wday %> | <% previousDate_ymd %> <% previousDate_wday %>]]
+🔻 [[remoteBrain/Daily-docs/<% nextDate_year %>/<% nextDate_month %>/<% nextDate_ymd %> <% nextDate_wday %> | <% nextDate_ymd %> <% nextDate_wday %>]]
 ___
 <h1> <center>⏰TimeTable </center> </h1>
 
@@ -75,6 +75,7 @@ timespan: 7
 not done
 (tags include #work💼) OR (tags include #chores🧺) 
 path does not include <%tp.file.title%>
+hide backlink
 ```
 
 # Related Pages

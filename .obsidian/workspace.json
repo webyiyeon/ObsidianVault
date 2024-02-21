@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "9d632e1dfe1858bb",
+        "id": "4f43121840f99fc5",
         "type": "tabs",
         "children": [
           {
-            "id": "e855303d3abe19ea",
+            "id": "cba9ed2f4fe6282f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4fe134400060d1e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,27 +178,32 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e855303d3abe19ea",
+  "active": "4fe134400060d1e0",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2024/February/2024-02-21 Wed.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-21 Wed.md",
+    "[remoteBrain/Daily-docs/2024/February/2024-02-19 Mon.md",
+    "[remoteBrain/Daily-docs/2024/February",
+    "[remoteBrain/Daily-docs/2024/Feb/2024-02-21 Wed.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-21 Wed ++.md",
+    "[remoteBrain/Daily-docs/2024/Feb",
+    "[remoteBrain/Daily-docs/2024",
+    "[remoteBrain/Daily-docs",
+    "[remoteBrain",
     "remoteBrain/_templater/daily.md",
+    "remoteBrain/_templater/TP-DailyNote.md",
+    "remoteBrain/Report/2024/February.md",
+    "01_PLANER/2024/Feb/2024-02-20 Tue.md",
+    "01_PLANER/2024/Feb",
+    "01_PLANER/2024",
+    "01_PLANER",
     "remoteBrain/_template/daily.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue ++ 임시.md",
     "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/영화 웡카 후기.md",
     "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/common.jfif",
     "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/common (1).jfif",
-    "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/common (2).jfif",
-    "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/common (3).jfif",
-    "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/common (4).jfif",
-    "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/common (5).jfif",
-    "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/common (6).jfif",
-    "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/common (7).jfif",
-    "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/common (8).jfif",
-    "Blog/Tistory/철따라/영화 후기/영화 웡카 후기",
     "Blog/Tistory/Untitled.md",
-    "remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md",
-    "remoteBrain/_templater/TP-DailyNote.md",
     "2024-02-20 Tue.md",
     "remoteBrain/Daily-Docs/2024/February/Untitled.md",
     "README.md",
@@ -194,7 +212,6 @@
     "Untitled 2.md",
     "remoteBrain/_template/tags.md",
     "Blog/Tistory/Data/Python/pd.melt 사용법.md",
-    "remoteBrain/Report/2024/February.md",
     "Blog/Tistory/맛따라/Recipe/바스크 치즈케이크.md"
   ]
 }
