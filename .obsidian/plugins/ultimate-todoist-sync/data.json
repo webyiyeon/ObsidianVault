@@ -1151,40 +1151,6 @@
         "path": "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue ++ 임시.md"
       },
       {
-        "id": "7708366090",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2327705031",
-        "sectionId": null,
-        "parentId": null,
-        "order": 21,
-        "content": "밥 해서 냉동밥 쟁여두기🧺",
-        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-19%20Mon.md)",
-        "isCompleted": false,
-        "labels": [
-          "chores",
-          "todoist"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "47987180",
-        "createdAt": "2024-02-19T03:36:44.322739Z",
-        "due": {
-          "date": "2024-02-18",
-          "timezone": "Asia/Seoul",
-          "string": "2024-02-19 08:00",
-          "lang": "en",
-          "isRecurring": false,
-          "datetime": "2024-02-18T23:00:00Z"
-        },
-        "url": "https://todoist.com/showTask?id=7708366090",
-        "duration": {
-          "amount": 60,
-          "unit": "minute"
-        },
-        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md"
-      },
-      {
         "id": "7708328052",
         "assignerId": null,
         "assigneeId": null,
@@ -1248,6 +1214,40 @@
         "url": "https://todoist.com/showTask?id=7708365409",
         "duration": {
           "amount": 360,
+          "unit": "minute"
+        },
+        "path": "remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md"
+      },
+      {
+        "id": "7708366090",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327705031",
+        "sectionId": null,
+        "parentId": null,
+        "order": 21,
+        "content": "밥 해서 냉동밥 쟁여두기🧺",
+        "description": "[remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md](obsidian://open?vault=Obsidian%20Vault&file=remoteBrain/Daily-Docs/2024/February/2024-02-19%20Mon.md)",
+        "isCompleted": true,
+        "labels": [
+          "chores",
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47987180",
+        "createdAt": "2024-02-19T03:36:44.322739Z",
+        "due": {
+          "date": "2024-02-18",
+          "timezone": "Asia/Seoul",
+          "string": "2024-02-19 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-02-18T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7708366090",
+        "duration": {
+          "amount": 60,
           "unit": "minute"
         },
         "path": "remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md"
@@ -4574,6 +4574,22 @@
         "id": 23050114092,
         "initiator_id": null,
         "object_id": "7708328052",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327705031"
+      },
+      {
+        "event_date": "2024-02-21T06:51:26.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "밥 해서 냉동밥 쟁여두기🧺     ✅ 2024-02-19",
+          "note_count": 0
+        },
+        "extra_data_id": 23136444061,
+        "id": 23050145712,
+        "initiator_id": null,
+        "object_id": "7708366090",
         "object_type": "item",
         "parent_item_id": null,
         "parent_project_id": "2327705031"
