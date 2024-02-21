@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "55b7a1f08863957d",
+    "id": "b40d51fc9b2e8f7e",
     "type": "split",
     "children": [
       {
-        "id": "4f43121840f99fc5",
+        "id": "5310bb8985a172ca",
         "type": "tabs",
         "children": [
           {
-            "id": "4fe134400060d1e0",
+            "id": "6f9010408419ae3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "24a8032ba613ba73",
+    "id": "a3704b029b2e41ce",
     "type": "split",
     "children": [
       {
-        "id": "1fb16d88b15160e7",
+        "id": "0d97db96cb90607b",
         "type": "tabs",
         "children": [
           {
-            "id": "9b220db4279a6df2",
+            "id": "83d079b0fd24675f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "c0622d42e7570c13",
+            "id": "342a57c533b30139",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -51,7 +51,7 @@
             }
           },
           {
-            "id": "95a9e708864fdbd2",
+            "id": "074e8eb4f3ec9563",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -66,7 +66,7 @@
             }
           },
           {
-            "id": "4ad1cd7de04512ea",
+            "id": "80a63d36f05db31e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -80,15 +80,15 @@
     "width": 300
   },
   "right": {
-    "id": "e4edd94b43e922fd",
+    "id": "8566a7bac48b53e6",
     "type": "split",
     "children": [
       {
-        "id": "7ad8ff4220eba2fe",
+        "id": "12fd754d8a1ec67b",
         "type": "tabs",
         "children": [
           {
-            "id": "a82aa8b91006f5dc",
+            "id": "5e8ef42ac307cdd9",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -96,7 +96,7 @@
             }
           },
           {
-            "id": "e388e972cc962c3f",
+            "id": "6aa7934f5b250718",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -113,7 +113,7 @@
             }
           },
           {
-            "id": "22f0e94bcfa59fcc",
+            "id": "175a68003b4f7428",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -125,7 +125,7 @@
             }
           },
           {
-            "id": "6a970d8a1f6c243d",
+            "id": "fb716ad22c17998c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -136,7 +136,7 @@
             }
           },
           {
-            "id": "0f3325df8c37f019",
+            "id": "4cd3463ad5883e85",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -149,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,53 +160,12 @@
       "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "command-palette:Open command palette": false,
       "templates:Insert template": false,
-      "periodic-notes:Open today": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "4fe134400060d1e0",
+  "active": "6f9010408419ae3a",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "remoteBrain/Daily-Docs/2024/February/2024-02-22 Thu.md",
-    "remoteBrain/Daily-Docs/2024/February/2024-02-15 Thu.md",
-    "remoteBrain/Daily-Docs/2024/February/2024-02-21 Wed.md",
-    "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md",
-=======
-    "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md",
-    "remoteBrain/Daily-Docs/2024/February/2024-02-21 Wed.md",
-    "conflict-files-obsidian-git.md",
->>>>>>> 4df57e7 (test)
-    "remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md",
-    "[remoteBrain/Daily-docs/2024/February/2024-02-19 Mon.md",
-    "[remoteBrain/Daily-docs/2024/February",
-    "[remoteBrain/Daily-docs/2024/Feb/2024-02-21 Wed.md",
-    "remoteBrain/Daily-Docs/2024/February/2024-02-21 Wed ++.md",
-    "[remoteBrain/Daily-docs/2024/Feb",
-    "[remoteBrain/Daily-docs/2024",
-    "[remoteBrain/Daily-docs",
-    "[remoteBrain",
-    "remoteBrain/_templater/daily.md",
-    "remoteBrain/_templater/TP-DailyNote.md",
-    "remoteBrain/Report/2024/February.md",
-    "01_PLANER/2024/Feb/2024-02-20 Tue.md",
-    "01_PLANER/2024/Feb",
-    "01_PLANER/2024",
-    "01_PLANER",
-    "remoteBrain/_template/daily.md",
-    "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue ++ 임시.md",
-    "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/영화 웡카 후기.md",
-    "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/common.jfif",
-    "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/common (1).jfif",
-    "Blog/Tistory/Untitled.md",
-    "2024-02-20 Tue.md",
-    "remoteBrain/Daily-Docs/2024/February/Untitled.md",
-    "README.md",
-    "Untitled 1.md",
-    "Blog/Tistory/맛따라/Recipe/브리치즈 오일 파스타.md",
-    "Untitled 2.md",
-    "remoteBrain/_template/tags.md",
-    "Blog/Tistory/Data/Python/pd.melt 사용법.md",
-    "Blog/Tistory/맛따라/Recipe/바스크 치즈케이크.md"
+    "remoteBrain/Daily-Docs/2024/February/2024-02-22 Thu.md"
   ]
 }

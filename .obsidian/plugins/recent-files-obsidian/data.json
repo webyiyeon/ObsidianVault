@@ -5,85 +5,8 @@
       "path": "remoteBrain/Daily-Docs/2024/February/2024-02-21 Wed.md"
     },
     {
-<<<<<<< HEAD
       "basename": "2024-02-22 Thu",
       "path": "remoteBrain/Daily-Docs/2024/February/2024-02-22 Thu.md"
-    },
-    {
-      "basename": "2024-02-15 Thu",
-      "path": "remoteBrain/Daily-Docs/2024/February/2024-02-15 Thu.md"
-    },
-    {
-      "basename": "2024-02-20 Tue",
-      "path": "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md"
-=======
-      "basename": "2024-02-20 Tue",
-      "path": "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md"
-    },
-    {
-      "basename": "conflict-files-obsidian-git",
-      "path": "conflict-files-obsidian-git.md"
->>>>>>> 4df57e7 (test)
-    },
-    {
-      "basename": "2024-02-19 Mon",
-      "path": "remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md"
-    },
-    {
-      "basename": "2024-02-19 Mon",
-      "path": "[remoteBrain/Daily-docs/2024/February/2024-02-19 Mon.md"
-    },
-    {
-      "basename": "2024-02-21 Wed",
-      "path": "[remoteBrain/Daily-docs/2024/Feb/2024-02-21 Wed.md"
-    },
-    {
-      "basename": "daily",
-      "path": "remoteBrain/_templater/daily.md"
-    },
-    {
-      "basename": "TP-DailyNote",
-      "path": "remoteBrain/_templater/TP-DailyNote.md"
-    },
-    {
-      "basename": "February",
-      "path": "remoteBrain/Report/2024/February.md"
-    },
-    {
-      "basename": "2024-02-20 Tue",
-      "path": "01_PLANER/2024/Feb/2024-02-20 Tue.md"
-    },
-    {
-      "basename": "daily",
-      "path": "remoteBrain/_template/daily.md"
-    },
-    {
-      "basename": "영화 웡카 후기",
-      "path": "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/영화 웡카 후기.md"
-    },
-    {
-      "basename": "2024-02-20 Tue",
-      "path": "2024-02-20 Tue.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "브리치즈 오일 파스타",
-      "path": "Blog/Tistory/맛따라/Recipe/브리치즈 오일 파스타.md"
-    },
-    {
-      "basename": "tags",
-      "path": "remoteBrain/_template/tags.md"
-    },
-    {
-      "basename": "pd.melt 사용법",
-      "path": "Blog/Tistory/Data/Python/pd.melt 사용법.md"
-    },
-    {
-      "basename": "바스크 치즈케이크",
-      "path": "Blog/Tistory/맛따라/Recipe/바스크 치즈케이크.md"
     }
   ],
   "omittedPaths": [],
