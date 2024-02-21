@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e659c4ce25544f7f",
+        "id": "9d632e1dfe1858bb",
         "type": "tabs",
         "children": [
           {
-            "id": "cda13c5a29c31fbf",
+            "id": "e855303d3abe19ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md",
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-21 Wed.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md",
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-21 Wed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md",
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-21 Wed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md"
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-21 Wed.md"
               }
             }
           }
@@ -165,10 +165,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cda13c5a29c31fbf",
+  "active": "e855303d3abe19ea",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue ++ 임시.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-21 Wed.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md",
+    "remoteBrain/_templater/daily.md",
+    "remoteBrain/_template/daily.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue ++ 임시.md",
     "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/영화 웡카 후기.md",
     "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/common.jfif",
     "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/common (1).jfif",
@@ -181,10 +184,8 @@
     "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/common (8).jfif",
     "Blog/Tistory/철따라/영화 후기/영화 웡카 후기",
     "Blog/Tistory/Untitled.md",
-    "remoteBrain/_templator/daily.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md",
-    "remoteBrain/_template/daily.md",
-    "remoteBrain/_templator/TP-DailyNote.md",
+    "remoteBrain/_templater/TP-DailyNote.md",
     "2024-02-20 Tue.md",
     "remoteBrain/Daily-Docs/2024/February/Untitled.md",
     "README.md",

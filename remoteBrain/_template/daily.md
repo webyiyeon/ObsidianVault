@@ -44,13 +44,12 @@ timespan: 7
 - [ ] 바깥 음식 안 먹기 
 
 ### To-do List 
-- [ ] 
+
 ```tasks
 not done
-tags include #todoist 
-path does not include {{query.file.path}}
+tags include #work💼 
+path does not include <%tp.file.title%>
 hide backlink
-priority is high
 ```
 
 

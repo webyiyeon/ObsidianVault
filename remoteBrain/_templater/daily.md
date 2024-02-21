@@ -73,7 +73,7 @@ timespan: 7
 
 ```tasks
 not done
-tags include #work💼, #chores🧺 
+(tags include #work💼) OR (tags include #chores🧺) 
 path does not include <%tp.file.title%>
 ```
 
