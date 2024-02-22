@@ -92,5 +92,14 @@
       ],
       "key": "A"
     }
+  ],
+  "ics:import_events": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
   ]
 }
