@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "remoteBrain/Daily-Docs/2024/February/2024-02-22 Thu.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -157,18 +157,20 @@
       "obsidian42-brat:BRAT": false,
       "obsidian-custom-frames:Open Chat GPT": false,
       "obsidian-day-planner:Timeline": false,
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "1fafaed0f47dd027",
   "lastOpenFiles": [
-    "remoteBrain/_templater/daily.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-21 Wed.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-22 Thu.md",
-    "remoteBrain/Daily-Docs/2024/February/2024-02-21 Wed.md"
+    "remoteBrain/_templater/TP-DailyNote.md",
+    "remoteBrain/_templater/daily.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md"
   ]
 }
