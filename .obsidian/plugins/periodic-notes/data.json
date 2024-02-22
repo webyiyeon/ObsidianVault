@@ -10,8 +10,8 @@
   },
   "weekly": {
     "format": "",
-    "template": "",
-    "folder": "",
+    "template": "remoteBrain/_templater/Test.md",
+    "folder": "/",
     "enabled": true
   },
   "monthly": {
