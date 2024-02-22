@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-02-21 Wed",
-      "path": "remoteBrain/Daily-Docs/2024/February/2024-02-21 Wed.md"
-    },
-    {
       "basename": "2024-02-22 Thu",
       "path": "remoteBrain/Daily-Docs/2024/February/2024-02-22 Thu.md"
+    },
+    {
+      "basename": "daily",
+      "path": "remoteBrain/_templater/daily.md"
+    },
+    {
+      "basename": "2024-02-21 Wed",
+      "path": "remoteBrain/Daily-Docs/2024/February/2024-02-21 Wed.md"
     }
   ],
   "omittedPaths": [],

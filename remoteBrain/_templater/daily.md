@@ -44,7 +44,7 @@ ___
 type: week
 date: <% tp.file.title %>
 navigation: false
-showAllDay: false
+showAllDay: true
 hourRange: [8, 24]
 offset: -2
 include: ["Schedule", "Todoist", "Korea", "Work"]

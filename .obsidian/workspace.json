@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5310bb8985a172ca",
+        "id": "9252abe7a7dff050",
         "type": "tabs",
         "children": [
           {
-            "id": "6f9010408419ae3a",
+            "id": "1fafaed0f47dd027",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-21 Wed.md",
-                "mode": "source",
-                "source": false
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-22 Thu.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-21 Wed.md",
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-22 Thu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-21 Wed.md",
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-22 Thu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-21 Wed.md"
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-22 Thu.md"
               }
             }
           }
@@ -161,11 +161,14 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "6f9010408419ae3a",
+  "active": "1fafaed0f47dd027",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2024/February/2024-02-22 Thu.md"
+    "remoteBrain/_templater/daily.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-22 Thu.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-21 Wed.md"
   ]
 }
