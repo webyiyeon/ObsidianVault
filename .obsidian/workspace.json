@@ -161,14 +161,15 @@
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "periodic-notes:Open today": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "1fafaed0f47dd027",
+  "active": "83d079b0fd24675f",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2024/February/2024-02-21 Wed.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-22 Thu.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-22 Thu.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-21 Wed.md",
     "remoteBrain/_templater/TP-DailyNote.md",
     "remoteBrain/_templater/daily.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-20 Tue.md"
