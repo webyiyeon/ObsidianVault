@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-21 Wed.md",
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-23 Fri.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-21 Wed.md",
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-23 Fri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-21 Wed.md",
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-23 Fri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-21 Wed.md"
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-23 Fri.md"
               }
             }
           }
@@ -161,12 +161,15 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "e95af998cadf0bd9",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2024/February/2024-02-22 Thu.md",
-    "remoteBrain/Daily-Docs/2024/February/2024-02-21 Wed.md"
+    "remoteBrain/Daily-Docs/2024/February/2024-02-21 Wed.md",
+    "conflict-files-obsidian-git.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-23 Fri.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-22 Thu.md"
   ]
 }

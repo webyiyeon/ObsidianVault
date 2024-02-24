@@ -92,5 +92,22 @@
       ],
       "key": "A"
     }
+  ],
+  "ics:import_events": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "periodic-notes:open-weekly-note": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "2"
+    }
   ]
 }

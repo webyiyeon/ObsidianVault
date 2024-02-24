@@ -3,37 +3,31 @@
   "hasMigratedDailyNoteSettings": false,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
-    "format": "YYYY/MMMM/YYYY-MM-DD ddd",
-<<<<<<< HEAD
-    "template": "remoteBrain/_template/daily.md",
-=======
+    "format": "YYYY/MMMM/YYYY-MM-D ddd",
     "template": "remoteBrain/_templater/daily.md",
->>>>>>> origin/master
     "folder": "remoteBrain/Daily-Docs",
     "enabled": true
   },
   "weekly": {
     "format": "",
-    "template": "",
-    "folder": "",
-    "enabled": false
+    "template": "remoteBrain/_templater/Test.md",
+    "folder": "/",
+    "enabled": true
   },
   "monthly": {
     "format": "YYYY/MMMM",
-    "template": "remoteBrain/_template/monthly.md",
+    "template": "remoteBrain/_template/Monthly.md",
     "folder": "remoteBrain/Report",
     "enabled": true
   },
   "quarterly": {
-    "format": "YYYY/[Q]Q",
+    "format": "",
     "template": "",
-    "folder": "remoteBrain/Monthly-Reports",
-    "enabled": false
+    "folder": ""
   },
   "yearly": {
     "format": "",
     "template": "",
-    "folder": "remoteBrain/Daily-Docs",
-    "enabled": false
+    "folder": ""
   }
 }
