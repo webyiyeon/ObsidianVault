@@ -5,12 +5,16 @@
       "path": "remoteBrain/Daily-Docs/2024/February/2024-02-26 Mon.md"
     },
     {
-      "basename": "2024-02-23 Fri",
-      "path": "remoteBrain/Daily-Docs/2024/February/2024-02-23 Fri.md"
+      "basename": "2024-02-21 Wed",
+      "path": "remoteBrain/Daily-Docs/2024/February/2024-02-21 Wed.md"
     },
     {
-      "basename": "2024-02-25 Sun",
-      "path": "remoteBrain/Daily-Docs/2024/February/2024-02-25 Sun.md"
+      "basename": "2024-02-22 Thu",
+      "path": "remoteBrain/Daily-Docs/2024/February/2024-02-22 Thu.md"
+    },
+    {
+      "basename": "2024-02-23 Fri",
+      "path": "remoteBrain/Daily-Docs/2024/February/2024-02-23 Fri.md"
     },
     {
       "basename": "2024-02-24 Sat",
@@ -18,11 +22,11 @@
     },
     {
       "basename": "2024-02-25 Sun",
-      "path": "remoteBrain/Daily-docs/2024/February/2024-02-25 Sun.md"
+      "path": "remoteBrain/Daily-Docs/2024/February/2024-02-25 Sun.md"
     },
     {
-      "basename": "2024-02-22 Thu",
-      "path": "remoteBrain/Daily-Docs/2024/February/2024-02-22 Thu.md"
+      "basename": "2024-02-25 Sun",
+      "path": "remoteBrain/Daily-docs/2024/February/2024-02-25 Sun.md"
     },
     {
       "basename": "February",
@@ -31,10 +35,6 @@
     {
       "basename": "daily",
       "path": "remoteBrain/_templater/daily.md"
-    },
-    {
-      "basename": "2024-02-21 Wed",
-      "path": "remoteBrain/Daily-Docs/2024/February/2024-02-21 Wed.md"
     },
     {
       "basename": "TP-DailyNote",
