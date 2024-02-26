@@ -47,7 +47,7 @@ navigation: false
 showAllDay: true
 hourRange: [8, 24]
 offset: -2
-include: ["Schedule", "Todoist", "Korea", "Work"]
+include: ["Default", "Todoist", "Korea", "Work"]
 timespan: 7
 ```
 
@@ -70,7 +70,6 @@ timespan: 7
 
 
 # Overdue List
-
 ```tasks
 not done
 (tags include #work💼) OR (tags include #chores🧺) 
