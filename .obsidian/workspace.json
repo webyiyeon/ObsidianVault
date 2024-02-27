@@ -11,8 +11,12 @@
             "id": "9804fd0704561d9b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-27 Tue.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -69,11 +73,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "685eaa07595764e8",
@@ -97,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-27 Tue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-27 Tue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2024/February/2024-02-27 Tue.md"
+              }
             }
           }
         ]
@@ -157,6 +167,8 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "344f8ba81427b737",
-  "lastOpenFiles": []
+  "active": "9804fd0704561d9b",
+  "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2024/February/2024-02-28 Wed.md"
+  ]
 }
