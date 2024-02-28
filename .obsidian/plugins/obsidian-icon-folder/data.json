@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiHeartPulse",
       "LiPanelTop",
       "LiClapperboard",
       "LiInbox",
-      "LiHand",
-      "LiCalendarCheck2"
+      "LiHand"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -32,5 +32,6 @@
   "remoteBrain/Report": "LiFileBarChart",
   "wooyeon": "LiHand",
   "remoteBrain": "LiInbox",
-  "Blog": "LiClapperboard"
+  "Blog": "LiClapperboard",
+  "remoteBrain/Love Life": "LiHeartPulse"
 }
