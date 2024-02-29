@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-02-21 Wed",
-      "path": "remoteBrain/Daily-Docs/2024/February/2024-02-21 Wed.md"
-    },
-    {
       "basename": "2024-02-29 Thu",
       "path": "remoteBrain/Daily-Docs/2024/February/2024-02-29 Thu.md"
     },
@@ -13,16 +9,36 @@
       "path": "remoteBrain/Daily-Docs/2024/March/2024-03-01 Fri.md"
     },
     {
+      "basename": "TP-DailyNote",
+      "path": "remoteBrain/_templater/TP-DailyNote.md"
+    },
+    {
+      "basename": "2024-02-28 Wed",
+      "path": "remoteBrain/Daily-Docs/2024/February/2024-02-28 Wed.md"
+    },
+    {
+      "basename": "2024-02-24 Sat",
+      "path": "remoteBrain/Daily-Docs/2024/February/2024-02-24 Sat.md"
+    },
+    {
+      "basename": "2024-02-23 Fri",
+      "path": "remoteBrain/Daily-Docs/2024/February/2024-02-23 Fri.md"
+    },
+    {
+      "basename": "2024-02-22 Thu",
+      "path": "remoteBrain/Daily-Docs/2024/February/2024-02-22 Thu.md"
+    },
+    {
+      "basename": "2024-02-21 Wed",
+      "path": "remoteBrain/Daily-Docs/2024/February/2024-02-21 Wed.md"
+    },
+    {
       "basename": "𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭",
       "path": "remoteBrain/Love Life/𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭.md"
     },
     {
       "basename": "2024-03-01 Fri",
       "path": "remoteBrain/Daily-docs/2024/March/2024-03-01 Fri.md"
-    },
-    {
-      "basename": "2024-02-28 Wed",
-      "path": "remoteBrain/Daily-Docs/2024/February/2024-02-28 Wed.md"
     },
     {
       "basename": "2024-02-27 Tue",
@@ -57,18 +73,6 @@
       "path": "remoteBrain/Daily-Docs/2024/February/2024-02-25 Sun.md"
     },
     {
-      "basename": "2024-02-24 Sat",
-      "path": "remoteBrain/Daily-Docs/2024/February/2024-02-24 Sat.md"
-    },
-    {
-      "basename": "2024-02-23 Fri",
-      "path": "remoteBrain/Daily-Docs/2024/February/2024-02-23 Fri.md"
-    },
-    {
-      "basename": "2024-02-22 Thu",
-      "path": "remoteBrain/Daily-Docs/2024/February/2024-02-22 Thu.md"
-    },
-    {
       "basename": "daily",
       "path": "remoteBrain/_templater/daily.md"
     },
@@ -79,10 +83,6 @@
     {
       "basename": "2024-02-25 Sun",
       "path": "remoteBrain/Daily-docs/2024/February/2024-02-25 Sun.md"
-    },
-    {
-      "basename": "TP-DailyNote",
-      "path": "remoteBrain/_templater/TP-DailyNote.md"
     }
   ],
   "omittedPaths": [],
