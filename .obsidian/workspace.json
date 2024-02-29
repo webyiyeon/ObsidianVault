@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "685eaa07595764e8",
@@ -165,7 +166,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "55ced3c5b28084c5",
+  "active": "00ae006fb601c940",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2024/March/2024-03-01 Fri.md",
     "remoteBrain/_templater/TP-DailyNote.md",
