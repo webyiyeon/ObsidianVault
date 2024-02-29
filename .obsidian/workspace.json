@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,17 +167,38 @@
   },
   "active": "9804fd0704561d9b",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2024/February/2024-02-28 Wed.md",
+    "remoteBrain/Daily-Docs/2024/March/2024-03-01 Fri.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-29 Thu.md",
-    "remoteBrain/Daily-Docs/2024/February/2024-02-27 Tue.md",
-    "remoteBrain/Daily-Docs/2024/February/2024-02-26 Mon.md",
-    "remoteBrain/Report/2024/February.md",
-    "remoteBrain/Love Life/𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭.md",
+    "remoteBrain/Daily-Docs/2024/March/2024-03-1 Fri.md",
+    "remoteBrain/Daily-docs/2024/March/2024-03-01 Fri.md",
+    "remoteBrain/Daily-Docs/2024/March",
+    "remoteBrain/Daily-docs/2024/January/2024-01-31 Wed.md",
+    "remoteBrain/Daily-docs/2024/February/2024-02-28 Wed.md",
+    "remoteBrain/Daily-docs/2024/February/2024-02-29 Thu.md",
+    "remoteBrain/Daily-docs/2024/February/2024-02-27 Tue.md",
+    "remoteBrain/Daily-docs/2024/January/2024-01-30 Tue.md",
+    "remoteBrain/Daily-docs/2024/February/2024-02-26 Mon.md",
+    "remoteBrain/Daily-docs/2024/February/2024-02-25 Sun.md",
+    "remoteBrain/Daily-docs/2024/February/2024-02-24 Sat.md",
+    "remoteBrain/Daily-docs/2024/February/2024-02-22 Thu.md",
+    "remoteBrain/Daily-docs/2024/February/2024-02-23 Fri.md",
+    "remoteBrain/Daily-docs/2024/February/2024-02-21 Wed.md",
+    "remoteBrain/Daily-docs/2024/February/2024-02-20 Tue.md",
+    "remoteBrain/Daily-docs/2024/February/2024-02-19 Mon.md",
+    "remoteBrain/Daily-docs/2024/February/2024-02-12 Mon.md",
+    "remoteBrain/Daily-docs/2024/February/2024-02-18 Sun.md",
+    "remoteBrain/Daily-docs/2024/February/2024-02-17 Sat.md",
+    "remoteBrain/Daily-docs/2024/February/2024-02-14 Wed.md",
+    "remoteBrain/Daily-docs/2024/February/2024-02-16 Fri.md",
+    "remoteBrain/Daily-docs/2024/February/2024-02-15 Thu.md",
+    "remoteBrain/Daily-docs/2024/February/2024-02-13 Tue.md",
+    "remoteBrain/Daily-docs/2024/February/2024-02-10 Sat.md",
+    "remoteBrain/Daily-docs/2024/February/2024-02-04 Sun.md",
+    "remoteBrain/Daily-docs/2024/March",
+    "remoteBrain/Daily-docs/2024/January",
+    "remoteBrain/Daily-docs/2024/February",
+    "remoteBrain/Daily-docs/2024",
     "remoteBrain/Love Life",
-    "remoteBrain/Daily-Docs/2024/February/2024-02-19 Mon.md",
-    "Blog/Tistory/맛따라/Recipe/바스크 치즈케이크.md",
-    "Blog/Tistory/맛따라/Recipe/브리치즈 오일 파스타.md",
-    "Blog/Tistory/Data/RDBMS/Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기/Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기.md",
     "Blog/Tistory/Data/RDBMS/Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기"
   ]
 }
