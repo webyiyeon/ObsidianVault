@@ -48,6 +48,21 @@
         "showAttendees": false
       },
       "calendarType": "remote"
+    },
+    "#study📓": {
+      "icsName": "#study📓",
+      "icsUrl": "https://calendar.google.com/calendar/ical/adf54ca5317dc5fd6f4ffae6a8ba7ad1d9f1f8824c7fd00c134abbf85b34e619%40group.calendar.google.com/private-e238e63d655d5433323461b947f0434d/basic.ics",
+      "format": {
+        "checkbox": true,
+        "includeEventEndTime": true,
+        "icsName": true,
+        "summary": true,
+        "location": true,
+        "description": true,
+        "calendarType": "remote",
+        "showAttendees": false
+      },
+      "calendarType": "remote"
     }
   }
 }

@@ -2,7 +2,7 @@
 - routine
 	- #routine 
 - to-do list
-	-  #study📓 #workout🏋️ #chores🧺 #play💻 
+	-  #study📓 #workout🏋️ #chores🧺 #play💻 #work💼 #todo 
 - workout-type
 	- #weight #cardio #stretch
 - workout-routine
