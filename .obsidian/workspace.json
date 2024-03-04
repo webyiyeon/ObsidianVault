@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "685eaa07595764e8",
@@ -150,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,11 +169,12 @@
   },
   "active": "55ced3c5b28084c5",
   "lastOpenFiles": [
-    "remoteBrain/_templater/daily.md",
+    "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-29 Thu.md",
     "remoteBrain/Daily-Docs/2024/March/2024-03-04 Mon.md",
+    "remoteBrain/_templater/daily.md",
     "remoteBrain/_template/tags.md",
     "remoteBrain/Daily-Docs/2024/March/2024-03-01 Fri.md",
-    "remoteBrain/Daily-Docs/2024/February/2024-02-29 Thu.md",
     "remoteBrain/_templater/TP-DailyNote.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-28 Wed.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-24 Sat.md",
@@ -193,7 +196,6 @@
     "remoteBrain/Daily-docs/2024/February/2024-02-22 Thu.md",
     "remoteBrain/Daily-docs/2024/February/2024-02-23 Fri.md",
     "remoteBrain/Daily-docs/2024/February/2024-02-21 Wed.md",
-    "remoteBrain/Daily-docs/2024/February/2024-02-20 Tue.md",
     "remoteBrain/Daily-docs/2024/March",
     "remoteBrain/Daily-docs/2024/January",
     "remoteBrain/Daily-docs/2024/February",
