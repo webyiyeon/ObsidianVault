@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/March/2024-03-04 Mon.md",
+                "file": "remoteBrain/Daily-Docs/2024/March/2024-03-07 Thu.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "685eaa07595764e8",
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/March/2024-03-04 Mon.md",
+                "file": "remoteBrain/Daily-Docs/2024/March/2024-03-07 Thu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/March/2024-03-04 Mon.md",
+                "file": "remoteBrain/Daily-Docs/2024/March/2024-03-07 Thu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/March/2024-03-04 Mon.md"
+                "file": "remoteBrain/Daily-Docs/2024/March/2024-03-07 Thu.md"
               }
             }
           }
@@ -170,14 +169,16 @@
   "active": "55ced3c5b28084c5",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2024/March/2024-03-06 Wed.md",
-    "remoteBrain/Report/2024/March.md",
+    "remoteBrain/Daily-Docs/2024/March/2024-03-07 Thu.md",
     "remoteBrain/Daily-Docs/2024/March/2024-03-05 Tue.md",
+    "remoteBrain/Daily-Docs/2024/March/2024-03-04 Mon.md",
+    "remoteBrain/Daily-Docs/2024/March/2024-03-01 Fri.md",
+    "remoteBrain/Report/2024/March.md",
+    "remoteBrain/Report/2024/February.md",
     "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-29 Thu.md",
-    "remoteBrain/Daily-Docs/2024/March/2024-03-04 Mon.md",
     "remoteBrain/_templater/daily.md",
     "remoteBrain/_template/tags.md",
-    "remoteBrain/Daily-Docs/2024/March/2024-03-01 Fri.md",
     "remoteBrain/_templater/TP-DailyNote.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-28 Wed.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-24 Sat.md",
@@ -194,8 +195,6 @@
     "remoteBrain/Daily-docs/2024/February/2024-02-27 Tue.md",
     "remoteBrain/Daily-docs/2024/January/2024-01-30 Tue.md",
     "remoteBrain/Daily-docs/2024/February/2024-02-26 Mon.md",
-    "remoteBrain/Daily-docs/2024/February/2024-02-25 Sun.md",
-    "remoteBrain/Daily-docs/2024/February/2024-02-24 Sat.md",
     "remoteBrain/Daily-docs/2024/March",
     "remoteBrain/Daily-docs/2024/January",
     "remoteBrain/Daily-docs/2024/February",
