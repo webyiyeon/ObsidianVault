@@ -1,6 +1,7 @@
 {
   "recentFiles": [
     {
+<<<<<<< HEAD
       "basename": "2024-03-08 Fri",
       "path": "remoteBrain/Daily-Docs/2024/March/2024-03-08 Fri.md"
     },
@@ -15,6 +16,10 @@
     {
       "basename": "March",
       "path": "remoteBrain/Report/2024/March.md"
+=======
+      "basename": "2024-03-04 Mon",
+      "path": "remoteBrain/Daily-Docs/2024/March/2024-03-04 Mon.md"
+>>>>>>> 8e4b1a6 (vault backup: 2024-03-07 22:39:59)
     },
     {
       "basename": "2024-03-06 Wed",
@@ -23,10 +28,6 @@
     {
       "basename": "2024-03-05 Tue",
       "path": "remoteBrain/Daily-Docs/2024/March/2024-03-05 Tue.md"
-    },
-    {
-      "basename": "2024-03-04 Mon",
-      "path": "remoteBrain/Daily-Docs/2024/March/2024-03-04 Mon.md"
     },
     {
       "basename": "2024-03-01 Fri",
