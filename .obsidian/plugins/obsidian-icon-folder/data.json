@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiHome",
       "LiHeartPulse",
       "LiPanelTop",
       "LiClapperboard",
-      "LiInbox",
-      "LiHand"
+      "LiInbox"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -33,5 +33,6 @@
   "wooyeon": "LiHand",
   "remoteBrain": "LiInbox",
   "Blog": "LiClapperboard",
-  "remoteBrain/Love Life": "LiHeartPulse"
+  "remoteBrain/Love Life": "LiHeartPulse",
+  "remoteBrain/Single Person Household": "LiHome"
 }
