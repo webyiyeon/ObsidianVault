@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "685eaa07595764e8",
@@ -169,10 +168,11 @@
   },
   "active": "55ced3c5b28084c5",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "remoteBrain/Daily-Docs/2024/March/2024-03-08 Fri.md",
-    "remoteBrain/Daily-Docs/2024/March/2024-03-10 Sun.md",
     "remoteBrain/Daily-Docs/2024/March/2024-03-09 Sat.md",
+    "remoteBrain/Daily-Docs/2024/March/2024-03-10 Sun.md",
+    "remoteBrain/Daily-Docs/2024/March/2024-03-11 Mon.md",
+    "remoteBrain/Daily-Docs/2024/March/2024-03-08 Fri.md",
+    "conflict-files-obsidian-git.md",
     "remoteBrain/Daily-Docs/2024/March/2024-03-07 Thu.md",
     "remoteBrain/Love Life/𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭.md",
     "remoteBrain/Report/2024/March.md",
@@ -195,7 +195,6 @@
     "remoteBrain/Daily-docs/2024/March/2024-03-01 Fri.md",
     "remoteBrain/Daily-Docs/2024/March",
     "remoteBrain/Daily-docs/2024/January/2024-01-31 Wed.md",
-    "remoteBrain/Daily-docs/2024/February/2024-02-28 Wed.md",
     "remoteBrain/Daily-docs/2024/March",
     "remoteBrain/Daily-docs/2024/January",
     "remoteBrain/Daily-docs/2024/February",
