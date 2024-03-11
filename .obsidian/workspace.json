@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "remoteBrain/Daily-Docs/2024/March/2024-03-12 Tue.md",
+=======
+                "file": "remoteBrain/Daily-Docs/2024/March/2024-03-10 Sun.md",
+>>>>>>> 645ed56 (vault backup: 2024-03-12 08:05:42)
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +82,11 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 200,
+=======
+    "width": 300,
+>>>>>>> 645ed56 (vault backup: 2024-03-12 08:05:42)
     "collapsed": true
   },
   "right": {
@@ -103,7 +111,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "remoteBrain/Daily-Docs/2024/March/2024-03-12 Tue.md",
+=======
+                "file": "remoteBrain/Daily-Docs/2024/March/2024-03-10 Sun.md",
+>>>>>>> 645ed56 (vault backup: 2024-03-12 08:05:42)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +132,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "remoteBrain/Daily-Docs/2024/March/2024-03-12 Tue.md",
+=======
+                "file": "remoteBrain/Daily-Docs/2024/March/2024-03-10 Sun.md",
+>>>>>>> 645ed56 (vault backup: 2024-03-12 08:05:42)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +159,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "remoteBrain/Daily-Docs/2024/March/2024-03-12 Tue.md"
+=======
+                "file": "remoteBrain/Daily-Docs/2024/March/2024-03-10 Sun.md"
+>>>>>>> 645ed56 (vault backup: 2024-03-12 08:05:42)
               }
             }
           }
@@ -169,9 +189,12 @@
   },
   "active": "55ced3c5b28084c5",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Pasted image 20240312133318.png",
     "remoteBrain/Single Person Household/Grocery List.md",
     "remoteBrain/Daily-Docs/2024/March/2024-03-12 Tue.md",
+=======
+>>>>>>> 645ed56 (vault backup: 2024-03-12 08:05:42)
     "remoteBrain/Daily-Docs/2024/March/2024-03-11 Mon.md",
     "Pasted image 20240311152751.png",
     "remoteBrain/Daily-Docs/2024/March/2024-03-06 Wed.md",
@@ -179,8 +202,14 @@
     "remoteBrain/Daily-Docs/2024/March/2024-03-05 Tue.md",
     "remoteBrain/Daily-Docs/2024/March/2024-03-07 Thu.md",
     "remoteBrain/Daily-Docs/2024/March/2024-03-09 Sat.md",
-    "remoteBrain/Daily-Docs/2024/March/2024-03-08 Fri.md",
     "remoteBrain/Daily-Docs/2024/March/2024-03-10 Sun.md",
+    "remoteBrain/Daily-Docs/2024/March/2024-03-08 Fri.md",
+<<<<<<< HEAD
+    "remoteBrain/Daily-Docs/2024/March/2024-03-10 Sun.md",
+=======
+    "remoteBrain/Daily-Docs/2024/March/2024-03-07 Thu.md",
+    "remoteBrain/Love Life/𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭.md",
+>>>>>>> 645ed56 (vault backup: 2024-03-12 08:05:42)
     "remoteBrain/Report/2024/March.md",
     "remoteBrain/Single Person Household",
     "remoteBrain/Love Life/𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭.md",
@@ -199,6 +228,11 @@
     "remoteBrain/Daily-Docs/2024/February/2024-02-22 Thu.md",
     "remoteBrain/Daily-Docs/2024/February/2024-02-21 Wed.md",
     "remoteBrain/Daily-Docs/2024/March",
+<<<<<<< HEAD
+=======
+    "remoteBrain/Daily-docs/2024/January/2024-01-31 Wed.md",
+    "remoteBrain/Daily-docs/2024/February/2024-02-28 Wed.md",
+>>>>>>> 645ed56 (vault backup: 2024-03-12 08:05:42)
     "remoteBrain/Daily-docs/2024/March",
     "remoteBrain/Daily-docs/2024/January",
     "remoteBrain/Daily-docs/2024/February",
