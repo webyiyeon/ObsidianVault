@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/March/2024-03-11 Mon.md",
+                "file": "remoteBrain/Single Person Household/Grocery List.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "685eaa07595764e8",
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/March/2024-03-11 Mon.md",
+                "file": "remoteBrain/Single Person Household/Grocery List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/March/2024-03-11 Mon.md",
+                "file": "remoteBrain/Single Person Household/Grocery List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/March/2024-03-11 Mon.md"
+                "file": "remoteBrain/Single Person Household/Grocery List.md"
               }
             }
           }
@@ -169,12 +168,12 @@
   },
   "active": "55ced3c5b28084c5",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2024/March/2024-03-11 Mon.md",
     "Pasted image 20240311152751.png",
     "remoteBrain/Daily-Docs/2024/March/2024-03-06 Wed.md",
     "Pasted image 20240311152721.png",
     "remoteBrain/Daily-Docs/2024/March/2024-03-05 Tue.md",
     "remoteBrain/Daily-Docs/2024/March/2024-03-07 Thu.md",
-    "remoteBrain/Daily-Docs/2024/March/2024-03-11 Mon.md",
     "remoteBrain/Daily-Docs/2024/March/2024-03-09 Sat.md",
     "remoteBrain/Daily-Docs/2024/March/2024-03-08 Fri.md",
     "remoteBrain/Daily-Docs/2024/March/2024-03-10 Sun.md",
