@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "17005c0e8dae747c",
+    "id": "3035b5029fe00ce1",
     "type": "split",
     "children": [
       {
-        "id": "cd0fbd39349a9eb3",
+        "id": "4bda974902690fc0",
         "type": "tabs",
         "children": [
           {
-            "id": "34f1c4dec973cca9",
+            "id": "55ced3c5b28084c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/March/2024-03-12 Tue.md",
+                "file": "remoteBrain/Daily-Docs/2024/March/2024-03-13 Wed.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4a2e03b58e7f3c89",
+    "id": "adf901f46abc4d7e",
     "type": "split",
     "children": [
       {
-        "id": "d417f91de68b65c4",
+        "id": "5fa7938a9703e157",
         "type": "tabs",
         "children": [
           {
-            "id": "f6b1ddb2c68051fb",
+            "id": "344f8ba81427b737",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -41,7 +41,7 @@
             }
           },
           {
-            "id": "5cca8bbc60dd4ffb",
+            "id": "00ae006fb601c940",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,7 +51,7 @@
             }
           },
           {
-            "id": "12e6e2211aaea4f6",
+            "id": "9b0bb497a61c4caf",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -66,7 +66,7 @@
             }
           },
           {
-            "id": "0c156e3b486fb01e",
+            "id": "2f43d1f2d1b8a87a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,18 +78,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 344.5
   },
   "right": {
-    "id": "a1856fd00faf1bc2",
+    "id": "685eaa07595764e8",
     "type": "split",
     "children": [
       {
-        "id": "af159a7f4bbda8fd",
+        "id": "6f4f40ac040dc0a9",
         "type": "tabs",
         "children": [
           {
-            "id": "a50ab0cae7a2d83b",
+            "id": "4a777402b8069177",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -97,12 +97,12 @@
             }
           },
           {
-            "id": "d134b192a2e19b38",
+            "id": "33e2fea940b2a88f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/March/2024-03-12 Tue.md",
+                "file": "remoteBrain/Daily-Docs/2024/March/2024-03-13 Wed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,19 +114,19 @@
             }
           },
           {
-            "id": "aa9ce49efdd684c3",
+            "id": "ddf4fec4fb32b524",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/March/2024-03-12 Tue.md",
+                "file": "remoteBrain/Daily-Docs/2024/March/2024-03-13 Wed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d1b7655f1b7edbbb",
+            "id": "b041e3edd4bbc3aa",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,12 +137,12 @@
             }
           },
           {
-            "id": "c32536b6cd7b5963",
+            "id": "d15110d0ef5f4e04",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/March/2024-03-12 Tue.md"
+                "file": "remoteBrain/Daily-Docs/2024/March/2024-03-13 Wed.md"
               }
             }
           }
@@ -166,6 +166,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "34f1c4dec973cca9",
-  "lastOpenFiles": []
+  "active": "55ced3c5b28084c5",
+  "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2024/March/2024-03-12 Tue.md",
+    "remoteBrain/Daily-Docs/2024/March/2024-03-13 Wed.md",
+    "remoteBrain/Daily-Docs/2024/March/2024-03-05 Tue.md",
+    "remoteBrain/Daily-Docs/2024/March/2024-03-06 Wed.md",
+    "remoteBrain/Daily-Docs/2024/March/2024-03-07 Thu.md",
+    "remoteBrain/Daily-Docs/2024/March/2024-03-08 Fri.md",
+    "remoteBrain/Daily-Docs/2024/March/2024-03-09 Sat.md",
+    "Pasted image 20240312133318.png",
+    "remoteBrain/Single Person Household/Grocery List.md",
+    "remoteBrain/Daily-Docs/2024/March/2024-03-11 Mon.md",
+    "Pasted image 20240311152751.png",
+    "Pasted image 20240311152721.png",
+    "remoteBrain/Daily-Docs/2024/March/2024-03-10 Sun.md",
+    "remoteBrain/Report/2024/March.md",
+    "remoteBrain/Single Person Household",
+    "remoteBrain/Love Life/𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭.md",
+    "conflict-files-obsidian-git.md",
+    "remoteBrain/Daily-Docs/2024/March/2024-03-04 Mon.md",
+    "remoteBrain/Daily-Docs/2024/March/2024-03-01 Fri.md",
+    "remoteBrain/Report/2024/February.md",
+    "remoteBrain/Daily-Docs/2024/January/2024-01-31 Wed.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-29 Thu.md",
+    "remoteBrain/_templater/daily.md",
+    "remoteBrain/_template/tags.md",
+    "remoteBrain/_templater/TP-DailyNote.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-28 Wed.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-24 Sat.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-23 Fri.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-22 Thu.md",
+    "remoteBrain/Daily-Docs/2024/February/2024-02-21 Wed.md",
+    "remoteBrain/Daily-Docs/2024/March",
+    "remoteBrain/Daily-docs/2024/March",
+    "remoteBrain/Daily-docs/2024/January",
+    "remoteBrain/Daily-docs/2024/February",
+    "remoteBrain/Daily-docs/2024",
+    "remoteBrain/Love Life",
+    "Blog/Tistory/Data/RDBMS/Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기"
+  ]
 }
