@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "remoteBrain/Daily-Docs/2024/03_March/2024-03-22 Fri.md",
+=======
+                "file": "remoteBrain/Daily-Docs/2024/March/2024-03-18 Mon.md",
+>>>>>>> 6cd7a46 (vault backup: 2024-03-19 17:27:38)
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +106,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "remoteBrain/Daily-Docs/2024/03_March/2024-03-22 Fri.md",
+=======
+                "file": "remoteBrain/Daily-Docs/2024/March/2024-03-18 Mon.md",
+>>>>>>> 6cd7a46 (vault backup: 2024-03-19 17:27:38)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +127,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "remoteBrain/Daily-Docs/2024/03_March/2024-03-22 Fri.md",
+=======
+                "file": "remoteBrain/Daily-Docs/2024/March/2024-03-18 Mon.md",
+>>>>>>> 6cd7a46 (vault backup: 2024-03-19 17:27:38)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +154,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "remoteBrain/Daily-Docs/2024/03_March/2024-03-22 Fri.md"
+=======
+                "file": "remoteBrain/Daily-Docs/2024/March/2024-03-18 Mon.md"
+>>>>>>> 6cd7a46 (vault backup: 2024-03-19 17:27:38)
               }
             }
           }
@@ -150,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,6 +184,7 @@
   },
   "active": "848bd1eba7a62f2a",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "remoteBrain/Report/2024/03_March.md",
     "remoteBrain/Daily-Docs/Images/Pasted image 20240311152721.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20240313102241.png",
@@ -198,5 +216,13 @@
     "remoteBrain/Daily-Docs/2024/03_March/2024-03-14 Thu.md",
     "remoteBrain/Daily-Docs/2024/03_March/2024-03-17 Sun.md",
     "remoteBrain/Daily-Docs/2024/03_March/2024-03-16 Sat.md"
+=======
+    "remoteBrain/Daily-Docs/2024/March/2024-03-19 Tue.md",
+    "remoteBrain/Daily-Docs/2024/March/2024-03-15 Fri.md",
+    "remoteBrain/Daily-Docs/2024/March/2024-03-18 Mon.md",
+    "remoteBrain/Daily-Docs/2024/March/2024-03-17 Sun.md",
+    "remoteBrain/Daily-Docs/2024/March/2024-03-16 Sat.md",
+    "remoteBrain/Daily-Docs/2024/March/2024-03-14 Thu.md"
+>>>>>>> 6cd7a46 (vault backup: 2024-03-19 17:27:38)
   ]
 }
