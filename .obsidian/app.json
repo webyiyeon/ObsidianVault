@@ -1,5 +1,6 @@
 {
   "spellcheck": false,
   "readableLineLength": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "remoteBrain/Daily-Docs/Images"
 }

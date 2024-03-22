@@ -3,7 +3,7 @@
   "hasMigratedDailyNoteSettings": false,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
-    "format": "YYYY/MMMM/YYYY-MM-DD ddd",
+    "format": "YYYY/MM_MMMM/YYYY-MM-DD ddd",
     "template": "remoteBrain/_templater/daily.md",
     "folder": "remoteBrain/Daily-Docs",
     "enabled": true
@@ -15,7 +15,7 @@
     "enabled": true
   },
   "monthly": {
-    "format": "YYYY/MMMM",
+    "format": "YYYY/MM_MMMM",
     "template": "remoteBrain/_template/Monthly.md",
     "folder": "remoteBrain/Report",
     "enabled": true

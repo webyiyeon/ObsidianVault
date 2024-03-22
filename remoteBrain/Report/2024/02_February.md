@@ -9,10 +9,9 @@ TABLE
 FROM 
 	 #routine 
 WHERE 
-	file.folder = "remoteBrain/Daily-Docs/{{date:YYYY}}/{{date:MM}}_{{date:MMMM}}"
+	file.folder = "remoteBrain/Daily-Docs/2024/02_February"
 sort file.name
 ```
-
 
 
 ## Meal Logs
@@ -22,7 +21,7 @@ TABLE
 FROM 
 	#meal-log📝 
 WHERE 
-	file.folder = "remoteBrain/Daily-Docs/{{date:YYYY}}/{{date:MM}}_{{date:MMMM}}"
+	file.folder = "remoteBrain/Daily-Docs/2024/02_February"
 sort file.name	
 ```
 
@@ -34,8 +33,8 @@ TABLE
 FROM 
 	#workout-log💪 
 WHERE 
-	file.folder = "remoteBrain/Daily-Docs/{{date:YYYY}}/{{date:MM}}_{{date:MMMM}}"
-sort file.name
+	file.folder = "remoteBrain/Daily-Docs/2024/02_February"
+sort file.name	
 ```
 
 
@@ -52,6 +51,6 @@ TABLE WITHOUT ID
 	choice(file.tasks[6].completed, "✔️", "✗") AS "바깥음식 안 먹기"
 	FROM #routine 
 	WHERE
-	file.folder = "remoteBrain/Daily-Docs/{{date:YYYY}}/{{date:MM}}_{{date:MMMM}}"
-	SORT file.name DESC
+	file.folder = "remoteBrain/Daily-Docs/2024/02_February"
+sort file.name
 ```

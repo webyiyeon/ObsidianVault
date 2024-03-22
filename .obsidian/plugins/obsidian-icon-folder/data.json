@@ -33,6 +33,6 @@
   "wooyeon": "LiHand",
   "remoteBrain": "LiInbox",
   "Blog": "LiClapperboard",
-  "remoteBrain/Love Life": "LiHeartPulse",
-  "remoteBrain/Single Person Household": "LiHome"
+  "remoteBrain/Single Person Household": "LiHome",
+  "wooyeon/Love Life": "LiHeartPulse"
 }
