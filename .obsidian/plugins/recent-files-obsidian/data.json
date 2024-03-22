@@ -5,6 +5,10 @@
       "path": "remoteBrain/Daily-Docs/2024/03_March/2024-03-22 Fri.md"
     },
     {
+      "basename": "2024-03-23 Sat",
+      "path": "remoteBrain/Daily-Docs/2024/03_March/2024-03-23 Sat.md"
+    },
+    {
       "basename": "03_March",
       "path": "remoteBrain/Report/2024/03_March.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "TP-DailyNote",
       "path": "remoteBrain/_templater/TP-DailyNote.md"
-    },
-    {
-      "basename": "2024-03-23 Sat",
-      "path": "remoteBrain/Daily-Docs/2024/03_March/2024-03-23 Sat.md"
     },
     {
       "basename": "10_October",
