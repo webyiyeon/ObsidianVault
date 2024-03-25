@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "38401a247218bed3",
@@ -165,7 +166,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "848bd1eba7a62f2a",
+  "active": "ee2e82760ea1659e",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2024/03_March/2024-03-19 Tue.md",
     "remoteBrain/Daily-Docs/2024/03_March/2024-03-25 Mon.md",
