@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "58a4f87ab90fb0ef",
+    "id": "5621f4818e597648",
     "type": "split",
     "children": [
       {
-        "id": "022bd83fb5a54709",
+        "id": "07e0483e51291d78",
         "type": "tabs",
         "children": [
           {
-            "id": "ba57d81c7388d920",
+            "id": "848bd1eba7a62f2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/03_March/2024-03-23 Sat.md",
+                "file": "remoteBrain/Daily-Docs/2024/03_March/2024-03-25 Mon.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "df351faa7d8edb8b",
+    "id": "9d713a86cf53087c",
     "type": "split",
     "children": [
       {
-        "id": "6498968db826bb43",
+        "id": "84d19b79a657abf0",
         "type": "tabs",
         "children": [
           {
-            "id": "ea623333d4b40279",
+            "id": "e2c3bc0b575497a9",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -41,7 +41,7 @@
             }
           },
           {
-            "id": "2596bc7174a7e994",
+            "id": "ee2e82760ea1659e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,7 +51,7 @@
             }
           },
           {
-            "id": "76bc376587e2efc0",
+            "id": "efbf0bbb791ae8be",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -66,7 +66,7 @@
             }
           },
           {
-            "id": "f2f1706d37af8bc1",
+            "id": "d533fbbcfb3e5fec",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,15 +81,15 @@
     "width": 300
   },
   "right": {
-    "id": "2bb7d0554a0a6bee",
+    "id": "38401a247218bed3",
     "type": "split",
     "children": [
       {
-        "id": "ba2f43d357109ca4",
+        "id": "238cdee9cfca0cee",
         "type": "tabs",
         "children": [
           {
-            "id": "06f2d4069dd7e23d",
+            "id": "cf750918a904adba",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -97,12 +97,12 @@
             }
           },
           {
-            "id": "71aabe35887463e5",
+            "id": "07382a8f6ad8e823",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/03_March/2024-03-23 Sat.md",
+                "file": "remoteBrain/Daily-Docs/2024/03_March/2024-03-25 Mon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,19 +114,19 @@
             }
           },
           {
-            "id": "973b9fdb3652fb72",
+            "id": "933fdf22111dcf66",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/03_March/2024-03-23 Sat.md",
+                "file": "remoteBrain/Daily-Docs/2024/03_March/2024-03-25 Mon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "6e5ce35e73507f28",
+            "id": "356f0427e720f5df",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,12 +137,12 @@
             }
           },
           {
-            "id": "e80d6ef0056e529b",
+            "id": "e65300460d80f1c4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/03_March/2024-03-23 Sat.md"
+                "file": "remoteBrain/Daily-Docs/2024/03_March/2024-03-25 Mon.md"
               }
             }
           }
@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,9 +165,39 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ba57d81c7388d920",
+  "active": "848bd1eba7a62f2a",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2024/03_March/2024-03-22 Fri.md",
-    "remoteBrain/Daily-Docs/2024/03_March/2024-03-23 Sat.md"
+    "remoteBrain/Daily-Docs/2024/03_March/2024-03-21 Thu.md",
+    "remoteBrain/Daily-Docs/2024/03_March/2024-03-23 Sat.md",
+    "remoteBrain/Daily-Docs/2024/03_March/2024-03-25 Mon.md",
+    "remoteBrain/Report/2024/03_March.md",
+    "remoteBrain/Daily-Docs/Images/Pasted image 20240311152721.png",
+    "remoteBrain/Daily-Docs/Images/Pasted image 20240313102241.png",
+    "remoteBrain/Daily-Docs/Images/Pasted image 20240313155524.png",
+    "remoteBrain/Daily-Docs/Images",
+    "[remoteBrain/Daily-docs/2024/February/2024-02-19 Mon.md",
+    "[remoteBrain/Daily-docs/2024/Feb/2024-02-21 Wed.md",
+    "remoteBrain/Daily-Docs/Images/Pasted image 20240311152751.png",
+    "01_PLANER/2024/Feb/2024-02-20 Tue.md",
+    "remoteBrain/Daily-Docs/Images/Pasted image 20240312133318.png",
+    "remoteBrain/Report/2024/01_January.md",
+    "remoteBrain/Report/2024/02_February.md",
+    "remoteBrain/_template/Monthly.md",
+    "remoteBrain/_templater/TP-DailyNote.md",
+    "remoteBrain/Daily-Docs/2023/10_October.md",
+    "remoteBrain/Daily-Docs/2023/11_November.md",
+    "wooyeon/Love Life/𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭.md",
+    "remoteBrain/Daily-Docs/2024/03_March/2024-03-20 Wed.md",
+    "remoteBrain/Daily-Docs/2024/03_March/2024-03-18 Mon.md",
+    "remoteBrain/Daily-Docs/2024/03_March/2024-03-19 Tue.md",
+    "remoteBrain/Single Person Household/Grocery List.md",
+    "remoteBrain/Daily-Docs/2024/03_March/2024-03-04 Mon.md",
+    "remoteBrain/Daily-Docs/2024/03_March/2024-03-01 Fri.md",
+    "remoteBrain/Daily-Docs/2024/03_March/2024-03-12 Tue.md",
+    "remoteBrain/Daily-Docs/2024/03_March/2024-03-15 Fri.md",
+    "remoteBrain/Daily-Docs/2024/03_March/2024-03-14 Thu.md",
+    "remoteBrain/Daily-Docs/2024/03_March/2024-03-17 Sun.md",
+    "remoteBrain/Daily-Docs/2024/03_March/2024-03-16 Sat.md"
   ]
 }
