@@ -1,0 +1,16 @@
+{
+  "snippets_file": "snippets : It is an obsidian plugin, that replaces your selected text.\n-> : →\ntest : $()[]{}<>,.!?;:'\"\\/ ",
+  "snippets": [
+    "snippets : It is an obsidian plugin, that replaces your selected text.",
+    "-> : →",
+    "test : $()[]{}<>,.!?;:'\"\\/ "
+  ],
+  "endSymbol": "$end$",
+  "newlineSymbol": "$nl$",
+  "stopSymbol": "$tb$",
+  "pasteSymbol": "$pst$",
+  "useTab": true,
+  "useSpace": false,
+  "wordDelimiters": "",
+  "isWYSIWYG": true
+}
