@@ -50,14 +50,6 @@
       "key": "X"
     }
   ],
-  "editor:table-col-copy": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "D"
-    }
-  ],
   "periodic-notes:open-monthly-note": [
     {
       "modifiers": [
@@ -110,5 +102,20 @@
       "key": "2"
     }
   ],
-  "text-snippets-obsidian:text-snippets": []
+  "text-snippets-obsidian:text-snippets": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "PageDown"
+    }
+  ]
 }
