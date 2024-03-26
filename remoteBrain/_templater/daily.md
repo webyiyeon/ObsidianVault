@@ -25,13 +25,13 @@ tags:
 
 	/* Previous date parsing */
 	previousDate_year  = previousDate.format("YYYY")
-	previousDate_month = previousDate.format("MMMM")
+	previousDate_month = previousDate.format("MM_MMMM")
 	previousDate_ymd   = previousDate.format("YYYY-MM-DD")
 	previousDate_wday  = previousDate.format("ddd") 
 
 	/* Past date parsing */ 
 	nextDate_year  = nextDate.format("YYYY")
-	nextDate_month = nextDate.format("MMMM") 
+	nextDate_month = nextDate.format("MM_MMMM") 
 	nextDate_ymd   = nextDate.format("YYYY-MM-DD")
 	nextDate_wday  = nextDate.format("ddd")
 	
