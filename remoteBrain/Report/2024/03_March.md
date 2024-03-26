@@ -1,3 +1,17 @@
+
+## Keywords
+```dataview
+TABLE 
+	keyword🗝️, gratitude🙏, mood
+FROM 
+	#routine 
+WHERE 
+	file.folder = "remoteBrain/Daily-Docs/2024/03_March"
+sort file.name	
+```
+
+
+
 ## Sleep Tracker
 ```dataview
 TABLE

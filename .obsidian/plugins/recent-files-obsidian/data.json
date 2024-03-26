@@ -5,6 +5,22 @@
       "path": "remoteBrain/Daily-Docs/2024/03_March/2024-03-26 Tue.md"
     },
     {
+      "basename": "𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭",
+      "path": "wooyeon/Love Life/𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭.md"
+    },
+    {
+      "basename": "Monthly",
+      "path": "remoteBrain/_template/Monthly.md"
+    },
+    {
+      "basename": "03_March",
+      "path": "remoteBrain/Report/2024/03_March.md"
+    },
+    {
+      "basename": "2024-03-25 Mon",
+      "path": "remoteBrain/Daily-Docs/2024/03_March/2024-03-25 Mon.md"
+    },
+    {
       "basename": "2024-03-08 Fri",
       "path": "remoteBrain/Daily-Docs/2024/03_March/2024-03-08 Fri.md"
     },
@@ -43,10 +59,6 @@
     {
       "basename": "2024-03-03 Sat",
       "path": "remoteBrain/Daily-docs/2024/03_March/2024-03-03 Sat.md"
-    },
-    {
-      "basename": "03_March",
-      "path": "remoteBrain/Report/2024/03_March.md"
     },
     {
       "basename": "Grocery List",
@@ -161,10 +173,6 @@
       "path": "remoteBrain/Daily-docs/2024/03_March/2024-03-27 Wed.md"
     },
     {
-      "basename": "2024-03-25 Mon",
-      "path": "remoteBrain/Daily-Docs/2024/03_March/2024-03-25 Mon.md"
-    },
-    {
       "basename": "2024-03-24 Sun",
       "path": "remoteBrain/Daily-Docs/2024/03_March/2024-03-24 Sun.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2024-03-19 Tue",
       "path": "remoteBrain/Daily-Docs/2024/03_March/2024-03-19 Tue.md"
-    },
-    {
-      "basename": "2024-03-18 Mon",
-      "path": "remoteBrain/Daily-Docs/2024/03_March/2024-03-18 Mon.md"
-    },
-    {
-      "basename": "2024-03-17 Sun",
-      "path": "remoteBrain/Daily-Docs/2024/03_March/2024-03-17 Sun.md"
     }
   ],
   "omittedPaths": [],
