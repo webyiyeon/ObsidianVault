@@ -145,12 +145,22 @@
                 "file": "remoteBrain/Daily-Docs/2024/03_March/2024-03-27 Wed.md"
               }
             }
+          },
+          {
+            "id": "db27cb4c113fc39d",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,7 +175,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "279ee6eb133c0985",
+  "active": "cf750918a904adba",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2024/03_March/2024-03-26 Tue.md",
     "remoteBrain/Daily-Docs/2024/03_March/2024-03-27 Wed.md",
