@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/03_March/2024-03-27 Wed.md",
+                "file": "remoteBrain/Daily-Docs/2024/03_March/2024-03-28 Thu.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "38401a247218bed3",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/03_March/2024-03-27 Wed.md",
+                "file": "remoteBrain/Daily-Docs/2024/03_March/2024-03-28 Thu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/03_March/2024-03-27 Wed.md",
+                "file": "remoteBrain/Daily-Docs/2024/03_March/2024-03-28 Thu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/03_March/2024-03-27 Wed.md"
+                "file": "remoteBrain/Daily-Docs/2024/03_March/2024-03-28 Thu.md"
               }
             }
           },
@@ -176,14 +177,14 @@
   },
   "active": "d803f76238fc43d4",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2024/03_March/2024-03-28 Thu.md",
+    "remoteBrain/Report/2024/03_March.md",
     "remoteBrain/Daily-Docs/2024/03_March/2024-03-27 Wed.md",
+    "remoteBrain/Daily-Docs/2024/03_March/2024-03-28 Thu.md",
     "remoteBrain/_templater/daily.md",
     "remoteBrain/_template/daily.md",
     "remoteBrain/_template/Monthly.md",
     "remoteBrain/Daily-Docs/2024/03_March/2024-03-26 Tue.md",
     "wooyeon/Love Life/𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭.md",
-    "remoteBrain/Report/2024/03_March.md",
     "2024-W13.md",
     "remoteBrain/Daily-Docs/2024/03_March/2024-03-25 Mon.md",
     "remoteBrain/Daily-Docs/2024/03_March/2024-03-08 Fri.md",
