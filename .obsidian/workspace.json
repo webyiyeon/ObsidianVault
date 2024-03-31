@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9d86f7d8aa65c85a",
+        "id": "b07c099ff5663c52",
         "type": "tabs",
         "children": [
           {
-            "id": "bbde81f9523a2ad4",
+            "id": "d4fadc315c7f9dce",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.11"
+                "file": "remoteBrain/Daily-Docs/2024/03_March/2024-03-29 Fri.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -71,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -99,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "remoteBrain/Daily-Docs/2024/03_March/2024-03-29 Fri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "remoteBrain/Daily-Docs/2024/03_March/2024-03-29 Fri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2024/03_March/2024-03-29 Fri.md"
+              }
             }
           }
         ]
@@ -159,6 +166,8 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bbde81f9523a2ad4",
-  "lastOpenFiles": []
+  "active": "d4fadc315c7f9dce",
+  "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2024/03_March/2024-03-31 Sun.md"
+  ]
 }
