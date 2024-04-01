@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "01_January",
-      "path": "remoteBrain/Report/2024/01_January.md"
-    },
-    {
-      "basename": "02_February",
-      "path": "remoteBrain/Report/2024/02_February.md"
-    },
-    {
-      "basename": "03_March",
-      "path": "remoteBrain/Report/2024/03_March.md"
+      "basename": "2024-04-02 Tue",
+      "path": "remoteBrain/Daily-Docs/2024/04_April/2024-04-02 Tue.md"
     },
     {
       "basename": "2024-04-01 Mon",
       "path": "remoteBrain/Daily-Docs/2024/04_April/2024-04-01 Mon.md"
     },
     {
-      "basename": "2024-04-02 Tue",
-      "path": "remoteBrain/Daily-Docs/2024/04_April/2024-04-02 Tue.md"
+      "basename": "04_April",
+      "path": "remoteBrain/Report/2024/04_April.md"
+    },
+    {
+      "basename": "03_March",
+      "path": "remoteBrain/Report/2024/03_March.md"
+    },
+    {
+      "basename": "Monthly",
+      "path": "remoteBrain/_template/Monthly.md"
+    },
+    {
+      "basename": "01_January",
+      "path": "remoteBrain/Report/2024/01_January.md"
+    },
+    {
+      "basename": "02_February",
+      "path": "remoteBrain/Report/2024/02_February.md"
     },
     {
       "basename": "2024-03-29 Fri",
@@ -55,10 +63,6 @@
     {
       "basename": "daily",
       "path": "remoteBrain/_template/daily.md"
-    },
-    {
-      "basename": "Monthly",
-      "path": "remoteBrain/_template/Monthly.md"
     },
     {
       "basename": "𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-02-06 Tue",
       "path": "remoteBrain/Daily-Docs/2024/02_February/2024-02-06 Tue.md"
-    },
-    {
-      "basename": "2024-02-05 Mon",
-      "path": "remoteBrain/Daily-Docs/2024/02_February/2024-02-05 Mon.md"
     }
   ],
   "omittedPaths": [],
