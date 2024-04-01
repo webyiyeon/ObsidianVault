@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-03-28 Thu",
+      "path": "remoteBrain/Daily-Docs/2024/03_March/2024-03-28 Thu.md"
+    },
+    {
+      "basename": "2024-03-29 Fri",
+      "path": "remoteBrain/Daily-Docs/2024/03_March/2024-03-29 Fri.md"
+    },
+    {
+      "basename": "2024-03-30 Sat",
+      "path": "remoteBrain/Daily-Docs/2024/03_March/2024-03-30 Sat.md"
+    },
+    {
       "basename": "2024-03-31 Sun",
       "path": "remoteBrain/Daily-Docs/2024/03_March/2024-03-31 Sun.md"
     },
@@ -9,20 +21,20 @@
       "path": "remoteBrain/Daily-Docs/2024/04_April/2024-04-01 Mon.md"
     },
     {
-      "basename": "2024-03-29 Fri",
-      "path": "remoteBrain/Daily-Docs/2024/03_March/2024-03-29 Fri.md"
-    },
-    {
-      "basename": "2024-03-28 Thu",
-      "path": "remoteBrain/Daily-Docs/2024/03_March/2024-03-28 Thu.md"
-    },
-    {
-      "basename": "03_March",
-      "path": "remoteBrain/Report/2024/03_March.md"
+      "basename": "2024-03-26 Tue",
+      "path": "remoteBrain/Daily-Docs/2024/03_March/2024-03-26 Tue.md"
     },
     {
       "basename": "2024-03-27 Wed",
       "path": "remoteBrain/Daily-Docs/2024/03_March/2024-03-27 Wed.md"
+    },
+    {
+      "basename": "2024-03-30 Sat",
+      "path": "remoteBrain/Daily-docs/2024/03_March/2024-03-30 Sat.md"
+    },
+    {
+      "basename": "03_March",
+      "path": "remoteBrain/Report/2024/03_March.md"
     },
     {
       "basename": "daily",
@@ -35,10 +47,6 @@
     {
       "basename": "Monthly",
       "path": "remoteBrain/_template/Monthly.md"
-    },
-    {
-      "basename": "2024-03-26 Tue",
-      "path": "remoteBrain/Daily-Docs/2024/03_March/2024-03-26 Tue.md"
     },
     {
       "basename": "𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭",
@@ -191,14 +199,6 @@
     {
       "basename": "2024-02-02 Fri",
       "path": "remoteBrain/Daily-Docs/2024/02_February/2024-02-02 Fri.md"
-    },
-    {
-      "basename": "2024-02-01 Thu",
-      "path": "remoteBrain/Daily-Docs/2024/02_February/2024-02-01 Thu.md"
-    },
-    {
-      "basename": "2024-03-27 Wed",
-      "path": "remoteBrain/Daily-docs/2024/03_March/2024-03-27 Wed.md"
     }
   ],
   "omittedPaths": [],
