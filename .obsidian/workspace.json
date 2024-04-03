@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "760f0d4e5dbbfc49",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,7 +185,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7c7b593eb04614cb",
+  "active": "760f0d4e5dbbfc49",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2024/04_April/2024-04-02 Tue.md",
     "remoteBrain/Daily-Docs/2024/04_April/2024-04-03 Wed.md",
