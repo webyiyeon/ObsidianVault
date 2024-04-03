@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b327068c85ca80a9",
+        "id": "76e7a941150bb98c",
         "type": "tabs",
         "children": [
           {
-            "id": "09143b5db5f5cf34",
+            "id": "90d0718b04837047",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2024/04_April/2024-04-03 Wed.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -69,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "remoteBrain/Daily-Docs/2024/04_April/2024-04-03 Wed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "remoteBrain/Daily-Docs/2024/04_April/2024-04-03 Wed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2024/04_April/2024-04-03 Wed.md"
+              }
             }
           }
         ]
@@ -157,7 +166,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "09143b5db5f5cf34",
+  "active": "90d0718b04837047",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md"
   ]
