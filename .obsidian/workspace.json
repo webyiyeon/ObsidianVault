@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/04_April/2024-04-02 Tue.md",
+                "file": "remoteBrain/Daily-Docs/2024/04_April/2024-04-03 Wed.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "38401a247218bed3",
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/04_April/2024-04-02 Tue.md",
+                "file": "remoteBrain/Daily-Docs/2024/04_April/2024-04-03 Wed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/04_April/2024-04-02 Tue.md",
+                "file": "remoteBrain/Daily-Docs/2024/04_April/2024-04-03 Wed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/04_April/2024-04-02 Tue.md"
+                "file": "remoteBrain/Daily-Docs/2024/04_April/2024-04-03 Wed.md"
               }
             }
           },
@@ -175,10 +174,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ee2e82760ea1659e",
+  "active": "7c7b593eb04614cb",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2024/04_April/2024-04-01 Mon.md",
     "remoteBrain/Daily-Docs/2024/04_April/2024-04-02 Tue.md",
+    "remoteBrain/Daily-Docs/2024/04_April/2024-04-01 Mon.md",
+    "remoteBrain/Daily-Docs/2024/04_April/2024-04-03 Wed.md",
     "remoteBrain/Report/2024/04_April.md",
     "remoteBrain/Report/2024/03_March.md",
     "remoteBrain/_template/Monthly.md",
@@ -202,7 +202,6 @@
     "remoteBrain/Daily-docs/2024/03_March/2024-03-22 Fri.md",
     "remoteBrain/Daily-docs/2024/03_March/2024-03-20 Wed.md",
     "remoteBrain/Daily-docs/2024/03_March/2024-03-23 Sat.md",
-    "remoteBrain/Daily-docs/2024/03_March/2024-03-18 Mon.md",
     "remoteBrain/Daily-docs/2024/04_April",
     "remoteBrain/Daily-docs/2024/03_March",
     "remoteBrain/Daily-docs/2024/02_February",
