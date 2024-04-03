@@ -1,50 +1,39 @@
 {
   "main": {
-    "id": "c13e3c0963c0b046",
+    "id": "db5159e570d79cb7",
     "type": "split",
     "children": [
       {
-        "id": "76e7a941150bb98c",
+        "id": "025e65baf6cc0683",
         "type": "tabs",
         "children": [
           {
-            "id": "90d0718b04837047",
+            "id": "f505728ec990a769",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Report/2024/03_March.md",
+                "file": "remoteBrain/Daily-Docs/2024/04_April/2024-04-04 Thu.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "760f0d4e5dbbfc49",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c7376d5325132dfd",
+    "id": "06cd8217f6bb06cd",
     "type": "split",
     "children": [
       {
-        "id": "8dcae44b48bc606f",
+        "id": "ea48496de00992d2",
         "type": "tabs",
         "children": [
           {
-            "id": "92dd3b8f92aa3a12",
+            "id": "5019e68bd0068a33",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -52,7 +41,7 @@
             }
           },
           {
-            "id": "d0507bac9f99e10e",
+            "id": "6b027c11070b0f76",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,7 +51,7 @@
             }
           },
           {
-            "id": "a9a996dfcb04964d",
+            "id": "39c5523a57313867",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -77,7 +66,7 @@
             }
           },
           {
-            "id": "97bfdeb3eed62521",
+            "id": "5b7cb300bb51e9cf",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -92,15 +81,15 @@
     "width": 300
   },
   "right": {
-    "id": "973ceed90102d468",
+    "id": "944a43b8af5e3ae1",
     "type": "split",
     "children": [
       {
-        "id": "6123e9138fecb2a4",
+        "id": "dd8d243f69ad4e8f",
         "type": "tabs",
         "children": [
           {
-            "id": "1cdbec05a0258d16",
+            "id": "c90192470a0349d0",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -108,12 +97,12 @@
             }
           },
           {
-            "id": "ebc145acbe6b2619",
+            "id": "6b73c76f9191d50b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Report/2024/03_March.md",
+                "file": "remoteBrain/Daily-Docs/2024/04_April/2024-04-04 Thu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,19 +114,19 @@
             }
           },
           {
-            "id": "b4bb27dbfd7d1e3b",
+            "id": "02f8780164c497f1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Report/2024/03_March.md",
+                "file": "remoteBrain/Daily-Docs/2024/04_April/2024-04-04 Thu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3fbc4c0b51d2b4ff",
+            "id": "a38f4dfa50a4b2af",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -148,12 +137,12 @@
             }
           },
           {
-            "id": "f55dd40caf251b83",
+            "id": "91462d75c1177816",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Report/2024/03_March.md"
+                "file": "remoteBrain/Daily-Docs/2024/04_April/2024-04-04 Thu.md"
               }
             }
           }
@@ -177,13 +166,12 @@
       "periodic-notes:Open today": false
     }
   },
-<<<<<<< HEAD
-  "active": "760f0d4e5dbbfc49",
-=======
-  "active": "90d0718b04837047",
->>>>>>> origin/master
+  "active": "f505728ec990a769",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2024/04_April/2024-04-03 Wed.md",
-    "conflict-files-obsidian-git.md"
+    "remoteBrain/Daily-Docs/2024/04_April/2024-04-04 Thu.md",
+    "remoteBrain/Report/2024/03_March.md",
+    "remoteBrain/Report/2024/02_February.md",
+    "remoteBrain/Report/2024/04_April.md"
   ]
 }
