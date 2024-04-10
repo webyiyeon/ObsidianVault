@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "영화 웡카 후기",
+      "path": "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/영화 웡카 후기.md"
+    },
+    {
+      "basename": "00.WSL에 Elasticsearch 설치하기",
+      "path": "Blog/Tistory/Data/Elasticsearch/WSL에 Elasticsearch 설치하기/00.WSL에 Elasticsearch 설치하기.md"
+    },
+    {
+      "basename": "240207_1",
+      "path": "Blog/Tistory/Data/Elasticsearch/WSL에 Elasticsearch 설치하기/240207_1.png"
+    },
+    {
+      "basename": "00.Windows에서 MySQL 압축파일(zip) 설치 방법",
+      "path": "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/00.Windows에서 MySQL 압축파일(zip) 설치 방법.md"
+    },
+    {
+      "basename": "Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기",
+      "path": "Blog/Tistory/Data/RDBMS/Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기/Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기.md"
+    },
+    {
       "basename": "04_April",
       "path": "remoteBrain/Report/2024/04_April.md"
     },
@@ -143,62 +163,6 @@
     {
       "basename": "2024-02-28 Wed",
       "path": "remoteBrain/Daily-Docs/2024/02_February/2024-02-28 Wed.md"
-    },
-    {
-      "basename": "2024-02-27 Tue",
-      "path": "remoteBrain/Daily-Docs/2024/02_February/2024-02-27 Tue.md"
-    },
-    {
-      "basename": "2024-02-26 Mon",
-      "path": "remoteBrain/Daily-Docs/2024/02_February/2024-02-26 Mon.md"
-    },
-    {
-      "basename": "2024-02-25 Sun",
-      "path": "remoteBrain/Daily-Docs/2024/02_February/2024-02-25 Sun.md"
-    },
-    {
-      "basename": "2024-02-24 Sat",
-      "path": "remoteBrain/Daily-Docs/2024/02_February/2024-02-24 Sat.md"
-    },
-    {
-      "basename": "2024-02-23 Fri",
-      "path": "remoteBrain/Daily-Docs/2024/02_February/2024-02-23 Fri.md"
-    },
-    {
-      "basename": "2024-02-21 Wed",
-      "path": "remoteBrain/Daily-Docs/2024/02_February/2024-02-21 Wed.md"
-    },
-    {
-      "basename": "2024-02-20 Tue",
-      "path": "remoteBrain/Daily-Docs/2024/02_February/2024-02-20 Tue.md"
-    },
-    {
-      "basename": "2024-02-19 Mon",
-      "path": "remoteBrain/Daily-Docs/2024/02_February/2024-02-19 Mon.md"
-    },
-    {
-      "basename": "2024-02-18 Sun",
-      "path": "remoteBrain/Daily-Docs/2024/02_February/2024-02-18 Sun.md"
-    },
-    {
-      "basename": "2024-02-17 Sat",
-      "path": "remoteBrain/Daily-Docs/2024/02_February/2024-02-17 Sat.md"
-    },
-    {
-      "basename": "2024-02-16 Fri",
-      "path": "remoteBrain/Daily-Docs/2024/02_February/2024-02-16 Fri.md"
-    },
-    {
-      "basename": "2024-02-15 Thu",
-      "path": "remoteBrain/Daily-Docs/2024/02_February/2024-02-15 Thu.md"
-    },
-    {
-      "basename": "2024-02-14 Wed",
-      "path": "remoteBrain/Daily-Docs/2024/02_February/2024-02-14 Wed.md"
-    },
-    {
-      "basename": "2024-02-13 Tue",
-      "path": "remoteBrain/Daily-Docs/2024/02_February/2024-02-13 Tue.md"
     }
   ],
   "omittedPaths": [],
