@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f4a457b30b3a5b65",
+        "id": "f8fce29d3c24ee90",
         "type": "tabs",
         "children": [
           {
-            "id": "78dbec5139e287b7",
+            "id": "a21ce8d4667171a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/04_April/2024-04-17 Wed.md",
+                "file": "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/울산 북구 달곡 캠프.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/04_April/2024-04-17 Wed.md",
+                "file": "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/울산 북구 달곡 캠프.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/04_April/2024-04-17 Wed.md",
+                "file": "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/울산 북구 달곡 캠프.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/04_April/2024-04-17 Wed.md"
+                "file": "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/울산 북구 달곡 캠프.md"
               }
             }
           }
@@ -165,10 +165,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "78dbec5139e287b7",
+  "active": "a21ce8d4667171a9",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2024/04_April/2024-04-16 Tue.md",
+    "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/240413_1.webp",
+    "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/울산 북구 달곡 캠프.md",
+    "remoteBrain/Daily-Docs/Images/DALL·E 2024-04-17 10.10.11 - A couple, both wearing glasses with brown hair, depicted in a soft, plush toy style, camping in Gyeongju, South Korea during early summer. They look l.webp",
+    "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/영화 웡카 후기.md",
+    "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프",
+    "Blog/Tistory/철따라/캠핑 후기",
+    "Blog/Tistory/철따라/Untitled.md",
+    "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/240410_7.jpeg",
+    "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/240410_5.jpeg",
+    "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/240410_3.jpeg",
+    "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/240410_1.jpeg",
     "remoteBrain/Daily-Docs/2024/04_April/2024-04-17 Wed.md",
+    "remoteBrain/Daily-Docs/2024/04_April/2024-04-16 Tue.md",
     "remoteBrain/Daily-Docs/2024/04_April/2024-04-14 Sun.md",
     "remoteBrain/Daily-Docs/2024/04_April/2024-04-15 Mon.md",
     "remoteBrain/Daily-Docs/2024/04_April/2024-04-10 Wed.md",
@@ -181,18 +192,11 @@
     "remoteBrain/Daily-Docs/2024/04_April/2024-04-04 Thu.md",
     "remoteBrain/Daily-Docs/2024/04_April/2024-04-05 Fri.md",
     "remoteBrain/Daily-Docs/2024/04_April/2024-04-06 Sat.md",
-    "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/영화 웡카 후기.md",
     "Blog/Tistory/Data/Elasticsearch/WSL에 Elasticsearch 설치하기/00.WSL에 Elasticsearch 설치하기.md",
     "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/240410_9.jpeg",
     "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/240410_8.jpeg",
-    "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/240410_7.jpeg",
     "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/240410_6.jpeg",
-    "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/240410_5.jpeg",
     "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/240410_4.jpeg",
-    "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/240410_3.jpeg",
-    "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/240410_2.jpeg",
-    "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/1.jpeg",
-    "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/240410_1.jpeg",
     "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/00.Windows에서 MySQL 압축파일(zip) 설치 방법.md",
     "Blog/Tistory/Data/RDBMS/Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기/Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기.md",
     "remoteBrain/Daily-Docs/2024/04_April/2024-04-01 Mon.md",
