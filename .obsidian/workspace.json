@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/04_April/2024-04-18 Thu.md",
+                "file": "remoteBrain/Daily-Docs/2024/04_April/2024-04-19 Fri.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/04_April/2024-04-18 Thu.md",
+                "file": "remoteBrain/Daily-Docs/2024/04_April/2024-04-19 Fri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/04_April/2024-04-18 Thu.md",
+                "file": "remoteBrain/Daily-Docs/2024/04_April/2024-04-19 Fri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/04_April/2024-04-18 Thu.md"
+                "file": "remoteBrain/Daily-Docs/2024/04_April/2024-04-19 Fri.md"
               }
             }
           }
@@ -167,10 +167,11 @@
   },
   "active": "a21ce8d4667171a9",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2024/04_April/2024-04-18 Thu.md",
+    "remoteBrain/Daily-Docs/2024/04_April/2024-04-19 Fri.md",
     "remoteBrain/Daily-Docs/2024/04_April/2024-04-16 Tue.md",
     "remoteBrain/Daily-Docs/2024/04_April/2024-04-15 Mon.md",
     "remoteBrain/Daily-Docs/2024/04_April/2024-04-17 Wed.md",
-    "remoteBrain/Daily-Docs/2024/04_April/2024-04-18 Thu.md",
     "remoteBrain/Report/2024/04_April.md",
     "remoteBrain/Report/2024/03_March.md",
     "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/울산 북구 달곡 캠프.md",
@@ -203,7 +204,6 @@
     "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/00.Windows에서 MySQL 압축파일(zip) 설치 방법.md",
     "Blog/Tistory/Data/RDBMS/Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기/Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기.md",
     "remoteBrain/Daily-Docs/2024/04_April/2024-04-01 Mon.md",
-    "remoteBrain/Daily-Docs/2024/04_April/2024-04-02 Tue.md",
-    "remoteBrain/Daily-Docs/2024/04_April/2024-04-03 Wed.md"
+    "remoteBrain/Daily-Docs/2024/04_April/2024-04-02 Tue.md"
   ]
 }
