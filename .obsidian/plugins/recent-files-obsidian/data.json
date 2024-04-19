@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-04-18 Thu",
-      "path": "remoteBrain/Daily-Docs/2024/04_April/2024-04-18 Thu.md"
-    },
-    {
       "basename": "2024-04-19 Fri",
       "path": "remoteBrain/Daily-Docs/2024/04_April/2024-04-19 Fri.md"
+    },
+    {
+      "basename": "daily",
+      "path": "remoteBrain/_templater/daily.md"
+    },
+    {
+      "basename": "daily",
+      "path": "remoteBrain/_template/daily.md"
+    },
+    {
+      "basename": "2024-04-18 Thu",
+      "path": "remoteBrain/Daily-Docs/2024/04_April/2024-04-18 Thu.md"
     },
     {
       "basename": "2024-04-16 Tue",
@@ -171,14 +179,6 @@
     {
       "basename": "2024-03-30 Sat",
       "path": "remoteBrain/Daily-docs/2024/03_March/2024-03-30 Sat.md"
-    },
-    {
-      "basename": "daily",
-      "path": "remoteBrain/_templater/daily.md"
-    },
-    {
-      "basename": "daily",
-      "path": "remoteBrain/_template/daily.md"
     },
     {
       "basename": "𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭",
