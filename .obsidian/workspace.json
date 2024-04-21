@@ -11,8 +11,12 @@
             "id": "1b879b71d74ad96e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2024/04_April/2024-04-19 Fri.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -69,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "remoteBrain/Daily-Docs/2024/04_April/2024-04-19 Fri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "remoteBrain/Daily-Docs/2024/04_April/2024-04-19 Fri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,15 +141,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2024/04_April/2024-04-19 Fri.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,6 +165,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f7bec69952dedc70",
-  "lastOpenFiles": []
+  "active": "1b879b71d74ad96e",
+  "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2024/04_April/2024-04-20 Sat.md",
+    "remoteBrain/Daily-Docs/2024/04_April/2024-04-19 Fri.md",
+    "remoteBrain/Daily-Docs/2024/04_April/2024-04-18 Thu.md",
+    "remoteBrain/Daily-Docs/2024/04_April/2024-04-21 Sun.md",
+    "remoteBrain/Report/2024/04_April.md"
+  ]
 }
