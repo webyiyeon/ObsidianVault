@@ -178,6 +178,7 @@
       "periodic-notes:Open today": false
     }
   },
+<<<<<<< HEAD
   "active": "5daf7bae8406dcfa",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2024/04_April/2024-04-22 Mon.md",
@@ -188,5 +189,10 @@
     "remoteBrain/Daily-Docs/2024/04_April/2024-04-17 Wed.md",
     "remoteBrain/Daily-Docs/2024/04_April/2024-04-18 Thu.md",
     "remoteBrain/Report/2024/04_April.md"
+=======
+  "active": "9ca3628b26f1016b",
+  "lastOpenFiles": [
+    "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/9.jpeg"
+>>>>>>> ff1fc6ff198188ce98898341e41bc7dfe813ee01
   ]
 }
