@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "ec52d371c3405ca6",
+    "id": "11c50f77ab3d30ae",
     "type": "split",
     "children": [
       {
-        "id": "2e608817ddcec1fb",
+        "id": "e906bb54f21d4a68",
         "type": "tabs",
         "children": [
           {
-            "id": "1b879b71d74ad96e",
+            "id": "2186171ec64bec31",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remoteBrain/Daily-Docs/2024/04_April/2024-04-22 Mon.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ce96fcfb05394415",
+    "id": "f4f8b4c960a0666d",
     "type": "split",
     "children": [
       {
-        "id": "e6145c189817e484",
+        "id": "12f5d9f692055252",
         "type": "tabs",
         "children": [
           {
-            "id": "f7bec69952dedc70",
+            "id": "6bd5c5b58ce9a1b8",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -41,7 +37,7 @@
             }
           },
           {
-            "id": "e2485ec3d2d1bea5",
+            "id": "a09324d4cf94a8af",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,12 +47,12 @@
             }
           },
           {
-            "id": "5857f054e5b83b83",
+            "id": "a0ff3121410d4722",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:workout-log💪",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,30 +62,29 @@
             }
           },
           {
-            "id": "cb64355fe0aeb1da",
+            "id": "0c7cecd66e069f24",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "43d10683aa6ce745",
+    "id": "cacd283f8ed34b72",
     "type": "split",
     "children": [
       {
-        "id": "75f0b04a74ba20d8",
+        "id": "b7a35e756a534d0d",
         "type": "tabs",
         "children": [
           {
-            "id": "00fd6c9db22d0704",
+            "id": "03df491d49bb0fa8",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -97,12 +92,11 @@
             }
           },
           {
-            "id": "3faf6064df0d009a",
+            "id": "454fac571068e4bc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/04_April/2024-04-22 Mon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,19 +108,18 @@
             }
           },
           {
-            "id": "d67ca154b9129552",
+            "id": "df8df2ffc964d15a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/04_April/2024-04-22 Mon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f573bdb3c6111876",
+            "id": "63a5569be881cc6e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,20 +130,19 @@
             }
           },
           {
-            "id": "0ad8d741cb521849",
+            "id": "f516ed848c92b475",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "remoteBrain/Daily-Docs/2024/04_April/2024-04-22 Mon.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,14 +157,6 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e2485ec3d2d1bea5",
-  "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2024/04_April/2024-04-20 Sat.md",
-    "remoteBrain/Daily-Docs/2024/04_April/2024-04-22 Mon.md",
-    "remoteBrain/Daily-Docs/2024/04_April/2024-04-19 Fri.md",
-    "remoteBrain/Daily-Docs/2024/04_April/2024-04-21 Sun.md",
-    "remoteBrain/Daily-Docs/2024/04_April/2024-04-17 Wed.md",
-    "remoteBrain/Daily-Docs/2024/04_April/2024-04-18 Thu.md",
-    "remoteBrain/Report/2024/04_April.md"
-  ]
+  "active": "6bd5c5b58ce9a1b8",
+  "lastOpenFiles": []
 }
