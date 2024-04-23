@@ -158,8 +158,17 @@
                 "file": "remoteBrain/Daily-Docs/2024/04_April/2024-04-24 Wed.md"
               }
             }
+          },
+          {
+            "id": "71f9de4127955b21",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-google-calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -179,13 +188,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "05c4acd7f14b82d7",
+  "active": "71f9de4127955b21",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2024/04_April/2024-04-23 Tue.md",
+    "remoteBrain/Daily-Docs/2024/04_April/2024-04-24 Wed.md",
     "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/캠핑!.md",
     "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/240413_1.webp",
-    "remoteBrain/Daily-Docs/2024/04_April/2024-04-23 Tue.md",
     "remoteBrain/Report/2024/04_April.md",
-    "remoteBrain/Daily-Docs/2024/04_April/2024-04-24 Wed.md",
     "conflict-files-obsidian-git.md",
     "remoteBrain/Daily-Docs/2024/04_April/2024-04-21 Sun.md",
     "remoteBrain/Daily-Docs/2024/04_April/2024-04-22 Mon.md",
