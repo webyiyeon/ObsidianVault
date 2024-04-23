@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "conflict-files-obsidian-git",
-      "path": "conflict-files-obsidian-git.md"
+      "basename": "캠핑!",
+      "path": "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/캠핑!.md"
+    },
+    {
+      "basename": "240413_1",
+      "path": "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/240413_1.webp"
     },
     {
       "basename": "2024-04-23 Tue",
       "path": "remoteBrain/Daily-Docs/2024/04_April/2024-04-23 Tue.md"
+    },
+    {
+      "basename": "04_April",
+      "path": "remoteBrain/Report/2024/04_April.md"
+    },
+    {
+      "basename": "2024-04-24 Wed",
+      "path": "remoteBrain/Daily-Docs/2024/04_April/2024-04-24 Wed.md"
     },
     {
       "basename": "2024-04-21 Sun",
@@ -41,10 +53,6 @@
       "path": "remoteBrain/Daily-Docs/2024/04_April/2024-04-18 Thu.md"
     },
     {
-      "basename": "04_April",
-      "path": "remoteBrain/Report/2024/04_April.md"
-    },
-    {
       "basename": "daily",
       "path": "remoteBrain/_templater/daily.md"
     },
@@ -65,16 +73,8 @@
       "path": "remoteBrain/Report/2024/03_March.md"
     },
     {
-      "basename": "울산 북구 달곡 캠프",
-      "path": "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/울산 북구 달곡 캠프.md"
-    },
-    {
       "basename": "브리치즈 오일 파스타",
       "path": "Blog/Tistory/맛따라/Recipe/브리치즈 오일 파스타.md"
-    },
-    {
-      "basename": "240413_1",
-      "path": "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/240413_1.webp"
     },
     {
       "basename": "240410_7",
@@ -195,10 +195,6 @@
     {
       "basename": "2024-03-26 Tue",
       "path": "remoteBrain/Daily-Docs/2024/03_March/2024-03-26 Tue.md"
-    },
-    {
-      "basename": "2024-03-27 Wed",
-      "path": "remoteBrain/Daily-Docs/2024/03_March/2024-03-27 Wed.md"
     }
   ],
   "omittedPaths": [],
