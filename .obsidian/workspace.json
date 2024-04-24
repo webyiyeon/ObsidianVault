@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "86e10a2a2d29aa78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wooyeon/Love Life/𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "05c4acd7f14b82d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/04_April/2024-04-24 Wed.md",
+                "file": "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/캠핑!.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wooyeon/Love Life/𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭.md",
+                "file": "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/캠핑!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wooyeon/Love Life/𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭.md",
+                "file": "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/캠핑!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wooyeon/Love Life/𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭.md"
+                "file": "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/캠핑!.md"
               }
             }
           },
@@ -187,11 +175,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "86e10a2a2d29aa78",
+  "active": "05c4acd7f14b82d7",
   "lastOpenFiles": [
-    "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/캠핑!.md",
+    "remoteBrain/Daily-Docs/Images/Pasted image 20240313155524.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20240424151442.png",
     "remoteBrain/Daily-Docs/2024/04_April/2024-04-24 Wed.md",
+    "remoteBrain/Daily-Docs/Images/DALL·E 2024-04-17 10.10.11 - A couple, both wearing glasses with brown hair, depicted in a soft, plush toy style, camping in Gyeongju, South Korea during early summer. They look l.webp",
+    "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/캠핑!.md",
+    "wooyeon/Love Life/𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭.md",
     "remoteBrain/Daily-Docs/2024/04_April/2024-04-23 Tue.md",
     "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/240413_1.webp",
     "remoteBrain/Report/2024/04_April.md",
