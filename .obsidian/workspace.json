@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/캠핑!.md",
+                "file": "wooyeon/Love Life/𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/04_April/2024-04-24 Wed.md",
+                "file": "wooyeon/Love Life/𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/04_April/2024-04-24 Wed.md",
+                "file": "wooyeon/Love Life/𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/04_April/2024-04-24 Wed.md"
+                "file": "wooyeon/Love Life/𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭.md"
               }
             }
           },
@@ -188,11 +187,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "71f9de4127955b21",
+  "active": "86e10a2a2d29aa78",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2024/04_April/2024-04-23 Tue.md",
-    "remoteBrain/Daily-Docs/2024/04_April/2024-04-24 Wed.md",
     "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/캠핑!.md",
+    "remoteBrain/Daily-Docs/Images/Pasted image 20240424151442.png",
+    "remoteBrain/Daily-Docs/2024/04_April/2024-04-24 Wed.md",
+    "remoteBrain/Daily-Docs/2024/04_April/2024-04-23 Tue.md",
     "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/240413_1.webp",
     "remoteBrain/Report/2024/04_April.md",
     "conflict-files-obsidian-git.md",
