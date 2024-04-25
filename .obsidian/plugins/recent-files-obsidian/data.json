@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "공유",
+      "path": "remoteBrain/Jangbogo/공유.md"
+    },
+    {
+      "basename": "2024-04-16 Tue",
+      "path": "remoteBrain/Daily-Docs/2024/04_April/2024-04-16 Tue.md"
+    },
+    {
+      "basename": "2024-02-22 Thu",
+      "path": "remoteBrain/Daily-Docs/2024/02_February/2024-02-22 Thu.md"
+    },
+    {
+      "basename": "2024-02-19 Mon",
+      "path": "remoteBrain/Daily-Docs/2024/02_February/2024-02-19 Mon.md"
+    },
+    {
+      "basename": "캠핑!",
+      "path": "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/캠핑!.md"
+    },
+    {
       "basename": "2024-04-25 Thu",
       "path": "remoteBrain/Daily-Docs/2024/04_April/2024-04-25 Thu.md"
     },
     {
       "basename": "2024-04-24 Wed",
       "path": "remoteBrain/Daily-Docs/2024/04_April/2024-04-24 Wed.md"
-    },
-    {
-      "basename": "캠핑!",
-      "path": "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/캠핑!.md"
     },
     {
       "basename": "Pasted image 20240313155524",
@@ -75,10 +91,6 @@
     {
       "basename": "daily",
       "path": "remoteBrain/_template/daily.md"
-    },
-    {
-      "basename": "2024-04-16 Tue",
-      "path": "remoteBrain/Daily-Docs/2024/04_April/2024-04-16 Tue.md"
     },
     {
       "basename": "2024-04-15 Mon",
@@ -187,18 +199,6 @@
     {
       "basename": "Monthly",
       "path": "remoteBrain/_template/Monthly.md"
-    },
-    {
-      "basename": "01_January",
-      "path": "remoteBrain/Report/2024/01_January.md"
-    },
-    {
-      "basename": "2024-03-29 Fri",
-      "path": "remoteBrain/Daily-Docs/2024/03_March/2024-03-29 Fri.md"
-    },
-    {
-      "basename": "2024-03-30 Sat",
-      "path": "remoteBrain/Daily-Docs/2024/03_March/2024-03-30 Sat.md"
     }
   ],
   "omittedPaths": [],
