@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-04-26 Fri",
+      "path": "remoteBrain/Daily-Docs/2024/04_April/2024-04-26 Fri.md"
+    },
+    {
       "basename": "2024-04-25 Thu",
       "path": "remoteBrain/Daily-Docs/2024/04_April/2024-04-25 Thu.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "02_February",
       "path": "remoteBrain/Report/2024/02_February.md"
-    },
-    {
-      "basename": "Monthly",
-      "path": "remoteBrain/_template/Monthly.md"
     }
   ],
   "omittedPaths": [],
