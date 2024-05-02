@@ -5,12 +5,16 @@
       "path": "remoteBrain/Daily-Docs/2024/05_May/2024-05-02 Thu.md"
     },
     {
+      "basename": "2024-04-30 Tue",
+      "path": "remoteBrain/Daily-Docs/2024/04_April/2024-04-30 Tue.md"
+    },
+    {
       "basename": "2024-05-01 Wed",
       "path": "remoteBrain/Daily-Docs/2024/05_May/2024-05-01 Wed.md"
     },
     {
-      "basename": "2024-04-30 Tue",
-      "path": "remoteBrain/Daily-Docs/2024/04_April/2024-04-30 Tue.md"
+      "basename": "05_May",
+      "path": "remoteBrain/Report/2024/05_May.md"
     },
     {
       "basename": "2024-04-29 Mon",
@@ -195,10 +199,6 @@
     {
       "basename": "240207_1",
       "path": "Blog/Tistory/Data/Elasticsearch/WSL에 Elasticsearch 설치하기/240207_1.png"
-    },
-    {
-      "basename": "00.Windows에서 MySQL 압축파일(zip) 설치 방법",
-      "path": "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/00.Windows에서 MySQL 압축파일(zip) 설치 방법.md"
     }
   ],
   "omittedPaths": [],
