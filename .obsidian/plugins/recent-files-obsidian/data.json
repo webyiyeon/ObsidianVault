@@ -1,32 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-05-03 Fri",
-      "path": "remoteBrain/Daily-Docs/2024/05_May/2024-05-03 Fri.md"
-    },
-    {
-      "basename": "2024-05-02 Thu",
-      "path": "remoteBrain/Daily-Docs/2024/05_May/2024-05-02 Thu.md"
-    },
-    {
-      "basename": "2024-05-01 Wed",
-      "path": "remoteBrain/Daily-Docs/2024/05_May/2024-05-01 Wed.md"
-    },
-    {
-      "basename": "2024-04-30 Tue",
-      "path": "remoteBrain/Daily-Docs/2024/04_April/2024-04-30 Tue.md"
-    },
-    {
-      "basename": "05_May",
-      "path": "remoteBrain/Report/2024/05_May.md"
-    },
-    {
-      "basename": "2024-04-29 Mon",
-      "path": "remoteBrain/Daily-Docs/2024/04_April/2024-04-29 Mon.md"
+      "basename": "2024-05-07 Tue",
+      "path": "remoteBrain/Daily-Docs/2024/05_May/2024-05-07 Tue.md"
     },
     {
       "basename": "2024-04-26 Fri",
       "path": "remoteBrain/Daily-Docs/2024/04_April/2024-04-26 Fri.md"
+    },
+    {
+      "basename": "2024-04-24 Wed",
+      "path": "remoteBrain/Daily-Docs/2024/04_April/2024-04-24 Wed.md"
+    },
+    {
+      "basename": "2024-04-23 Tue",
+      "path": "remoteBrain/Daily-Docs/2024/04_April/2024-04-23 Tue.md"
+    },
+    {
+      "basename": "2024-04-22 Mon",
+      "path": "remoteBrain/Daily-Docs/2024/04_April/2024-04-22 Mon.md"
+    },
+    {
+      "basename": "2024-04-25 Thu",
+      "path": "remoteBrain/Daily-Docs/2024/04_April/2024-04-25 Thu.md"
     },
     {
       "basename": "2024-04-27 Sat",
@@ -35,6 +31,30 @@
     {
       "basename": "2024-04-28 Sun",
       "path": "remoteBrain/Daily-Docs/2024/04_April/2024-04-28 Sun.md"
+    },
+    {
+      "basename": "2024-04-29 Mon",
+      "path": "remoteBrain/Daily-Docs/2024/04_April/2024-04-29 Mon.md"
+    },
+    {
+      "basename": "2024-04-30 Tue",
+      "path": "remoteBrain/Daily-Docs/2024/04_April/2024-04-30 Tue.md"
+    },
+    {
+      "basename": "2024-05-01 Wed",
+      "path": "remoteBrain/Daily-Docs/2024/05_May/2024-05-01 Wed.md"
+    },
+    {
+      "basename": "2024-05-02 Thu",
+      "path": "remoteBrain/Daily-Docs/2024/05_May/2024-05-02 Thu.md"
+    },
+    {
+      "basename": "2024-05-03 Fri",
+      "path": "remoteBrain/Daily-Docs/2024/05_May/2024-05-03 Fri.md"
+    },
+    {
+      "basename": "05_May",
+      "path": "remoteBrain/Report/2024/05_May.md"
     },
     {
       "basename": "04_April",
@@ -49,28 +69,12 @@
       "path": "remoteBrain/Daily-Docs/2024/04_April/2024-04-20 Sat.md"
     },
     {
-      "basename": "2024-04-25 Thu",
-      "path": "remoteBrain/Daily-Docs/2024/04_April/2024-04-25 Thu.md"
-    },
-    {
-      "basename": "2024-04-24 Wed",
-      "path": "remoteBrain/Daily-Docs/2024/04_April/2024-04-24 Wed.md"
-    },
-    {
-      "basename": "2024-04-23 Tue",
-      "path": "remoteBrain/Daily-Docs/2024/04_April/2024-04-23 Tue.md"
-    },
-    {
       "basename": "개발공유",
       "path": "remoteBrain/Jangbogo/개발공유.md"
     },
     {
       "basename": "2024-04-16 Tue",
       "path": "remoteBrain/Daily-Docs/2024/04_April/2024-04-16 Tue.md"
-    },
-    {
-      "basename": "2024-04-22 Mon",
-      "path": "remoteBrain/Daily-Docs/2024/04_April/2024-04-22 Mon.md"
     },
     {
       "basename": "2024-04-19 Fri",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-04-06 Sat",
       "path": "remoteBrain/Daily-Docs/2024/04_April/2024-04-06 Sat.md"
-    },
-    {
-      "basename": "00.WSL에 Elasticsearch 설치하기",
-      "path": "Blog/Tistory/Data/Elasticsearch/WSL에 Elasticsearch 설치하기/00.WSL에 Elasticsearch 설치하기.md"
     }
   ],
   "omittedPaths": [],
