@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/05_May/2024-05-16 Thu.md",
+                "file": "remoteBrain/Daily-Docs/2024/05_May/2024-05-17 Fri.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f38ba90161319507",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "디버깅.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/05_May/2024-05-16 Thu.md",
+                "file": "디버깅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/05_May/2024-05-16 Thu.md",
+                "file": "디버깅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/05_May/2024-05-16 Thu.md"
+                "file": "디버깅.md"
               }
             }
           },
@@ -173,11 +186,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a86b2d941660fa21",
+  "active": "f38ba90161319507",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2024/05_May/2024-05-17 Fri.md",
+    "디버깅.md",
+    "remoteBrain/Daily-Docs/2024/05_May/2024-05-16 Thu.md",
     "remoteBrain/Daily-Docs/2024/05_May/2024-05-14 Tue.md",
     "remoteBrain/Daily-Docs/2024/05_May/2024-05-15 Wed.md",
-    "remoteBrain/Daily-Docs/2024/05_May/2024-05-16 Thu.md",
     "remoteBrain/Daily-Docs/2024/05_May/2024-05-13 Mon.md",
     "remoteBrain/Daily-Docs/2024/05_May/2024-05-09 Thu.md",
     "remoteBrain/Daily-Docs/2024/05_May/2024-05-11 Sat.md",
@@ -200,8 +215,6 @@
     "remoteBrain/Daily-Docs/2024/04_April/2024-04-22 Mon.md",
     "remoteBrain/Daily-Docs/2024/04_April/2024-04-25 Thu.md",
     "remoteBrain/Daily-Docs/2024/04_April/2024-04-27 Sat.md",
-    "remoteBrain/Daily-Docs/2024/04_April/2024-04-28 Sun.md",
-    "remoteBrain/Daily-Docs/2024/04_April/2024-04-29 Mon.md",
     "remoteBrain/Daily-Docs/2024/05_May",
     "remoteBrain/Jangbogo",
     "remoteBrain/Daily-Docs/Images/Pasted image 20240313155524.png",
