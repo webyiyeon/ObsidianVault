@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c47c253f35b739c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remoteBrain/Jangbogo/디버깅.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Jangbogo/디버깅.md",
+                "file": "remoteBrain/Daily-Docs/2024/05_May/2024-05-17 Fri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Jangbogo/디버깅.md",
+                "file": "remoteBrain/Daily-Docs/2024/05_May/2024-05-17 Fri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Jangbogo/디버깅.md"
+                "file": "remoteBrain/Daily-Docs/2024/05_May/2024-05-17 Fri.md"
               }
             }
           },
@@ -198,11 +186,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c47c253f35b739c5",
+  "active": "f38ba90161319507",
   "lastOpenFiles": [
+    "remoteBrain/Jangbogo/디버깅.md",
     "remoteBrain/Daily-Docs/2024/05_May/2024-05-17 Fri.md",
     "remoteBrain/Jangbogo/개발공유.md",
-    "remoteBrain/Jangbogo/디버깅.md",
     "remoteBrain/Daily-Docs/2024/05_May/2024-05-16 Thu.md",
     "remoteBrain/Daily-Docs/2024/05_May/2024-05-14 Tue.md",
     "remoteBrain/Daily-Docs/2024/05_May/2024-05-15 Wed.md",
