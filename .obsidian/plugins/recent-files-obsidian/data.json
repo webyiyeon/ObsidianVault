@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-05-20 Mon",
-      "path": "remoteBrain/Daily-Docs/2024/05_May/2024-05-20 Mon.md"
+      "basename": "2024-05-23 Thu",
+      "path": "remoteBrain/Daily-Docs/2024/05_May/2024-05-23 Thu.md"
+    },
+    {
+      "basename": "2024-05-21 Tue",
+      "path": "remoteBrain/Daily-Docs/2024/05_May/2024-05-21 Tue.md"
     },
     {
       "basename": "2024-05-17 Fri",
       "path": "remoteBrain/Daily-Docs/2024/05_May/2024-05-17 Fri.md"
+    },
+    {
+      "basename": "2024-05-22 Wed",
+      "path": "remoteBrain/Daily-Docs/2024/05_May/2024-05-22 Wed.md"
+    },
+    {
+      "basename": "2024-05-20 Mon",
+      "path": "remoteBrain/Daily-Docs/2024/05_May/2024-05-20 Mon.md"
     },
     {
       "basename": "디버깅",
@@ -187,18 +199,6 @@
     {
       "basename": "daily",
       "path": "remoteBrain/_templater/daily.md"
-    },
-    {
-      "basename": "daily",
-      "path": "remoteBrain/_template/daily.md"
-    },
-    {
-      "basename": "2024-04-15 Mon",
-      "path": "remoteBrain/Daily-Docs/2024/04_April/2024-04-15 Mon.md"
-    },
-    {
-      "basename": "03_March",
-      "path": "remoteBrain/Report/2024/03_March.md"
     }
   ],
   "omittedPaths": [],
