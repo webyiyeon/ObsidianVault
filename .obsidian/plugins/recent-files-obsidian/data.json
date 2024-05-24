@@ -5,6 +5,10 @@
       "path": "remoteBrain/Daily-Docs/2024/05_May/2024-05-23 Thu.md"
     },
     {
+      "basename": "2024-05-24 Fri",
+      "path": "remoteBrain/Daily-Docs/2024/05_May/2024-05-24 Fri.md"
+    },
+    {
       "basename": "2024-05-21 Tue",
       "path": "remoteBrain/Daily-Docs/2024/05_May/2024-05-21 Tue.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "영화 웡카 후기",
       "path": "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/영화 웡카 후기.md"
-    },
-    {
-      "basename": "9",
-      "path": "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/9.jpeg"
-    },
-    {
-      "basename": "daily",
-      "path": "remoteBrain/_templater/daily.md"
     }
   ],
   "omittedPaths": [],
