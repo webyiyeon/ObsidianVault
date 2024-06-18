@@ -57,13 +57,13 @@ sort file.name
 ```dataview
 TABLE WITHOUT ID
 	link(file.name) as "Day",
-	choice(file.tasks[0].completed, "✔️", "✗") AS "유산균 먹기",
+	choice(file.tasks[0].completed, "✔️", "✗") AS "영양제 챙겨먹기",
 	choice(file.tasks[1].completed, "✔️", "✗") AS "운동하기",
-	choice(file.tasks[2].completed, "✔️", "✗") AS "건강 끼니 챙기기",
+	choice(file.tasks[2].completed, "✔️", "✗") AS "하루 4끼 건강하게 먹기",
 	choice(file.tasks[3].completed, "✔️", "✗") AS "무지출 챌린지",
-	choice(file.tasks[4].completed, "✔️", "✗") AS "집 정리・정돈하기",
+	choice(file.tasks[4].completed, "✔️", "✗") AS "집안일 잘하기",
 	choice(file.tasks[5].completed, "✔️", "✗") AS "개발 공부 하기",
-	choice(file.tasks[6].completed, "✔️", "✗") AS "바깥음식 안 먹기"
+	choice(file.tasks[6].completed, "✔️", "✗") AS "외식 안하기"
 	FROM #routine 
 	WHERE
 	file.folder = "remoteBrain/Daily-Docs/2024/06_June"
