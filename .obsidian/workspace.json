@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f3eaf3e32c000d9c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +176,11 @@
       "periodic-notes:Open today": false
     }
   },
+<<<<<<< HEAD
   "active": "238691fbd705e93f",
+=======
+  "active": "f3eaf3e32c000d9c",
+>>>>>>> b012fe0 (vault backup: 2024-06-19 22:07:56)
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/Images/Pasted image 20240619165914.png",
     "remoteBrain/Jangbogo/개발공유.md",
