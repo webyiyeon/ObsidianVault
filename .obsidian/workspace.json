@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "remoteBrain/Jangbogo/개발공유.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d248ece0559acc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "remoteBrain/Daily-Docs/2024/06_June/2024-06-19 Wed.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +178,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "238691fbd705e93f",
+  "active": "7d248ece0559acc8",
   "lastOpenFiles": [
     "remoteBrain/Jangbogo/개발공유.md",
     "remoteBrain/Daily-Docs/2024/06_June/2024-06-19 Wed.md",
