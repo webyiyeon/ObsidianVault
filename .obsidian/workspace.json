@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "6c9f42aaa1f42295",
+    "id": "d8ade8d84f2d15f3",
     "type": "split",
     "children": [
       {
-        "id": "f2e54e548bca9cf9",
+        "id": "93f1402b806d341f",
         "type": "tabs",
         "children": [
           {
-            "id": "0bd4016e539cccc4",
+            "id": "18cbce7641647067",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/06_June/2024-06-20 Thu.md",
+                "file": "remoteBrain/Daily-Docs/2024/06_June/2024-06-19 Wed.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c3e35a0337452fd4",
+    "id": "8efeb7e0c7b68c33",
     "type": "split",
     "children": [
       {
-        "id": "98c9c01b28654c3b",
+        "id": "43edff2b5dc9b89d",
         "type": "tabs",
         "children": [
           {
-            "id": "cfd481fab098b6e1",
+            "id": "aa7c8f339dcdca45",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -41,7 +41,7 @@
             }
           },
           {
-            "id": "0b3a765092165787",
+            "id": "31facf1083d3ab81",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,7 +51,7 @@
             }
           },
           {
-            "id": "2df83d9933c5f21a",
+            "id": "1132a429b5f735a2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -66,7 +66,7 @@
             }
           },
           {
-            "id": "c40d0365f0647534",
+            "id": "0ca2e9526c66dbe0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,15 +81,15 @@
     "width": 300
   },
   "right": {
-    "id": "eb05a5cf2ba8f768",
+    "id": "d1f505de57505d26",
     "type": "split",
     "children": [
       {
-        "id": "7f328817efc66bbb",
+        "id": "b45503f610e9e453",
         "type": "tabs",
         "children": [
           {
-            "id": "4ac6cb9f83abd7f6",
+            "id": "578bc704acfaa878",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -97,12 +97,12 @@
             }
           },
           {
-            "id": "8df56c09b33dc121",
+            "id": "682330080b5fd024",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/06_June/2024-06-20 Thu.md",
+                "file": "remoteBrain/Daily-Docs/2024/06_June/2024-06-19 Wed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,19 +114,19 @@
             }
           },
           {
-            "id": "d3854b8a499d99ea",
+            "id": "4bb70ab67aa6113b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/06_June/2024-06-20 Thu.md",
+                "file": "remoteBrain/Daily-Docs/2024/06_June/2024-06-19 Wed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b03d9b7db2efabab",
+            "id": "3f1463e61d1525d0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,12 +137,12 @@
             }
           },
           {
-            "id": "bd3d26e2db3eeb5d",
+            "id": "9fc282c105fb09bc",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/06_June/2024-06-20 Thu.md"
+                "file": "remoteBrain/Daily-Docs/2024/06_June/2024-06-19 Wed.md"
               }
             }
           }
@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,44 +166,8 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0bd4016e539cccc4",
+  "active": "18cbce7641647067",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2024/06_June/2024-06-19 Wed.md",
-    "remoteBrain/Daily-Docs/2024/06_June/2024-06-20 Thu.md",
-    "remoteBrain/Daily-Docs/Images/Pasted image 20240619165914.png",
-    "remoteBrain/Jangbogo/개발공유.md",
-    "remoteBrain/Daily-Docs/2024/06_June/2024-06-18 Tue.md",
-    "remoteBrain/Daily-Docs/Images/Pasted image 20240618145145.png",
-    "remoteBrain/Daily-Docs/2024/06_June/2024-06-13 Thu.md",
-    "remoteBrain/Daily-Docs/2024/06_June/2024-06-14 Fri.md",
-    "remoteBrain/Daily-Docs/2024/06_June/2024-06-17 Mon.md",
-    "remoteBrain/Daily-Docs/2024/06_June/2024-06-16 Sun.md",
-    "remoteBrain/Daily-Docs/2024/06_June/2024-06-15 Sat.md",
-    "remoteBrain/Report/2024/06_June.md",
-    "remoteBrain/_template/Monthly.md",
-    "remoteBrain/Daily-Docs/2024/06_June/2024-06-08 Sat.md",
-    "remoteBrain/Daily-Docs/2024/06_June/2024-06-12 Wed.md",
-    "remoteBrain/Daily-Docs/2024/06_June/2024-06-11 Tue.md",
-    "remoteBrain/_templater/TP-DailyNote.md",
-    "remoteBrain/_templater/daily.md",
-    "remoteBrain/Daily-Docs/2024/06_June/2024-06-10 Mon.md",
-    "remoteBrain/Daily-Docs/2024/06_June/2024-06-07 Fri.md",
-    "remoteBrain/Daily-Docs/2024/06_June/2024-06-06 Thu.md",
-    "remoteBrain/Daily-Docs/2024/06_June/2024-06-04 Tue.md",
-    "remoteBrain/Daily-Docs/2024/06_June/2024-06-09 Sun.md",
-    "remoteBrain/Daily-Docs/2024/02_February/2024-02-26 Mon.md",
-    "remoteBrain/Daily-Docs/2024/03_March/2024-03-13 Wed.md",
-    "remoteBrain/Daily-Docs/2024/05_May/2024-05-30 Thu.md",
-    "remoteBrain/Daily-Docs/2024/04_April/2024-04-09 Tue.md",
-    "remoteBrain/Daily-docs/2024/04_April/Untitled1.ipynb",
-    "remoteBrain/Daily-docs/2024/04_April/test.py",
-    "remoteBrain/Daily-docs/2024/04_April/Untitled.ipynb",
-    "remoteBrain/Daily-docs/2024/06_June",
-    "remoteBrain/Daily-docs/2024/05_May",
-    "remoteBrain/Daily-docs/2024/03_March",
-    "remoteBrain/Daily-docs/2024/04_April",
-    "remoteBrain/Daily-docs/2024/02_February",
-    "remoteBrain/Daily-docs/2024/01_January",
-    "remoteBrain/Daily-docs/2024"
+    "remoteBrain/Daily-Docs/2024/06_June/2024-06-20 Thu.md"
   ]
 }
