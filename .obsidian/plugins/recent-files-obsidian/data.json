@@ -5,6 +5,10 @@
       "path": "remoteBrain/Daily-Docs/2024/06_June/2024-06-19 Wed.md"
     },
     {
+      "basename": "2024-06-20 Thu",
+      "path": "remoteBrain/Daily-Docs/2024/06_June/2024-06-20 Thu.md"
+    },
+    {
       "basename": "개발공유",
       "path": "remoteBrain/Jangbogo/개발공유.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2024-05-05 Sun",
       "path": "remoteBrain/Daily-Docs/2024/05_May/2024-05-05 Sun.md"
-    },
-    {
-      "basename": "2024-05-04 Sat",
-      "path": "remoteBrain/Daily-Docs/2024/05_May/2024-05-04 Sat.md"
     }
   ],
   "omittedPaths": [],
