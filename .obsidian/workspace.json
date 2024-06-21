@@ -162,6 +162,7 @@
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-day-and-night:Toggle Theme": false,
       "periodic-notes:Open today": false
     }
   },
