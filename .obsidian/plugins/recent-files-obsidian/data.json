@@ -1,36 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-06-21 Fri",
-      "path": "remoteBrain/Daily-Docs/2024/06_June/2024-06-21 Fri.md"
-    },
-    {
-      "basename": "2024-06-20 Thu",
-      "path": "remoteBrain/Daily-Docs/2024/06_June/2024-06-20 Thu.md"
-    },
-    {
-      "basename": "개발공유",
-      "path": "remoteBrain/Jangbogo/개발공유.md"
-    },
-    {
-      "basename": "2024-06-19 Wed",
-      "path": "remoteBrain/Daily-Docs/2024/06_June/2024-06-19 Wed.md"
-    },
-    {
-      "basename": "Pasted image 20240619165914",
-      "path": "remoteBrain/Daily-Docs/Images/Pasted image 20240619165914.png"
-    },
-    {
       "basename": "2024-06-18 Tue",
       "path": "remoteBrain/Daily-Docs/2024/06_June/2024-06-18 Tue.md"
-    },
-    {
-      "basename": "2024-06-13 Thu",
-      "path": "remoteBrain/Daily-Docs/2024/06_June/2024-06-13 Thu.md"
-    },
-    {
-      "basename": "2024-06-14 Fri",
-      "path": "remoteBrain/Daily-Docs/2024/06_June/2024-06-14 Fri.md"
     },
     {
       "basename": "2024-06-17 Mon",
@@ -45,16 +17,12 @@
       "path": "remoteBrain/Daily-Docs/2024/06_June/2024-06-15 Sat.md"
     },
     {
-      "basename": "06_June",
-      "path": "remoteBrain/Report/2024/06_June.md"
+      "basename": "2024-06-14 Fri",
+      "path": "remoteBrain/Daily-Docs/2024/06_June/2024-06-14 Fri.md"
     },
     {
-      "basename": "Monthly",
-      "path": "remoteBrain/_template/Monthly.md"
-    },
-    {
-      "basename": "2024-06-08 Sat",
-      "path": "remoteBrain/Daily-Docs/2024/06_June/2024-06-08 Sat.md"
+      "basename": "2024-06-13 Thu",
+      "path": "remoteBrain/Daily-Docs/2024/06_June/2024-06-13 Thu.md"
     },
     {
       "basename": "2024-06-12 Wed",
@@ -65,6 +33,50 @@
       "path": "remoteBrain/Daily-Docs/2024/06_June/2024-06-11 Tue.md"
     },
     {
+      "basename": "2024-06-19 Wed",
+      "path": "remoteBrain/Daily-Docs/2024/06_June/2024-06-19 Wed.md"
+    },
+    {
+      "basename": "2024-06-20 Thu",
+      "path": "remoteBrain/Daily-Docs/2024/06_June/2024-06-20 Thu.md"
+    },
+    {
+      "basename": "2024-06-10 Mon",
+      "path": "remoteBrain/Daily-Docs/2024/06_June/2024-06-10 Mon.md"
+    },
+    {
+      "basename": "2024-06-04 Tue",
+      "path": "remoteBrain/Daily-Docs/2024/06_June/2024-06-04 Tue.md"
+    },
+    {
+      "basename": "2024-06-03 Mon",
+      "path": "remoteBrain/Daily-Docs/2024/06_June/2024-06-03 Mon.md"
+    },
+    {
+      "basename": "06_June",
+      "path": "remoteBrain/Report/2024/06_June.md"
+    },
+    {
+      "basename": "2024-06-21 Fri",
+      "path": "remoteBrain/Daily-Docs/2024/06_June/2024-06-21 Fri.md"
+    },
+    {
+      "basename": "개발공유",
+      "path": "remoteBrain/Jangbogo/개발공유.md"
+    },
+    {
+      "basename": "Pasted image 20240619165914",
+      "path": "remoteBrain/Daily-Docs/Images/Pasted image 20240619165914.png"
+    },
+    {
+      "basename": "Monthly",
+      "path": "remoteBrain/_template/Monthly.md"
+    },
+    {
+      "basename": "2024-06-08 Sat",
+      "path": "remoteBrain/Daily-Docs/2024/06_June/2024-06-08 Sat.md"
+    },
+    {
       "basename": "TP-DailyNote",
       "path": "remoteBrain/_templater/TP-DailyNote.md"
     },
@@ -73,20 +85,12 @@
       "path": "remoteBrain/_templater/daily.md"
     },
     {
-      "basename": "2024-06-10 Mon",
-      "path": "remoteBrain/Daily-Docs/2024/06_June/2024-06-10 Mon.md"
-    },
-    {
       "basename": "2024-06-07 Fri",
       "path": "remoteBrain/Daily-Docs/2024/06_June/2024-06-07 Fri.md"
     },
     {
       "basename": "2024-06-06 Thu",
       "path": "remoteBrain/Daily-Docs/2024/06_June/2024-06-06 Thu.md"
-    },
-    {
-      "basename": "2024-06-04 Tue",
-      "path": "remoteBrain/Daily-Docs/2024/06_June/2024-06-04 Tue.md"
     },
     {
       "basename": "2024-06-09 Sun",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-05-08 Wed",
       "path": "remoteBrain/Daily-Docs/2024/05_May/2024-05-08 Wed.md"
-    },
-    {
-      "basename": "2024-05-07 Tue",
-      "path": "remoteBrain/Daily-Docs/2024/05_May/2024-05-07 Tue.md"
     }
   ],
   "omittedPaths": [],
