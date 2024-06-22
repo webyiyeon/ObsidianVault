@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/06_June/2024-06-20 Thu.md",
+                "file": "remoteBrain/Daily-Docs/2024/06_June/2024-06-22 Sat.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "eb05a5cf2ba8f768",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/06_June/2024-06-20 Thu.md",
+                "file": "remoteBrain/Daily-Docs/2024/06_June/2024-06-22 Sat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/06_June/2024-06-20 Thu.md",
+                "file": "remoteBrain/Daily-Docs/2024/06_June/2024-06-22 Sat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/06_June/2024-06-20 Thu.md"
+                "file": "remoteBrain/Daily-Docs/2024/06_June/2024-06-22 Sat.md"
               }
             }
           }
@@ -150,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,8 +170,9 @@
   "active": "0bd4016e539cccc4",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2024/06_June/2024-06-21 Fri.md",
-    "remoteBrain/Jangbogo/개발공유.md",
+    "remoteBrain/Daily-Docs/2024/06_June/2024-06-22 Sat.md",
     "remoteBrain/Daily-Docs/2024/06_June/2024-06-20 Thu.md",
+    "remoteBrain/Jangbogo/개발공유.md",
     "remoteBrain/Daily-Docs/2024/06_June/2024-06-19 Wed.md",
     "remoteBrain/Daily-Docs/Images/Pasted image 20240619165914.png",
     "remoteBrain/Daily-Docs/2024/06_June/2024-06-18 Tue.md",
@@ -194,7 +197,6 @@
     "remoteBrain/Daily-Docs/2024/02_February/2024-02-26 Mon.md",
     "remoteBrain/Daily-Docs/2024/03_March/2024-03-13 Wed.md",
     "remoteBrain/Daily-Docs/2024/05_May/2024-05-30 Thu.md",
-    "remoteBrain/Daily-Docs/2024/04_April/2024-04-09 Tue.md",
     "remoteBrain/Daily-docs/2024/04_April/Untitled1.ipynb",
     "remoteBrain/Daily-docs/2024/04_April/test.py",
     "remoteBrain/Daily-docs/2024/04_April/Untitled.ipynb",
