@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "eb05a5cf2ba8f768",
@@ -150,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,7 +168,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0b3a765092165787",
+  "active": "4ac6cb9f83abd7f6",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2024/06_June/2024-06-06 Thu.md",
     "remoteBrain/Report/2024/06_June.md",
