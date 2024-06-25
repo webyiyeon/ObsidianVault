@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/06_June/2024-06-25 Tue.md",
+                "file": "remoteBrain/Jangbogo/디버깅.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/06_June/2024-06-25 Tue.md",
+                "file": "remoteBrain/Jangbogo/디버깅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/06_June/2024-06-25 Tue.md",
+                "file": "remoteBrain/Jangbogo/디버깅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/06_June/2024-06-25 Tue.md"
+                "file": "remoteBrain/Jangbogo/디버깅.md"
               }
             }
           }
@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,13 +168,15 @@
   },
   "active": "dead25cb0d7c65b2",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2024/06_June/2024-06-24 Mon.md",
+    "wooyeon/Love Life/𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭.md",
     "remoteBrain/Daily-Docs/2024/06_June/2024-06-25 Tue.md",
-    "remoteBrain/Daily-Docs/2024/06_June/2024-06-06 Thu.md",
+    "remoteBrain/Daily-Docs/2024/06_June/2024-06-24 Mon.md",
+    "remoteBrain/Daily-Docs/2024/06_June/2024-06-23 Sun.md",
     "remoteBrain/Report/2024/06_June.md",
+    "remoteBrain/Single Person Household/Grocery List.md",
+    "remoteBrain/Daily-Docs/2024/06_June/2024-06-06 Thu.md",
     "remoteBrain/Report/2024/05_May.md",
     "remoteBrain/Daily-Docs/2024/06_June/2024-06-22 Sat.md",
-    "remoteBrain/Daily-Docs/2024/06_June/2024-06-23 Sun.md",
     "remoteBrain/Daily-docs/2024/06_June/2024-06-24 Mon.md",
     "remoteBrain/Daily-docs/2024/06_June/2024-06-23 Sun.md",
     "remoteBrain/Daily-docs/2024/06_June/2024-06-22 Sat.md",
@@ -193,8 +194,6 @@
     "remoteBrain/Daily-docs/2024/06_June/2024-06-10 Mon.md",
     "remoteBrain/Daily-docs/2024/06_June/2024-06-09 Sun.md",
     "remoteBrain/Daily-docs/2024/06_June/2024-06-08 Sat.md",
-    "remoteBrain/Daily-docs/2024/06_June/2024-06-07 Fri.md",
-    "remoteBrain/Daily-docs/2024/06_June/2024-06-06 Thu.md",
     "remoteBrain/Daily-docs/2024/04_April/Untitled.ipynb",
     "remoteBrain/Daily-docs/2024/04_April/Untitled1.ipynb",
     "remoteBrain/Daily-docs/2024/04_April/test.py",
