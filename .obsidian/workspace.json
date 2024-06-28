@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/06_June/2024-06-28 Fri.md",
+                "file": "remoteBrain/Jangbogo/개발공유.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/06_June/2024-06-28 Fri.md",
+                "file": "remoteBrain/Jangbogo/개발공유.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/06_June/2024-06-28 Fri.md"
+                "file": "remoteBrain/Jangbogo/개발공유.md"
               }
             }
           }
@@ -179,10 +178,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f59a64cee971c66f",
+  "active": "dead25cb0d7c65b2",
   "lastOpenFiles": [
-    "remoteBrain/Jangbogo/개발공유.md",
     "remoteBrain/Daily-Docs/2024/06_June/2024-06-28 Fri.md",
+    "remoteBrain/Jangbogo/개발공유.md",
     "remoteBrain/Daily-Docs/2024/06_June/2024-06-27 Thu.md",
     "remoteBrain/Daily-Docs/2024/06_June/2024-06-26 Wed.md",
     "remoteBrain/Report/2024/06_June.md",
