@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-01 Mon.md",
+                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-02 Tue.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -68,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "달서",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,11 +179,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "dead25cb0d7c65b2",
+  "active": "0b3a765092165787",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2024/06_June/2024-06-26 Wed.md",
     "remoteBrain/Daily-Docs/2024/07_July/2024-07-02 Tue.md",
-    "remoteBrain/Jangbogo/개발공유.md",
     "remoteBrain/Daily-Docs/2024/07_July/2024-07-01 Mon.md",
+    "remoteBrain/Jangbogo/개발공유.md",
     "remoteBrain/Daily-Docs/2024/06_June/2024-06-30 Sun.md",
     "remoteBrain/Daily-Docs/2024/06_June/2024-06-25 Tue.md",
     "remoteBrain/Daily-Docs/2024/06_June/2024-06-28 Fri.md",
@@ -190,7 +192,6 @@
     "remoteBrain/Daily-Docs/2024/04_April/2024-04-30 Tue.md",
     "remoteBrain/Daily-Docs/2024/07_July",
     "remoteBrain/Daily-Docs/2024/06_June/2024-06-27 Thu.md",
-    "remoteBrain/Daily-Docs/2024/06_June/2024-06-26 Wed.md",
     "remoteBrain/Report/2024/06_June.md",
     "remoteBrain/Jangbogo/디버깅.md",
     "wooyeon/Love Life/𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭.md",
