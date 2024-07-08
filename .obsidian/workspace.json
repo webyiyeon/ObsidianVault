@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "eb05a5cf2ba8f768",
@@ -169,8 +168,9 @@
   },
   "active": "dead25cb0d7c65b2",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2024/07_July/2024-07-06 Sat.md",
+    "remoteBrain/Jangbogo/개발공유.md",
     "remoteBrain/Daily-Docs/2024/07_July/2024-07-08 Mon.md",
+    "remoteBrain/Daily-Docs/2024/07_July/2024-07-06 Sat.md",
     "remoteBrain/Daily-Docs/2024/07_July/2024-07-05 Fri.md",
     "remoteBrain/Daily-Docs/2024/07_July/2024-07-07 Sun.md",
     "remoteBrain/Daily-Docs/2024/07_July/2024-07-04 Thu.md",
@@ -194,7 +194,6 @@
     "remoteBrain/Daily-docs/2024/06_June/2024-06-19 Wed.md",
     "remoteBrain/Daily-docs/2024/06_June/2024-06-18 Tue.md",
     "remoteBrain/Daily-docs/2024/06_June/2024-06-17 Mon.md",
-    "remoteBrain/Daily-docs/2024/06_June/2024-06-16 Sun.md",
     "remoteBrain/Daily-docs/2024/04_April/Untitled1.ipynb",
     "remoteBrain/Daily-docs/2024/04_April/Untitled.ipynb",
     "remoteBrain/Daily-docs/2024/04_April/test.py",
