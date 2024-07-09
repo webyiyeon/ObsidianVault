@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-09 Tue.md",
+                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-10 Wed.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-09 Tue.md",
+                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-10 Wed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-09 Tue.md",
+                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-10 Wed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-09 Tue.md"
+                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-10 Wed.md"
               }
             }
           }
@@ -168,8 +168,9 @@
   },
   "active": "dead25cb0d7c65b2",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2024/07_July/2024-07-08 Mon.md",
     "remoteBrain/Daily-Docs/2024/07_July/2024-07-09 Tue.md",
+    "remoteBrain/Daily-Docs/2024/07_July/2024-07-10 Wed.md",
+    "remoteBrain/Daily-Docs/2024/07_July/2024-07-08 Mon.md",
     "remoteBrain/Jangbogo/개발공유.md",
     "remoteBrain/Daily-Docs/2024/07_July/2024-07-06 Sat.md",
     "remoteBrain/Daily-Docs/2024/07_July/2024-07-05 Fri.md",
@@ -193,7 +194,6 @@
     "remoteBrain/Daily-docs/2024/06_June/2024-06-21 Fri.md",
     "remoteBrain/Daily-docs/2024/06_June/2024-06-20 Thu.md",
     "remoteBrain/Daily-docs/2024/06_June/2024-06-19 Wed.md",
-    "remoteBrain/Daily-docs/2024/06_June/2024-06-18 Tue.md",
     "remoteBrain/Daily-docs/2024/04_April/Untitled1.ipynb",
     "remoteBrain/Daily-docs/2024/04_April/Untitled.ipynb",
     "remoteBrain/Daily-docs/2024/04_April/test.py",
