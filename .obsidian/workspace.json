@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-15 Mon.md",
+                "file": "Blog/Tistory/맛따라/Recipe/알리오 올리오 파스타.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f650e4f0e984e02f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog/Tistory/맛따라/Recipe/브리치즈 오일 파스타.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-15 Mon.md",
+                "file": "Blog/Tistory/맛따라/Recipe/알리오 올리오 파스타.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-15 Mon.md",
+                "file": "Blog/Tistory/맛따라/Recipe/알리오 올리오 파스타.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-15 Mon.md"
+                "file": "Blog/Tistory/맛따라/Recipe/알리오 올리오 파스타.md"
               }
             }
           }
@@ -168,9 +180,14 @@
   },
   "active": "dead25cb0d7c65b2",
   "lastOpenFiles": [
+    "Blog/Tistory/맛따라/Recipe/브리치즈 오일 파스타.md",
+    "Blog/Tistory/맛따라/Recipe/알리오 올리오 파스타.md",
+    "remoteBrain/_template/recipe.md",
+    "Blog/Tistory/맛따라/Recipe/Untitled.md",
+    "Blog/Tistory/맛따라/Recipe/바스크 치즈케이크.md",
+    "remoteBrain/Daily-Docs/2024/07_July/2024-07-15 Mon.md",
     "remoteBrain/Daily-Docs/2024/07_July/2024-07-13 Sat.md",
     "remoteBrain/Daily-Docs/2024/07_July/2024-07-14 Sun.md",
-    "remoteBrain/Daily-Docs/2024/07_July/2024-07-15 Mon.md",
     "remoteBrain/Daily-Docs/2024/07_July/2024-07-12 Fri.md",
     "remoteBrain/Daily-Docs/2024/07_July/2024-07-11 Thu.md",
     "remoteBrain/Report/2024/07_July.md",
@@ -189,11 +206,6 @@
     "remoteBrain/Daily-Docs/2024/07_July/2024-07-05 Fri.md",
     "remoteBrain/Daily-Docs/2024/07_July/2024-07-07 Sun.md",
     "remoteBrain/Daily-Docs/2024/07_July/2024-07-04 Thu.md",
-    "remoteBrain/Daily-docs/2024/07_July/2024-07-04 Thu.md",
-    "remoteBrain/Daily-docs/2024/07_July/2024-07-05 Fri.md",
-    "remoteBrain/Daily-docs/2024/07_July/2024-07-03 Wed.md",
-    "remoteBrain/Daily-docs/2024/07_July/2024-07-02 Tue.md",
-    "remoteBrain/Daily-docs/2024/07_July/2024-07-01 Mon.md",
     "remoteBrain/Daily-docs/2024/04_April/Untitled1.ipynb",
     "remoteBrain/Daily-docs/2024/04_April/Untitled.ipynb",
     "remoteBrain/Daily-docs/2024/04_April/test.py",
