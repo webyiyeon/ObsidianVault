@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "6867f2986e849fc6",
+    "id": "6c9f42aaa1f42295",
     "type": "split",
     "children": [
       {
-        "id": "33af3b7fc0063671",
+        "id": "b36df98de96ce4d7",
         "type": "tabs",
         "children": [
           {
-            "id": "f28f3c738506790a",
+            "id": "dead25cb0d7c65b2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-17 Wed.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "fb69233efa982869",
+    "id": "c3e35a0337452fd4",
     "type": "split",
     "children": [
       {
-        "id": "514beae08c5ce2c8",
+        "id": "98c9c01b28654c3b",
         "type": "tabs",
         "children": [
           {
-            "id": "d04aa05323a9f2cc",
+            "id": "cfd481fab098b6e1",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -37,7 +41,7 @@
             }
           },
           {
-            "id": "06328353a581de03",
+            "id": "0b3a765092165787",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,12 +51,12 @@
             }
           },
           {
-            "id": "1cb6729b1b64a8bc",
+            "id": "2df83d9933c5f21a",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,29 +66,30 @@
             }
           },
           {
-            "id": "70b257917b7f3ea4",
+            "id": "c40d0365f0647534",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "abba7dd9a7b98836",
+    "id": "eb05a5cf2ba8f768",
     "type": "split",
     "children": [
       {
-        "id": "5d47a3983f3fab5b",
+        "id": "7f328817efc66bbb",
         "type": "tabs",
         "children": [
           {
-            "id": "fc36087122822040",
+            "id": "4ac6cb9f83abd7f6",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -92,11 +97,12 @@
             }
           },
           {
-            "id": "ebed4db10b71f8c4",
+            "id": "8df56c09b33dc121",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-17 Wed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,18 +114,19 @@
             }
           },
           {
-            "id": "18e223bad1862e69",
+            "id": "d3854b8a499d99ea",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-17 Wed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ffc7563f2d42588c",
+            "id": "b03d9b7db2efabab",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -130,19 +137,20 @@
             }
           },
           {
-            "id": "812845cfe3e23f25",
+            "id": "bd3d26e2db3eeb5d",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-17 Wed.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,14 +158,53 @@
       "obsidian-custom-frames:Open Chat GPT": false,
       "obsidian-day-planner:Timeline": false,
       "templater-obsidian:Templater": false,
-      "obsidian-day-and-night:Toggle Theme": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-day-and-night:Toggle Theme": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "d04aa05323a9f2cc",
-  "lastOpenFiles": []
+  "active": "dead25cb0d7c65b2",
+  "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2024/07_July/2024-07-16 Tue.md",
+    "remoteBrain/Daily-Docs/2024/07_July/2024-07-15 Mon.md",
+    "remoteBrain/Daily-Docs/2024/07_July/2024-07-17 Wed.md",
+    "Blog/Tistory/맛따라/Recipe/알리오 올리오 파스타.md",
+    "Blog/Tistory/맛따라/Recipe/브리치즈 오일 파스타.md",
+    "remoteBrain/_template/recipe.md",
+    "Blog/Tistory/맛따라/Recipe/Untitled.md",
+    "Blog/Tistory/맛따라/Recipe/바스크 치즈케이크.md",
+    "remoteBrain/Daily-Docs/2024/07_July/2024-07-13 Sat.md",
+    "remoteBrain/Daily-Docs/2024/07_July/2024-07-14 Sun.md",
+    "remoteBrain/Daily-Docs/2024/07_July/2024-07-12 Fri.md",
+    "remoteBrain/Daily-Docs/2024/07_July/2024-07-11 Thu.md",
+    "remoteBrain/Report/2024/07_July.md",
+    "remoteBrain/Report/2024/06_June.md",
+    "remoteBrain/Report/2024/05_May.md",
+    "remoteBrain/Report/2024/04_April.md",
+    "remoteBrain/Report/2024/03_March.md",
+    "remoteBrain/Report/2024/02_February.md",
+    "remoteBrain/Report/2024/01_January.md",
+    "remoteBrain/Daily-Docs/2024/07_July/2024-07-03 Wed.md",
+    "remoteBrain/Daily-Docs/2024/07_July/2024-07-10 Wed.md",
+    "remoteBrain/Daily-Docs/2024/07_July/2024-07-09 Tue.md",
+    "remoteBrain/Daily-Docs/2024/07_July/2024-07-08 Mon.md",
+    "remoteBrain/Jangbogo/개발공유.md",
+    "remoteBrain/Daily-Docs/2024/07_July/2024-07-06 Sat.md",
+    "remoteBrain/Daily-Docs/2024/07_July/2024-07-05 Fri.md",
+    "remoteBrain/Daily-docs/2024/04_April/Untitled1.ipynb",
+    "remoteBrain/Daily-docs/2024/04_April/Untitled.ipynb",
+    "remoteBrain/Daily-docs/2024/04_April/test.py",
+    "remoteBrain/Daily-docs/2024/07_July",
+    "remoteBrain/Daily-docs/2024/06_June",
+    "remoteBrain/Daily-docs/2024/04_April",
+    "remoteBrain/Daily-docs/2024/03_March",
+    "remoteBrain/Daily-docs/2024/05_May",
+    "remoteBrain/Daily-docs/2024/02_February",
+    "remoteBrain/Daily-docs/2024/01_January",
+    "remoteBrain/Daily-Docs/Images/Pasted image 20240619165914.png",
+    "remoteBrain/Daily-Docs/Images/Pasted image 20240618145145.png"
+  ]
 }
