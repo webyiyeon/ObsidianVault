@@ -1,38 +1,18 @@
 {
   "main": {
-    "id": "6c9f42aaa1f42295",
+    "id": "6867f2986e849fc6",
     "type": "split",
     "children": [
       {
-        "id": "f2e54e548bca9cf9",
+        "id": "33af3b7fc0063671",
         "type": "tabs",
         "children": [
           {
-            "id": "0bd4016e539cccc4",
+            "id": "f28f3c738506790a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-16 Tue.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f650e4f0e984e02f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog/Tistory/맛따라/Recipe/브리치즈 오일 파스타.md",
-=======
-                "file": "remoteBrain/Daily-Docs/2024/06_June/2024-06-23 Sun.md",
->>>>>>> 0f0873f (vault backup: 2024-06-24 17:23:43)
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -41,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c3e35a0337452fd4",
+    "id": "fb69233efa982869",
     "type": "split",
     "children": [
       {
-        "id": "98c9c01b28654c3b",
+        "id": "514beae08c5ce2c8",
         "type": "tabs",
         "children": [
           {
-            "id": "cfd481fab098b6e1",
+            "id": "d04aa05323a9f2cc",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -57,7 +37,7 @@
             }
           },
           {
-            "id": "0b3a765092165787",
+            "id": "06328353a581de03",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -67,7 +47,7 @@
             }
           },
           {
-            "id": "2df83d9933c5f21a",
+            "id": "1cb6729b1b64a8bc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -82,31 +62,29 @@
             }
           },
           {
-            "id": "c40d0365f0647534",
+            "id": "70b257917b7f3ea4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "eb05a5cf2ba8f768",
+    "id": "abba7dd9a7b98836",
     "type": "split",
     "children": [
       {
-        "id": "7f328817efc66bbb",
+        "id": "5d47a3983f3fab5b",
         "type": "tabs",
         "children": [
           {
-            "id": "4ac6cb9f83abd7f6",
+            "id": "fc36087122822040",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -114,16 +92,11 @@
             }
           },
           {
-            "id": "8df56c09b33dc121",
+            "id": "ebed4db10b71f8c4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-16 Tue.md",
-=======
-                "file": "remoteBrain/Daily-Docs/2024/06_June/2024-06-23 Sun.md",
->>>>>>> 0f0873f (vault backup: 2024-06-24 17:23:43)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,23 +108,18 @@
             }
           },
           {
-            "id": "d3854b8a499d99ea",
+            "id": "18e223bad1862e69",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-16 Tue.md",
-=======
-                "file": "remoteBrain/Daily-Docs/2024/06_June/2024-06-23 Sun.md",
->>>>>>> 0f0873f (vault backup: 2024-06-24 17:23:43)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b03d9b7db2efabab",
+            "id": "ffc7563f2d42588c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -162,17 +130,11 @@
             }
           },
           {
-            "id": "bd3d26e2db3eeb5d",
+            "id": "812845cfe3e23f25",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-<<<<<<< HEAD
-                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-16 Tue.md"
-=======
-                "file": "remoteBrain/Daily-Docs/2024/06_June/2024-06-23 Sun.md"
->>>>>>> 0f0873f (vault backup: 2024-06-24 17:23:43)
-              }
+              "state": {}
             }
           }
         ]
@@ -188,6 +150,7 @@
       "obsidian-custom-frames:Open Chat GPT": false,
       "obsidian-day-planner:Timeline": false,
       "templater-obsidian:Templater": false,
+      "obsidian-day-and-night:Toggle Theme": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
@@ -195,84 +158,6 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0bd4016e539cccc4",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-    "remoteBrain/Daily-Docs/2024/07_July/2024-07-15 Mon.md",
-    "remoteBrain/Daily-Docs/2024/07_July/2024-07-16 Tue.md",
-    "Blog/Tistory/맛따라/Recipe/알리오 올리오 파스타.md",
-    "Blog/Tistory/맛따라/Recipe/브리치즈 오일 파스타.md",
-    "remoteBrain/_template/recipe.md",
-    "Blog/Tistory/맛따라/Recipe/Untitled.md",
-    "Blog/Tistory/맛따라/Recipe/바스크 치즈케이크.md",
-    "remoteBrain/Daily-Docs/2024/07_July/2024-07-13 Sat.md",
-    "remoteBrain/Daily-Docs/2024/07_July/2024-07-14 Sun.md",
-    "remoteBrain/Daily-Docs/2024/07_July/2024-07-12 Fri.md",
-    "remoteBrain/Daily-Docs/2024/07_July/2024-07-11 Thu.md",
-    "remoteBrain/Report/2024/07_July.md",
-    "remoteBrain/Report/2024/06_June.md",
-    "remoteBrain/Report/2024/05_May.md",
-    "remoteBrain/Report/2024/04_April.md",
-    "remoteBrain/Report/2024/03_March.md",
-    "remoteBrain/Report/2024/02_February.md",
-    "remoteBrain/Report/2024/01_January.md",
-    "remoteBrain/Daily-Docs/2024/07_July/2024-07-03 Wed.md",
-    "remoteBrain/Daily-Docs/2024/07_July/2024-07-10 Wed.md",
-    "remoteBrain/Daily-Docs/2024/07_July/2024-07-09 Tue.md",
-    "remoteBrain/Daily-Docs/2024/07_July/2024-07-08 Mon.md",
-    "remoteBrain/Jangbogo/개발공유.md",
-    "remoteBrain/Daily-Docs/2024/07_July/2024-07-06 Sat.md",
-    "remoteBrain/Daily-Docs/2024/07_July/2024-07-05 Fri.md",
-    "remoteBrain/Daily-Docs/2024/07_July/2024-07-07 Sun.md",
-=======
-    "remoteBrain/Daily-Docs/2024/06_June/2024-06-24 Mon.md",
-    "remoteBrain/Daily-Docs/2024/06_June/2024-06-22 Sat.md",
-    "remoteBrain/Daily-Docs/2024/06_June/2024-06-23 Sun.md",
-    "remoteBrain/Daily-Docs/2024/06_June/2024-06-21 Fri.md",
-    "remoteBrain/Daily-Docs/2024/06_June/2024-06-20 Thu.md",
-    "remoteBrain/Jangbogo/개발공유.md",
-    "remoteBrain/Daily-Docs/2024/06_June/2024-06-19 Wed.md",
-    "remoteBrain/Daily-Docs/Images/Pasted image 20240619165914.png",
-    "remoteBrain/Daily-Docs/2024/06_June/2024-06-18 Tue.md",
-    "remoteBrain/Daily-Docs/Images/Pasted image 20240618145145.png",
-    "remoteBrain/Daily-Docs/2024/06_June/2024-06-13 Thu.md",
-    "remoteBrain/Daily-Docs/2024/06_June/2024-06-14 Fri.md",
-    "remoteBrain/Daily-Docs/2024/06_June/2024-06-17 Mon.md",
-    "remoteBrain/Daily-Docs/2024/06_June/2024-06-16 Sun.md",
-    "remoteBrain/Daily-Docs/2024/06_June/2024-06-15 Sat.md",
-    "remoteBrain/Report/2024/06_June.md",
-    "remoteBrain/_template/Monthly.md",
-    "remoteBrain/Daily-Docs/2024/06_June/2024-06-08 Sat.md",
-    "remoteBrain/Daily-Docs/2024/06_June/2024-06-12 Wed.md",
-    "remoteBrain/Daily-Docs/2024/06_June/2024-06-11 Tue.md",
-    "remoteBrain/_templater/TP-DailyNote.md",
-    "remoteBrain/_templater/daily.md",
-    "remoteBrain/Daily-Docs/2024/06_June/2024-06-10 Mon.md",
-    "remoteBrain/Daily-Docs/2024/06_June/2024-06-07 Fri.md",
-    "remoteBrain/Daily-Docs/2024/06_June/2024-06-06 Thu.md",
-    "remoteBrain/Daily-Docs/2024/06_June/2024-06-04 Tue.md",
-    "remoteBrain/Daily-Docs/2024/06_June/2024-06-09 Sun.md",
-    "remoteBrain/Daily-Docs/2024/02_February/2024-02-26 Mon.md",
->>>>>>> 0f0873f (vault backup: 2024-06-24 17:23:43)
-    "remoteBrain/Daily-docs/2024/04_April/Untitled1.ipynb",
-    "remoteBrain/Daily-docs/2024/04_April/Untitled.ipynb",
-    "remoteBrain/Daily-docs/2024/04_April/test.py",
-<<<<<<< HEAD
-    "remoteBrain/Daily-docs/2024/07_July",
-=======
-    "remoteBrain/Daily-docs/2024/04_April/Untitled.ipynb",
->>>>>>> 0f0873f (vault backup: 2024-06-24 17:23:43)
-    "remoteBrain/Daily-docs/2024/06_June",
-    "remoteBrain/Daily-docs/2024/04_April",
-    "remoteBrain/Daily-docs/2024/03_March",
-    "remoteBrain/Daily-docs/2024/05_May",
-    "remoteBrain/Daily-docs/2024/02_February",
-    "remoteBrain/Daily-docs/2024/01_January",
-<<<<<<< HEAD
-    "remoteBrain/Daily-Docs/Images/Pasted image 20240619165914.png",
-    "remoteBrain/Daily-Docs/Images/Pasted image 20240618145145.png"
-=======
-    "remoteBrain/Daily-docs/2024"
->>>>>>> 0f0873f (vault backup: 2024-06-24 17:23:43)
-  ]
+  "active": "d04aa05323a9f2cc",
+  "lastOpenFiles": []
 }
