@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-07-19 Fri",
+      "path": "remoteBrain/Daily-Docs/2024/07_July/2024-07-19 Fri.md"
+    },
+    {
+      "basename": "daily",
+      "path": "remoteBrain/_templater/daily.md"
+    },
+    {
+      "basename": "TP-DailyNote",
+      "path": "remoteBrain/_templater/TP-DailyNote.md"
+    },
+    {
       "basename": "2024-07-18 Thu",
       "path": "remoteBrain/Daily-Docs/2024/07_July/2024-07-18 Thu.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "2024-06-20 Thu",
       "path": "remoteBrain/Daily-Docs/2024/06_June/2024-06-20 Thu.md"
-    },
-    {
-      "basename": "2024-06-19 Wed",
-      "path": "remoteBrain/Daily-Docs/2024/06_June/2024-06-19 Wed.md"
-    },
-    {
-      "basename": "Pasted image 20240619165914",
-      "path": "remoteBrain/Daily-Docs/Images/Pasted image 20240619165914.png"
-    },
-    {
-      "basename": "2024-06-18 Tue",
-      "path": "remoteBrain/Daily-Docs/2024/06_June/2024-06-18 Tue.md"
     }
   ],
   "omittedPaths": [],
