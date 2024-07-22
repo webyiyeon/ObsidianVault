@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "33af3b7fc0063671",
+        "id": "baea7b641eb822c5",
         "type": "tabs",
         "children": [
           {
-            "id": "f28f3c738506790a",
+            "id": "cc95c3f5193dd02b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Jangbogo/개발공유.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -69,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "remoteBrain/Jangbogo/개발공유.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "remoteBrain/Jangbogo/개발공유.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "remoteBrain/Jangbogo/개발공유.md"
+              }
             }
           }
         ]
@@ -158,7 +167,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d04aa05323a9f2cc",
+  "active": "cc95c3f5193dd02b",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2024/07_July/2024-07-19 Fri.md",
     "remoteBrain/Daily-Docs/2024/07_July/2024-07-18 Thu.md",
