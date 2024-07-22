@@ -46,14 +46,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d04aa05323a9f2cc",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
-          {
             "id": "06328353a581de03",
             "type": "leaf",
             "state": {
@@ -85,9 +77,21 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "6c3ee586fc0fe73e",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ],
+<<<<<<< HEAD
         "currentTab": 1
+=======
+        "currentTab": 3
+>>>>>>> 7b93a02 (vault backup: 2024-07-22 22:35:09)
       }
     ],
     "direction": "horizontal",
@@ -180,7 +184,11 @@
       "periodic-notes:Open today": false
     }
   },
+<<<<<<< HEAD
   "active": "6b1936dbc3bf7b15",
+=======
+  "active": "6c3ee586fc0fe73e",
+>>>>>>> 7b93a02 (vault backup: 2024-07-22 22:35:09)
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2024/07_July/2024-07-22 Mon.md",
     "remoteBrain/Jangbogo/LangChain 강의.md",
