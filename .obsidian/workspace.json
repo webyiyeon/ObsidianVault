@@ -1,31 +1,19 @@
 {
   "main": {
-    "id": "6867f2986e849fc6",
+    "id": "b47b5e375c8f897e",
     "type": "split",
     "children": [
       {
-        "id": "4f430ace59693d6c",
+        "id": "d403f17229b72c6b",
         "type": "tabs",
         "children": [
           {
-            "id": "a808988fd7da0e81",
+            "id": "a6788e2778904a8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-22 Mon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b1936dbc3bf7b15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remoteBrain/Jangbogo/LangChain 강의.md",
+                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-23 Tue.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,15 +25,23 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "fb69233efa982869",
+    "id": "674401ebed4e1acf",
     "type": "split",
     "children": [
       {
-        "id": "514beae08c5ce2c8",
+        "id": "110b68ef8c0c701e",
         "type": "tabs",
         "children": [
           {
-            "id": "06328353a581de03",
+            "id": "fc6e778201d58926",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "53a875119efee29c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,7 +51,7 @@
             }
           },
           {
-            "id": "1cb6729b1b64a8bc",
+            "id": "06e9c3e7090ff983",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -70,46 +66,30 @@
             }
           },
           {
-            "id": "70b257917b7f3ea4",
+            "id": "44a5509825c03c22",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "6c3ee586fc0fe73e",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
           }
-<<<<<<< HEAD
         ],
-<<<<<<< HEAD
         "currentTab": 1
-=======
-        "currentTab": 3
->>>>>>> 7b93a02 (vault backup: 2024-07-22 22:35:09)
-=======
-        ]
->>>>>>> 3794810 (vault backup: 2024-07-22 22:35:11)
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "abba7dd9a7b98836",
+    "id": "23b6b4b54f18ba9d",
     "type": "split",
     "children": [
       {
-        "id": "5d47a3983f3fab5b",
+        "id": "d6ad6ae0cb5a4545",
         "type": "tabs",
         "children": [
           {
-            "id": "fc36087122822040",
+            "id": "b1cb8d4c209f2581",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -117,12 +97,12 @@
             }
           },
           {
-            "id": "ebed4db10b71f8c4",
+            "id": "7bdd2249891f678d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-22 Mon.md",
+                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-23 Tue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,19 +114,19 @@
             }
           },
           {
-            "id": "18e223bad1862e69",
+            "id": "72c7e9cb0630a468",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-22 Mon.md",
+                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-23 Tue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ffc7563f2d42588c",
+            "id": "65cebfd307f453f5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -157,12 +137,12 @@
             }
           },
           {
-            "id": "812845cfe3e23f25",
+            "id": "27dde7b5452d7853",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-22 Mon.md"
+                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-23 Tue.md"
               }
             }
           }
@@ -170,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,27 +166,43 @@
       "periodic-notes:Open today": false
     }
   },
-<<<<<<< HEAD
-  "active": "a808988fd7da0e81",
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "active": "6b1936dbc3bf7b15",
-=======
-  "active": "6c3ee586fc0fe73e",
->>>>>>> 7b93a02 (vault backup: 2024-07-22 22:35:09)
-=======
-  "active": "06328353a581de03",
->>>>>>> 3794810 (vault backup: 2024-07-22 22:35:11)
->>>>>>> e6da870b6739551bf98e5c259a725367b1d66b04
+  "active": "a6788e2778904a8a",
   "lastOpenFiles": [
-    "remoteBrain/Jangbogo/LangChain 강의.md",
+    "remoteBrain/Daily-Docs/2024/07_July/2024-07-21 Sun.md",
+    "remoteBrain/Daily-Docs/2024/07_July/2024-07-20 Sat.md",
+    "remoteBrain/Daily-docs/2024/07_July/2024-07-21 Sun.md",
     "remoteBrain/Daily-Docs/2024/07_July/2024-07-22 Mon.md",
-    "remoteBrain/Jangbogo/개발공유.md",
-    "remoteBrain/Daily-Docs/Images/Pasted image 20240722144906.png",
-    "remoteBrain/Daily-Docs/Images/Pasted image 20240722121930.png",
-    "remoteBrain/Daily-Docs/2024/07_July/2024-07-19 Fri.md",
-    "remoteBrain/Daily-Docs/2024/07_July/2024-07-18 Thu.md",
-    "remoteBrain/Daily-Docs/2024/07_July/2024-07-17 Wed.md"
+    "remoteBrain/Daily-docs/2024/07_July/2024-07-22 Mon.md",
+    "remoteBrain/Daily-docs/2024/07_July/2024-07-23 Tue.md",
+    "remoteBrain/Daily-docs/2024/07_July/2024-07-19 Fri.md",
+    "remoteBrain/Daily-docs/2024/07_July/2024-07-18 Thu.md",
+    "remoteBrain/Daily-docs/2024/07_July/2024-07-16 Tue.md",
+    "remoteBrain/Daily-docs/2024/07_July/2024-07-17 Wed.md",
+    "remoteBrain/Daily-docs/2024/07_July/2024-07-15 Mon.md",
+    "remoteBrain/Daily-docs/2024/07_July/2024-07-13 Sat.md",
+    "remoteBrain/Daily-docs/2024/07_July/2024-07-14 Sun.md",
+    "remoteBrain/Daily-docs/2024/07_July/2024-07-12 Fri.md",
+    "remoteBrain/Daily-docs/2024/07_July/2024-07-11 Thu.md",
+    "remoteBrain/Daily-docs/2024/07_July/2024-07-10 Wed.md",
+    "remoteBrain/Daily-docs/2024/07_July/2024-07-09 Tue.md",
+    "remoteBrain/Daily-docs/2024/07_July/2024-07-08 Mon.md",
+    "remoteBrain/Daily-docs/2024/07_July/2024-07-06 Sat.md",
+    "remoteBrain/Daily-docs/2024/07_July/2024-07-05 Fri.md",
+    "remoteBrain/Daily-docs/2024/07_July/2024-07-07 Sun.md",
+    "remoteBrain/Daily-docs/2024/07_July/2024-07-04 Thu.md",
+    "remoteBrain/Daily-docs/2024/07_July/2024-07-03 Wed.md",
+    "remoteBrain/Daily-docs/2024/07_July/2024-07-01 Mon.md",
+    "remoteBrain/Daily-docs/2024/07_July/2024-07-02 Tue.md",
+    "remoteBrain/Daily-docs/2024/06_June/2024-06-29 Sat.md",
+    "remoteBrain/Daily-docs/2024/04_April/Untitled1.ipynb",
+    "remoteBrain/Daily-docs/2024/04_April/Untitled.ipynb",
+    "remoteBrain/Daily-docs/2024/04_April/test.py",
+    "remoteBrain/Daily-docs/2024/07_July",
+    "remoteBrain/Daily-docs/2024/06_June",
+    "remoteBrain/Daily-docs/2024/05_May",
+    "remoteBrain/Daily-docs/2024/04_April",
+    "remoteBrain/Daily-docs/2024/03_March",
+    "remoteBrain/Daily-docs/2024/02_February",
+    "remoteBrain/Daily-docs/2024/01_January"
   ]
 }
