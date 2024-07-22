@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "baea7b641eb822c5",
+        "id": "4f430ace59693d6c",
         "type": "tabs",
         "children": [
           {
-            "id": "cc95c3f5193dd02b",
+            "id": "a808988fd7da0e81",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6b1936dbc3bf7b15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-22 Mon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Jangbogo/개발공유.md",
+                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-22 Mon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Jangbogo/개발공유.md",
+                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-22 Mon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Jangbogo/개발공유.md"
+                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-22 Mon.md"
               }
             }
           }
@@ -167,8 +180,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cc95c3f5193dd02b",
+  "active": "6b1936dbc3bf7b15",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/Images/Pasted image 20240722121930.png",
+    "remoteBrain/Jangbogo/개발공유.md",
+    "remoteBrain/Daily-Docs/2024/07_July/2024-07-22 Mon.md",
     "remoteBrain/Daily-Docs/2024/07_July/2024-07-19 Fri.md",
     "remoteBrain/Daily-Docs/2024/07_July/2024-07-18 Thu.md",
     "remoteBrain/Daily-Docs/2024/07_July/2024-07-17 Wed.md"
