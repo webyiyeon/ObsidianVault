@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Jangbogo/LangChain 강의.md",
+                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-22 Mon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Jangbogo/LangChain 강의.md",
+                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-22 Mon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Jangbogo/LangChain 강의.md"
+                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-22 Mon.md"
               }
             }
           }
@@ -180,10 +179,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6b1936dbc3bf7b15",
+  "active": "a808988fd7da0e81",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2024/07_July/2024-07-22 Mon.md",
     "remoteBrain/Jangbogo/LangChain 강의.md",
+    "remoteBrain/Daily-Docs/2024/07_July/2024-07-22 Mon.md",
     "remoteBrain/Jangbogo/개발공유.md",
     "remoteBrain/Daily-Docs/Images/Pasted image 20240722144906.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20240722121930.png",
