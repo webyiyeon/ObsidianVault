@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Jangbogo/개발공유.md",
+                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-22 Mon.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-22 Mon.md",
+                "file": "remoteBrain/Jangbogo/LangChain 강의.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-22 Mon.md",
+                "file": "remoteBrain/Jangbogo/LangChain 강의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-22 Mon.md",
+                "file": "remoteBrain/Jangbogo/LangChain 강의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-22 Mon.md"
+                "file": "remoteBrain/Jangbogo/LangChain 강의.md"
               }
             }
           }
@@ -182,10 +182,11 @@
   },
   "active": "6b1936dbc3bf7b15",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2024/07_July/2024-07-22 Mon.md",
+    "remoteBrain/Jangbogo/LangChain 강의.md",
+    "remoteBrain/Jangbogo/개발공유.md",
     "remoteBrain/Daily-Docs/Images/Pasted image 20240722144906.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20240722121930.png",
-    "remoteBrain/Jangbogo/개발공유.md",
-    "remoteBrain/Daily-Docs/2024/07_July/2024-07-22 Mon.md",
     "remoteBrain/Daily-Docs/2024/07_July/2024-07-19 Fri.md",
     "remoteBrain/Daily-Docs/2024/07_July/2024-07-18 Thu.md",
     "remoteBrain/Daily-Docs/2024/07_July/2024-07-17 Wed.md"
