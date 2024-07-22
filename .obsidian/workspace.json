@@ -86,12 +86,16 @@
               "state": {}
             }
           }
+<<<<<<< HEAD
         ],
 <<<<<<< HEAD
         "currentTab": 1
 =======
         "currentTab": 3
 >>>>>>> 7b93a02 (vault backup: 2024-07-22 22:35:09)
+=======
+        ]
+>>>>>>> 3794810 (vault backup: 2024-07-22 22:35:11)
       }
     ],
     "direction": "horizontal",
@@ -185,10 +189,14 @@
     }
   },
 <<<<<<< HEAD
+<<<<<<< HEAD
   "active": "6b1936dbc3bf7b15",
 =======
   "active": "6c3ee586fc0fe73e",
 >>>>>>> 7b93a02 (vault backup: 2024-07-22 22:35:09)
+=======
+  "active": "06328353a581de03",
+>>>>>>> 3794810 (vault backup: 2024-07-22 22:35:11)
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2024/07_July/2024-07-22 Mon.md",
     "remoteBrain/Jangbogo/LangChain 강의.md",
