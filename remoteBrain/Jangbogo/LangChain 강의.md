@@ -66,3 +66,12 @@ https://tiktokenizer.vercel.app/
 #### 최적화 플로우
 ![[Optimization Flow]]
 
+
+#### RAG의 8단계 프로세스
+##### 사전 준비단계
+![[Pasted image 20240724123921.png]]
+
+
+##### 런타임(RunTime) 단계  
+![[Pasted image 20240724124029.png]]
+  
