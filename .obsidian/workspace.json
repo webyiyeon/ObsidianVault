@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-22 Mon.md",
+                "file": "remoteBrain/Jangbogo/LangChain 강의.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "23b6b4b54f18ba9d",
@@ -114,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-24 12.09.03.excalidraw.md",
+                "file": "remoteBrain/Jangbogo/LangChain 강의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-24 12.09.03.excalidraw.md",
+                "file": "remoteBrain/Jangbogo/LangChain 강의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-24 12.09.03.excalidraw.md"
+                "file": "remoteBrain/Jangbogo/LangChain 강의.md"
               }
             }
           }
@@ -180,13 +178,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e04907ceb118764d",
+  "active": "a6788e2778904a8a",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2024/07_July/2024-07-22 Mon.md",
     "Excalidraw/Drawing 2024-07-24 12.09.03.excalidraw.md",
+    "remoteBrain/Jangbogo/LangChain 강의.md",
+    "remoteBrain/Daily-Docs/2024/07_July/2024-07-22 Mon.md",
     "Excalidraw",
     "remoteBrain/Daily-Docs/2024/07_July/2024-07-23 Tue.md",
-    "remoteBrain/Jangbogo/LangChain 강의.md",
     "remoteBrain/Daily-Docs/2024/07_July/2024-07-24 Wed.md",
     "remoteBrain/Daily-Docs/2024/07_July/2024-07-21 Sun.md",
     "remoteBrain/Report/2024/07_July.md",
