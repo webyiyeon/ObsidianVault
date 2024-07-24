@@ -60,5 +60,9 @@ https://tiktokenizer.vercel.app/
 
 
 #### RAG 프로세스
-![[Drawing 2024-07-24 12.09.03.excalidraw]]
+![[RAG process]]
+
+
+#### 최적화 플로우
+![[Optimization Flow]]
 

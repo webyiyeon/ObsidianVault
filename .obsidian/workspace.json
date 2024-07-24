@@ -18,16 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e04907ceb118764d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-07-24 12.09.03.excalidraw.md"
-              }
-            }
           }
         ]
       }
@@ -180,12 +170,13 @@
   },
   "active": "a6788e2778904a8a",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-07-24 12.09.03.excalidraw.md",
+    "remoteBrain/Daily-Docs/2024/07_July/2024-07-24 Wed.md",
+    "Excalidraw/Optimization Flow.md",
+    "Excalidraw/RAG process.md",
     "remoteBrain/Jangbogo/LangChain 강의.md",
     "remoteBrain/Daily-Docs/2024/07_July/2024-07-22 Mon.md",
     "Excalidraw",
     "remoteBrain/Daily-Docs/2024/07_July/2024-07-23 Tue.md",
-    "remoteBrain/Daily-Docs/2024/07_July/2024-07-24 Wed.md",
     "remoteBrain/Daily-Docs/2024/07_July/2024-07-21 Sun.md",
     "remoteBrain/Report/2024/07_July.md",
     "remoteBrain/Jangbogo/개발공유.md",
@@ -206,7 +197,6 @@
     "remoteBrain/Daily-docs/2024/07_July/2024-07-09 Tue.md",
     "remoteBrain/Daily-docs/2024/07_July/2024-07-08 Mon.md",
     "remoteBrain/Daily-docs/2024/07_July/2024-07-06 Sat.md",
-    "remoteBrain/Daily-docs/2024/07_July/2024-07-05 Fri.md",
     "remoteBrain/Daily-docs/2024/04_April/Untitled1.ipynb",
     "remoteBrain/Daily-docs/2024/04_April/Untitled.ipynb",
     "remoteBrain/Daily-docs/2024/04_April/test.py",
