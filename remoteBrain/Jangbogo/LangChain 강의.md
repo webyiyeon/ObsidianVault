@@ -70,7 +70,9 @@ https://tiktokenizer.vercel.app/
 #### RAG의 8단계 프로세스
 ##### 사전 준비단계
 ![[Pasted image 20240724123921.png]]
-
+- SPLIT 하는 이유
+	1. LLM 이 모든 문서의 내용을 전달 받기 어려울 수 있음. input token size, 입력으로 받을 수 있는 토큰에 제한이 있음.
+	2. 문서 내에 답변에 필요한 정보는 문서 전체 중에서 일부인 경우가 많음. 필요한 정보를 골라서 삽입하는 것이 유리.
 
 ##### 런타임(RunTime) 단계  
 ![[Pasted image 20240724124029.png]]
