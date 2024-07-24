@@ -103,3 +103,7 @@ https://tiktokenizer.vercel.app/
 - 파란색 박스 ⇒ 유사도 높은 값들
 
 
+---
+
+#### MMR
+
