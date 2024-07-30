@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-29 Mon.md",
+                "file": "remoteBrain/Jangbogo/빅데이터 직무 리스킬링(Reskilling) 과정 교육.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "23b6b4b54f18ba9d",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-29 Mon.md",
+                "file": "remoteBrain/Jangbogo/빅데이터 직무 리스킬링(Reskilling) 과정 교육.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-29 Mon.md",
+                "file": "remoteBrain/Jangbogo/빅데이터 직무 리스킬링(Reskilling) 과정 교육.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/07_July/2024-07-29 Mon.md"
+                "file": "remoteBrain/Jangbogo/빅데이터 직무 리스킬링(Reskilling) 과정 교육.md"
               }
             }
           }
@@ -170,8 +171,9 @@
   },
   "active": "a6788e2778904a8a",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2024/07_July/2024-07-25 Thu.md",
     "remoteBrain/Daily-Docs/2024/07_July/2024-07-29 Mon.md",
+    "remoteBrain/Jangbogo/빅데이터 직무 리스킬링(Reskilling) 과정 교육.md",
+    "remoteBrain/Daily-Docs/2024/07_July/2024-07-25 Thu.md",
     "remoteBrain/Jangbogo/LangChain 강의.md",
     "remoteBrain/Daily-Docs/Images/Pasted image 20240724124029.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20240724124007.png",
@@ -200,7 +202,6 @@
     "remoteBrain/Daily-docs/2024/07_July/2024-07-12 Fri.md",
     "remoteBrain/Daily-docs/2024/07_July/2024-07-11 Thu.md",
     "remoteBrain/Daily-docs/2024/07_July/2024-07-10 Wed.md",
-    "remoteBrain/Daily-docs/2024/07_July/2024-07-09 Tue.md",
     "remoteBrain/Daily-docs/2024/04_April/Untitled1.ipynb",
     "remoteBrain/Daily-docs/2024/04_April/Untitled.ipynb",
     "remoteBrain/Daily-docs/2024/04_April/test.py",
