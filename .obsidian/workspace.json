@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,9 +169,10 @@
   },
   "active": "a6788e2778904a8a",
   "lastOpenFiles": [
-    "remoteBrain/Jangbogo/빅데이터 직무 리스킬링(Reskilling) 과정 교육.md",
-    "remoteBrain/Daily-Docs/2024/07_July/2024-07-31 Wed.md",
+    "remoteBrain/Daily-Docs/2024/07_July/2024-07-30 Tue.md",
     "remoteBrain/Daily-Docs/2024/07_July/2024-07-29 Mon.md",
+    "remoteBrain/Daily-Docs/2024/07_July/2024-07-31 Wed.md",
+    "remoteBrain/Jangbogo/빅데이터 직무 리스킬링(Reskilling) 과정 교육.md",
     "remoteBrain/Daily-Docs/2024/07_July/2024-07-25 Thu.md",
     "remoteBrain/Jangbogo/LangChain 강의.md",
     "remoteBrain/Daily-Docs/Images/Pasted image 20240724124029.png",
@@ -200,7 +200,6 @@
     "remoteBrain/Daily-docs/2024/07_July/2024-07-13 Sat.md",
     "remoteBrain/Daily-docs/2024/07_July/2024-07-14 Sun.md",
     "remoteBrain/Daily-docs/2024/07_July/2024-07-12 Fri.md",
-    "remoteBrain/Daily-docs/2024/07_July/2024-07-11 Thu.md",
     "remoteBrain/Daily-docs/2024/04_April/Untitled1.ipynb",
     "remoteBrain/Daily-docs/2024/04_April/Untitled.ipynb",
     "remoteBrain/Daily-docs/2024/04_April/test.py",
