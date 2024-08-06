@@ -587,7 +587,8 @@ ex) 온도, IQ, 혈압, 맥박, 물건의 가격, 사물의 길이 등
 
 #### Mind AI - 문제인식
 
-![[Pasted image 20240806152200.png]]![[Pasted image 20240806152208.png]]
+![[Pasted image 20240806152200.png]]
+![[Pasted image 20240806152208.png]]
 
 - 제품 탐색의 어려움
 - 특정 증상에 좋은 제품을 탐색하는 것에 많은 시간과 비용 소모
@@ -612,11 +613,60 @@ ex) 온도, IQ, 혈압, 맥박, 물건의 가격, 사물의 길이 등
 
 #### Mind AI - 텍스트 분류 모델링
 
-- BERT(Bidirectional Encoder Representations from Transformers): Transformer의 Encoder 구조 활용, 임 의로 가려진(Masked) 단어를 예측하면서 텍스트의 이해적 특성 학습(Natural Language Understanding) 
-- GPT(Generative Pre-trained Transformer): Transformer의 Decoder 구조 활용, 순차적으로 가려진 단어를 예 측하면서 텍스트의 생성적 특성 학습(Natural Language Generating)
+- **BERT**(Bidirectional Encoder Representations from Transformers): Transformer의 Encoder 구조 활용, 임 의로 가려진(Masked) 단어를 예측하면서 텍스트의 이해적 특성 학습(Natural Language Understanding) 
+- **GPT**(Generative Pre-trained Transformer): Transformer의 Decoder 구조 활용, 순차적으로 가려진 단어를 예 측하면서 텍스트의 생성적 특성 학습(Natural Language Generating)
 ![[Pasted image 20240806152459.png]]
+*GPT는 순차적으로 예측 ⇒ 대화 생성에 강함*
+*BERT는 랜덤으로 예측 ⇒ 양방향 문맥 이해에 강함*
+
+[https://medium.com/@hugmanskj/%EA%B0%80%EC%9E%A5-%EC%84%B1%EA%B3%B5%EC%A0%81%EC%9D%B8-%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8%EC%9D%98-%EB%B3%80%ED%98%95-bert%EC%99%80-gpt-%EC%86%8C%EA%B0%9C-0b18fb7e563b]
 
 
 #### Mind AI - 시각화 및 결론 도출
 
-- 대면 심리 상담
+- 대면 심리 상담 및 치료 부문의 단점 보완, 시간적 공간적 제약 해결
+- 대면 진료가 부담스러운 수요자들에게 제공
+![[Pasted image 20240806152536.png]]
+
+
+
+## 자사 실제 분석과제 기획 사례 - E-Commerce
+
+#### 고객 이탈 방지 솔루션 - 소개
+
+- Attention Mechanism 기반 XAI 고객이탈방지 솔루션 개발
+- 해당 분석과제로 2020 AI Championship 위메프 부문 "고객 세부 등급화와 등급 변화 감 지를 통한 맞춤 홍보 서비스 제공 AI"에서 2위를 수상
+
+
+#### 고객 이탈 방지 솔루션 - 문제 정의
+
+- E-Commerce 시장의 특성상 전환 비용이 높고 대체재가 많기 때문에 고객 이탈률이 높음
+- 위메프의 경우 고객 이탈 문제로 한 달간 고객 이탈 수가 약 120만 명, 이탈률은 23%로 나 타나 큰 손실이 발생하고 있는 상황
+![[Pasted image 20240806152708.png]]
+
+
+#### 고객 이탈 방지 솔루션 - E-Commerce
+
+- 위메프사에서 제공하는 고객 거래 데이터 활용(대회 규정상 자세한 내용은 공개 불가)
+
+
+
+#### 고객 이탈 방지 솔루션 - 데이터 모델링
+
+- 강화학습을 통해서 데이터를 정규분포에 근사하게 만들 수 있는 고객활동지수 식을 도출 
+- 해당 고객활동지수에 따라서 9등급으로 분류
+![[Pasted image 20240806152814.png]]
+- 고객활동지수가 떨어지는 고객을 이탈 고객으로 정의 후 레이블링 
+- 고객이 구매하지 않은 제품을 대상으로 제품군 벡터 임베딩 
+- 다른 변수들도 같이 Concatenate Layer에 입력 
+- GRU, Attention, Highway Layer(설명 링크)를 통해 모델 학습
+![[Pasted image 20240806152949.png]]
+
+
+
+#### 고객 이탈 방지 솔루션 - 데이터 모델링 결과
+
+![[Pasted image 20240806153015.png]]
+- 해당 결과를 2가지 측면으로 활용
+	1. XAI를 통해 원인으로 추론되는 제품군 자체를 추천
+	2. 과거의 선호 제품군으로 추정되므로 관련 연계 제품을 추천
