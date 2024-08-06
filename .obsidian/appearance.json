@@ -1,7 +1,7 @@
 {
   "accentColor": "#717fc6",
   "cssTheme": "Atom",
-  "theme": "moonstone",
+  "theme": "obsidian",
   "baseFontSizeAction": true,
   "baseFontSize": 14,
   "textFontFamily": ""
