@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6771382da7c38300",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Jangbogo/빅데이터 직무 리스킬링(Reskilling) 과정 교육.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "23b6b4b54f18ba9d",
@@ -115,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-06 Tue.md",
+                "file": "wooyeon/Love Life/𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-06 Tue.md",
+                "file": "wooyeon/Love Life/𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-06 Tue.md"
+                "file": "wooyeon/Love Life/𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭.md"
               }
             }
           }
@@ -163,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,11 +192,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "90be63f805c87fdc",
+  "active": "56f3e39873193522",
   "lastOpenFiles": [
-    "wooyeon/Love Life/𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭.md",
     "remoteBrain/Jangbogo/빅데이터 직무 리스킬링(Reskilling) 과정 교육.md",
     "remoteBrain/Daily-Docs/2024/08_August/2024-08-06 Tue.md",
+    "wooyeon/Love Life/𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭.md",
     "Blog/Tistory/Obsidian/Obisidan Markdown.md",
     "remoteBrain/Daily-Docs/Images/Pasted image 20240806153015.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20240806152949.png",

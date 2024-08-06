@@ -616,10 +616,11 @@ ex) 온도, IQ, 혈압, 맥박, 물건의 가격, 사물의 길이 등
 - **BERT**(Bidirectional Encoder Representations from Transformers): Transformer의 Encoder 구조 활용, 임 의로 가려진(Masked) 단어를 예측하면서 텍스트의 이해적 특성 학습(Natural Language Understanding) 
 - **GPT**(Generative Pre-trained Transformer): Transformer의 Decoder 구조 활용, 순차적으로 가려진 단어를 예 측하면서 텍스트의 생성적 특성 학습(Natural Language Generating)
 ![[Pasted image 20240806152459.png]]
-*GPT는 순차적으로 예측 ⇒ 대화 생성에 강함*
-*BERT는 랜덤으로 예측 ⇒ 양방향 문맥 이해에 강함*
 
-> [!note] 참고자료
+
+> [!note] 참고
+> *GPT는 순차적으로 예측 ⇒ 대화 생성에 강함*
+> *BERT는 랜덤으로 예측 ⇒ 양방향 문맥 이해에 강함*
 > [가장 성공적인 트랜스포머의 변형: BERT와 GPT 소개](https://medium.com/@hugmanskj/%EA%B0%80%EC%9E%A5-%EC%84%B1%EA%B3%B5%EC%A0%81%EC%9D%B8-%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8%EC%9D%98-%EB%B3%80%ED%98%95-bert%EC%99%80-gpt-%EC%86%8C%EA%B0%9C-0b18fb7e563b)
 
 
