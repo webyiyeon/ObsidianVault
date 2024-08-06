@@ -619,7 +619,8 @@ ex) 온도, IQ, 혈압, 맥박, 물건의 가격, 사물의 길이 등
 *GPT는 순차적으로 예측 ⇒ 대화 생성에 강함*
 *BERT는 랜덤으로 예측 ⇒ 양방향 문맥 이해에 강함*
 
-[https://medium.com/@hugmanskj/%EA%B0%80%EC%9E%A5-%EC%84%B1%EA%B3%B5%EC%A0%81%EC%9D%B8-%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8%EC%9D%98-%EB%B3%80%ED%98%95-bert%EC%99%80-gpt-%EC%86%8C%EA%B0%9C-0b18fb7e563b]
+> [!note] 참고자료
+> [가장 성공적인 트랜스포머의 변형: BERT와 GPT 소개](https://medium.com/@hugmanskj/%EA%B0%80%EC%9E%A5-%EC%84%B1%EA%B3%B5%EC%A0%81%EC%9D%B8-%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8%EC%9D%98-%EB%B3%80%ED%98%95-bert%EC%99%80-gpt-%EC%86%8C%EA%B0%9C-0b18fb7e563b)
 
 
 #### Mind AI - 시각화 및 결론 도출
