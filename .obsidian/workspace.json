@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Jangbogo/02_2_LangChain 강의 (Advanced).md",
+                "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-07 Wed.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Jangbogo/02_2_LangChain 강의 (Advanced).md",
+                "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-07 Wed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Jangbogo/02_2_LangChain 강의 (Advanced).md",
+                "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-07 Wed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Jangbogo/02_2_LangChain 강의 (Advanced).md"
+                "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-07 Wed.md"
               }
             }
           }
@@ -180,8 +180,8 @@
   },
   "active": "645613b7a2d9eec3",
   "lastOpenFiles": [
-    "Excalidraw/Chain.md",
     "remoteBrain/Jangbogo/02_2_LangChain 강의 (Advanced).md",
+    "Excalidraw/Chain.md",
     "remoteBrain/Jangbogo/02_1_LangChain 강의 (Basic).md",
     "remoteBrain/Daily-Docs/Images/Pasted image 20240807152925.png",
     "Excalidraw/LLM(GPT) Price policy.md",
