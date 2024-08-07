@@ -27,7 +27,9 @@
 - **문맥 이해**: 모델이 문맥을 이해하고 적절하게 응답할 수 있게 도와준다.
 - **효율성**: 적절한 크기의 토큰을 사용함으로써 연산 자원을 효율적으로 사용할 수 있다.
 
-https://tiktokenizer.vercel.app/
+> [!note]
+> [Tiktokenizer](https://tiktokenizer.vercel.app/)
+> [토큰계산기](https://gptforwork.com/tools/openai-chatgpt-api-pricing-calculator "https://gptforwork.com/tools/openai-chatgpt-api-pricing-calculator")
 
 
 ---
