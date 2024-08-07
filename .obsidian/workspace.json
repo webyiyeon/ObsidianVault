@@ -115,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "23b6b4b54f18ba9d",
@@ -207,10 +208,10 @@
   },
   "active": "cd28153672b86986",
   "lastOpenFiles": [
-    "remoteBrain/Jangbogo/02_1_LangChain 강의 (Basic).md",
     "remoteBrain/Jangbogo/03_빅데이터 직무 리스킬링(Reskilling) 과정 교육.md",
-    "remoteBrain/Jangbogo/01_디버깅.md",
     "remoteBrain/Jangbogo/02_2_LangChain 강의 (Advanced).md",
+    "remoteBrain/Jangbogo/02_1_LangChain 강의 (Basic).md",
+    "remoteBrain/Jangbogo/01_디버깅.md",
     "remoteBrain/Jangbogo/00_개발공유.md",
     "remoteBrain/Daily-Docs/2024/08_August/2024-08-07 Wed.md",
     "remoteBrain/Daily-Docs/2024/08_August/2024-08-06 Tue.md",

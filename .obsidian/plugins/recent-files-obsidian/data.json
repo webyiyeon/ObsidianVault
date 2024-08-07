@@ -5,12 +5,12 @@
       "path": "remoteBrain/Jangbogo/02_2_LangChain 강의 (Advanced).md"
     },
     {
-      "basename": "02_1_LangChain 강의 (Basic)",
-      "path": "remoteBrain/Jangbogo/02_1_LangChain 강의 (Basic).md"
-    },
-    {
       "basename": "03_빅데이터 직무 리스킬링(Reskilling) 과정 교육",
       "path": "remoteBrain/Jangbogo/03_빅데이터 직무 리스킬링(Reskilling) 과정 교육.md"
+    },
+    {
+      "basename": "02_1_LangChain 강의 (Basic)",
+      "path": "remoteBrain/Jangbogo/02_1_LangChain 강의 (Basic).md"
     },
     {
       "basename": "01_디버깅",
