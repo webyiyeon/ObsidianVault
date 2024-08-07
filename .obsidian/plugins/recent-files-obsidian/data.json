@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-08-08 Thu",
+      "path": "remoteBrain/Daily-Docs/2024/08_August/2024-08-08 Thu.md"
+    },
+    {
+      "basename": "2024-08-06 Tue",
+      "path": "remoteBrain/Daily-Docs/2024/08_August/2024-08-06 Tue.md"
+    },
+    {
       "basename": "2024-08-07 Wed",
       "path": "remoteBrain/Daily-Docs/2024/08_August/2024-08-07 Wed.md"
     },
     {
-      "basename": "02_2_LangChain 강의 (Advanced)",
-      "path": "remoteBrain/Jangbogo/02_2_LangChain 강의 (Advanced).md"
-    },
-    {
       "basename": "Chain",
       "path": "Excalidraw/Chain.md"
+    },
+    {
+      "basename": "캠핑!",
+      "path": "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/캠핑!.md"
+    },
+    {
+      "basename": "02_2_LangChain 강의 (Advanced)",
+      "path": "remoteBrain/Jangbogo/02_2_LangChain 강의 (Advanced).md"
     },
     {
       "basename": "02_1_LangChain 강의 (Basic)",
@@ -19,10 +31,6 @@
     {
       "basename": "LLM(GPT) Price policy",
       "path": "Excalidraw/LLM(GPT) Price policy.md"
-    },
-    {
-      "basename": "2024-08-06 Tue",
-      "path": "remoteBrain/Daily-Docs/2024/08_August/2024-08-06 Tue.md"
     },
     {
       "basename": "03_빅데이터 직무 리스킬링(Reskilling) 과정 교육",
@@ -191,14 +199,6 @@
     {
       "basename": "2024-07-10 Wed",
       "path": "remoteBrain/Daily-Docs/2024/07_July/2024-07-10 Wed.md"
-    },
-    {
-      "basename": "2024-07-09 Tue",
-      "path": "remoteBrain/Daily-Docs/2024/07_July/2024-07-09 Tue.md"
-    },
-    {
-      "basename": "2024-07-08 Mon",
-      "path": "remoteBrain/Daily-Docs/2024/07_July/2024-07-08 Mon.md"
     }
   ],
   "omittedPaths": [],
