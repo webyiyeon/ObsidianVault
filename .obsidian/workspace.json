@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Jangbogo/02_1_LangChain 강의 (Basic).md",
+                "file": "remoteBrain/Jangbogo/02_2_LangChain 강의 (Advanced).md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "96fa4ad1f567d926",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Chain.md"
               }
             }
           }
@@ -102,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Jangbogo/02_1_LangChain 강의 (Basic).md",
+                "file": "remoteBrain/Jangbogo/02_2_LangChain 강의 (Advanced).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Jangbogo/02_1_LangChain 강의 (Basic).md",
+                "file": "remoteBrain/Jangbogo/02_2_LangChain 강의 (Advanced).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Jangbogo/02_1_LangChain 강의 (Basic).md"
+                "file": "remoteBrain/Jangbogo/02_2_LangChain 강의 (Advanced).md"
               }
             }
           }
@@ -170,6 +180,7 @@
   },
   "active": "645613b7a2d9eec3",
   "lastOpenFiles": [
+    "Excalidraw/Chain.md",
     "remoteBrain/Jangbogo/02_2_LangChain 강의 (Advanced).md",
     "remoteBrain/Jangbogo/02_1_LangChain 강의 (Basic).md",
     "remoteBrain/Daily-Docs/Images/Pasted image 20240807152925.png",

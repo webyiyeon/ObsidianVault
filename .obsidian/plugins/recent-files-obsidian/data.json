@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "02_1_LangChain 강의 (Basic)",
-      "path": "remoteBrain/Jangbogo/02_1_LangChain 강의 (Basic).md"
-    },
-    {
       "basename": "02_2_LangChain 강의 (Advanced)",
       "path": "remoteBrain/Jangbogo/02_2_LangChain 강의 (Advanced).md"
+    },
+    {
+      "basename": "Chain",
+      "path": "Excalidraw/Chain.md"
+    },
+    {
+      "basename": "02_1_LangChain 강의 (Basic)",
+      "path": "remoteBrain/Jangbogo/02_1_LangChain 강의 (Basic).md"
     },
     {
       "basename": "LLM(GPT) Price policy",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-07-08 Mon",
       "path": "remoteBrain/Daily-Docs/2024/07_July/2024-07-08 Mon.md"
-    },
-    {
-      "basename": "2024-07-06 Sat",
-      "path": "remoteBrain/Daily-Docs/2024/07_July/2024-07-06 Sat.md"
     }
   ],
   "omittedPaths": [],

@@ -7,5 +7,14 @@
 > [https://gist.github.com/teddylee777/e9d9845fabfd3379dfcd7ffbc37d1286](https://gist.github.com/teddylee777/e9d9845fabfd3379dfcd7ffbc37d1286 "https://gist.github.com/teddylee777/e9d9845fabfd3379dfcd7ffbc37d1286")
 
 
+## LLM(GPT) Price Policy
+
 ![[LLM(GPT) Price policy]]
+
+
+
+## LCEL 'Chain'
+
+![[Chain]]
+
 
