@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Jangbogo/02_2_LangChain 강의 (Advanced).md",
+                "file": "remoteBrain/Report/2024/08_August.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb06b96936222557",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-08 Thu.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "23b6b4b54f18ba9d",
@@ -102,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Jangbogo/02_2_LangChain 강의 (Advanced).md",
+                "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-08 Thu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Jangbogo/02_2_LangChain 강의 (Advanced).md",
+                "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-08 Thu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Jangbogo/02_2_LangChain 강의 (Advanced).md"
+                "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-08 Thu.md"
               }
             }
           }
@@ -168,14 +182,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d88f3349364a9715",
+  "active": "cb06b96936222557",
   "lastOpenFiles": [
+    "remoteBrain/Report/2024/08_August.md",
+    "remoteBrain/Jangbogo/02_2_LangChain 강의 (Advanced).md",
     "remoteBrain/Daily-Docs/2024/08_August/2024-08-08 Thu.md",
     "remoteBrain/Daily-Docs/2024/08_August/2024-08-06 Tue.md",
     "remoteBrain/Daily-Docs/2024/08_August/2024-08-07 Wed.md",
     "Excalidraw/Chain.md",
     "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/캠핑!.md",
-    "remoteBrain/Jangbogo/02_2_LangChain 강의 (Advanced).md",
     "remoteBrain/Jangbogo/02_1_LangChain 강의 (Basic).md",
     "remoteBrain/Daily-Docs/Images/Pasted image 20240807152925.png",
     "Excalidraw/LLM(GPT) Price policy.md",
@@ -193,7 +208,6 @@
     "remoteBrain/Daily-Docs/Images/Pasted image 20240806152459.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20240806152429.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20240806152357.png",
-    "remoteBrain/Report/2024/08_August.md",
     "2024-W32.md",
     "remoteBrain/Daily-Docs/2024/07_July/2024-07-31 Wed.md",
     "remoteBrain/Daily-Docs/2024/08_August",
