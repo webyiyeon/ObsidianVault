@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-08 Thu.md",
+                "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-09 Fri.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Report/2024/08_August.md",
+                "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-09 Fri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Report/2024/08_August.md",
+                "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-09 Fri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Report/2024/08_August.md"
+                "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-09 Fri.md"
               }
             }
           },
@@ -198,11 +199,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d88f3349364a9715",
+  "active": "cb06b96936222557",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2024/08_August/2024-08-07 Wed.md",
     "remoteBrain/Daily-Docs/2024/08_August/2024-08-08 Thu.md",
+    "remoteBrain/Daily-Docs/2024/08_August/2024-08-09 Fri.md",
     "remoteBrain/Report/2024/08_August.md",
+    "remoteBrain/Daily-Docs/2024/08_August/2024-08-07 Wed.md",
     "remoteBrain/Jangbogo/02_2_LangChain 강의 (Advanced).md",
     "remoteBrain/Daily-Docs/2024/08_August/2024-08-06 Tue.md",
     "Excalidraw/Chain.md",
@@ -237,7 +239,6 @@
     "Excalidraw",
     "remoteBrain/Daily-Docs/2024/07_July/2024-07-23 Tue.md",
     "remoteBrain/Daily-Docs/2024/07_July/2024-07-21 Sun.md",
-    "remoteBrain/Report/2024/07_July.md",
     "remoteBrain/Daily-docs/2024/04_April/Untitled1.ipynb",
     "remoteBrain/Daily-docs/2024/04_April/Untitled.ipynb",
     "remoteBrain/Daily-docs/2024/04_April/test.py",
