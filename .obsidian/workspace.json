@@ -159,8 +159,17 @@
                 "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-08 Thu.md"
               }
             }
+          },
+          {
+            "id": "39c2af5914d01da6",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -182,7 +191,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cb06b96936222557",
+  "active": "39c2af5914d01da6",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2024/08_August/2024-08-07 Wed.md",
     "remoteBrain/Daily-Docs/2024/08_August/2024-08-08 Thu.md",
