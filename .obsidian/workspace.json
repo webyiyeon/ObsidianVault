@@ -160,18 +160,18 @@
             }
           },
           {
-            "id": "39c2af5914d01da6",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          },
-          {
             "id": "926e8462ac777417",
             "type": "leaf",
             "state": {
               "type": "copilot-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "efbc57976350fe8a",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
               "state": {}
             }
           }
@@ -199,7 +199,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d88f3349364a9715",
+  "active": "efbc57976350fe8a",
   "lastOpenFiles": [
     "remoteBrain/Report/2024/08_August.md",
     "remoteBrain/Daily-Docs/2024/08_August/2024-08-09 Fri.md",
