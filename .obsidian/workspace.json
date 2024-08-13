@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 370.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,6 +201,10 @@
   },
   "active": "cb06b96936222557",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/Images/Pasted image 20240813095558.png",
+    "remoteBrain/Daily-Docs/Images/Pasted image 20240813095517.png",
+    "remoteBrain/Daily-Docs/Images/Pasted image 20240813095438.png",
+    "remoteBrain/Daily-Docs/Images/Pasted image 20240813094905.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20240813094354.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20240813093316.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20240813093209.png",
@@ -226,10 +231,6 @@
     "wooyeon/Love Life/𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭.md",
     "Blog/Tistory/Obsidian/Obisidan Markdown.md",
     "remoteBrain/Daily-Docs/Images/Pasted image 20240806153015.png",
-    "remoteBrain/Daily-Docs/Images/Pasted image 20240806152949.png",
-    "remoteBrain/Daily-Docs/Images/Pasted image 20240806152814.png",
-    "remoteBrain/Daily-Docs/Images/Pasted image 20240806152721.png",
-    "remoteBrain/Daily-Docs/Images/Pasted image 20240806152708.png",
     "2024-W32.md",
     "remoteBrain/Daily-Docs/2024/07_July/2024-07-31 Wed.md",
     "remoteBrain/Daily-Docs/2024/08_August",
