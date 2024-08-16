@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c98f144e606dd677",
+        "id": "d8e2ae100440d530",
         "type": "tabs",
         "children": [
           {
-            "id": "d88f3349364a9715",
+            "id": "87b0d3d6d2a39d31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-14 Wed.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb06b96936222557",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remoteBrain/Jangbogo/03_빅데이터 직무 리스킬링(Reskilling) 과정 교육.md",
+                "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-16 Fri.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "23b6b4b54f18ba9d",
@@ -115,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-14 Wed.md",
+                "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-16 Fri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-14 Wed.md",
+                "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-16 Fri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-14 Wed.md"
+                "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-16 Fri.md"
               }
             }
           },
@@ -179,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5,
-    "collapsed": true
+    "width": 370.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,15 +184,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d88f3349364a9715",
+  "active": "87b0d3d6d2a39d31",
   "lastOpenFiles": [
-    "remoteBrain/Jangbogo/03_빅데이터 직무 리스킬링(Reskilling) 과정 교육.md",
+    "remoteBrain/Daily-Docs/2024/08_August/2024-08-15 Thu.md",
+    "remoteBrain/Daily-Docs/2024/08_August/2024-08-16 Fri.md",
     "remoteBrain/Daily-Docs/2024/08_August/2024-08-14 Wed.md",
-    "remoteBrain/Daily-Docs/2024/08_August/2024-08-13 Tue.md",
-    "remoteBrain/Daily-Docs/2024/08_August/2024-08-10 Sat.md",
-    "remoteBrain/Daily-Docs/2024/08_August/2024-08-09 Fri.md",
     "remoteBrain/Report/2024/08_August.md",
-    "remoteBrain/Daily-Docs/2024/08_August/2024-08-08 Thu.md",
+    "remoteBrain/Daily-docs/2024/08_August/2024-08-15 Thu.md",
+    "remoteBrain/Daily-docs/2024/08_August/2024-08-16 Fri.md",
+    "remoteBrain/Daily-docs/2024/08_August/2024-08-12 Mon.md",
+    "remoteBrain/Daily-docs/2024/08_August/2024-08-14 Wed.md",
+    "remoteBrain/Daily-docs/2024/08_August/2024-08-13 Tue.md",
+    "remoteBrain/Daily-docs/2024/08_August/2024-08-11 Sun.md",
+    "remoteBrain/Daily-docs/2024/08_August/2024-08-09 Fri.md",
+    "remoteBrain/Daily-docs/2024/08_August/2024-08-10 Sat.md",
+    "remoteBrain/Daily-docs/2024/08_August/2024-08-08 Thu.md",
+    "remoteBrain/Daily-docs/2024/08_August/2024-08-07 Wed.md",
+    "remoteBrain/Daily-docs/2024/07_July/2024-07-31 Wed.md",
+    "remoteBrain/Daily-docs/2024/07_July/2024-07-30 Tue.md",
+    "remoteBrain/Daily-docs/2024/07_July/2024-07-29 Mon.md",
+    "remoteBrain/Daily-docs/2024/08_August/2024-08-06 Tue.md",
+    "remoteBrain/Daily-docs/2024/07_July/2024-07-25 Thu.md",
+    "remoteBrain/Daily-docs/2024/07_July/2024-07-24 Wed.md",
+    "remoteBrain/Daily-docs/2024/07_July/2024-07-23 Tue.md",
+    "remoteBrain/Daily-docs/2024/07_July/2024-07-22 Mon.md",
+    "remoteBrain/Daily-docs/2024/07_July/2024-07-21 Sun.md",
+    "remoteBrain/Daily-docs/2024/07_July/2024-07-20 Sat.md",
+    "remoteBrain/Daily-docs/2024/07_July/2024-07-19 Fri.md",
+    "remoteBrain/Daily-docs/2024/07_July/2024-07-18 Thu.md",
+    "remoteBrain/Daily-docs/2024/04_April/Untitled1.ipynb",
+    "remoteBrain/Daily-docs/2024/04_April/test.py",
+    "remoteBrain/Daily-docs/2024/04_April/Untitled.ipynb",
+    "remoteBrain/Daily-docs/2024/08_August",
+    "remoteBrain/Daily-docs/2024/07_July",
+    "remoteBrain/Daily-docs/2024/06_June",
+    "remoteBrain/Daily-docs/2024/05_May",
+    "remoteBrain/Daily-docs/2024/03_March",
+    "remoteBrain/Daily-docs/2024/04_April",
+    "remoteBrain/Daily-docs/2024/02_February",
     "remoteBrain/Daily-Docs/Images/Pasted image 20240813102438.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20240813101954.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20240813100024.png",
@@ -216,35 +231,6 @@
     "remoteBrain/Daily-Docs/Images/Pasted image 20240813095438.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20240813094905.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20240813094354.png",
-    "remoteBrain/Daily-Docs/Images/Pasted image 20240813093316.png",
-    "remoteBrain/Daily-Docs/2024/08_August/2024-08-12 Mon.md",
-    "remoteBrain/Daily-Docs/2024/08_August/2024-08-11 Sun.md",
-    "remoteBrain/Daily-Docs/2024/08_August/2024-08-06 Tue.md",
-    "remoteBrain/Daily-Docs/2024/08_August/2024-08-07 Wed.md",
-    "remoteBrain/Jangbogo/02_2_LangChain 강의 (Advanced).md",
-    "Excalidraw/Chain.md",
-    "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/캠핑!.md",
-    "remoteBrain/Jangbogo/02_1_LangChain 강의 (Basic).md",
-    "Excalidraw/LLM(GPT) Price policy.md",
-    "remoteBrain/Jangbogo/01_디버깅.md",
-    "remoteBrain/Jangbogo/00_개발공유.md",
-    "wooyeon/Love Life/𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭.md",
-    "Blog/Tistory/Obsidian/Obisidan Markdown.md",
-    "2024-W32.md",
-    "remoteBrain/Daily-Docs/2024/07_July/2024-07-31 Wed.md",
-    "remoteBrain/Daily-Docs/2024/08_August",
-    "remoteBrain/Daily-Docs/2024/07_July/2024-07-30 Tue.md",
-    "remoteBrain/Daily-Docs/2024/07_July/2024-07-29 Mon.md",
-    "remoteBrain/Daily-Docs/2024/07_July/2024-07-25 Thu.md",
-    "remoteBrain/Daily-Docs/2024/07_July/2024-07-24 Wed.md",
-    "Excalidraw",
-    "remoteBrain/Daily-docs/2024/04_April/Untitled1.ipynb",
-    "remoteBrain/Daily-docs/2024/04_April/Untitled.ipynb",
-    "remoteBrain/Daily-docs/2024/04_April/test.py",
-    "remoteBrain/Daily-docs/2024/07_July",
-    "remoteBrain/Daily-docs/2024/06_June",
-    "remoteBrain/Daily-docs/2024/05_May",
-    "remoteBrain/Daily-docs/2024/04_April",
-    "remoteBrain/Daily-docs/2024/03_March"
+    "remoteBrain/Daily-Docs/Images/Pasted image 20240813093316.png"
   ]
 }
