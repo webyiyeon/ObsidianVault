@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
   "accentColor": "",
   "cssTheme": "AnuPpuccin",
+=======
+  "accentColor": "#717fc6",
+  "cssTheme": "",
+>>>>>>> 5368e6f (vault backup: 2024-08-17 12:12:22)
   "theme": "moonstone",
   "baseFontSizeAction": true,
   "baseFontSize": 13,

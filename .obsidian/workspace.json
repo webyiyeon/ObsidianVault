@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< HEAD
     "id": "b47b5e375c8f897e",
     "type": "split",
     "children": [
@@ -9,13 +10,28 @@
         "children": [
           {
             "id": "87b0d3d6d2a39d31",
+=======
+    "id": "574c35426d5297ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "120300a250f02721",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "970a8520b79c87a7",
+>>>>>>> 5368e6f (vault backup: 2024-08-17 12:12:22)
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
+<<<<<<< HEAD
                 "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-19 Mon.md",
                 "mode": "source",
                 "source": false
+=======
+                "currentVersion": "1.6.7"
+>>>>>>> 5368e6f (vault backup: 2024-08-17 12:12:22)
               }
             }
           }
@@ -25,6 +41,7 @@
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
     "id": "674401ebed4e1acf",
     "type": "split",
     "children": [
@@ -34,6 +51,17 @@
         "children": [
           {
             "id": "fc6e778201d58926",
+=======
+    "id": "1a66e23ea24f60e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e924ae611227ff74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93c3ff71c1d6eb1c",
+>>>>>>> 5368e6f (vault backup: 2024-08-17 12:12:22)
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -41,7 +69,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "53a875119efee29c",
+=======
+            "id": "36bbf45c49906bc5",
+>>>>>>> 5368e6f (vault backup: 2024-08-17 12:12:22)
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,7 +83,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "06e9c3e7090ff983",
+=======
+            "id": "2d7fc3dabd621642",
+>>>>>>> 5368e6f (vault backup: 2024-08-17 12:12:22)
             "type": "leaf",
             "state": {
               "type": "search",
@@ -66,21 +102,30 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "44a5509825c03c22",
+=======
+            "id": "fdc5b854a0a2a8c2",
+>>>>>>> 5368e6f (vault backup: 2024-08-17 12:12:22)
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
+<<<<<<< HEAD
         ],
         "currentTab": 1
+=======
+        ]
+>>>>>>> 5368e6f (vault backup: 2024-08-17 12:12:22)
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
+<<<<<<< HEAD
     "id": "23b6b4b54f18ba9d",
     "type": "split",
     "children": [
@@ -90,6 +135,17 @@
         "children": [
           {
             "id": "b1cb8d4c209f2581",
+=======
+    "id": "d22439b88ce5d56d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b201a9269cd57f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be62b968d8ff1079",
+>>>>>>> 5368e6f (vault backup: 2024-08-17 12:12:22)
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -97,12 +153,19 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "7bdd2249891f678d",
+=======
+            "id": "b61574aa3fad1a92",
+>>>>>>> 5368e6f (vault backup: 2024-08-17 12:12:22)
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-19 Mon.md",
+=======
+>>>>>>> 5368e6f (vault backup: 2024-08-17 12:12:22)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,19 +177,30 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "72c7e9cb0630a468",
+=======
+            "id": "1b4857562f478c22",
+>>>>>>> 5368e6f (vault backup: 2024-08-17 12:12:22)
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-19 Mon.md",
+=======
+>>>>>>> 5368e6f (vault backup: 2024-08-17 12:12:22)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
+<<<<<<< HEAD
             "id": "65cebfd307f453f5",
+=======
+            "id": "5c8387c295581410",
+>>>>>>> 5368e6f (vault backup: 2024-08-17 12:12:22)
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,6 +211,7 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "27dde7b5452d7853",
             "type": "leaf",
             "state": {
@@ -144,6 +219,13 @@
               "state": {
                 "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-19 Mon.md"
               }
+=======
+            "id": "678870ac5301d179",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+>>>>>>> 5368e6f (vault backup: 2024-08-17 12:12:22)
             }
           },
           {
@@ -184,6 +266,7 @@
       "periodic-notes:Open today": false
     }
   },
+<<<<<<< HEAD
   "active": "87b0d3d6d2a39d31",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2024/08_August/2024-08-18 Sun.md",
@@ -233,4 +316,8 @@
     "remoteBrain/Daily-Docs/Images/Pasted image 20240813094354.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20240813093316.png"
   ]
+=======
+  "active": "970a8520b79c87a7",
+  "lastOpenFiles": []
+>>>>>>> 5368e6f (vault backup: 2024-08-17 12:12:22)
 }
