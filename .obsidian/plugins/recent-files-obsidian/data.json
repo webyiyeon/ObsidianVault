@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-08-19 Mon",
+      "path": "remoteBrain/Daily-Docs/2024/08_August/2024-08-19 Mon.md"
+    },
+    {
+      "basename": "2024-08-18 Sun",
+      "path": "remoteBrain/Daily-Docs/2024/08_August/2024-08-18 Sun.md"
+    },
+    {
+      "basename": "2024-08-17 Sat",
+      "path": "remoteBrain/Daily-Docs/2024/08_August/2024-08-17 Sat.md"
+    },
+    {
       "basename": "2024-08-16 Fri",
       "path": "remoteBrain/Daily-Docs/2024/08_August/2024-08-16 Fri.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "recipe",
       "path": "remoteBrain/_template/recipe.md"
-    },
-    {
-      "basename": "2024-07-13 Sat",
-      "path": "remoteBrain/Daily-Docs/2024/07_July/2024-07-13 Sat.md"
-    },
-    {
-      "basename": "2024-07-14 Sun",
-      "path": "remoteBrain/Daily-Docs/2024/07_July/2024-07-14 Sun.md"
-    },
-    {
-      "basename": "2024-07-12 Fri",
-      "path": "remoteBrain/Daily-Docs/2024/07_July/2024-07-12 Fri.md"
     }
   ],
   "omittedPaths": [],
