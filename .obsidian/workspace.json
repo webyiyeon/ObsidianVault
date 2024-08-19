@@ -1,38 +1,18 @@
 {
   "main": {
-<<<<<<< HEAD
-    "id": "b47b5e375c8f897e",
+    "id": "1f59f1be036c27c7",
     "type": "split",
     "children": [
       {
-        "id": "d8e2ae100440d530",
+        "id": "8af7cadde7b8be0e",
         "type": "tabs",
         "children": [
           {
-            "id": "87b0d3d6d2a39d31",
-=======
-    "id": "574c35426d5297ec",
-    "type": "split",
-    "children": [
-      {
-        "id": "120300a250f02721",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "970a8520b79c87a7",
->>>>>>> 5368e6f (vault backup: 2024-08-17 12:12:22)
+            "id": "0d927658fde688bc",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-<<<<<<< HEAD
-                "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-19 Mon.md",
-                "mode": "source",
-                "source": false
-=======
-                "currentVersion": "1.6.7"
->>>>>>> 5368e6f (vault backup: 2024-08-17 12:12:22)
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -41,27 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-<<<<<<< HEAD
-    "id": "674401ebed4e1acf",
+    "id": "6e86a0db94ddc41d",
     "type": "split",
     "children": [
       {
-        "id": "110b68ef8c0c701e",
+        "id": "e6d690d756b4b2d4",
         "type": "tabs",
         "children": [
           {
-            "id": "fc6e778201d58926",
-=======
-    "id": "1a66e23ea24f60e3",
-    "type": "split",
-    "children": [
-      {
-        "id": "e924ae611227ff74",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "93c3ff71c1d6eb1c",
->>>>>>> 5368e6f (vault backup: 2024-08-17 12:12:22)
+            "id": "85089cbb51fb90a7",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -69,11 +37,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "53a875119efee29c",
-=======
-            "id": "36bbf45c49906bc5",
->>>>>>> 5368e6f (vault backup: 2024-08-17 12:12:22)
+            "id": "0df8c90d41d0682a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -83,11 +47,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "06e9c3e7090ff983",
-=======
-            "id": "2d7fc3dabd621642",
->>>>>>> 5368e6f (vault backup: 2024-08-17 12:12:22)
+            "id": "b3bd3ae07bd881ee",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -102,50 +62,29 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "44a5509825c03c22",
-=======
-            "id": "fdc5b854a0a2a8c2",
->>>>>>> 5368e6f (vault backup: 2024-08-17 12:12:22)
+            "id": "98cd00da17679c8f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-<<<<<<< HEAD
-        ],
-        "currentTab": 1
-=======
         ]
->>>>>>> 5368e6f (vault backup: 2024-08-17 12:12:22)
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-<<<<<<< HEAD
-    "id": "23b6b4b54f18ba9d",
+    "id": "ecd774abb35f323a",
     "type": "split",
     "children": [
       {
-        "id": "d6ad6ae0cb5a4545",
+        "id": "b6fa373aca25a5a0",
         "type": "tabs",
         "children": [
           {
-            "id": "b1cb8d4c209f2581",
-=======
-    "id": "d22439b88ce5d56d",
-    "type": "split",
-    "children": [
-      {
-        "id": "9b201a9269cd57f4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "be62b968d8ff1079",
->>>>>>> 5368e6f (vault backup: 2024-08-17 12:12:22)
+            "id": "b1fabc898e42db75",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -153,19 +92,11 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "7bdd2249891f678d",
-=======
-            "id": "b61574aa3fad1a92",
->>>>>>> 5368e6f (vault backup: 2024-08-17 12:12:22)
+            "id": "4cd3c066295a6e37",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-19 Mon.md",
-=======
->>>>>>> 5368e6f (vault backup: 2024-08-17 12:12:22)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,30 +108,18 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "72c7e9cb0630a468",
-=======
-            "id": "1b4857562f478c22",
->>>>>>> 5368e6f (vault backup: 2024-08-17 12:12:22)
+            "id": "03185b2e66bad067",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-19 Mon.md",
-=======
->>>>>>> 5368e6f (vault backup: 2024-08-17 12:12:22)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-<<<<<<< HEAD
-            "id": "65cebfd307f453f5",
-=======
-            "id": "5c8387c295581410",
->>>>>>> 5368e6f (vault backup: 2024-08-17 12:12:22)
+            "id": "754f139844d72c2d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -211,36 +130,10 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "27dde7b5452d7853",
+            "id": "a715fc1457291376",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-19 Mon.md"
-              }
-=======
-            "id": "678870ac5301d179",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
->>>>>>> 5368e6f (vault backup: 2024-08-17 12:12:22)
-            }
-          },
-          {
-            "id": "926e8462ac777417",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "efbc57976350fe8a",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
               "state": {}
             }
           }
@@ -248,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,67 +151,15 @@
       "obsidian-day-planner:Timeline": false,
       "templater-obsidian:Templater": false,
       "obsidian-day-and-night:Toggle Theme": false,
+      "copilot:Copilot Chat": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "copilot:Copilot Chat": false,
       "periodic-notes:Open today": false
     }
   },
-<<<<<<< HEAD
-  "active": "87b0d3d6d2a39d31",
-  "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2024/08_August/2024-08-18 Sun.md",
-    "remoteBrain/Daily-Docs/2024/08_August/2024-08-19 Mon.md",
-    "remoteBrain/Report/2024/08_August.md",
-    "remoteBrain/Daily-Docs/2024/08_August/2024-08-15 Thu.md",
-    "remoteBrain/Daily-Docs/2024/08_August/2024-08-17 Sat.md",
-    "remoteBrain/Daily-Docs/2024/08_August/2024-08-16 Fri.md",
-    "remoteBrain/Daily-Docs/2024/08_August/2024-08-14 Wed.md",
-    "remoteBrain/Daily-Docs/2024/08_August/2024-08-13 Tue.md",
-    "remoteBrain/Daily-Docs/2024/08_August/2024-08-06 Tue.md",
-    "remoteBrain/Daily-Docs/2024/08_August/2024-08-09 Fri.md",
-    "remoteBrain/Daily-Docs/2024/08_August/2024-08-10 Sat.md",
-    "remoteBrain/Daily-Docs/2024/08_August/2024-08-11 Sun.md",
-    "remoteBrain/Daily-Docs/2024/08_August/2024-08-12 Mon.md",
-    "remoteBrain/Daily-docs/2024/08_August/2024-08-15 Thu.md",
-    "remoteBrain/Daily-docs/2024/08_August/2024-08-16 Fri.md",
-    "remoteBrain/Daily-docs/2024/08_August/2024-08-12 Mon.md",
-    "remoteBrain/Daily-docs/2024/08_August/2024-08-14 Wed.md",
-    "remoteBrain/Daily-docs/2024/08_August/2024-08-13 Tue.md",
-    "remoteBrain/Daily-docs/2024/08_August/2024-08-11 Sun.md",
-    "remoteBrain/Daily-docs/2024/08_August/2024-08-09 Fri.md",
-    "remoteBrain/Daily-docs/2024/08_August/2024-08-10 Sat.md",
-    "remoteBrain/Daily-docs/2024/08_August/2024-08-08 Thu.md",
-    "remoteBrain/Daily-docs/2024/08_August/2024-08-07 Wed.md",
-    "remoteBrain/Daily-docs/2024/07_July/2024-07-31 Wed.md",
-    "remoteBrain/Daily-docs/2024/07_July/2024-07-30 Tue.md",
-    "remoteBrain/Daily-docs/2024/07_July/2024-07-29 Mon.md",
-    "remoteBrain/Daily-docs/2024/04_April/Untitled1.ipynb",
-    "remoteBrain/Daily-docs/2024/04_April/test.py",
-    "remoteBrain/Daily-docs/2024/04_April/Untitled.ipynb",
-    "remoteBrain/Daily-docs/2024/08_August",
-    "remoteBrain/Daily-docs/2024/07_July",
-    "remoteBrain/Daily-docs/2024/06_June",
-    "remoteBrain/Daily-docs/2024/05_May",
-    "remoteBrain/Daily-docs/2024/03_March",
-    "remoteBrain/Daily-docs/2024/04_April",
-    "remoteBrain/Daily-docs/2024/02_February",
-    "remoteBrain/Daily-Docs/Images/Pasted image 20240813102438.png",
-    "remoteBrain/Daily-Docs/Images/Pasted image 20240813101954.png",
-    "remoteBrain/Daily-Docs/Images/Pasted image 20240813100024.png",
-    "remoteBrain/Daily-Docs/Images/Pasted image 20240813095816.png",
-    "remoteBrain/Daily-Docs/Images/Pasted image 20240813095558.png",
-    "remoteBrain/Daily-Docs/Images/Pasted image 20240813095517.png",
-    "remoteBrain/Daily-Docs/Images/Pasted image 20240813095438.png",
-    "remoteBrain/Daily-Docs/Images/Pasted image 20240813094905.png",
-    "remoteBrain/Daily-Docs/Images/Pasted image 20240813094354.png",
-    "remoteBrain/Daily-Docs/Images/Pasted image 20240813093316.png"
-  ]
-=======
-  "active": "970a8520b79c87a7",
+  "active": "85089cbb51fb90a7",
   "lastOpenFiles": []
->>>>>>> 5368e6f (vault backup: 2024-08-17 12:12:22)
 }
