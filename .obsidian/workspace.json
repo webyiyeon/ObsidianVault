@@ -11,8 +11,12 @@
             "id": "0d927658fde688bc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-20 Tue.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -97,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-20 Tue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-20 Tue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-20 Tue.md"
+              }
             }
           }
         ]
@@ -160,6 +168,8 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "85089cbb51fb90a7",
-  "lastOpenFiles": []
+  "active": "0d927658fde688bc",
+  "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2024/08_August/2024-08-20 Tue.md"
+  ]
 }
