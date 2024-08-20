@@ -1165,3 +1165,10 @@ Recurrent Neural Network: 시퀀스 데이터(텍스트)를 분석할 수 있는
 - https://www.midjourney.com/showcase
 
 
+#### SUNO
+
+- 프롬프트 입력만으로 음악뿐만 아니라 가사까지 AI로 생성할 수 있음
+- 최대 4분 길이 음악 생성, 성능 수준을 인정 받아 MS Copilot에 탑재 예정
+- https://suno.com 
+
+
