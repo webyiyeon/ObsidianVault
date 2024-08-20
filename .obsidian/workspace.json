@@ -186,6 +186,7 @@
   },
   "active": "87b0d3d6d2a39d31",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "remoteBrain/Daily-Docs/2024/08_August/2024-08-20 Tue.md",
     "remoteBrain/Daily-Docs/2024/08_August/2024-08-18 Sun.md",
     "remoteBrain/Daily-Docs/2024/08_August/2024-08-19 Mon.md",
@@ -232,5 +233,11 @@
     "remoteBrain/Daily-Docs/Images/Pasted image 20240813094905.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20240813094354.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20240813093316.png"
+=======
+    "remoteBrain/Single Person Household/Grocery List.md",
+    "remoteBrain/Daily-Docs/2024/08_August/2024-08-20 Tue.md",
+    "remoteBrain/Report/2024/08_August.md",
+    "remoteBrain/Daily-Docs/2024/08_August/2024-08-19 Mon.md"
+>>>>>>> 3471c78 (vault backup: 2024-08-20 09:07:54)
   ]
 }
