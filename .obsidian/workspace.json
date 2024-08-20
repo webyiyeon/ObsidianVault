@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-19 Mon.md",
+=======
+                "file": "remoteBrain/Jangbogo/03_빅데이터 직무 리스킬링(Reskilling) 과정 교육.md",
+>>>>>>> bf7e29b (vault backup: 2024-08-20 09:17:55)
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +106,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-19 Mon.md",
+=======
+                "file": "remoteBrain/Jangbogo/03_빅데이터 직무 리스킬링(Reskilling) 과정 교육.md",
+>>>>>>> bf7e29b (vault backup: 2024-08-20 09:17:55)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +127,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-19 Mon.md",
+=======
+                "file": "remoteBrain/Jangbogo/03_빅데이터 직무 리스킬링(Reskilling) 과정 교육.md",
+>>>>>>> bf7e29b (vault backup: 2024-08-20 09:17:55)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +154,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-19 Mon.md"
+=======
+                "file": "remoteBrain/Jangbogo/03_빅데이터 직무 리스킬링(Reskilling) 과정 교육.md"
+>>>>>>> bf7e29b (vault backup: 2024-08-20 09:17:55)
               }
             }
           },
@@ -186,6 +202,7 @@
   },
   "active": "87b0d3d6d2a39d31",
   "lastOpenFiles": [
+<<<<<<< HEAD
 <<<<<<< HEAD
     "remoteBrain/Daily-Docs/2024/08_August/2024-08-20 Tue.md",
     "remoteBrain/Daily-Docs/2024/08_August/2024-08-18 Sun.md",
@@ -235,7 +252,10 @@
     "remoteBrain/Daily-Docs/Images/Pasted image 20240813093316.png"
 =======
     "remoteBrain/Single Person Household/Grocery List.md",
+=======
+>>>>>>> bf7e29b (vault backup: 2024-08-20 09:17:55)
     "remoteBrain/Daily-Docs/2024/08_August/2024-08-20 Tue.md",
+    "remoteBrain/Single Person Household/Grocery List.md",
     "remoteBrain/Report/2024/08_August.md",
     "remoteBrain/Daily-Docs/2024/08_August/2024-08-19 Mon.md"
 >>>>>>> 3471c78 (vault backup: 2024-08-20 09:07:54)
