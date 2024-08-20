@@ -1172,3 +1172,12 @@ Recurrent Neural Network: 시퀀스 데이터(텍스트)를 분석할 수 있는
 - https://suno.com 
 
 
+#### Gen-3
+
+- runway(stability.ai 자회사)에서 개발한 영상 생성 AI
+-  https://runwayml.com/ai-tools/gen-3-alpha/
+
+
+#### SORA
+
+- SORA: 영상에서의 현실성을 고려하기 위해 AI 모델에게 물리적 상호작용을 이해시킴
