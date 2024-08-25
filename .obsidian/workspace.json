@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d927658fde688bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remoteBrain/Jangbogo/03_빅데이터 직무 리스킬링(Reskilling) 과정 교육.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b85458dec2277957",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-20 Tue.md",
+                "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-26 Mon.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Jangbogo/03_빅데이터 직무 리스킬링(Reskilling) 과정 교육.md",
+                "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-26 Mon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Jangbogo/03_빅데이터 직무 리스킬링(Reskilling) 과정 교육.md",
+                "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-26 Mon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Jangbogo/03_빅데이터 직무 리스킬링(Reskilling) 과정 교육.md"
+                "file": "remoteBrain/Daily-Docs/2024/08_August/2024-08-26 Mon.md"
               }
             }
           }
@@ -162,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,8 +168,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0d927658fde688bc",
+  "active": "b85458dec2277957",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2024/08_August/2024-08-25 Sun.md",
+    "remoteBrain/Daily-Docs/2024/08_August/2024-08-24 Sat.md",
+    "remoteBrain/Daily-Docs/2024/08_August/2024-08-22 Thu.md",
+    "remoteBrain/Daily-Docs/2024/08_August/2024-08-23 Fri.md",
+    "remoteBrain/Daily-Docs/2024/08_August/2024-08-26 Mon.md",
     "remoteBrain/Daily-Docs/2024/08_August/2024-08-21 Wed.md",
     "remoteBrain/Daily-Docs/2024/08_August/2024-08-20 Tue.md",
     "remoteBrain/Jangbogo/03_빅데이터 직무 리스킬링(Reskilling) 과정 교육.md",
