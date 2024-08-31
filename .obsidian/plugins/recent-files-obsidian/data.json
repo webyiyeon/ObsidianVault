@@ -1,40 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-08-26 Mon",
-      "path": "remoteBrain/Daily-Docs/2024/08_August/2024-08-26 Mon.md"
-    },
-    {
-      "basename": "00_개발공유",
-      "path": "remoteBrain/Jangbogo/00_개발공유.md"
-    },
-    {
-      "basename": "2024-08-25 Sun",
-      "path": "remoteBrain/Daily-Docs/2024/08_August/2024-08-25 Sun.md"
-    },
-    {
-      "basename": "2024-08-24 Sat",
-      "path": "remoteBrain/Daily-Docs/2024/08_August/2024-08-24 Sat.md"
-    },
-    {
-      "basename": "2024-08-22 Thu",
-      "path": "remoteBrain/Daily-Docs/2024/08_August/2024-08-22 Thu.md"
-    },
-    {
-      "basename": "2024-08-23 Fri",
-      "path": "remoteBrain/Daily-Docs/2024/08_August/2024-08-23 Fri.md"
-    },
-    {
-      "basename": "2024-08-21 Wed",
-      "path": "remoteBrain/Daily-Docs/2024/08_August/2024-08-21 Wed.md"
-    },
-    {
       "basename": "2024-08-20 Tue",
       "path": "remoteBrain/Daily-Docs/2024/08_August/2024-08-20 Tue.md"
     },
     {
       "basename": "03_빅데이터 직무 리스킬링(Reskilling) 과정 교육",
       "path": "remoteBrain/Jangbogo/03_빅데이터 직무 리스킬링(Reskilling) 과정 교육.md"
+    },
+    {
+      "basename": "2024-08-21 Wed",
+      "path": "remoteBrain/Daily-Docs/2024/08_August/2024-08-21 Wed.md"
     },
     {
       "basename": "Grocery List",
@@ -129,6 +105,10 @@
       "path": "remoteBrain/Jangbogo/01_디버깅.md"
     },
     {
+      "basename": "00_개발공유",
+      "path": "remoteBrain/Jangbogo/00_개발공유.md"
+    },
+    {
       "basename": "𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭",
       "path": "wooyeon/Love Life/𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭.md"
     },
@@ -199,6 +179,26 @@
     {
       "basename": "TP-DailyNote",
       "path": "remoteBrain/_templater/TP-DailyNote.md"
+    },
+    {
+      "basename": "2024-07-18 Thu",
+      "path": "remoteBrain/Daily-Docs/2024/07_July/2024-07-18 Thu.md"
+    },
+    {
+      "basename": "2024-07-17 Wed",
+      "path": "remoteBrain/Daily-Docs/2024/07_July/2024-07-17 Wed.md"
+    },
+    {
+      "basename": "알리오 올리오 파스타",
+      "path": "Blog/Tistory/맛따라/Recipe/알리오 올리오 파스타.md"
+    },
+    {
+      "basename": "바스크 치즈케이크",
+      "path": "Blog/Tistory/맛따라/Recipe/바스크 치즈케이크.md"
+    },
+    {
+      "basename": "브리치즈 오일 파스타",
+      "path": "Blog/Tistory/맛따라/Recipe/브리치즈 오일 파스타.md"
     }
   ],
   "omittedPaths": [],
