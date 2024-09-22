@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "708962598c37fbbc",
+        "id": "90f600bf56fe2641",
         "type": "tabs",
         "children": [
           {
-            "id": "f1d6f8538d3d535c",
+            "id": "2ab6afeafb216b10",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2024/09_September/2024-09-22 Sun.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -98,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "remoteBrain/Daily-Docs/2024/09_September/2024-09-22 Sun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "remoteBrain/Daily-Docs/2024/09_September/2024-09-22 Sun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2024/09_September/2024-09-22 Sun.md"
+              }
             }
           }
         ]
@@ -161,8 +169,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f1d6f8538d3d535c",
+  "active": "2ab6afeafb216b10",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2024/09_September/2024-09-22 Sun.md",
+    "remoteBrain/Daily-Docs/2024/09_September",
     "remoteBrain/Daily-Docs/2024/08_August/2024-08-20 Tue.md",
     "remoteBrain/Jangbogo/03_빅데이터 직무 리스킬링(Reskilling) 과정 교육.md",
     "remoteBrain/Daily-Docs/2024/08_August/2024-08-26 Mon.md",
