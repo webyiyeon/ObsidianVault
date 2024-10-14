@@ -1,28 +1,100 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-10-14 Mon",
+      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-14 Mon.md"
+    },
+    {
+      "basename": "2024-10-13 Sun",
+      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-13 Sun.md"
+    },
+    {
+      "basename": "Monthly",
+      "path": "remoteBrain/_template/Monthly.md"
+    },
+    {
+      "basename": "10_October",
+      "path": "remoteBrain/Report/2024/10_October.md"
+    },
+    {
+      "basename": "daily",
+      "path": "remoteBrain/_templater/daily.md"
+    },
+    {
+      "basename": "2024-10-02 Wed",
+      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-02 Wed.md"
+    },
+    {
+      "basename": "2024-10-07 Mon",
+      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-07 Mon.md"
+    },
+    {
+      "basename": "2024-10-05 Sat",
+      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-05 Sat.md"
+    },
+    {
+      "basename": "2024-08-07 Wed",
+      "path": "remoteBrain/Daily-Docs/2024/08_August/2024-08-07 Wed.md"
+    },
+    {
+      "basename": "08_August",
+      "path": "remoteBrain/Report/2024/08_August.md"
+    },
+    {
+      "basename": "2024-10-04 Fri",
+      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-04 Fri.md"
+    },
+    {
+      "basename": "2024-10-03 Thu",
+      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-03 Thu.md"
+    },
+    {
+      "basename": "2024-10-01 Tue",
+      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-01 Tue.md"
+    },
+    {
+      "basename": "2024-10-06 Sun",
+      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-06 Sun.md"
+    },
+    {
+      "basename": "TP-DailyNote",
+      "path": "remoteBrain/_templater/TP-DailyNote.md"
+    },
+    {
       "basename": "2024-09-22 Sun",
       "path": "remoteBrain/Daily-Docs/2024/09_September/2024-09-22 Sun.md"
+    },
+    {
+      "basename": "𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭",
+      "path": "wooyeon/Love Life/𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭.md"
+    },
+    {
+      "basename": "00_개발공유",
+      "path": "remoteBrain/99_Jangbogo/00_개발공유.md"
+    },
+    {
+      "basename": "01_디버깅",
+      "path": "remoteBrain/99_Jangbogo/01_디버깅.md"
+    },
+    {
+      "basename": "02_1_LangChain 강의 (Basic)",
+      "path": "remoteBrain/99_Jangbogo/02_1_LangChain 강의 (Basic).md"
+    },
+    {
+      "basename": "02_2_LangChain 강의 (Advanced)",
+      "path": "remoteBrain/99_Jangbogo/02_2_LangChain 강의 (Advanced).md"
+    },
+    {
+      "basename": "03_빅데이터 직무 리스킬링(Reskilling) 과정 교육",
+      "path": "remoteBrain/99_Jangbogo/03_빅데이터 직무 리스킬링(Reskilling) 과정 교육.md"
     },
     {
       "basename": "2024-08-20 Tue",
       "path": "remoteBrain/Daily-Docs/2024/08_August/2024-08-20 Tue.md"
     },
     {
-      "basename": "03_빅데이터 직무 리스킬링(Reskilling) 과정 교육",
-      "path": "remoteBrain/Jangbogo/03_빅데이터 직무 리스킬링(Reskilling) 과정 교육.md"
-    },
-    {
       "basename": "2024-08-21 Wed",
       "path": "remoteBrain/Daily-Docs/2024/08_August/2024-08-21 Wed.md"
-    },
-    {
-      "basename": "Grocery List",
-      "path": "remoteBrain/Single Person Household/Grocery List.md"
-    },
-    {
-      "basename": "08_August",
-      "path": "remoteBrain/Report/2024/08_August.md"
     },
     {
       "basename": "2024-08-19 Mon",
@@ -81,14 +153,6 @@
       "path": "remoteBrain/Daily-Docs/2024/08_August/2024-08-08 Thu.md"
     },
     {
-      "basename": "2024-08-07 Wed",
-      "path": "remoteBrain/Daily-Docs/2024/08_August/2024-08-07 Wed.md"
-    },
-    {
-      "basename": "02_2_LangChain 강의 (Advanced)",
-      "path": "remoteBrain/Jangbogo/02_2_LangChain 강의 (Advanced).md"
-    },
-    {
       "basename": "Chain",
       "path": "Excalidraw/Chain.md"
     },
@@ -97,24 +161,8 @@
       "path": "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/캠핑!.md"
     },
     {
-      "basename": "02_1_LangChain 강의 (Basic)",
-      "path": "remoteBrain/Jangbogo/02_1_LangChain 강의 (Basic).md"
-    },
-    {
       "basename": "LLM(GPT) Price policy",
       "path": "Excalidraw/LLM(GPT) Price policy.md"
-    },
-    {
-      "basename": "01_디버깅",
-      "path": "remoteBrain/Jangbogo/01_디버깅.md"
-    },
-    {
-      "basename": "00_개발공유",
-      "path": "remoteBrain/Jangbogo/00_개발공유.md"
-    },
-    {
-      "basename": "𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭",
-      "path": "wooyeon/Love Life/𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭.md"
     },
     {
       "basename": "Obisidan Markdown",
@@ -151,54 +199,6 @@
     {
       "basename": "2024-07-22 Mon",
       "path": "remoteBrain/Daily-Docs/2024/07_July/2024-07-22 Mon.md"
-    },
-    {
-      "basename": "2024-07-23 Tue",
-      "path": "remoteBrain/Daily-Docs/2024/07_July/2024-07-23 Tue.md"
-    },
-    {
-      "basename": "2024-07-21 Sun",
-      "path": "remoteBrain/Daily-Docs/2024/07_July/2024-07-21 Sun.md"
-    },
-    {
-      "basename": "07_July",
-      "path": "remoteBrain/Report/2024/07_July.md"
-    },
-    {
-      "basename": "2024-07-20 Sat",
-      "path": "remoteBrain/Daily-Docs/2024/07_July/2024-07-20 Sat.md"
-    },
-    {
-      "basename": "2024-07-21 Sun",
-      "path": "remoteBrain/Daily-docs/2024/07_July/2024-07-21 Sun.md"
-    },
-    {
-      "basename": "2024-07-19 Fri",
-      "path": "remoteBrain/Daily-Docs/2024/07_July/2024-07-19 Fri.md"
-    },
-    {
-      "basename": "daily",
-      "path": "remoteBrain/_templater/daily.md"
-    },
-    {
-      "basename": "TP-DailyNote",
-      "path": "remoteBrain/_templater/TP-DailyNote.md"
-    },
-    {
-      "basename": "2024-07-18 Thu",
-      "path": "remoteBrain/Daily-Docs/2024/07_July/2024-07-18 Thu.md"
-    },
-    {
-      "basename": "2024-07-17 Wed",
-      "path": "remoteBrain/Daily-Docs/2024/07_July/2024-07-17 Wed.md"
-    },
-    {
-      "basename": "알리오 올리오 파스타",
-      "path": "Blog/Tistory/맛따라/Recipe/알리오 올리오 파스타.md"
-    },
-    {
-      "basename": "바스크 치즈케이크",
-      "path": "Blog/Tistory/맛따라/Recipe/바스크 치즈케이크.md"
     }
   ],
   "omittedPaths": [],

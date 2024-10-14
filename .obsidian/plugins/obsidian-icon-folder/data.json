@@ -27,12 +27,11 @@
     "iconsInNotesEnabled": true,
     "iconIdentifier": ":"
   },
-  "remoteBrain/Daily-Docs": "LiCalendarCheck2",
   "remoteBrain/_template": "LiPanelTop",
-  "remoteBrain/Report": "LiFileBarChart",
   "wooyeon": "LiHand",
   "remoteBrain": "LiInbox",
   "Blog": "LiClapperboard",
-  "remoteBrain/Single Person Household": "LiHome",
-  "wooyeon/Love Life": "LiHeartPulse"
+  "wooyeon/Love Life": "LiHeartPulse",
+  "remoteBrain/Daily-Docs": "LiCalendarCheck2",
+  "remoteBrain/Report": "LiFileBarChart"
 }

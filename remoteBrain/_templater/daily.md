@@ -11,6 +11,7 @@ breakfast🍳:
 lunch🍚: 
 dinner🥗: 
 snack🍬: 
+water💧: 
 tags:
   - meal-log📝
   - study-log📓
@@ -58,8 +59,8 @@ timespan: 7
 # Routine 
 
 - [ ] 영양제 챙겨 먹기 🔼 
-- [ ] 운동하기 🔼
-- [ ] 아침, 점심, 간식, 저녁 건강하게 4끼 챙겨먹기
+- [ ] 운동하기 🔼 
+- [ ] 도시락 싸먹기 
 - [ ] 무지출 챌린지 
 - [ ] 집 정리·정돈하기 🔼
 - [ ] 개발 공부하기

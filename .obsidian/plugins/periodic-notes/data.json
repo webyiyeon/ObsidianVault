@@ -12,7 +12,7 @@
     "format": "",
     "template": "remoteBrain/_templater/Test.md",
     "folder": "/",
-    "enabled": true
+    "enabled": false
   },
   "monthly": {
     "format": "YYYY/MM_MMMM",
