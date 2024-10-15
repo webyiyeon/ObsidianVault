@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-10-15 Tue",
+      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-15 Tue.md"
+    },
+    {
       "basename": "2024-10-14 Mon",
       "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-14 Mon.md"
+    },
+    {
+      "basename": "10_October",
+      "path": "remoteBrain/Report/2024/10_October.md"
     },
     {
       "basename": "2024-10-13 Sun",
@@ -11,10 +19,6 @@
     {
       "basename": "Monthly",
       "path": "remoteBrain/_template/Monthly.md"
-    },
-    {
-      "basename": "10_October",
-      "path": "remoteBrain/Report/2024/10_October.md"
     },
     {
       "basename": "daily",
@@ -195,10 +199,6 @@
     {
       "basename": "RAG process",
       "path": "Excalidraw/RAG process.md"
-    },
-    {
-      "basename": "2024-07-22 Mon",
-      "path": "remoteBrain/Daily-Docs/2024/07_July/2024-07-22 Mon.md"
     }
   ],
   "omittedPaths": [],
