@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/10_October/2024-10-15 Tue.md",
+                "file": "remoteBrain/Daily-Docs/2024/10_October/2024-10-16 Wed.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/10_October/2024-10-15 Tue.md",
+                "file": "remoteBrain/Daily-Docs/2024/10_October/2024-10-16 Wed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/10_October/2024-10-15 Tue.md",
+                "file": "remoteBrain/Daily-Docs/2024/10_October/2024-10-16 Wed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/10_October/2024-10-15 Tue.md"
+                "file": "remoteBrain/Daily-Docs/2024/10_October/2024-10-16 Wed.md"
               }
             }
           }
@@ -170,8 +170,9 @@
   },
   "active": "e309f6b138c0bcd0",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2024/10_October/2024-10-14 Mon.md",
     "remoteBrain/Daily-Docs/2024/10_October/2024-10-15 Tue.md",
+    "remoteBrain/Daily-Docs/2024/10_October/2024-10-16 Wed.md",
+    "remoteBrain/Daily-Docs/2024/10_October/2024-10-14 Mon.md",
     "remoteBrain/Report/2024/10_October.md",
     "remoteBrain/Daily-Docs/2024/10_October/2024-10-13 Sun.md",
     "remoteBrain/_template/Monthly.md",
@@ -196,7 +197,6 @@
     "remoteBrain/99_Jangbogo/01_디버깅.md",
     "remoteBrain/99_Jangbogo/02_1_LangChain 강의 (Basic).md",
     "remoteBrain/99_Jangbogo/02_2_LangChain 강의 (Advanced).md",
-    "remoteBrain/99_Jangbogo/03_빅데이터 직무 리스킬링(Reskilling) 과정 교육.md",
     "remoteBrain/Daily-Docs/2024/10_October",
     "remoteBrain/Daily-Docs/2024/09_September"
   ]
