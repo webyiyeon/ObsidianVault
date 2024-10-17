@@ -1,32 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-10-17 Thu",
-      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-17 Thu.md"
+      "basename": "2024-10-06 Sun",
+      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-06 Sun.md"
     },
     {
-      "basename": "2024-10-18 Fri",
-      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-18 Fri.md"
-    },
-    {
-      "basename": "2024-10-16 Wed",
-      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-16 Wed.md"
+      "basename": "2024-10-05 Sat",
+      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-05 Sat.md"
     },
     {
       "basename": "2024-10-14 Mon",
       "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-14 Mon.md"
     },
     {
-      "basename": "2024-10-15 Tue",
-      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-15 Tue.md"
+      "basename": "2024-10-13 Sun",
+      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-13 Sun.md"
+    },
+    {
+      "basename": "2024-10-07 Mon",
+      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-07 Mon.md"
+    },
+    {
+      "basename": "2024-10-17 Thu",
+      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-17 Thu.md"
+    },
+    {
+      "basename": "2024-10-09 Wed",
+      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-09 Wed.md"
     },
     {
       "basename": "10_October",
       "path": "remoteBrain/Report/2024/10_October.md"
     },
     {
-      "basename": "2024-10-13 Sun",
-      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-13 Sun.md"
+      "basename": "2024-10-03 Thu",
+      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-03 Thu.md"
+    },
+    {
+      "basename": "2024-10-02 Wed",
+      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-02 Wed.md"
+    },
+    {
+      "basename": "2024-10-16 Wed",
+      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-16 Wed.md"
+    },
+    {
+      "basename": "2024-10-15 Tue",
+      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-15 Tue.md"
+    },
+    {
+      "basename": "2024-10-18 Fri",
+      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-18 Fri.md"
+    },
+    {
+      "basename": "𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭",
+      "path": "wooyeon/Love Life/𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭.md"
     },
     {
       "basename": "Monthly",
@@ -35,18 +63,6 @@
     {
       "basename": "daily",
       "path": "remoteBrain/_templater/daily.md"
-    },
-    {
-      "basename": "2024-10-02 Wed",
-      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-02 Wed.md"
-    },
-    {
-      "basename": "2024-10-07 Mon",
-      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-07 Mon.md"
-    },
-    {
-      "basename": "2024-10-05 Sat",
-      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-05 Sat.md"
     },
     {
       "basename": "2024-08-07 Wed",
@@ -61,16 +77,8 @@
       "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-04 Fri.md"
     },
     {
-      "basename": "2024-10-03 Thu",
-      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-03 Thu.md"
-    },
-    {
       "basename": "2024-10-01 Tue",
       "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-01 Tue.md"
-    },
-    {
-      "basename": "2024-10-06 Sun",
-      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-06 Sun.md"
     },
     {
       "basename": "TP-DailyNote",
@@ -79,10 +87,6 @@
     {
       "basename": "2024-09-22 Sun",
       "path": "remoteBrain/Daily-Docs/2024/09_September/2024-09-22 Sun.md"
-    },
-    {
-      "basename": "𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭",
-      "path": "wooyeon/Love Life/𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭.md"
     },
     {
       "basename": "00_개발공유",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-07-29 Mon",
       "path": "remoteBrain/Daily-Docs/2024/07_July/2024-07-29 Mon.md"
-    },
-    {
-      "basename": "2024-07-25 Thu",
-      "path": "remoteBrain/Daily-Docs/2024/07_July/2024-07-25 Thu.md"
     }
   ],
   "omittedPaths": [],
