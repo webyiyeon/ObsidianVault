@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "2024-10-17 Thu"
             }
-          },
-          {
-            "id": "363081e000934367",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,7 +189,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "363081e000934367",
+  "active": "e309f6b138c0bcd0",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2024/10_October/2024-10-18 Fri.md",
     "remoteBrain/Daily-Docs/2024/10_October/2024-10-17 Thu.md",
