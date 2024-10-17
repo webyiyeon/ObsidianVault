@@ -5,6 +5,10 @@
       "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-16 Wed.md"
     },
     {
+      "basename": "2024-10-17 Thu",
+      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-17 Thu.md"
+    },
+    {
       "basename": "2024-10-15 Tue",
       "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-15 Tue.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2024-07-24 Wed",
       "path": "remoteBrain/Daily-Docs/2024/07_July/2024-07-24 Wed.md"
-    },
-    {
-      "basename": "Optimization Flow",
-      "path": "Excalidraw/Optimization Flow.md"
     }
   ],
   "omittedPaths": [],
