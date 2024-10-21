@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-10-21 Mon",
+      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-21 Mon.md"
+    },
+    {
+      "basename": "2024-10-19 Sat",
+      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-19 Sat.md"
+    },
+    {
+      "basename": "2024-10-18 Fri",
+      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-18 Fri.md"
+    },
+    {
       "basename": "2024-10-17 Thu",
       "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-17 Thu.md"
+    },
+    {
+      "basename": "2024-10-13 Sun",
+      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-13 Sun.md"
+    },
+    {
+      "basename": "2024-10-20 Sun",
+      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-20 Sun.md"
     },
     {
       "basename": "06_June",
@@ -15,10 +35,6 @@
     {
       "basename": "08_August",
       "path": "remoteBrain/Report/2024/08_August.md"
-    },
-    {
-      "basename": "2024-10-18 Fri",
-      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-18 Fri.md"
     },
     {
       "basename": "2024-10-10 Thu",
@@ -39,10 +55,6 @@
     {
       "basename": "2024-10-14 Mon",
       "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-14 Mon.md"
-    },
-    {
-      "basename": "2024-10-13 Sun",
-      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-13 Sun.md"
     },
     {
       "basename": "2024-10-09 Wed",
@@ -187,18 +199,6 @@
     {
       "basename": "Chain",
       "path": "Excalidraw/Chain.md"
-    },
-    {
-      "basename": "캠핑!",
-      "path": "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/캠핑!.md"
-    },
-    {
-      "basename": "LLM(GPT) Price policy",
-      "path": "Excalidraw/LLM(GPT) Price policy.md"
-    },
-    {
-      "basename": "Obisidan Markdown",
-      "path": "Blog/Tistory/Obsidian/Obisidan Markdown.md"
     }
   ],
   "omittedPaths": [],
