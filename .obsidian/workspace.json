@@ -97,8 +97,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -201,7 +200,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e309f6b138c0bcd0",
+  "active": "85089cbb51fb90a7",
   "lastOpenFiles": [
     "remoteBrain/Report/2024/10_October.md",
     "remoteBrain/Report/2024/08_August.md",
