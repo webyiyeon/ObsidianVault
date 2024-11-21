@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f4147e8405e6d9ee",
+        "id": "2d157ff5f055d9f2",
         "type": "tabs",
         "children": [
           {
-            "id": "2de0e8308015bc70",
+            "id": "6db249f2b60ac6f7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.6"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
+              "title": "New tab"
             }
           }
         ]
@@ -85,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ecd774abb35f323a",
