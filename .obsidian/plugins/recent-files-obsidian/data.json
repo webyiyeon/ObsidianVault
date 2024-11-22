@@ -1,16 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-11-08 Fri",
+      "path": "remoteBrain/Daily-Docs/2024/11_November/2024-11-08 Fri.md"
+    },
+    {
+      "basename": "2024-11-09 Sat",
+      "path": "remoteBrain/Daily-Docs/2024/11_November/2024-11-09 Sat.md"
+    },
+    {
+      "basename": "2024-11-10 Sun",
+      "path": "remoteBrain/Daily-Docs/2024/11_November/2024-11-10 Sun.md"
+    },
+    {
+      "basename": "2024-11-17 Sun",
+      "path": "remoteBrain/Daily-Docs/2024/11_November/2024-11-17 Sun.md"
+    },
+    {
+      "basename": "2024-11-16 Sat",
+      "path": "remoteBrain/Daily-Docs/2024/11_November/2024-11-16 Sat.md"
+    },
+    {
+      "basename": "2024-11-03 Sun",
+      "path": "remoteBrain/Daily-Docs/2024/11_November/2024-11-03 Sun.md"
+    },
+    {
+      "basename": "2024-11-20 Wed",
+      "path": "remoteBrain/Daily-Docs/2024/11_November/2024-11-20 Wed.md"
+    },
+    {
+      "basename": "2024-11-19 Tue",
+      "path": "remoteBrain/Daily-Docs/2024/11_November/2024-11-19 Tue.md"
+    },
+    {
+      "basename": "2024-11-18 Mon",
+      "path": "remoteBrain/Daily-Docs/2024/11_November/2024-11-18 Mon.md"
+    },
+    {
       "basename": "2024-11-22 Fri",
       "path": "remoteBrain/Daily-Docs/2024/11_November/2024-11-22 Fri.md"
     },
     {
-      "basename": "2024-11-21 Thu",
-      "path": "remoteBrain/Daily-Docs/2024/11_November/2024-11-21 Thu.md"
+      "basename": "10_October",
+      "path": "remoteBrain/Report/2024/10_October.md"
+    },
+    {
+      "basename": "11_November",
+      "path": "remoteBrain/Report/2024/11_November.md"
     },
     {
       "basename": "2024-11-01 Fri",
       "path": "remoteBrain/Daily-Docs/2024/11_November/2024-11-01 Fri.md"
+    },
+    {
+      "basename": "2024-11-21 Thu",
+      "path": "remoteBrain/Daily-Docs/2024/11_November/2024-11-21 Thu.md"
     },
     {
       "basename": "2024-10-31 Thu",
@@ -35,10 +79,6 @@
     {
       "basename": "2024-10-23 Wed",
       "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-23 Wed.md"
-    },
-    {
-      "basename": "10_October",
-      "path": "remoteBrain/Report/2024/10_October.md"
     },
     {
       "basename": "2024-10-28 Mon",
@@ -159,46 +199,6 @@
     {
       "basename": "Monthly",
       "path": "remoteBrain/_template/Monthly.md"
-    },
-    {
-      "basename": "daily",
-      "path": "remoteBrain/_templater/daily.md"
-    },
-    {
-      "basename": "2024-08-07 Wed",
-      "path": "remoteBrain/Daily-Docs/2024/08_August/2024-08-07 Wed.md"
-    },
-    {
-      "basename": "2024-10-04 Fri",
-      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-04 Fri.md"
-    },
-    {
-      "basename": "2024-10-01 Tue",
-      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-01 Tue.md"
-    },
-    {
-      "basename": "TP-DailyNote",
-      "path": "remoteBrain/_templater/TP-DailyNote.md"
-    },
-    {
-      "basename": "2024-09-22 Sun",
-      "path": "remoteBrain/Daily-Docs/2024/09_September/2024-09-22 Sun.md"
-    },
-    {
-      "basename": "00_개발공유",
-      "path": "remoteBrain/99_Jangbogo/00_개발공유.md"
-    },
-    {
-      "basename": "01_디버깅",
-      "path": "remoteBrain/99_Jangbogo/01_디버깅.md"
-    },
-    {
-      "basename": "02_1_LangChain 강의 (Basic)",
-      "path": "remoteBrain/99_Jangbogo/02_1_LangChain 강의 (Basic).md"
-    },
-    {
-      "basename": "02_2_LangChain 강의 (Advanced)",
-      "path": "remoteBrain/99_Jangbogo/02_2_LangChain 강의 (Advanced).md"
     }
   ],
   "omittedPaths": [],
