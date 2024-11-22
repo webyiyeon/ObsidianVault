@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-11-22 Fri",
+      "path": "remoteBrain/Daily-Docs/2024/11_November/2024-11-22 Fri.md"
+    },
+    {
       "basename": "2024-11-21 Thu",
       "path": "remoteBrain/Daily-Docs/2024/11_November/2024-11-21 Thu.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "02_2_LangChain 강의 (Advanced)",
       "path": "remoteBrain/99_Jangbogo/02_2_LangChain 강의 (Advanced).md"
-    },
-    {
-      "basename": "03_빅데이터 직무 리스킬링(Reskilling) 과정 교육",
-      "path": "remoteBrain/99_Jangbogo/03_빅데이터 직무 리스킬링(Reskilling) 과정 교육.md"
     }
   ],
   "omittedPaths": [],
