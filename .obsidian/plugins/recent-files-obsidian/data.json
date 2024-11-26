@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-11-26 Tue",
+      "path": "remoteBrain/Daily-Docs/2024/11_November/2024-11-26 Tue.md"
+    },
+    {
+      "basename": "02_1_LangChain 강의 (Basic)",
+      "path": "remoteBrain/99_Jangbogo/02_1_LangChain 강의 (Basic).md"
+    },
+    {
+      "basename": "01_디버깅",
+      "path": "remoteBrain/99_Jangbogo/01_디버깅.md"
+    },
+    {
+      "basename": "00_개발공유",
+      "path": "remoteBrain/99_Jangbogo/00_개발공유.md"
+    },
+    {
+      "basename": "2024-07-22 Mon",
+      "path": "remoteBrain/Daily-Docs/2024/07_July/2024-07-22 Mon.md"
+    },
+    {
+      "basename": "2024-06-28 Fri",
+      "path": "remoteBrain/Daily-Docs/2024/06_June/2024-06-28 Fri.md"
+    },
+    {
+      "basename": "2024-04-25 Thu",
+      "path": "remoteBrain/Daily-Docs/2024/04_April/2024-04-25 Thu.md"
+    },
+    {
       "basename": "daily",
       "path": "remoteBrain/_templater/daily.md"
     },
     {
-      "basename": "daily",
-      "path": "remoteBrain/_template/daily.md"
+      "basename": "11_November",
+      "path": "remoteBrain/Report/2024/11_November.md"
     },
     {
-      "basename": "2024-11-26 Tue",
-      "path": "remoteBrain/Daily-Docs/2024/11_November/2024-11-26 Tue.md"
+      "basename": "daily",
+      "path": "remoteBrain/_template/daily.md"
     },
     {
       "basename": "2024-07-18 Thu",
@@ -19,10 +47,6 @@
     {
       "basename": "2024-08-13 Tue",
       "path": "remoteBrain/Daily-Docs/2024/08_August/2024-08-13 Tue.md"
-    },
-    {
-      "basename": "11_November",
-      "path": "remoteBrain/Report/2024/11_November.md"
     },
     {
       "basename": "𝒟𝒶𝓉𝑒 ℬ𝓊𝒸𝓀𝑒𝓉𝓁𝒾𝓈𝓉 - 𝟸𝟶𝟸𝟻",
@@ -175,30 +199,6 @@
     {
       "basename": "05_May",
       "path": "remoteBrain/Report/2024/05_May.md"
-    },
-    {
-      "basename": "04_April",
-      "path": "remoteBrain/Report/2024/04_April.md"
-    },
-    {
-      "basename": "03_March",
-      "path": "remoteBrain/Report/2024/03_March.md"
-    },
-    {
-      "basename": "2024-10-21 Mon",
-      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-21 Mon.md"
-    },
-    {
-      "basename": "2024-10-19 Sat",
-      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-19 Sat.md"
-    },
-    {
-      "basename": "2024-10-18 Fri",
-      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-18 Fri.md"
-    },
-    {
-      "basename": "2024-10-17 Thu",
-      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-17 Thu.md"
     }
   ],
   "omittedPaths": [],
