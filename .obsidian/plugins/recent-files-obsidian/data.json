@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "10_October",
+      "path": "remoteBrain/Report/2024/10_October.md"
+    },
+    {
+      "basename": "08_August",
+      "path": "remoteBrain/Report/2024/08_August.md"
+    },
+    {
+      "basename": "07_July",
+      "path": "remoteBrain/Report/2024/07_July.md"
+    },
+    {
+      "basename": "06_June",
+      "path": "remoteBrain/Report/2024/06_June.md"
+    },
+    {
+      "basename": "11_November",
+      "path": "remoteBrain/Report/2024/11_November.md"
+    },
+    {
       "basename": "𝒟𝒶𝓉𝑒 ℬ𝓊𝒸𝓀𝑒𝓉𝓁𝒾𝓈𝓉 - 𝟸𝟶𝟸𝟻",
       "path": "wooyeon/Love Life/𝒟𝒶𝓉𝑒 ℬ𝓊𝒸𝓀𝑒𝓉𝓁𝒾𝓈𝓉 - 𝟸𝟶𝟸𝟻.md"
     },
@@ -19,10 +39,6 @@
     {
       "basename": "2024-11-27 Wed",
       "path": "remoteBrain/Daily-Docs/2024/11_November/2024-11-27 Wed.md"
-    },
-    {
-      "basename": "11_November",
-      "path": "remoteBrain/Report/2024/11_November.md"
     },
     {
       "basename": "02_1_LangChain 강의 (Basic)",
@@ -93,24 +109,12 @@
       "path": "remoteBrain/Daily-Docs/2024/11_November/2024-11-21 Thu.md"
     },
     {
-      "basename": "10_October",
-      "path": "remoteBrain/Report/2024/10_October.md"
-    },
-    {
       "basename": "2024-11-08 Fri",
       "path": "remoteBrain/Daily-Docs/2024/11_November/2024-11-08 Fri.md"
     },
     {
       "basename": "2024-11-05 Tue",
       "path": "remoteBrain/Daily-Docs/2024/11_November/2024-11-05 Tue.md"
-    },
-    {
-      "basename": "08_August",
-      "path": "remoteBrain/Report/2024/08_August.md"
-    },
-    {
-      "basename": "07_July",
-      "path": "remoteBrain/Report/2024/07_July.md"
     },
     {
       "basename": "02_February",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-10-26 Sat",
       "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-26 Sat.md"
-    },
-    {
-      "basename": "2024-10-22 Tue",
-      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-22 Tue.md"
     }
   ],
   "omittedPaths": [],
