@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/11_November/2024-11-26 Tue.md",
+                "file": "remoteBrain/Daily-Docs/2024/11_November/2024-11-27 Wed.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-26 Tue"
+              "title": "2024-11-27 Wed"
             }
           },
           {
@@ -112,8 +112,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -216,8 +215,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "28b4a5b902a2afe0",
+  "active": "85089cbb51fb90a7",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2024/11_November/2024-11-26 Tue.md",
+    "remoteBrain/Daily-Docs/2024/11_November/2024-11-27 Wed.md",
     "remoteBrain/99_Jangbogo/02_1_LangChain 강의 (Basic).md",
     "remoteBrain/99_Jangbogo/01_디버깅.md",
     "remoteBrain/99_Jangbogo/00_개발공유.md",
@@ -225,7 +226,6 @@
     "remoteBrain/Daily-Docs/2024/06_June/2024-06-28 Fri.md",
     "remoteBrain/Daily-Docs/2024/04_April/2024-04-25 Thu.md",
     "remoteBrain/_templater/daily.md",
-    "remoteBrain/Daily-Docs/2024/11_November/2024-11-26 Tue.md",
     "remoteBrain/Report/2024/11_November.md",
     "remoteBrain/_template/daily.md",
     "remoteBrain/Daily-Docs/2024/07_July/2024-07-18 Thu.md",
@@ -243,7 +243,6 @@
     "remoteBrain/Daily-Docs/2024/11_November/2024-11-08 Fri.md",
     "remoteBrain/Daily-Docs/2024/11_November/2024-11-05 Tue.md",
     "remoteBrain/Report/2024/08_August.md",
-    "remoteBrain/Report/2024/07_July.md",
     "remoteBrain/Daily-Docs/2024/11_November",
     "remoteBrain/Daily-Docs/Images/Pasted image 20241030104745.png",
     "remoteBrain/99_InsightON",
