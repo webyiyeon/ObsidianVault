@@ -67,5 +67,5 @@ TABLE WITHOUT ID
 	FROM #routine 
 	WHERE
 	file.folder = "remoteBrain/Daily-Docs/2024/10_October"
-	SORT file.name DESC
+	SORT file.name ASC
 ```
