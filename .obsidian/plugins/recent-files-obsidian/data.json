@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "SKMU 단위테스트",
+      "path": "remoteBrain/99_InsightON/SKMU 단위테스트.md"
+    },
+    {
       "basename": "2024-11-29 Fri",
       "path": "remoteBrain/Daily-Docs/2024/11_November/2024-11-29 Fri.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "2024-10-25 Fri",
       "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-25 Fri.md"
-    },
-    {
-      "basename": "2024-10-23 Wed",
-      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-23 Wed.md"
-    },
-    {
-      "basename": "2024-10-28 Mon",
-      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-28 Mon.md"
     }
   ],
   "omittedPaths": [],
