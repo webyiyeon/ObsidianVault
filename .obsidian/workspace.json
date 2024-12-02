@@ -35,7 +35,8 @@
               "title": "2024-12-02 Mon"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -212,11 +214,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "16a930433cf250a7",
+  "active": "91a0a4ea33b35e7b",
   "lastOpenFiles": [
+    "remoteBrain/Report/2024/12_December.md",
     "remoteBrain/Daily-Docs/2024/12_December/2024-12-02 Mon.md",
     "remoteBrain/_templater/daily.md",
-    "remoteBrain/Report/2024/12_December.md",
     "remoteBrain/_template/daily.md",
     "remoteBrain/_template/Monthly.md",
     "remoteBrain/Daily-Docs/2024/12_December/2024-12-01 Sun.md",
