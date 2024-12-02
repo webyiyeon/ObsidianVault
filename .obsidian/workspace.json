@@ -83,12 +83,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 293.5,
-    "collapsed": true
+    "width": 293.5
   },
   "right": {
     "id": "ecd774abb35f323a",
@@ -187,7 +187,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "17bb7aa93418de5d",
+  "active": "0df8c90d41d0682a",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2024/11_November/2024-11-29 Fri.md",
     "remoteBrain/Daily-Docs/2024/12_December/2024-12-02 Mon.md",
