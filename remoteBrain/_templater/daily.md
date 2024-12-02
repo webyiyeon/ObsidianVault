@@ -8,13 +8,13 @@ workout-routine:
 gratitude🙏: 
 keyword🗝️: 
 breakfast🍳: 
-bfcals: 
+bfcals: 0
 lunch🍚: 
-lccals: 
+lccals: 0
 dinner🥗: 
-dncals: 
+dncals: 0
 snack🍬: 
-sncals: 
+sncals: 0
 water💧: 
 tags:
   - meal-log📝

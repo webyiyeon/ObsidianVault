@@ -9,6 +9,10 @@
       "path": "remoteBrain/_templater/daily.md"
     },
     {
+      "basename": "12_December",
+      "path": "remoteBrain/Report/2024/12_December.md"
+    },
+    {
       "basename": "daily",
       "path": "remoteBrain/_template/daily.md"
     },
