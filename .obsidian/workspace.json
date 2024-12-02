@@ -35,8 +35,7 @@
               "title": "2024-12-02 Mon"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,10 +212,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1b3ffc9e4e9875ad",
+  "active": "16a930433cf250a7",
   "lastOpenFiles": [
-    "remoteBrain/_templater/daily.md",
     "remoteBrain/Daily-Docs/2024/12_December/2024-12-02 Mon.md",
+    "remoteBrain/_templater/daily.md",
     "remoteBrain/Report/2024/12_December.md",
     "remoteBrain/_template/daily.md",
     "remoteBrain/_template/Monthly.md",
