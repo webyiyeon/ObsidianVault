@@ -28,6 +28,14 @@
     "excalidraw-autoexport": "text",
     "excalidraw-embeddable-theme": "text",
     "excalidraw-open-md": "checkbox",
-    "water💧": "number"
+    "water💧": "number",
+    "breakfast cals": "number",
+    "lunch cals": "number",
+    "dinner cals": "number",
+    "snacks cals": "number",
+    "dncals": "number",
+    "sncals": "number",
+    "lccals": "number",
+    "bfcals": "number"
   }
 }

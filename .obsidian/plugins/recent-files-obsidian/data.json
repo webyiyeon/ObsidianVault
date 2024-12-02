@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-12-01 Sun",
-      "path": "remoteBrain/Daily-docs/2024/12_December/2024-12-01 Sun.md"
-    },
-    {
       "basename": "2024-12-02 Mon",
       "path": "remoteBrain/Daily-Docs/2024/12_December/2024-12-02 Mon.md"
+    },
+    {
+      "basename": "daily",
+      "path": "remoteBrain/_templater/daily.md"
+    },
+    {
+      "basename": "daily",
+      "path": "remoteBrain/_template/daily.md"
+    },
+    {
+      "basename": "Monthly",
+      "path": "remoteBrain/_template/Monthly.md"
+    },
+    {
+      "basename": "2024-12-01 Sun",
+      "path": "remoteBrain/Daily-docs/2024/12_December/2024-12-01 Sun.md"
     },
     {
       "basename": "2024-11-29 Fri",
@@ -31,10 +43,6 @@
     {
       "basename": "2024-11-10 Sun",
       "path": "remoteBrain/Daily-Docs/2024/11_November/2024-11-10 Sun.md"
-    },
-    {
-      "basename": "Monthly",
-      "path": "remoteBrain/_template/Monthly.md"
     },
     {
       "basename": "10_October",
@@ -91,14 +99,6 @@
     {
       "basename": "2024-04-25 Thu",
       "path": "remoteBrain/Daily-Docs/2024/04_April/2024-04-25 Thu.md"
-    },
-    {
-      "basename": "daily",
-      "path": "remoteBrain/_templater/daily.md"
-    },
-    {
-      "basename": "daily",
-      "path": "remoteBrain/_template/daily.md"
     },
     {
       "basename": "2024-07-18 Thu",
@@ -195,10 +195,6 @@
     {
       "basename": "2024-10-30 Wed",
       "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-30 Wed.md"
-    },
-    {
-      "basename": "2024-10-24 Thu",
-      "path": "remoteBrain/Daily-Docs/2024/10_October/2024-10-24 Thu.md"
     }
   ],
   "omittedPaths": [],

@@ -32,7 +32,7 @@ sort file.name
 ## Meal Logs
 ```dataview
 TABLE 
-	breakfast🍳, lunch🍚, dinner🥗, snack🍬, water💧
+	breakfast🍳, lunch🍚, dinner🥗, snack🍬, water💧, (bfcals + lccals + dncals + sncals) AS "calrories🪄"
 FROM 
 	#meal-log📝 
 WHERE 

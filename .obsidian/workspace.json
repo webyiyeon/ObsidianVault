@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fd07be18fe013419",
+        "id": "b10bf98fb27f35c8",
         "type": "tabs",
         "children": [
           {
-            "id": "061794791baf761a",
+            "id": "176a39b552df1002",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2024/12_December/2024-12-02 Mon.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2024-12-02 Mon"
             }
           }
         ]
@@ -183,11 +187,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "061794791baf761a",
+  "active": "176a39b552df1002",
   "lastOpenFiles": [
-    "remoteBrain/Daily-docs/2024/12_December/2024-12-01 Sun.md",
+    "remoteBrain/_templater/daily.md",
     "remoteBrain/Daily-Docs/2024/12_December/2024-12-02 Mon.md",
+    "remoteBrain/_template/daily.md",
+    "remoteBrain/_template/Monthly.md",
+    "remoteBrain/Report/2024/12_December.md",
     "remoteBrain/Daily-Docs/2024/12_December/2024-12-01 Sun.md",
+    "remoteBrain/Daily-docs/2024/12_December/2024-12-01 Sun.md",
     "remoteBrain/Daily-docs/2024/12_December/2024-12-02 Mon.md",
     "remoteBrain/Daily-docs/2024/11_November/2024-11-29 Fri.md",
     "remoteBrain/Daily-docs/2024/11_November/2024-11-28 Thu.md",
@@ -207,10 +215,6 @@
     "remoteBrain/Daily-docs/2024/11_November/2024-11-10 Sun.md",
     "remoteBrain/Daily-docs/2024/11_November/2024-11-08 Fri.md",
     "remoteBrain/Daily-docs/2024/11_November/2024-11-05 Tue.md",
-    "remoteBrain/Daily-docs/2024/11_November/2024-11-03 Sun.md",
-    "remoteBrain/Daily-docs/2024/11_November/2024-11-02 Sat.md",
-    "remoteBrain/Daily-docs/2024/11_November/2024-11-01 Fri.md",
-    "remoteBrain/Daily-docs/2024/10_October/2024-10-31 Thu.md",
     "remoteBrain/Daily-docs/2024/04_April/Untitled1.ipynb",
     "remoteBrain/Daily-docs/2024/04_April/Untitled.ipynb",
     "remoteBrain/Daily-docs/2024/04_April/test.py",
