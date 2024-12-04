@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/12_December/2024-12-03 Tue.md",
+                "file": "remoteBrain/Daily-Docs/2024/12_December/2024-12-04 Wed.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-03 Tue"
+              "title": "2024-12-04 Wed"
             }
           }
         ],
@@ -196,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 587.5
+    "width": 587.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,11 +215,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0df8c90d41d0682a",
+  "active": "91a0a4ea33b35e7b",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2024/12_December/2024-12-02 Mon.md",
     "remoteBrain/Daily-Docs/2024/12_December/2024-12-03 Tue.md",
+    "remoteBrain/Daily-Docs/2024/12_December/2024-12-04 Wed.md",
     "remoteBrain/Report/2024/12_December.md",
+    "remoteBrain/Daily-Docs/2024/12_December/2024-12-02 Mon.md",
     "remoteBrain/_templater/daily.md",
     "remoteBrain/_template/daily.md",
     "remoteBrain/_template/Monthly.md",
@@ -241,7 +243,6 @@
     "remoteBrain/Daily-docs/2024/11_November/2024-11-14 Thu.md",
     "remoteBrain/Daily-docs/2024/11_November/2024-11-09 Sat.md",
     "remoteBrain/Daily-docs/2024/11_November/2024-11-10 Sun.md",
-    "remoteBrain/Daily-docs/2024/11_November/2024-11-08 Fri.md",
     "remoteBrain/Daily-docs/2024/04_April/Untitled1.ipynb",
     "remoteBrain/Daily-docs/2024/04_April/Untitled.ipynb",
     "remoteBrain/Daily-docs/2024/04_April/test.py",
