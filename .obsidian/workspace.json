@@ -98,7 +98,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -213,7 +214,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "85089cbb51fb90a7",
+  "active": "0df8c90d41d0682a",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2024/12_December/2024-12-02 Mon.md",
     "remoteBrain/Daily-Docs/2024/12_December/2024-12-03 Tue.md",
