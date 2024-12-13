@@ -35,7 +35,8 @@
               "title": "𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭 - 𝟐𝟎𝟐𝟑 ~ 𝟐𝟎𝟐𝟒"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,13 +214,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "16a930433cf250a7",
+  "active": "91a0a4ea33b35e7b",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2024/12_December/2024-12-13 Fri.md",
     "remoteBrain/Daily-Docs/2024/12_December/2024-12-09 Mon.md",
     "remoteBrain/Daily-Docs/2024/12_December/2024-12-10 Tue.md",
     "remoteBrain/Daily-Docs/2024/12_December/2024-12-11 Wed.md",
     "remoteBrain/Daily-Docs/2024/12_December/2024-12-12 Thu.md",
-    "remoteBrain/Daily-Docs/2024/12_December/2024-12-13 Fri.md",
     "remoteBrain/Report/2024/12_December.md",
     "remoteBrain/_templater/daily.md",
     "remoteBrain/Daily-Docs/2024/12_December/2024-12-04 Wed.md",
