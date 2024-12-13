@@ -5,6 +5,10 @@
       "path": "remoteBrain/Daily-Docs/2024/12_December/2024-12-13 Fri.md"
     },
     {
+      "basename": "2024-12-09 Mon",
+      "path": "remoteBrain/Daily-Docs/2024/12_December/2024-12-09 Mon.md"
+    },
+    {
       "basename": "2024-12-10 Tue",
       "path": "remoteBrain/Daily-Docs/2024/12_December/2024-12-10 Tue.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "daily",
       "path": "remoteBrain/_templater/daily.md"
-    },
-    {
-      "basename": "2024-12-09 Mon",
-      "path": "remoteBrain/Daily-Docs/2024/12_December/2024-12-09 Mon.md"
     },
     {
       "basename": "2024-12-04 Wed",
