@@ -97,8 +97,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -142,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/11_November/2024-11-01 Fri.md",
+                "file": "remoteBrain/Daily-Docs/2024/12_December/2024-12-13 Fri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-11-01 Fri"
+              "title": "Backlinks for 2024-12-13 Fri"
             }
           },
           {
@@ -161,12 +160,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/11_November/2024-11-01 Fri.md",
+                "file": "remoteBrain/Daily-Docs/2024/12_December/2024-12-13 Fri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-11-01 Fri"
+              "title": "Outgoing links from 2024-12-13 Fri"
             }
           },
           {
@@ -175,10 +174,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/11_November/2024-11-01 Fri.md"
+                "file": "remoteBrain/Daily-Docs/2024/12_December/2024-12-13 Fri.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-11-01 Fri"
+              "title": "Outline of 2024-12-13 Fri"
             }
           },
           {
@@ -196,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 484.5
+    "width": 548.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,7 +213,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "16a930433cf250a7",
+  "active": "85089cbb51fb90a7",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2024/12_December/2024-12-10 Tue.md",
     "remoteBrain/Daily-Docs/2024/12_December/2024-12-11 Wed.md",
