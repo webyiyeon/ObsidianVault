@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "16a930433cf250a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remoteBrain/Daily-Docs/2024/12_December/2024-12-13 Fri.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-12-13 Fri"
-            }
-          },
-          {
             "id": "91a0a4ea33b35e7b",
             "type": "leaf",
             "state": {
@@ -33,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "2024-12-23 Mon"
+            }
+          },
+          {
+            "id": "fc1428f06ed9f0b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2024/12_December/2024-12-13 Fri.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-12-13 Fri"
             }
           }
         ],
@@ -191,8 +191,7 @@
               "title": "Perflexity"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -214,20 +213,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "91a0a4ea33b35e7b",
+  "active": "fc1428f06ed9f0b6",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2024/12_December/2024-12-19 Thu.md",
+    "remoteBrain/Report/2024/12_December.md",
+    "remoteBrain/Daily-Docs/2024/12_December/2024-12-12 Thu.md",
+    "remoteBrain/Daily-Docs/2024/12_December/2024-12-04 Wed.md",
     "remoteBrain/Daily-Docs/2024/12_December/2024-12-23 Mon.md",
+    "remoteBrain/Daily-Docs/2024/12_December/2024-12-22 Sun.md",
+    "remoteBrain/Daily-Docs/2024/12_December/2024-12-21 Sat.md",
+    "remoteBrain/Daily-Docs/2024/12_December/2024-12-19 Thu.md",
+    "remoteBrain/Daily-Docs/2024/12_December/2024-12-18 Wed.md",
+    "remoteBrain/Daily-Docs/2024/12_December/2024-12-13 Fri.md",
     "remoteBrain/Daily-Docs/2024/12_December/2024-12-16 Mon.md",
     "wooyeon/Love Life/𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭 - 𝟐𝟎𝟐𝟑 ~ 𝟐𝟎𝟐𝟒.md",
-    "remoteBrain/Daily-Docs/2024/12_December/2024-12-13 Fri.md",
     "remoteBrain/Daily-Docs/2024/12_December/2024-12-09 Mon.md",
     "remoteBrain/Daily-Docs/2024/12_December/2024-12-10 Tue.md",
     "remoteBrain/Daily-Docs/2024/12_December/2024-12-11 Wed.md",
-    "remoteBrain/Daily-Docs/2024/12_December/2024-12-12 Thu.md",
-    "remoteBrain/Report/2024/12_December.md",
     "remoteBrain/_templater/daily.md",
-    "remoteBrain/Daily-Docs/2024/12_December/2024-12-04 Wed.md",
     "remoteBrain/Daily-Docs/2024/12_December/2024-12-05 Thu.md",
     "remoteBrain/Daily-Docs/2024/12_December/2024-12-06 Fri.md",
     "remoteBrain/Daily-Docs/2024/12_December/2024-12-07 Sat.md",
@@ -239,9 +241,6 @@
     "remoteBrain/Daily-Docs/2024/12_December/2024-12-01 Sun.md",
     "remoteBrain/Daily-docs/2024/12_December/2024-12-01 Sun.md",
     "remoteBrain/Daily-docs/2024/12_December/2024-12-02 Mon.md",
-    "remoteBrain/Daily-docs/2024/11_November/2024-11-29 Fri.md",
-    "remoteBrain/Daily-docs/2024/11_November/2024-11-28 Thu.md",
-    "remoteBrain/Daily-docs/2024/11_November/2024-11-27 Wed.md",
     "remoteBrain/Daily-docs/2024/04_April/Untitled1.ipynb",
     "remoteBrain/Daily-docs/2024/04_April/Untitled.ipynb",
     "remoteBrain/Daily-docs/2024/04_April/test.py",
