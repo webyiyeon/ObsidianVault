@@ -174,27 +174,18 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/12_December/2024-12-13 Fri.md"
+                "file": "remoteBrain/Daily-Docs/2024/12_December/2024-12-24 Tue.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-12-13 Fri"
-            }
-          },
-          {
-            "id": "1b3ffc9e4e9875ad",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-perflexity",
-              "state": {},
-              "icon": "lucide-bot-message-square",
-              "title": "Perflexity"
+              "title": "Outline of 2024-12-24 Tue"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 729.5
+    "width": 559.5
   },
   "left-ribbon": {
     "hiddenItems": {
