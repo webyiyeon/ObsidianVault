@@ -62,15 +62,17 @@ timespan: 7
 
 # Routine 
 
-####  Healthy Life
+####  Healthy Habits
 - [ ] 영양제 챙겨 먹기
 - [ ] 운동하기
 - [ ] 도시락 싸먹기 
 - [ ] 외식하지 않기 
 
-#### Saving 
+####  Intentional Living 
 - [ ] 무지출 챌린지 
 - [ ] 집 정리·정돈하기
+
+#### Intellectual Growth
 - [ ] 전공공부하기
 - [ ] 일본어 공부하기
 - [ ] 독서하기

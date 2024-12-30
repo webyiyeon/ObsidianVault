@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-12-30 Mon",
+      "path": "remoteBrain/Daily-Docs/2024/12_December/2024-12-30 Mon.md"
+    },
+    {
+      "basename": "12_December",
+      "path": "remoteBrain/Report/2024/12_December.md"
+    },
+    {
+      "basename": "2025-01-01 Wed",
+      "path": "remoteBrain/Daily-Docs/2025/01_January/2025-01-01 Wed.md"
+    },
+    {
+      "basename": "2024-12-31 Tue",
+      "path": "remoteBrain/Daily-Docs/2024/12_December/2024-12-31 Tue.md"
+    },
+    {
       "basename": "daily",
       "path": "remoteBrain/_templater/daily.md"
     },
@@ -9,24 +25,12 @@
       "path": "remoteBrain/_template/Monthly.md"
     },
     {
-      "basename": "12_December",
-      "path": "remoteBrain/Report/2024/12_December.md"
-    },
-    {
-      "basename": "2024-12-30 Mon",
-      "path": "remoteBrain/Daily-Docs/2024/12_December/2024-12-30 Mon.md"
-    },
-    {
       "basename": "2024-12-27 Fri",
       "path": "remoteBrain/Daily-Docs/2024/12_December/2024-12-27 Fri.md"
     },
     {
       "basename": "2024-12-29 Sun",
       "path": "remoteBrain/Daily-Docs/2024/12_December/2024-12-29 Sun.md"
-    },
-    {
-      "basename": "2024-12-31 Tue",
-      "path": "remoteBrain/Daily-Docs/2024/12_December/2024-12-31 Tue.md"
     },
     {
       "basename": "TP-DailyNote",
@@ -195,10 +199,6 @@
     {
       "basename": "02_1_LangChain 강의 (Basic)",
       "path": "remoteBrain/99_Jangbogo/02_1_LangChain 강의 (Basic).md"
-    },
-    {
-      "basename": "01_디버깅",
-      "path": "remoteBrain/99_Jangbogo/01_디버깅.md"
     }
   ],
   "omittedPaths": [],

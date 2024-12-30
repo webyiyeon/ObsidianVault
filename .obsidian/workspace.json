@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "fc1428f06ed9f0b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remoteBrain/_template/Monthly.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Monthly"
-            }
-          },
-          {
             "id": "48006a56905aa7c8",
             "type": "leaf",
             "state": {
@@ -117,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 200
   },
   "right": {
     "id": "ecd774abb35f323a",
@@ -189,13 +175,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/_templater/daily.md"
+                "file": "remoteBrain/Daily-Docs/2024/12_December/2024-12-30 Mon.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of daily"
+              "title": "Outline of 2024-12-30 Mon"
+            }
+          },
+          {
+            "id": "eb63eb0a66a50801",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-perflexity",
+              "state": {},
+              "icon": "lucide-bot-message-square",
+              "title": "Perflexity"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -217,54 +214,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "floating": {
-    "id": "c3cddb621c661416",
-    "type": "floating",
-    "children": [
-      {
-        "id": "83e103e58dd74410",
-        "type": "window",
-        "children": [
-          {
-            "id": "302dcd64bfbdbfca",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "14567c7f5b693d32",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "remoteBrain/_templater/daily.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "daily"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 338,
-        "y": 179,
-        "width": 751,
-        "height": 751,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "14567c7f5b693d32",
+  "active": "eb63eb0a66a50801",
   "lastOpenFiles": [
-    "remoteBrain/_template/Monthly.md",
-    "remoteBrain/_templater/daily.md",
     "remoteBrain/Report/2024/12_December.md",
     "remoteBrain/Daily-Docs/2024/12_December/2024-12-30 Mon.md",
+    "remoteBrain/Daily-Docs/2025/01_January/2025-01-01 Wed.md",
+    "remoteBrain/Daily-Docs/2024/12_December/2024-12-31 Tue.md",
+    "remoteBrain/_templater/daily.md",
+    "remoteBrain/Daily-Docs/2025/01_January",
+    "remoteBrain/Daily-Docs/2025",
+    "remoteBrain/_template/Monthly.md",
     "remoteBrain/Daily-Docs/2024/12_December/2024-12-27 Fri.md",
     "remoteBrain/Daily-Docs/2024/12_December/2024-12-29 Sun.md",
-    "remoteBrain/Daily-Docs/2024/12_December/2024-12-31 Tue.md",
     "remoteBrain/_templater/TP-DailyNote.md",
     "remoteBrain/Daily-Docs/2024/12_December/2024-12-25 Wed.md",
     "remoteBrain/Daily-Docs/2024/12_December/2024-12-26 Thu.md",
@@ -283,7 +244,6 @@
     "remoteBrain/Daily-Docs/2024/12_December/2024-12-22 Sun.md",
     "wooyeon/Love Life/𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭 - 𝟐𝟎𝟐𝟑 ~ 𝟐𝟎𝟐𝟒.md",
     "remoteBrain/Daily-Docs/2024/12_December/2024-12-09 Mon.md",
-    "remoteBrain/Daily-Docs/2024/12_December/2024-12-10 Tue.md",
     "remoteBrain/Daily-docs/2024/04_April/Untitled1.ipynb",
     "remoteBrain/Daily-docs/2024/04_April/Untitled.ipynb",
     "remoteBrain/Daily-docs/2024/04_April/test.py",
@@ -292,8 +252,6 @@
     "remoteBrain/Daily-docs/2024/10_October",
     "remoteBrain/Daily-docs/2024/08_August",
     "remoteBrain/Daily-docs/2024/09_September",
-    "remoteBrain/Daily-docs/2024/06_June",
-    "remoteBrain/Daily-docs/2024/07_July",
     "remoteBrain/Daily-Docs/Images/Pasted image 20241030104745.png"
   ]
 }
