@@ -35,8 +35,7 @@
               "title": "2024-12-30 Mon"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,10 +174,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/12_December/2024-12-30 Mon.md"
+                "file": "remoteBrain/Report/2024/12_December.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-12-30 Mon"
+              "title": "Outline of 12_December"
             }
           },
           {
@@ -196,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 429.5
+    "width": 429.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,10 +214,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "eb63eb0a66a50801",
+  "active": "91a0a4ea33b35e7b",
   "lastOpenFiles": [
-    "remoteBrain/Report/2024/12_December.md",
     "remoteBrain/Daily-Docs/2024/12_December/2024-12-30 Mon.md",
+    "remoteBrain/Report/2024/12_December.md",
     "remoteBrain/Daily-Docs/2025/01_January/2025-01-01 Wed.md",
     "remoteBrain/Daily-Docs/2024/12_December/2024-12-31 Tue.md",
     "remoteBrain/_templater/daily.md",
