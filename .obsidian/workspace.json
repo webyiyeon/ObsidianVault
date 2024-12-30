@@ -180,19 +180,9 @@
               "icon": "lucide-list",
               "title": "Outline of 2024-12-30 Mon"
             }
-          },
-          {
-            "id": "4f30c9fb82db93b1",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-perflexity",
-              "state": {},
-              "icon": "lucide-bot-message-square",
-              "title": "Perflexity"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
