@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/12_December/2024-12-27 Fri.md",
+                "file": "remoteBrain/Daily-Docs/2024/12_December/2024-12-29 Sun.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-27 Fri"
+              "title": "2024-12-29 Sun"
             }
           },
           {
@@ -174,14 +174,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/12_December/2024-12-27 Fri.md"
+                "file": "remoteBrain/Daily-Docs/2024/12_December/2024-12-29 Sun.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-12-27 Fri"
+              "title": "Outline of 2024-12-29 Sun"
+            }
+          },
+          {
+            "id": "4f30c9fb82db93b1",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-perflexity",
+              "state": {},
+              "icon": "lucide-bot-message-square",
+              "title": "Perflexity"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -203,10 +213,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "91a0a4ea33b35e7b",
+  "active": "4f30c9fb82db93b1",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2024/12_December/2024-12-24 Tue.md",
+    "remoteBrain/Daily-Docs/2024/12_December/2024-12-30 Mon.md",
+    "remoteBrain/Daily-Docs/2024/12_December/2024-12-29 Sun.md",
     "remoteBrain/Daily-Docs/2024/12_December/2024-12-27 Fri.md",
+    "remoteBrain/Daily-Docs/2024/12_December/2024-12-24 Tue.md",
     "remoteBrain/Daily-Docs/2024/12_December/2024-12-16 Mon.md",
     "remoteBrain/Daily-Docs/2024/12_December/2024-12-18 Wed.md",
     "remoteBrain/Daily-Docs/2024/12_December/2024-12-19 Thu.md",
@@ -229,8 +241,6 @@
     "remoteBrain/Daily-Docs/2024/12_December/2024-12-07 Sat.md",
     "remoteBrain/Daily-Docs/2024/12_December/2024-12-08 Sun.md",
     "remoteBrain/Daily-Docs/2024/12_December/2024-12-03 Tue.md",
-    "remoteBrain/Daily-Docs/2024/12_December/2024-12-02 Mon.md",
-    "remoteBrain/_template/daily.md",
     "remoteBrain/Daily-docs/2024/04_April/Untitled1.ipynb",
     "remoteBrain/Daily-docs/2024/04_April/Untitled.ipynb",
     "remoteBrain/Daily-docs/2024/04_April/test.py",
