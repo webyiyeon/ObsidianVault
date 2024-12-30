@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "12_December",
-      "path": "remoteBrain/Report/2024/12_December.md"
+      "basename": "daily",
+      "path": "remoteBrain/_templater/daily.md"
     },
     {
-      "basename": "2024-12-29 Sun",
-      "path": "remoteBrain/Daily-Docs/2024/12_December/2024-12-29 Sun.md"
+      "basename": "Monthly",
+      "path": "remoteBrain/_template/Monthly.md"
+    },
+    {
+      "basename": "12_December",
+      "path": "remoteBrain/Report/2024/12_December.md"
     },
     {
       "basename": "2024-12-30 Mon",
@@ -15,6 +19,34 @@
     {
       "basename": "2024-12-27 Fri",
       "path": "remoteBrain/Daily-Docs/2024/12_December/2024-12-27 Fri.md"
+    },
+    {
+      "basename": "2024-12-29 Sun",
+      "path": "remoteBrain/Daily-Docs/2024/12_December/2024-12-29 Sun.md"
+    },
+    {
+      "basename": "2024-12-31 Tue",
+      "path": "remoteBrain/Daily-Docs/2024/12_December/2024-12-31 Tue.md"
+    },
+    {
+      "basename": "TP-DailyNote",
+      "path": "remoteBrain/_templater/TP-DailyNote.md"
+    },
+    {
+      "basename": "2024-12-25 Wed",
+      "path": "remoteBrain/Daily-Docs/2024/12_December/2024-12-25 Wed.md"
+    },
+    {
+      "basename": "2024-12-26 Thu",
+      "path": "remoteBrain/Daily-Docs/2024/12_December/2024-12-26 Thu.md"
+    },
+    {
+      "basename": "2024-12-28 Sat",
+      "path": "remoteBrain/Daily-Docs/2024/12_December/2024-12-28 Sat.md"
+    },
+    {
+      "basename": "2024-12-23 Mon",
+      "path": "remoteBrain/Daily-Docs/2024/12_December/2024-12-23 Mon.md"
     },
     {
       "basename": "2024-12-24 Tue",
@@ -31,10 +63,6 @@
     {
       "basename": "2024-12-19 Thu",
       "path": "remoteBrain/Daily-Docs/2024/12_December/2024-12-19 Thu.md"
-    },
-    {
-      "basename": "2024-12-23 Mon",
-      "path": "remoteBrain/Daily-Docs/2024/12_December/2024-12-23 Mon.md"
     },
     {
       "basename": "2024-12-21 Sat",
@@ -81,10 +109,6 @@
       "path": "remoteBrain/Daily-Docs/2024/12_December/2024-12-11 Wed.md"
     },
     {
-      "basename": "daily",
-      "path": "remoteBrain/_templater/daily.md"
-    },
-    {
       "basename": "2024-12-05 Thu",
       "path": "remoteBrain/Daily-Docs/2024/12_December/2024-12-05 Thu.md"
     },
@@ -111,10 +135,6 @@
     {
       "basename": "daily",
       "path": "remoteBrain/_template/daily.md"
-    },
-    {
-      "basename": "Monthly",
-      "path": "remoteBrain/_template/Monthly.md"
     },
     {
       "basename": "2024-12-01 Sun",
@@ -179,26 +199,6 @@
     {
       "basename": "01_디버깅",
       "path": "remoteBrain/99_Jangbogo/01_디버깅.md"
-    },
-    {
-      "basename": "00_개발공유",
-      "path": "remoteBrain/99_Jangbogo/00_개발공유.md"
-    },
-    {
-      "basename": "2024-07-22 Mon",
-      "path": "remoteBrain/Daily-Docs/2024/07_July/2024-07-22 Mon.md"
-    },
-    {
-      "basename": "2024-06-28 Fri",
-      "path": "remoteBrain/Daily-Docs/2024/06_June/2024-06-28 Fri.md"
-    },
-    {
-      "basename": "2024-04-25 Thu",
-      "path": "remoteBrain/Daily-Docs/2024/04_April/2024-04-25 Thu.md"
-    },
-    {
-      "basename": "2024-07-18 Thu",
-      "path": "remoteBrain/Daily-Docs/2024/07_July/2024-07-18 Thu.md"
     }
   ],
   "omittedPaths": [],
