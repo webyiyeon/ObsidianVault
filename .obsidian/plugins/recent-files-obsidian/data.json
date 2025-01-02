@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-01-02 Thu",
+      "path": "remoteBrain/Daily-Docs/2025/01_January/2025-01-02 Thu.md"
+    },
+    {
       "basename": "2024-12-30 Mon",
       "path": "remoteBrain/Daily-Docs/2024/12_December/2024-12-30 Mon.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2024-11-27 Wed",
       "path": "remoteBrain/Daily-Docs/2024/11_November/2024-11-27 Wed.md"
-    },
-    {
-      "basename": "02_1_LangChain 강의 (Basic)",
-      "path": "remoteBrain/99_Jangbogo/02_1_LangChain 강의 (Basic).md"
     }
   ],
   "omittedPaths": [],
