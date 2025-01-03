@@ -98,8 +98,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -213,7 +212,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "dd47acd825b3668b",
+  "active": "85089cbb51fb90a7",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2025/01_January/2025-01-02 Thu.md",
     "remoteBrain/Daily-Docs/2025/01_January/2025-01-03 Fri.md",
