@@ -49,7 +49,8 @@
               "title": "2025-01-07 Tue"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,28 +189,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/12_December/2024-12-30 Mon.md"
+                "file": "remoteBrain/99_InsightON/슬기로운 독서생활.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-12-30 Mon"
-            }
-          },
-          {
-            "id": "eb63eb0a66a50801",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-perflexity",
-              "state": {},
-              "icon": "lucide-bot-message-square",
-              "title": "Perflexity"
+              "title": "Outline of 슬기로운 독서생활"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 529.5
+    "width": 529.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,10 +219,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7485729dc6dbdf72",
+  "active": "d22b21c0534d096b",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2025/01_January/2025-01-06 Mon.md",
     "remoteBrain/Daily-Docs/2025/01_January/2025-01-07 Tue.md",
+    "remoteBrain/Daily-Docs/2025/01_January/2025-01-06 Mon.md",
     "remoteBrain/99_InsightON/슬기로운 독서생활.md",
     "remoteBrain/Daily-Docs/Images/Pasted image 20250107120752.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20250107112857.png",
