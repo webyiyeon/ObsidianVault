@@ -218,11 +218,12 @@
               "title": "Perflexity"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 533.5
+    "width": 574.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,7 +241,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "96ba14385b16ab89",
+  "active": "994bdd6f9d4bad79",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2025/01_January/2025-01-15 Wed.md",
     "remoteBrain/Daily-Docs/2025/01_January/2025-01-16 Thu.md",
