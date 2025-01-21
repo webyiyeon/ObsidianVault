@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "46de91dee06fed55",
+        "id": "f605fc1d3ca3b7cc",
         "type": "tabs",
         "children": [
           {
-            "id": "96ba14385b16ab89",
+            "id": "b63065b1c1c7180c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5,
-    "collapsed": true
+    "width": 318.5
   },
   "right": {
     "id": "ecd774abb35f323a",
@@ -181,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 571.5,
-    "collapsed": true
+    "width": 571.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,12 +198,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "96ba14385b16ab89",
+  "active": "85089cbb51fb90a7",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2025/01_January/2025-01-20 Mon.md",
     "remoteBrain/Daily-Docs/2025/01_January/2025-01-21 Tue.md",
-    "remoteBrain/Daily-Docs/2025/01_January/2025-01-12 Sun.md",
     "remoteBrain/Report/2025/01_January.md",
+    "remoteBrain/Daily-Docs/2025/01_January/2025-01-20 Mon.md",
+    "remoteBrain/Daily-Docs/2025/01_January/2025-01-12 Sun.md",
     "remoteBrain/Daily-Docs/2025/01_January/2025-01-16 Thu.md",
     "remoteBrain/Daily-Docs/2025/01_January/2025-01-19 Sun.md",
     "remoteBrain/Daily-Docs/2025/01_January/2025-01-18 Sat.md",
