@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2025/01_January/2025-01-22 Wed.md",
+                "file": "remoteBrain/Daily-Docs/2025/01_January/2025-01-21 Tue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-22 Wed"
+              "title": "2025-01-21 Tue"
             }
           }
         ]
@@ -160,10 +160,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Report/2025/01_January.md"
+                "file": "remoteBrain/Daily-Docs/2025/01_January/2025-01-21 Tue.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 01_January"
+              "title": "Outline of 2025-01-21 Tue"
             }
           },
           {
@@ -181,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 571.5,
-    "collapsed": true
+    "width": 571.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,10 +199,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "96ba14385b16ab89",
+  "active": "00ae5d7a3dab9673",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2025/01_January/2025-01-21 Tue.md",
     "remoteBrain/Daily-Docs/2025/01_January/2025-01-22 Wed.md",
+    "remoteBrain/Daily-Docs/2025/01_January/2025-01-21 Tue.md",
     "remoteBrain/Daily-Docs/2025/01_January/2025-01-20 Mon.md",
     "remoteBrain/Daily-Docs/2025/01_January/2025-01-12 Sun.md",
     "remoteBrain/Report/2025/01_January.md",
