@@ -98,8 +98,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -215,7 +214,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "75ff514cfed82659",
+  "active": "85089cbb51fb90a7",
   "lastOpenFiles": [
     "remoteBrain/Report/2025/01_January.md",
     "remoteBrain/99_InsightON/슬기로운 독서생활.md",
