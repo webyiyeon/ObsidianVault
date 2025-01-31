@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 571.5
+    "width": 321.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,7 +198,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b1fabc898e42db75",
+  "active": "85089cbb51fb90a7",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2025/01_January/2025-01-25 Sat.md",
     "remoteBrain/Daily-Docs/2025/01_January/2025-01-26 Sun.md",
