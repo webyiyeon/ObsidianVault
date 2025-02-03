@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f605fc1d3ca3b7cc",
+        "id": "46de91dee06fed55",
         "type": "tabs",
         "children": [
           {
-            "id": "b63065b1c1c7180c",
+            "id": "75ff514cfed82659",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2025/01_January/2025-01-26 Sun.md",
+                "file": "remoteBrain/Daily-Docs/2025/01_January/2025-01-23 Thu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-26 Sun"
+              "title": "2025-01-23 Thu"
             }
           }
         ]
@@ -160,10 +160,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Report/2025/01_January.md"
+                "file": "remoteBrain/Daily-Docs/2025/01_January/2025-01-22 Wed.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 01_January"
+              "title": "Outline of 2025-01-22 Wed"
             }
           },
           {
@@ -176,11 +176,13 @@
               "title": "Perflexity"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,29 +202,29 @@
   },
   "active": "85089cbb51fb90a7",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2025/01_January/2025-01-25 Sat.md",
-    "remoteBrain/Daily-Docs/2025/01_January/2025-01-26 Sun.md",
+    "remoteBrain/Daily-Docs/2025/01_January/2025-01-31 Fri.md",
     "remoteBrain/Daily-Docs/2025/01_January/2025-01-30 Thu.md",
     "remoteBrain/Daily-Docs/2025/01_January/2025-01-29 Wed.md",
     "remoteBrain/Daily-Docs/2025/01_January/2025-01-28 Tue.md",
     "remoteBrain/Daily-Docs/2025/01_January/2025-01-27 Mon.md",
-    "remoteBrain/Daily-Docs/2025/01_January/2025-01-31 Fri.md",
-    "remoteBrain/Daily-Docs/2025/01_January/2025-01-23 Thu.md",
+    "remoteBrain/Daily-Docs/2025/01_January/2025-01-26 Sun.md",
+    "remoteBrain/Daily-Docs/2025/01_January/2025-01-25 Sat.md",
     "remoteBrain/Daily-Docs/2025/01_January/2025-01-24 Fri.md",
-    "remoteBrain/Daily-Docs/2025/01_January/2025-01-21 Tue.md",
     "remoteBrain/Daily-Docs/2025/01_January/2025-01-22 Wed.md",
+    "remoteBrain/Daily-Docs/2025/01_January/2025-01-23 Thu.md",
     "remoteBrain/Report/2025/01_January.md",
+    "remoteBrain/99_InsightON/슬기로운 독서생활.md",
+    "remoteBrain/Daily-Docs/2025/01_January/2025-01-21 Tue.md",
     "remoteBrain/Daily-Docs/2025/01_January/2025-01-20 Mon.md",
-    "remoteBrain/Daily-Docs/2025/01_January/2025-01-12 Sun.md",
-    "remoteBrain/Daily-Docs/2025/01_January/2025-01-16 Thu.md",
     "remoteBrain/Daily-Docs/2025/01_January/2025-01-19 Sun.md",
     "remoteBrain/Daily-Docs/2025/01_January/2025-01-18 Sat.md",
+    "remoteBrain/Daily-Docs/2025/01_January/2025-01-12 Sun.md",
+    "remoteBrain/Daily-Docs/2025/01_January/2025-01-16 Thu.md",
     "remoteBrain/Daily-Docs/2025/01_January/2025-01-10 Fri.md",
     "remoteBrain/Daily-Docs/2025/01_January/2025-01-17 Fri.md",
     "remoteBrain/Daily-Docs/2025/01_January/2025-01-06 Mon.md",
     "remoteBrain/Daily-Docs/2025/01_January/2025-01-13 Mon.md",
     "remoteBrain/Daily-Docs/2025/01_January/2025-01-11 Sat.md",
-    "remoteBrain/99_InsightON/슬기로운 독서생활.md",
     "remoteBrain/Daily-Docs/2025/01_January/2025-01-15 Wed.md",
     "remoteBrain/Daily-Docs/2025/01_January/2025-01-14 Tue.md",
     "remoteBrain/99_InsightON/SKMU 단위테스트.md",
