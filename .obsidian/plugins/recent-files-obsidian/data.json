@@ -1,32 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-01-26 Sun",
-      "path": "remoteBrain/Daily-Docs/2025/01_January/2025-01-26 Sun.md"
+      "basename": "2025-02-03 Mon",
+      "path": "remoteBrain/Daily-Docs/2025/02_February/2025-02-03 Mon.md"
     },
     {
-      "basename": "2025-01-25 Sat",
-      "path": "remoteBrain/Daily-Docs/2025/01_January/2025-01-25 Sat.md"
+      "basename": "2025-02-02 Sun",
+      "path": "remoteBrain/Daily-Docs/2025/02_February/2025-02-02 Sun.md"
+    },
+    {
+      "basename": "2025-02-01 Sat",
+      "path": "remoteBrain/Daily-Docs/2025/02_February/2025-02-01 Sat.md"
+    },
+    {
+      "basename": "2025-01-31 Fri",
+      "path": "remoteBrain/Daily-Docs/2025/01_January/2025-01-31 Fri.md"
     },
     {
       "basename": "2025-01-30 Thu",
       "path": "remoteBrain/Daily-Docs/2025/01_January/2025-01-30 Thu.md"
     },
     {
+      "basename": "2025-01-28 Tue",
+      "path": "remoteBrain/Daily-Docs/2025/01_January/2025-01-28 Tue.md"
+    },
+    {
       "basename": "2025-01-29 Wed",
       "path": "remoteBrain/Daily-Docs/2025/01_January/2025-01-29 Wed.md"
     },
     {
-      "basename": "2025-01-28 Tue",
-      "path": "remoteBrain/Daily-Docs/2025/01_January/2025-01-28 Tue.md"
+      "basename": "01_January",
+      "path": "remoteBrain/Report/2025/01_January.md"
+    },
+    {
+      "basename": "02_February",
+      "path": "remoteBrain/Report/2025/02_February.md"
     },
     {
       "basename": "2025-01-27 Mon",
       "path": "remoteBrain/Daily-Docs/2025/01_January/2025-01-27 Mon.md"
     },
     {
-      "basename": "2025-01-31 Fri",
-      "path": "remoteBrain/Daily-Docs/2025/01_January/2025-01-31 Fri.md"
+      "basename": "2025-01-26 Sun",
+      "path": "remoteBrain/Daily-Docs/2025/01_January/2025-01-26 Sun.md"
+    },
+    {
+      "basename": "2025-01-25 Sat",
+      "path": "remoteBrain/Daily-Docs/2025/01_January/2025-01-25 Sat.md"
     },
     {
       "basename": "2025-01-23 Thu",
@@ -39,10 +59,6 @@
     {
       "basename": "2025-01-21 Tue",
       "path": "remoteBrain/Daily-Docs/2025/01_January/2025-01-21 Tue.md"
-    },
-    {
-      "basename": "01_January",
-      "path": "remoteBrain/Report/2025/01_January.md"
     },
     {
       "basename": "2025-01-20 Mon",
@@ -183,22 +199,6 @@
     {
       "basename": "2024-12-30 Mon",
       "path": "remoteBrain/Daily-Docs/2024/12_December/2024-12-30 Mon.md"
-    },
-    {
-      "basename": "12_December",
-      "path": "remoteBrain/Report/2024/12_December.md"
-    },
-    {
-      "basename": "2024-12-31 Tue",
-      "path": "remoteBrain/Daily-Docs/2024/12_December/2024-12-31 Tue.md"
-    },
-    {
-      "basename": "2024-12-27 Fri",
-      "path": "remoteBrain/Daily-Docs/2024/12_December/2024-12-27 Fri.md"
-    },
-    {
-      "basename": "2024-12-29 Sun",
-      "path": "remoteBrain/Daily-Docs/2024/12_December/2024-12-29 Sun.md"
     }
   ],
   "omittedPaths": [],
