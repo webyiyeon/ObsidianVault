@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2025/02_February/2025-02-06 Thu.md",
+                "file": "remoteBrain/Daily-Docs/2025/02_February/2025-02-05 Wed.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-06 Thu"
+              "title": "2025-02-05 Wed"
             }
           }
         ],
@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "right": {
     "id": "ecd774abb35f323a",
@@ -175,14 +176,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2025/01_January/2025-01-22 Wed.md"
+                "file": "remoteBrain/Daily-Docs/2025/02_February/2025-02-05 Wed.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-01-22 Wed"
+              "title": "Outline of 2025-02-05 Wed"
             }
           },
           {
-            "id": "00ae5d7a3dab9673",
+            "id": "ec2ac240d2edc97f",
             "type": "leaf",
             "state": {
               "type": "custom-frames-perflexity",
@@ -191,7 +195,8 @@
               "title": "Perflexity"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -213,12 +218,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3153bf5c43ec33ba",
+  "active": "ec2ac240d2edc97f",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2025/02_February/2025-02-05 Wed.md",
     "remoteBrain/Daily-Docs/2025/02_February/2025-02-06 Thu.md",
-    "remoteBrain/Daily-Docs/2025/02_February/2025-02-04 Tue.md",
     "remoteBrain/Report/2025/02_February.md",
+    "remoteBrain/Daily-Docs/2025/02_February/2025-02-05 Wed.md",
+    "remoteBrain/Daily-Docs/2025/02_February/2025-02-04 Tue.md",
     "remoteBrain/Daily-Docs/2025/02_February/2025-02-03 Mon.md",
     "remoteBrain/Report/2025/01_January.md",
     "remoteBrain/99_InsightON/슬기로운 독서생활.md",
