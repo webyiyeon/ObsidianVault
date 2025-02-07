@@ -195,12 +195,11 @@
               "title": "Perflexity"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 465.5
+    "width": 319.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,8 +213,7 @@
       "obsidian-day-planner:Timeline": false,
       "templater-obsidian:Templater": false,
       "obsidian-day-and-night:Toggle Theme": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "periodic-notes:Open today": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "85089cbb51fb90a7",
