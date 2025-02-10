@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "02_February",
-      "path": "remoteBrain/Report/2025/02_February.md"
+      "basename": "2025-02-10 Mon",
+      "path": "remoteBrain/Daily-Docs/2025/02_February/2025-02-10 Mon.md"
     },
     {
       "basename": "2025-02-07 Fri",
       "path": "remoteBrain/Daily-Docs/2025/02_February/2025-02-07 Fri.md"
+    },
+    {
+      "basename": "02_February",
+      "path": "remoteBrain/Report/2025/02_February.md"
     },
     {
       "basename": "2025-02-06 Thu",
@@ -195,10 +199,6 @@
     {
       "basename": "2025-01-05 Sun",
       "path": "remoteBrain/Daily-Docs/2025/01_January/2025-01-05 Sun.md"
-    },
-    {
-      "basename": "2025-01-02 Thu",
-      "path": "remoteBrain/Daily-Docs/2025/01_January/2025-01-02 Thu.md"
     }
   ],
   "omittedPaths": [],
