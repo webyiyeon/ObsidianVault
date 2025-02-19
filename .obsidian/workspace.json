@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "2025-02-19 Wed"
             }
-          },
-          {
-            "id": "848d9f21fb755cb8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,7 +217,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "85089cbb51fb90a7",
+  "active": "3153bf5c43ec33ba",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2025/02_February/2025-02-18 Tue.md",
     "remoteBrain/Daily-Docs/2025/02_February/2025-02-19 Wed.md",
