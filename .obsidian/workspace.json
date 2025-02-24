@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cfb5d598738201ad",
+        "id": "8d77bdb30ad55dd4",
         "type": "tabs",
         "children": [
           {
-            "id": "51f3073237ff5452",
+            "id": "ab3829d4d9308812",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/_template/recipe.md",
+                "file": "remoteBrain/VisionBoard/2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "recipe"
+              "title": "2025"
             }
           }
         ]
@@ -202,35 +202,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "51f3073237ff5452",
+  "active": "ab3829d4d9308812",
   "lastOpenFiles": [
-    "Blog/Tistory/맛따라/Recipe/알리오 올리오 파스타.md",
-    "Blog/Tistory/맛따라/Recipe/브리치즈 오일 파스타.md",
-    "Blog/Tistory/맛따라/Recipe/바스크 치즈케이크.md",
-    "remoteBrain/_template/recipe.md",
-    "remoteBrain/_templater/daily.md",
     "remoteBrain/_templater/Monthly.md",
-    "remoteBrain/_template/tags.md",
-    "remoteBrain/99_InsightON/슬기로운 독서생활.md",
+    "remoteBrain/_templater/Daily.md",
+    "remoteBrain/Report/2025/02_February.md",
     "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Report/2025/01_January.md",
+    "wooyeon/Love Life/𝒟𝒶𝓉𝑒 ℬ𝓊𝒸𝓀𝑒𝓉𝓁𝒾𝓈𝓉 - 𝟸𝟶𝟸𝟻.md",
+    "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/캠핑!.md",
+    "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/240413_1.webp",
+    "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/영화 웡카 후기.md",
+    "Excalidraw/RAG process.md",
+    "Blog/Tistory/맛따라/Recipe/바스크 치즈케이크.md",
+    "remoteBrain/_template/recipe.md",
+    "Blog/Tistory/맛따라/Recipe/브리치즈 오일 파스타.md",
+    "Blog/Tistory/맛따라/Recipe/알리오 올리오 파스타.md",
+    "remoteBrain/_template/tags.md",
+    "remoteBrain/99_InsightON/슬기로운 독서생활.md",
     "remoteBrain/Report/2025/03_March.md",
     "remoteBrain/Report/2024/02_February.md",
     "remoteBrain/_templater/VisionBoard(Yearly).md",
-    "remoteBrain/Report/2025/02_February.md",
     "remoteBrain/Daily-docs/2025.md",
     "remoteBrain/Daily-Docs/2025.md",
-    "remoteBrain/_templater/Daily.md",
     "remoteBrain/Daily-Docs/2025/02_February/2025-02-24 Mon.md",
     "remoteBrain/VisionBoard",
     "remoteBrain/_templater/TP-DailyNote.md",
     "remoteBrain/_template/daily.md",
     "remoteBrain/Daily-Docs/2025/02_February/2025-02-16 Sun.md",
     "remoteBrain/Daily-Docs/2025/02_February/2025-02-23 Sun.md",
-    "remoteBrain/Daily-Docs/2025/02_February/2025-02-22 Sat.md",
-    "remoteBrain/Daily-Docs/2025/02_February/2025-02-21 Fri.md",
-    "remoteBrain/Daily-Docs/2025/02_February/2025-02-20 Thu.md",
-    "remoteBrain/Daily-Docs/2025/02_February/2025-02-14 Fri.md",
     "remoteBrain/Daily-Docs/2025/02_February",
     "remoteBrain/Daily-Docs/Images/Pasted image 20250115125609.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20250107120752.png",

@@ -1,4 +1,20 @@
 
+## Reviews
+###### how are you feeling?
+
+###### what goals have you started?
+
+###### what have you not started?
+
+###### what obstacles are in your way?
+
+###### how can you overcome the obstacles?
+
+###### adjustments to goals (changes, omissions, additions!):
+
+###### TO DO in order to reach these goals:
+
+
 ## Keywords
 ```dataview
 TABLE 

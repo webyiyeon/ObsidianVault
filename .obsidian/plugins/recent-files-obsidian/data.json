@@ -1,28 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "recipe",
-      "path": "remoteBrain/_template/recipe.md"
+      "basename": "2025",
+      "path": "remoteBrain/VisionBoard/2025.md"
     },
     {
-      "basename": "알리오 올리오 파스타",
-      "path": "Blog/Tistory/맛따라/Recipe/알리오 올리오 파스타.md"
+      "basename": "Monthly",
+      "path": "remoteBrain/_templater/Monthly.md"
     },
     {
-      "basename": "브리치즈 오일 파스타",
-      "path": "Blog/Tistory/맛따라/Recipe/브리치즈 오일 파스타.md"
+      "basename": "Daily",
+      "path": "remoteBrain/_templater/Daily.md"
+    },
+    {
+      "basename": "02_February",
+      "path": "remoteBrain/Report/2025/02_February.md"
+    },
+    {
+      "basename": "01_January",
+      "path": "remoteBrain/Report/2025/01_January.md"
+    },
+    {
+      "basename": "𝒟𝒶𝓉𝑒 ℬ𝓊𝒸𝓀𝑒𝓉𝓁𝒾𝓈𝓉 - 𝟸𝟶𝟸𝟻",
+      "path": "wooyeon/Love Life/𝒟𝒶𝓉𝑒 ℬ𝓊𝒸𝓀𝑒𝓉𝓁𝒾𝓈𝓉 - 𝟸𝟶𝟸𝟻.md"
+    },
+    {
+      "basename": "캠핑!",
+      "path": "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/캠핑!.md"
+    },
+    {
+      "basename": "240413_1",
+      "path": "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/240413_1.webp"
+    },
+    {
+      "basename": "영화 웡카 후기",
+      "path": "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/영화 웡카 후기.md"
+    },
+    {
+      "basename": "RAG process",
+      "path": "Excalidraw/RAG process.md"
     },
     {
       "basename": "바스크 치즈케이크",
       "path": "Blog/Tistory/맛따라/Recipe/바스크 치즈케이크.md"
     },
     {
-      "basename": "daily",
-      "path": "remoteBrain/_templater/daily.md"
+      "basename": "recipe",
+      "path": "remoteBrain/_template/recipe.md"
     },
     {
-      "basename": "Monthly",
-      "path": "remoteBrain/_templater/Monthly.md"
+      "basename": "브리치즈 오일 파스타",
+      "path": "Blog/Tistory/맛따라/Recipe/브리치즈 오일 파스타.md"
+    },
+    {
+      "basename": "알리오 올리오 파스타",
+      "path": "Blog/Tistory/맛따라/Recipe/알리오 올리오 파스타.md"
     },
     {
       "basename": "tags",
@@ -33,20 +65,8 @@
       "path": "remoteBrain/99_InsightON/슬기로운 독서생활.md"
     },
     {
-      "basename": "2025",
-      "path": "remoteBrain/VisionBoard/2025.md"
-    },
-    {
-      "basename": "01_January",
-      "path": "remoteBrain/Report/2025/01_January.md"
-    },
-    {
       "basename": "02_February",
       "path": "remoteBrain/Report/2024/02_February.md"
-    },
-    {
-      "basename": "02_February",
-      "path": "remoteBrain/Report/2025/02_February.md"
     },
     {
       "basename": "Daily",
@@ -179,26 +199,6 @@
     {
       "basename": "2025-01-23 Thu",
       "path": "remoteBrain/Daily-Docs/2025/01_January/2025-01-23 Thu.md"
-    },
-    {
-      "basename": "2025-01-24 Fri",
-      "path": "remoteBrain/Daily-Docs/2025/01_January/2025-01-24 Fri.md"
-    },
-    {
-      "basename": "2025-01-21 Tue",
-      "path": "remoteBrain/Daily-Docs/2025/01_January/2025-01-21 Tue.md"
-    },
-    {
-      "basename": "2025-01-20 Mon",
-      "path": "remoteBrain/Daily-Docs/2025/01_January/2025-01-20 Mon.md"
-    },
-    {
-      "basename": "2025-01-12 Sun",
-      "path": "remoteBrain/Daily-Docs/2025/01_January/2025-01-12 Sun.md"
-    },
-    {
-      "basename": "2025-01-16 Thu",
-      "path": "remoteBrain/Daily-Docs/2025/01_January/2025-01-16 Thu.md"
     }
   ],
   "omittedPaths": [],

@@ -1,6 +1,5 @@
 [
   "periodic-notes",
-  "deepl",
   "obsidian42-brat",
   "recent-files-obsidian",
   "obsidian-style-settings",
@@ -20,5 +19,7 @@
   "templater-obsidian",
   "text-snippets-obsidian",
   "obsidian-day-and-night",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-image-toolkit",
+  "homepage"
 ]
