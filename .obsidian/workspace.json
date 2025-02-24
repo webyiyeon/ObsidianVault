@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "8986216cf67031d1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
+          },
+          {
             "id": "fce3332d208e4dda",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "01_January"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,8 +111,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -216,7 +228,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "75ff514cfed82659",
+  "active": "85089cbb51fb90a7",
   "lastOpenFiles": [
     "remoteBrain/Report/2025/03_March.md",
     "remoteBrain/VisionBoard/2025.md",
