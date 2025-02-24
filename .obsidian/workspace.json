@@ -185,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 321.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,7 +204,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b1fabc898e42db75",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/Images/KakaoTalk_Photo_2025-01-04-00-01-11-25.jpeg",
     "remoteBrain/Daily-Docs/Images/KakaoTalk_Photo_2025-01-04-00-01-11-37.jpeg",
