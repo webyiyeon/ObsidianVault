@@ -36,6 +36,7 @@
     "dncals": "number",
     "sncals": "number",
     "lccals": "number",
-    "bfcals": "number"
+    "bfcals": "number",
+    "servings": "number"
   }
 }

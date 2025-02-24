@@ -1,6 +1,10 @@
 ---
 tags:
   - "#recipe🏷️"
+servings: 
+prep time: 
+cook time: 
+ready in:
 ---
 # {{title}}
 
@@ -10,9 +14,9 @@ tags:
 ## Ingredients Needed:
 
 | Name | Measure | Ratio |
-| ---- | ---- | ---- |
-|  |  |  |
-|  |  |  |
+| ---- | ------- | ----- |
+|      |         |       |
+|      |         |       |
  
 ---
 

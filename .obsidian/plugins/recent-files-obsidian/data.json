@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "recipe",
+      "path": "remoteBrain/_template/recipe.md"
+    },
+    {
+      "basename": "알리오 올리오 파스타",
+      "path": "Blog/Tistory/맛따라/Recipe/알리오 올리오 파스타.md"
+    },
+    {
+      "basename": "브리치즈 오일 파스타",
+      "path": "Blog/Tistory/맛따라/Recipe/브리치즈 오일 파스타.md"
+    },
+    {
+      "basename": "바스크 치즈케이크",
+      "path": "Blog/Tistory/맛따라/Recipe/바스크 치즈케이크.md"
+    },
+    {
+      "basename": "daily",
+      "path": "remoteBrain/_templater/daily.md"
+    },
+    {
+      "basename": "Monthly",
+      "path": "remoteBrain/_templater/Monthly.md"
+    },
+    {
+      "basename": "tags",
+      "path": "remoteBrain/_template/tags.md"
+    },
+    {
+      "basename": "슬기로운 독서생활",
+      "path": "remoteBrain/99_InsightON/슬기로운 독서생활.md"
+    },
+    {
       "basename": "2025",
       "path": "remoteBrain/VisionBoard/2025.md"
     },
@@ -23,10 +55,6 @@
     {
       "basename": "2025-02-24 Mon",
       "path": "remoteBrain/Daily-Docs/2025/02_February/2025-02-24 Mon.md"
-    },
-    {
-      "basename": "Monthly",
-      "path": "remoteBrain/_templater/Monthly.md"
     },
     {
       "basename": "2025-02-16 Sun",
@@ -113,10 +141,6 @@
       "path": "remoteBrain/Daily-Docs/2025/02_February/2025-02-04 Tue.md"
     },
     {
-      "basename": "슬기로운 독서생활",
-      "path": "remoteBrain/99_InsightON/슬기로운 독서생활.md"
-    },
-    {
       "basename": "2025-02-02 Sun",
       "path": "remoteBrain/Daily-Docs/2025/02_February/2025-02-02 Sun.md"
     },
@@ -175,22 +199,6 @@
     {
       "basename": "2025-01-16 Thu",
       "path": "remoteBrain/Daily-Docs/2025/01_January/2025-01-16 Thu.md"
-    },
-    {
-      "basename": "2025-01-19 Sun",
-      "path": "remoteBrain/Daily-Docs/2025/01_January/2025-01-19 Sun.md"
-    },
-    {
-      "basename": "2025-01-18 Sat",
-      "path": "remoteBrain/Daily-Docs/2025/01_January/2025-01-18 Sat.md"
-    },
-    {
-      "basename": "2025-01-10 Fri",
-      "path": "remoteBrain/Daily-Docs/2025/01_January/2025-01-10 Fri.md"
-    },
-    {
-      "basename": "2025-01-17 Fri",
-      "path": "remoteBrain/Daily-Docs/2025/01_January/2025-01-17 Fri.md"
     }
   ],
   "omittedPaths": [],
