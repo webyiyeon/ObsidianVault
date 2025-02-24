@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "remoteBrain/VisionBoard/2025.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -84,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -206,6 +205,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/Images/KakaoTalk_Photo_2025-01-04-00-01-11-25.jpeg",
     "remoteBrain/Daily-Docs/Images/KakaoTalk_Photo_2025-01-04-00-01-11-37.jpeg",
     "remoteBrain/Daily-Docs/Images/KakaoTalk_Photo_2025-01-04-00-01-11-122.jpeg",
@@ -216,8 +216,6 @@
     "remoteBrain/Daily-Docs/Images/KakaoTalk_Photo_2025-01-04-00-01-11-115.jpeg",
     "remoteBrain/Daily-Docs/Images/KakaoTalk_Photo_2025-01-04-00-01-11-109.jpeg",
     "remoteBrain/Daily-Docs/Images/KakaoTalk_Photo_2025-01-04-00-01-11-99.jpeg",
-    "remoteBrain/Daily-Docs/Images/KakaoTalk_Photo_2025-01-04-00-01-11-90.jpeg",
-    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/_templater/Monthly.md",
     "remoteBrain/_templater/Daily.md",
     "remoteBrain/Report/2025/02_February.md",
