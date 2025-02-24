@@ -4,19 +4,19 @@
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
     "format": "YYYY/MM_MMMM/YYYY-MM-DD ddd",
-    "template": "remoteBrain/_templater/daily.md",
+    "template": "remoteBrain/_templater/Daily.md",
     "folder": "remoteBrain/Daily-Docs",
     "enabled": true
   },
   "weekly": {
     "format": "",
-    "template": "remoteBrain/_templater/Test.md",
+    "template": "remoteBrain/_templater/daily.md",
     "folder": "/",
     "enabled": false
   },
   "monthly": {
     "format": "MM_MMMM",
-    "template": "remoteBrain/_template/Monthly.md",
+    "template": "remoteBrain/_templater/Monthly.md",
     "folder": "remoteBrain/Report/2025",
     "enabled": true
   },
