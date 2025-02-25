@@ -76,15 +76,6 @@
     }
   ],
   "obsidian-excalidraw-plugin:insert-link": [],
-  "obsidian-custom-frames:open-custom-frames-google-calendar": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "A"
-    }
-  ],
   "ics:import_events": [
     {
       "modifiers": [
@@ -124,6 +115,14 @@
         "Alt"
       ],
       "key": "4"
+    }
+  ],
+  "obsidian-custom-frames:open-custom-frames-google-calendar": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "2"
     }
   ]
 }

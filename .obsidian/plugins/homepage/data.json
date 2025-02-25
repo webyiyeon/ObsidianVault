@@ -14,16 +14,7 @@
       "autoCreate": false,
       "autoScroll": false,
       "pin": true,
-      "commands": [
-        {
-          "id": "workspace:new-tab",
-          "period": "Both"
-        },
-        {
-          "id": "workspace:goto-tab-1",
-          "period": "Both"
-        }
-      ],
+      "commands": [],
       "alwaysApply": false,
       "hideReleaseNotes": false
     }
