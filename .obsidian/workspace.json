@@ -35,8 +35,7 @@
               "title": "2025-02-25 Tue"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 200
   },
   "right": {
     "id": "ecd774abb35f323a",
@@ -207,11 +206,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "043202f46511e13e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2025/02_February/2025-02-25 Tue.md",
     "remoteBrain/Daily-Docs/2025/02_February/2025-02-24 Mon.md",
     "remoteBrain/VisionBoard/2025.md",
-    "remoteBrain/Daily-Docs/2025/02_February/2025-02-25 Tue.md",
     "remoteBrain/Report/2025/02_February.md",
     "remoteBrain/Report/2025/01_January.md",
     "remoteBrain/Daily-Docs/Images/KakaoTalk_Photo_2025-01-04-00-01-11-25.jpeg",
