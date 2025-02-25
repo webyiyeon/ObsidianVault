@@ -37,8 +37,7 @@
               "title": "2025-02-25 Tue"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ecd774abb35f323a",
@@ -212,10 +212,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7f25e9582c2630bc",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/02_February/2025-02-25 Tue.md",
+    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Report/2025/02_February.md",
     "remoteBrain/Daily-Docs/2025/02_February/2025-02-24 Mon.md",
     "remoteBrain/Report/2025/01_January.md",
