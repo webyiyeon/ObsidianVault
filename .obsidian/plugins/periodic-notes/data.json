@@ -29,6 +29,6 @@
     "format": "YYYY",
     "template": "remoteBrain/_templater/VisionBoard(Yearly).md",
     "folder": "remoteBrain/VisionBoard/",
-    "enabled": true
+    "enabled": false
   }
 }

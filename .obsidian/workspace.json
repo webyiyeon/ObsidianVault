@@ -16,21 +16,12 @@
               "state": {
                 "file": "remoteBrain/VisionBoard/2025.md",
                 "mode": "preview",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "pinned": true,
               "icon": "lucide-file",
               "title": "2025"
-            }
-          },
-          {
-            "id": "104ca34b9a30ed53",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
             }
           }
         ]
@@ -75,16 +66,6 @@
               "icon": "lucide-search",
               "title": "Search"
             }
-          },
-          {
-            "id": "98cd00da17679c8f",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
           }
         ]
       }
@@ -101,7 +82,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "53541630f6fe7083",
+            "id": "44b6cec05658cf91",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "4f45c72f8dac84ce",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -113,64 +104,6 @@
               },
               "icon": "lucide-list",
               "title": "Outline of 2025"
-            }
-          },
-          {
-            "id": "4f52044ff70406b1",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "remoteBrain/VisionBoard/2025.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 2025"
-            }
-          },
-          {
-            "id": "bcd81333801c559b",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "remoteBrain/VisionBoard/2025.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 2025"
-            }
-          },
-          {
-            "id": "61c65663f1db9727",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "44b6cec05658cf91",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
             }
           }
         ]
@@ -191,14 +124,17 @@
       "obsidian-day-planner:Timeline": false,
       "obsidian-day-and-night:Toggle Theme": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "canvas:Create new canvas": false,
       "obsidian-custom-frames:Open Google Calendar": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/02_February/2025-02-25 Tue.md",
+    "remoteBrain/VisionBoard/2025.md",
+    "Untitled.canvas",
     "remoteBrain/Report/2025/02_February.md",
     "remoteBrain/Daily-Docs/2025/02_February/2025-02-24 Mon.md",
     "remoteBrain/Report/2025/01_January.md",
@@ -233,7 +169,6 @@
     "remoteBrain/_templater/TP-DailyNote.md",
     "remoteBrain/_template/daily.md",
     "remoteBrain/Daily-Docs/2025/02_February/2025-02-16 Sun.md",
-    "remoteBrain/Daily-Docs/2025/02_February/2025-02-23 Sun.md",
     "remoteBrain/Daily-Docs/2025/02_February",
     "remoteBrain/Report/2025",
     "remoteBrain/Daily-Docs/2025/01_January",
