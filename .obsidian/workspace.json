@@ -28,10 +28,15 @@
             "id": "46d6ed2b15c6e8f5",
             "type": "leaf",
             "state": {
-              "type": "custom-frames-google-calendar",
-              "state": {},
-              "icon": "lucide-calendar-heart",
-              "title": "Google Calendar"
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2025/02_February/2025-02-25 Tue.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-02-25 Tue"
             }
           }
         ],
