@@ -10,6 +10,7 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,12 +18,13 @@
                 "mode": "preview",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "2025"
             }
           },
           {
-            "id": "bac33f547395bec7",
+            "id": "7f25e9582c2630bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -104,7 +106,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "145e9cc96efbeae8",
+            "id": "bd88602b4747057e",
             "type": "leaf",
             "state": {
               "type": "custom-frames-google-calendar",
@@ -114,22 +116,27 @@
             }
           },
           {
-            "id": "b1fabc898e42db75",
+            "id": "53541630f6fe7083",
             "type": "leaf",
             "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "type": "outline",
+              "state": {
+                "file": "remoteBrain/VisionBoard/2025.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025"
             }
           },
           {
-            "id": "c8334cc5c14117e2",
+            "id": "4f52044ff70406b1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2025/02_February/2025-02-25 Tue.md",
+                "file": "remoteBrain/VisionBoard/2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,40 +146,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-02-25 Tue"
+              "title": "Backlinks for 2025"
             }
           },
           {
-            "id": "7699c17d35651fa8",
+            "id": "bcd81333801c559b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2025/02_February/2025-02-25 Tue.md",
+                "file": "remoteBrain/VisionBoard/2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-02-25 Tue"
+              "title": "Outgoing links from 2025"
             }
           },
           {
-            "id": "53541630f6fe7083",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "remoteBrain/Daily-Docs/2025/02_February/2025-02-25 Tue.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 2025-02-25 Tue"
-            }
-          },
-          {
-            "id": "bc222dc815b0d56b",
+            "id": "61c65663f1db9727",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -185,12 +177,22 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "44b6cec05658cf91",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 436.5
+    "width": 585.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,7 +212,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bac33f547395bec7",
+  "active": "7f25e9582c2630bc",
   "lastOpenFiles": [
     "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/02_February/2025-02-25 Tue.md",

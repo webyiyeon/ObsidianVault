@@ -13,23 +13,19 @@
       "refreshDataview": false,
       "autoCreate": false,
       "autoScroll": false,
-      "pin": false,
+      "pin": true,
       "commands": [
         {
-          "id": "obsidian-custom-frames:open-custom-frames-google-calendar",
-          "period": "Startup only"
-        },
-        {
           "id": "workspace:new-tab",
-          "period": "Startup only"
-        },
-        {
-          "id": "periodic-notes:open-daily-note",
-          "period": "Startup only"
+          "period": "Both"
         },
         {
           "id": "workspace:goto-tab-1",
-          "period": "Startup only"
+          "period": "Both"
+        },
+        {
+          "id": "obsidian-custom-frames:open-custom-frames-google-calendar",
+          "period": "Both"
         }
       ],
       "alwaysApply": false,
