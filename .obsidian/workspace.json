@@ -22,16 +22,21 @@
             }
           },
           {
-            "id": "edab4b4d35f7d31a",
+            "id": "bac33f547395bec7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2025/02_February/2025-02-25 Tue.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-02-25 Tue"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,6 +104,16 @@
         "type": "tabs",
         "children": [
           {
+            "id": "145e9cc96efbeae8",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-google-calendar",
+              "state": {},
+              "icon": "lucide-calendar-heart",
+              "title": "Google Calendar"
+            }
+          },
+          {
             "id": "b1fabc898e42db75",
             "type": "leaf",
             "state": {
@@ -114,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteBrain/VisionBoard/2025.md",
+                "file": "remoteBrain/Daily-Docs/2025/02_February/2025-02-25 Tue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025"
+              "title": "Backlinks for 2025-02-25 Tue"
             }
           },
           {
@@ -133,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/12_December/2024-12-13 Fri.md",
+                "file": "remoteBrain/Daily-Docs/2025/02_February/2025-02-25 Tue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-12-13 Fri"
+              "title": "Outgoing links from 2025-02-25 Tue"
             }
           },
           {
@@ -147,30 +162,35 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/VisionBoard/2025.md",
+                "file": "remoteBrain/Daily-Docs/2025/02_February/2025-02-25 Tue.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025"
+              "title": "Outline of 2025-02-25 Tue"
             }
           },
           {
-            "id": "ec2ac240d2edc97f",
+            "id": "bc222dc815b0d56b",
             "type": "leaf",
             "state": {
-              "type": "custom-frames-perflexity",
-              "state": {},
-              "icon": "lucide-bot-message-square",
-              "title": "Perflexity"
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 436.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,10 +206,11 @@
       "templater-obsidian:Templater": false,
       "obsidian-day-and-night:Toggle Theme": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-custom-frames:Open Google Calendar": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "b1fabc898e42db75",
+  "active": "bac33f547395bec7",
   "lastOpenFiles": [
     "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/02_February/2025-02-25 Tue.md",

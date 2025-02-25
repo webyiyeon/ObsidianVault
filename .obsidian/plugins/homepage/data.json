@@ -16,12 +16,20 @@
       "pin": false,
       "commands": [
         {
+          "id": "obsidian-custom-frames:open-custom-frames-google-calendar",
+          "period": "Startup only"
+        },
+        {
           "id": "workspace:new-tab",
-          "period": "Both"
+          "period": "Startup only"
+        },
+        {
+          "id": "periodic-notes:open-daily-note",
+          "period": "Startup only"
         },
         {
           "id": "workspace:goto-tab-1",
-          "period": "Both"
+          "period": "Startup only"
         }
       ],
       "alwaysApply": false,
