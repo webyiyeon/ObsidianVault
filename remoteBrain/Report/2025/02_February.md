@@ -1,5 +1,6 @@
 
 ## Reviews
+
 ###### how are you feeling?
 
 ###### what goals have you started?
@@ -13,6 +14,8 @@
 ###### adjustments to goals (changes, omissions, additions!):
 
 ###### TO DO in order to reach these goals:
+
+---
 
 
 ## Keywords
