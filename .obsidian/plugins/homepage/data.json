@@ -22,10 +22,6 @@
         {
           "id": "workspace:goto-tab-1",
           "period": "Both"
-        },
-        {
-          "id": "obsidian-custom-frames:open-custom-frames-google-calendar",
-          "period": "Both"
         }
       ],
       "alwaysApply": false,
