@@ -1,5 +1,6 @@
 
 ## Reviews
+
 ###### how are you feeling?
 
 ###### what goals have you started?
@@ -13,17 +14,6 @@
 ###### adjustments to goals (changes, omissions, additions!):
 
 ###### TO DO in order to reach these goals:
-
-
----
-
-```gEvent
-type: month
-date: 2025-02-01 Tue
-navigation: false
-showAllDay: true
-include: ["Default", "Todoist", "Korea", "Work", "Study", "WOOYEON"]
-```
 
 ---
 
