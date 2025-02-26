@@ -23,53 +23,8 @@
               "icon": "lucide-file",
               "title": "2025"
             }
-          },
-          {
-            "id": "7ee8d4e2dff5b154",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remoteBrain/Daily-Docs/2025/02_February/2025-02-26 Wed.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2025-02-26 Wed"
-            }
-          },
-          {
-            "id": "c903bc82a4c16494",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "custom-frames-google-calendar",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-calendar-heart",
-              "title": "Google Calendar"
-            }
-          },
-          {
-            "id": "989de423ca5ca01f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remoteBrain/Daily-Docs/2025/02_February/2025-02-26 Wed.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-02-26 Wed"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,13 +97,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2025/02_February/2025-02-26 Wed.md",
+                "file": "remoteBrain/VisionBoard/2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-02-26 Wed"
+              "title": "Outline of 2025"
             }
           }
         ],
@@ -169,14 +124,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "canvas:Create new canvas": false,
       "obsidian-custom-frames:Open Google Calendar": false,
-      "periodic-notes:Open today": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "4f45c72f8dac84ce",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2025/02_February/2025-02-25 Tue.md",
     "remoteBrain/Daily-Docs/2025/02_February/2025-02-26 Wed.md",
+    "remoteBrain/Daily-Docs/2025/02_February/2025-02-25 Tue.md",
     "remoteBrain/VisionBoard/2025.md",
     "Untitled.canvas",
     "remoteBrain/Report/2025/02_February.md",
