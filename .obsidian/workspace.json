@@ -142,16 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/VisionBoard/2025.md",
+                "file": "remoteBrain/Daily-Docs/2025/02_February/2025-02-26 Wed.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025"
+              "title": "Outline of 2025-02-26 Wed"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,7 +173,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "989de423ca5ca01f",
+  "active": "4f45c72f8dac84ce",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2025/02_February/2025-02-25 Tue.md",
     "remoteBrain/Daily-Docs/2025/02_February/2025-02-26 Wed.md",
