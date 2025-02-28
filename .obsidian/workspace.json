@@ -23,8 +23,38 @@
               "icon": "lucide-file",
               "title": "2025"
             }
+          },
+          {
+            "id": "dcc289dabe21de0d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2025/02_February/2025-02-28 Fri.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2025-02-28 Fri"
+            }
+          },
+          {
+            "id": "69cbcf422ab50933",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "custom-frames-google-calendar",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-calendar-heart",
+              "title": "Google Calendar"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,22 +128,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/VisionBoard/2025.md",
+                "file": "remoteBrain/Daily-Docs/2025/02_February/2025-02-28 Fri.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025"
+              "title": "Outline of 2025-02-28 Fri"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -130,11 +158,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "dcc289dabe21de0d",
   "lastOpenFiles": [
     "remoteBrain/VisionBoard/2025.md",
-    "remoteBrain/Report/2025/02_February.md",
+    "remoteBrain/Daily-Docs/2025/02_February/2025-02-28 Fri.md",
     "remoteBrain/Daily-Docs/2025/02_February/2025-02-26 Wed.md",
+    "remoteBrain/Daily-Docs/2025/02_February/2025-02-27 Thu.md",
+    "remoteBrain/Report/2025/02_February.md",
     "remoteBrain/Daily-Docs/2025/02_February/2025-02-25 Tue.md",
     "remoteBrain/Daily-Docs/2025/02_February/2025-02-24 Mon.md",
     "remoteBrain/Daily-Docs/2025/02_February/2025-02-23 Sun.md",
@@ -167,9 +197,7 @@
     "remoteBrain/Report/2024/02_February.md",
     "remoteBrain/_templater/VisionBoard(Yearly).md",
     "remoteBrain/Daily-docs/2025.md",
-    "remoteBrain/Daily-Docs/2025.md",
     "remoteBrain/VisionBoard",
-    "remoteBrain/_templater/TP-DailyNote.md",
     "remoteBrain/Daily-Docs/2025/02_February",
     "remoteBrain/Report/2025",
     "remoteBrain/Daily-Docs/2025/01_January",
