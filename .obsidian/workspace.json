@@ -44,6 +44,7 @@
           {
             "id": "b893dabaa0f71817",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -52,8 +53,19 @@
                 "source": false,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "2025-02-26 Wed"
+            }
+          },
+          {
+            "id": "4921dda1639eb91d",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-google-calendar",
+              "state": {},
+              "icon": "lucide-calendar-heart",
+              "title": "Google Calendar"
             }
           }
         ],
@@ -164,11 +176,11 @@
   },
   "active": "b893dabaa0f71817",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2025/02_February/2025-02-26 Wed.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-04 Tue.md",
     "remoteBrain/Report/2024/Look back on 2024.md",
     "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/02_February/2025-02-28 Fri.md",
-    "remoteBrain/Daily-Docs/2025/02_February/2025-02-26 Wed.md",
     "remoteBrain/Daily-Docs/2025/02_February/2025-02-27 Thu.md",
     "remoteBrain/Daily-Docs/2025/02_February/2025-02-25 Tue.md",
     "remoteBrain/Daily-Docs/2025/02_February/2025-02-24 Mon.md",
