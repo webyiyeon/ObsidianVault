@@ -25,7 +25,7 @@
             }
           },
           {
-            "id": "9593a9b65e15b4ea",
+            "id": "baf7422c9b8a2bfa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -137,12 +137,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9593a9b65e15b4ea",
+  "active": "baf7422c9b8a2bfa",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2025/02_February/2025-02-28 Fri.md",
-    "remoteBrain/Daily-Docs/2025/03_March/2025-03-06 Thu.md",
-    "remoteBrain/Daily-Docs/2025/03_March/2025-03-05 Wed.md",
+    "remoteBrain/Daily-Docs/2025/03_March/2025-03-07 Fri.md",
     "remoteBrain/VisionBoard/2025.md",
+    "remoteBrain/Daily-Docs/2025/03_March/2025-03-06 Thu.md",
+    "remoteBrain/Daily-Docs/2025/02_February/2025-02-28 Fri.md",
+    "remoteBrain/Daily-Docs/2025/03_March/2025-03-05 Wed.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-04 Tue.md"
   ]
 }
