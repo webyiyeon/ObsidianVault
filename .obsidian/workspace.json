@@ -39,7 +39,8 @@
               "title": "Monthly"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,11 +144,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "15d52987023b1200",
   "lastOpenFiles": [
+    "remoteBrain/Report/2025/03_March.md",
     "remoteBrain/_templater/Monthly.md",
     "remoteBrain/VisionBoard/2025.md",
-    "remoteBrain/Report/2025/03_March.md",
     "remoteBrain/_templater/Test.md",
     "remoteBrain/_templater/Python Test.md",
     "Untitled.md",

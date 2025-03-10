@@ -1,20 +1,15 @@
-## Reviews
-###### how are you feeling?
+### Checking In on My Goals 🌱
 
-###### what goals have you started?
-
-###### what have you not started?
-
-###### what obstacles are in your way?
-
-###### how can you overcome the obstacles?
-
-###### adjustments to goals (changes, omissions, additions!):
-
-###### TO DO in order to reach these goals:
+1. how are you feeling?
+2. what goals have you started?
+3. what have you not started?
+4. what obstacles are in your way?
+5. how can you overcome the obstacles?
+6. adjustments to goals (changes, omissions, additions!):
+7. TO DO in order to reach these goals:
 
 
-## Did I ?
+### 🚀 How Close Am I to My Yearly Goals This Month ?
 
 - [ ] 건강한 몸에 건강한 마음이 깃든다. 매일 30분 이상 운동하기.
 - [ ] 점심 & 저녁 식후 3~5분이라도 산책하기.
@@ -28,7 +23,8 @@
 - [ ] 일주일 최소 1번 이상 독서하기.
 
 
-## Keywords
+## Summary Datas
+
 ```dataview
 TABLE 
 	keyword🗝️, gratitude🙏, mood
@@ -41,7 +37,7 @@ sort file.name
 
 
 
-## Sleep Tracker
+### Sleep Tracker
 ```dataview
 TABLE
 	dateformat(wakeup🌞, "HH:mm") AS "wakeup🌞", 
@@ -58,7 +54,7 @@ sort file.name
 
 
 
-## Meal Logs
+### Meal Logs
 ```dataview
 TABLE 
 	breakfast🍳, lunch🍚, dinner🥗, snack🍬, water💧, (bfcals + lccals + dncals + sncals) AS "calrories🪄"
@@ -70,7 +66,7 @@ sort file.name
 ```
 
 
-## Workout Logs
+### Workout Logs
 ```dataview
 TABLE 
 	workout🏋️, workout-type as type, workout-routine as routine 
@@ -82,7 +78,7 @@ sort file.name
 ```
 
 
-## Habit Tracker 
+### Habit Tracker 
 ```dataview
 TABLE WITHOUT ID
 	link(file.name) as "Date",
