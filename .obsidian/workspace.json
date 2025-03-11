@@ -23,8 +23,38 @@
               "icon": "lucide-file",
               "title": "2025"
             }
+          },
+          {
+            "id": "1334b3fe31ce2989",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "custom-frames-google-calendar",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-calendar-heart",
+              "title": "Google Calendar"
+            }
+          },
+          {
+            "id": "7d98ee96ad8985e2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2025/03_March/2025-03-11 Tue.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2025-03-11 Tue"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,11 +158,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "7d98ee96ad8985e2",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2025/03_March/2025-03-11 Tue.md",
+    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/_templater/Python Test.md",
     "remoteBrain/_templater/Test.md",
-    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/_templater/Monthly.md",
     "remoteBrain/Report/2025/03_March.md",
     "Untitled.md",
