@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "등록자",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,8 +100,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,7 +161,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "33adabcaf41aca36",
+  "active": "e0cd7ee134df37c4",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-04 Tue.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-12 Wed.md",
