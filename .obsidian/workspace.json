@@ -57,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,27 +120,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2025/03_March/2025-03-10 Mon.md",
+                "file": "remoteBrain/Daily-Docs/2025/03_March/2025-03-04 Tue.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-03-10 Mon"
-            }
-          },
-          {
-            "id": "b8e272ae46247359",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "title": "Outline of 2025-03-04 Tue"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,10 +150,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e0cd7ee134df37c4",
+  "active": "34a13eebabbe1f46",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2025/03_March/2025-03-04 Tue.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-12 Wed.md",
+    "remoteBrain/Daily-Docs/2025/03_March/2025-03-04 Tue.md",
     "remoteBrain/Daily-Docs/2025/01_January/2025-01-06 Mon.md",
     "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-10 Mon.md",
