@@ -1,4 +1,3 @@
-
 ### Checking In on My Goals 🌱
 
 1. how are you feeling?
@@ -13,34 +12,32 @@
 ### 🚀 How Close Am I to My Yearly Goals This Month ?
 
 - [ ] 건강한 몸에 건강한 마음이 깃든다. 매일 30분 이상 운동하기.
-- [x] 점심 & 저녁 식후 3~5분이라도 산책하기.
-- [x] 오전 오후 저녁 관계없이 하루에 최소 10분은 정리 정돈에 할당하기
+- [ ] 점심 & 저녁 식후 3~5분이라도 산책하기.
+- [ ] 오전 오후 저녁 관계없이 하루에 최소 10분은 정리 정돈에 할당하기
 - [ ] 식사를 제 시간에 챙겨먹고 기록하기. (솔직하게)
-- [x] 일주일에 최소 1번 이상 일본어 공부하기. (가벼운 학습지)
+- [ ] 일주일에 최소 1번 이상 일본어 공부하기. (가벼운 학습지)
 - [ ] 하반기(6월 이후)에는 해외 여행 가기.
-- [x] 저축하는 비용을 절대 미루지 않기. 매달 60만원 이상 저축하기.
+- [ ] 저축하는 비용을 절대 미루지 않기. 매달 60만원 이상 저축하기.
 - [ ] 대학원 생활 열심히 하기. 레포트, 수업 밀리지 않을 것.
 - [ ] 일주일 1회 블로그 업로드하기.
-- [x] 일주일 최소 1번 이상 독서하기.
+- [ ] 일주일 최소 1번 이상 독서하기.
 
 
----
+## Summary Datas
 
-
-## Keywords
 ```dataview
 TABLE 
 	keyword🗝️, gratitude🙏, mood
 FROM 
 	#routine 
 WHERE 
-	file.folder = "remoteBrain/Daily-Docs/2025/02_February"
+	file.folder = "remoteBrain/Daily-Docs/2025/03_March"
 sort file.name	
 ```
 
 
 
-## Sleep Tracker
+### Sleep Tracker
 ```dataview
 TABLE
 	dateformat(wakeup🌞, "HH:mm") AS "wakeup🌞", 
@@ -51,37 +48,37 @@ TABLE
 FROM 
 	 #routine 
 WHERE 
-	file.folder = "remoteBrain/Daily-Docs/2025/02_February"
+	file.folder = "remoteBrain/Daily-Docs/2025/03_March"
 sort file.name
 ```
 
 
 
-## Meal Logs
+### Meal Logs
 ```dataview
 TABLE 
 	breakfast🍳, lunch🍚, dinner🥗, snack🍬, water💧, (bfcals + lccals + dncals + sncals) AS "calrories🪄"
 FROM 
 	#meal-log📝 
 WHERE 
-	file.folder = "remoteBrain/Daily-Docs/2025/02_February"
+	file.folder = "remoteBrain/Daily-Docs/2025/03_March"
 sort file.name	
 ```
 
 
-## Workout Logs
+### Workout Logs
 ```dataview
 TABLE 
 	workout🏋️, workout-type as type, workout-routine as routine 
 FROM 
 	#workout-log💪 
 WHERE 
-	file.folder = "remoteBrain/Daily-Docs/2025/02_February"
+	file.folder = "remoteBrain/Daily-Docs/2025/03_March"
 sort file.name
 ```
 
 
-## Habit Tracker 
+### Habit Tracker 
 ```dataview
 TABLE WITHOUT ID
 	link(file.name) as "Date",
@@ -96,6 +93,7 @@ TABLE WITHOUT ID
 	choice(file.tasks[8].completed, "✔️", " ") AS "독서하기"
 	FROM #routine 
 	WHERE
-	file.folder = "remoteBrain/Daily-Docs/2025/02_February"
+	file.folder = "remoteBrain/Daily-Docs/2025/03_March"
 	SORT file.name ASC
 ```
+
