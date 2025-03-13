@@ -25,7 +25,19 @@
             }
           },
           {
-            "id": "12fe02c781f96146",
+            "id": "18cd1dc07d5fb2fe",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "custom-frames-google-calendar",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-calendar-heart",
+              "title": "Google Calendar"
+            }
+          },
+          {
+            "id": "e03bfadddc79ddb1",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -39,18 +51,6 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "2025-03-13 Thu"
-            }
-          },
-          {
-            "id": "18cd1dc07d5fb2fe",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "custom-frames-google-calendar",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-calendar-heart",
-              "title": "Google Calendar"
             }
           }
         ],
@@ -118,12 +118,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "remoteBrain/Daily-Docs/2025/03_March/2025-03-13 Thu.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2025-03-13 Thu"
             }
           },
           {
@@ -158,12 +159,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "18cd1dc07d5fb2fe",
+  "active": "e03bfadddc79ddb1",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-13 Thu.md",
-    "remoteBrain/Daily-Docs/2025/03_March/2025-03-11 Tue.md",
-    "remoteBrain/Daily-Docs/2025/03_March/2025-03-12 Wed.md",
     "remoteBrain/VisionBoard/2025.md",
+    "remoteBrain/Daily-Docs/2025/03_March/2025-03-12 Wed.md",
+    "remoteBrain/Daily-Docs/2025/03_March/2025-03-11 Tue.md",
     "remoteBrain/Report/2025/03_March.md",
     "remoteBrain/Report/2025/02_February.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-04 Tue.md",
