@@ -25,21 +25,8 @@
             }
           },
           {
-            "id": "18cd1dc07d5fb2fe",
+            "id": "2dc891876c722f4a",
             "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "custom-frames-google-calendar",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-calendar-heart",
-              "title": "Google Calendar"
-            }
-          },
-          {
-            "id": "e03bfadddc79ddb1",
-            "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -48,13 +35,12 @@
                 "source": false,
                 "backlinks": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "2025-03-13 Thu"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,10 +145,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e03bfadddc79ddb1",
+  "active": "2dc891876c722f4a",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2025/03_March/2025-03-13 Thu.md",
     "remoteBrain/VisionBoard/2025.md",
+    "remoteBrain/Daily-Docs/2025/03_March/2025-03-13 Thu.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-12 Wed.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-11 Tue.md",
     "remoteBrain/Report/2025/03_March.md",
