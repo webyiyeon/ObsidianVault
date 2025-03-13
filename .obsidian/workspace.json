@@ -10,14 +10,51 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/VisionBoard/2025.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025"
+            }
+          },
+          {
+            "id": "12fe02c781f96146",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2025/03_March/2025-03-13 Thu.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2025-03-13 Thu"
+            }
+          },
+          {
+            "id": "18cd1dc07d5fb2fe",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "custom-frames-google-calendar",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-calendar-heart",
+              "title": "Google Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,13 +118,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/VisionBoard/2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025"
+              "title": "Outline"
             }
           },
           {
@@ -100,12 +136,12 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -122,14 +158,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "18cd1dc07d5fb2fe",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2025/03_March/2025-03-13 Thu.md",
+    "remoteBrain/Daily-Docs/2025/03_March/2025-03-11 Tue.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-12 Wed.md",
+    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Report/2025/03_March.md",
     "remoteBrain/Report/2025/02_February.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-04 Tue.md",
-    "remoteBrain/VisionBoard/2025.md",
-    "remoteBrain/Daily-Docs/2025/03_March/2025-03-11 Tue.md",
     "remoteBrain/Daily-Docs/2025/01_January/2025-01-06 Mon.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-10 Mon.md",
     "remoteBrain/_templater/Python Test.md",
