@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,7 +159,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cd6dd70384e8c20a",
+  "active": "604443ba31293cc8",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-21 Fri.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-18 Tue.md",
