@@ -23,8 +23,24 @@
               "icon": "lucide-file",
               "title": "2025"
             }
+          },
+          {
+            "id": "798e954ed411db2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2025/03_March/2025-03-24 Mon.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-03-24 Mon"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,10 +144,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "798e954ed411db2c",
   "lastOpenFiles": [
-    "wooyeon/Love Life/𝒟𝒶𝓉𝑒 ℬ𝓊𝒸𝓀𝑒𝓉𝓁𝒾𝓈𝓉 - 𝟸𝟶𝟸𝟻.md",
+    "remoteBrain/Daily-Docs/2025/03_March/2025-03-23 Sun.md",
+    "remoteBrain/Daily-Docs/2025/03_March/2025-03-24 Mon.md",
+    "remoteBrain/Daily-Docs/2025/03_March/2025-03-22 Sat.md",
     "remoteBrain/VisionBoard/2025.md",
+    "wooyeon/Love Life/𝒟𝒶𝓉𝑒 ℬ𝓊𝒸𝓀𝑒𝓉𝓁𝒾𝓈𝓉 - 𝟸𝟶𝟸𝟻.md",
     "remoteBrain/Report/2024/Look back on 2024.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-21 Fri.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-18 Tue.md",
@@ -153,10 +172,7 @@
     "remoteBrain/_templater/Test.md",
     "remoteBrain/_templater/Monthly.md",
     "Untitled.md",
-    "Untitled 1.md",
     "remoteBrain/_templater/finance_script.py",
-    "remoteBrain/_templater/Python Test.py",
-    "remoteBrain/_templater/finance_script.md",
-    "remoteBrain/Daily-Docs/2025/03_March/2025-03-09 Sun.md"
+    "remoteBrain/_templater/Python Test.py"
   ]
 }
