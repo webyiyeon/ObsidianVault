@@ -23,24 +23,8 @@
               "icon": "lucide-file",
               "title": "2025"
             }
-          },
-          {
-            "id": "2b32e19dd8622d0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wooyeon/Love Life/𝒟𝒶𝓉𝑒 ℬ𝓊𝒸𝓀𝑒𝓉𝓁𝒾𝓈𝓉 - 𝟸𝟶𝟸𝟻.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "𝒟𝒶𝓉𝑒 ℬ𝓊𝒸𝓀𝑒𝓉𝓁𝒾𝓈𝓉 - 𝟸𝟶𝟸𝟻"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,8 +128,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2b32e19dd8622d0d",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "wooyeon/Love Life/𝒟𝒶𝓉𝑒 ℬ𝓊𝒸𝓀𝑒𝓉𝓁𝒾𝓈𝓉 - 𝟸𝟶𝟸𝟻.md",
     "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Report/2024/Look back on 2024.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-21 Fri.md",
@@ -153,7 +138,6 @@
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-19 Wed.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-20 Thu.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-17 Mon.md",
-    "wooyeon/Love Life/𝒟𝒶𝓉𝑒 ℬ𝓊𝒸𝓀𝑒𝓉𝓁𝒾𝓈𝓉 - 𝟸𝟶𝟸𝟻.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-16 Sun.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-15 Sat.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-14 Fri.md",
