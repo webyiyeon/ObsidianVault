@@ -23,8 +23,24 @@
               "icon": "lucide-file",
               "title": "2025"
             }
+          },
+          {
+            "id": "80c9b3571d6ec378",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2025/03_March/2025-03-26 Wed.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-03-26 Wed"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,12 +144,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "80c9b3571d6ec378",
   "lastOpenFiles": [
+    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-26 Wed.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-25 Tue.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-24 Mon.md",
-    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-23 Sun.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-22 Sat.md",
     "wooyeon/Love Life/𝒟𝒶𝓉𝑒 ℬ𝓊𝒸𝓀𝑒𝓉𝓁𝒾𝓈𝓉 - 𝟸𝟶𝟸𝟻.md",
