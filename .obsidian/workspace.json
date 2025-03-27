@@ -38,6 +38,21 @@
               "icon": "lucide-file",
               "title": "2025-03-27 Thu"
             }
+          },
+          {
+            "id": "50725191b598ad01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Report/2025/03_March.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "03_March"
+            }
           }
         ],
         "currentTab": 1
@@ -146,10 +161,11 @@
   },
   "active": "c3da3bc11f8470cc",
   "lastOpenFiles": [
+    "remoteBrain/Report/2025/03_March.md",
+    "remoteBrain/VisionBoard/2025.md",
+    "remoteBrain/Daily-Docs/2025/03_March/2025-03-27 Thu.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-26 Wed.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-25 Tue.md",
-    "remoteBrain/Daily-Docs/2025/03_March/2025-03-27 Thu.md",
-    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-24 Mon.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-23 Sun.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-22 Sat.md",
@@ -166,7 +182,6 @@
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-13 Thu.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-12 Wed.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-11 Tue.md",
-    "remoteBrain/Report/2025/03_March.md",
     "remoteBrain/Report/2025/02_February.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-04 Tue.md",
     "remoteBrain/Daily-Docs/2025/01_January/2025-01-06 Mon.md",
