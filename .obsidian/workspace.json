@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2025/03_March/2025-03-28 Fri.md",
+                "file": "remoteBrain/99_Jangbogo/02_1_LangChain 강의 (Basic).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-28 Fri"
+              "title": "02_1_LangChain 강의 (Basic)"
             }
           }
         ],
@@ -146,8 +146,12 @@
   },
   "active": "03dcd0bf017b32d0",
   "lastOpenFiles": [
-    "remoteBrain/VisionBoard/2025.md",
+    "remoteBrain/99_Jangbogo/00_개발공유.md",
+    "remoteBrain/99_Jangbogo/01_디버깅.md",
+    "remoteBrain/99_Jangbogo/02_1_LangChain 강의 (Basic).md",
+    "remoteBrain/99_Jangbogo/03_빅데이터 직무 리스킬링(Reskilling) 과정 교육.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-28 Fri.md",
+    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-27 Thu.md",
     "remoteBrain/Report/2025/03_March.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-26 Wed.md",
@@ -168,10 +172,6 @@
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-13 Thu.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-12 Wed.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-11 Tue.md",
-    "remoteBrain/Report/2025/02_February.md",
-    "remoteBrain/Daily-Docs/2025/03_March/2025-03-04 Tue.md",
-    "remoteBrain/Daily-Docs/2025/01_January/2025-01-06 Mon.md",
-    "remoteBrain/Daily-Docs/2025/03_March/2025-03-10 Mon.md",
     "remoteBrain/_templater/finance_script.py",
     "remoteBrain/_templater/Python Test.py"
   ]
