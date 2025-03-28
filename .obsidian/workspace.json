@@ -39,8 +39,7 @@
               "title": "2025-03-28 Fri"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,10 +143,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8953bbcba28dbfdb",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-28 Fri.md",
+    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-27 Thu.md",
     "remoteBrain/Report/2025/03_March.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-26 Wed.md",
