@@ -23,24 +23,8 @@
               "icon": "lucide-file",
               "title": "2025"
             }
-          },
-          {
-            "id": "4aead83a15b120a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remoteBrain/Daily-Docs/2025/04_April/2025-04-04 Fri.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-04-04 Fri"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,10 +129,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4aead83a15b120a0",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/04_April/2025-04-04 Fri.md",
+    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/04_April/2025-04-03 Thu.md",
     "remoteBrain/Daily-Docs/2025/04_April/2025-04-02 Wed.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-30 Sun.md",
