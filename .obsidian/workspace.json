@@ -121,13 +121,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "d3f8a508a1c25e23",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-perflexity",
+              "state": {},
+              "icon": "lucide-bot-message-square",
+              "title": "Perflexity"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 390.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,7 +154,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7cc5b2ec4df237c9",
+  "active": "d3f8a508a1c25e23",
   "lastOpenFiles": [
     "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/04_April/2025-04-10 Thu.md",
