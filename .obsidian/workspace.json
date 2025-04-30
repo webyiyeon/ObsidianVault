@@ -42,13 +42,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2025/04_April/2025-04-30 Wed.md",
+                "file": "remoteBrain/99_InsightON/슬기로운 독서생활.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-30 Wed"
+              "title": "슬기로운 독서생활"
             }
           }
         ],
@@ -149,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,8 +168,11 @@
   },
   "active": "8049879cbb011018",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2025/04_April/2025-04-29 Tue.md",
+    "remoteBrain/99_InsightON/SHE MU 디버깅.md",
+    "wooyeon/Love Life/𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭 - 𝟐𝟎𝟐𝟑 ~ 𝟐𝟎𝟐𝟒.md",
+    "wooyeon/Love Life/𝒟𝒶𝓉𝑒 ℬ𝓊𝒸𝓀𝑒𝓉𝓁𝒾𝓈𝓉 - 𝟸𝟶𝟸𝟻.md",
     "remoteBrain/Daily-Docs/2025/04_April/2025-04-30 Wed.md",
+    "remoteBrain/Daily-Docs/2025/04_April/2025-04-29 Tue.md",
     "remoteBrain/Daily-Docs/2025/04_April/2025-04-28 Mon.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-24 Mon.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-25 Tue.md",
@@ -191,9 +194,6 @@
     "remoteBrain/Daily-Docs/2025/04_April/2025-04-27 Sun.md",
     "remoteBrain/Daily-Docs/2025/04_April/2025-04-25 Fri.md",
     "remoteBrain/Daily-Docs/2025/04_April/2025-04-24 Thu.md",
-    "remoteBrain/Daily-Docs/2025/04_April/2025-04-23 Wed.md",
-    "remoteBrain/Daily-Docs/2025/04_April/2025-04-22 Tue.md",
-    "remoteBrain/Daily-Docs/2025/04_April/2025-04-21 Mon.md",
     "remoteBrain/Daily-Docs/2025/04_April",
     "remoteBrain/_templater/finance_script.py",
     "remoteBrain/_templater/Python Test.py"
