@@ -42,17 +42,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2025/04_April/2025-04-29 Tue.md",
+                "file": "remoteBrain/Daily-Docs/2025/04_April/2025-04-30 Wed.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-29 Tue"
+              "title": "2025-04-30 Wed"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,9 +168,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "dcb08388b89cfecd",
+  "active": "8049879cbb011018",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2025/04_April/2025-04-29 Tue.md",
+    "remoteBrain/Daily-Docs/2025/04_April/2025-04-30 Wed.md",
     "remoteBrain/Daily-Docs/2025/04_April/2025-04-28 Mon.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-24 Mon.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-25 Tue.md",
@@ -195,7 +196,6 @@
     "remoteBrain/Daily-Docs/2025/04_April/2025-04-23 Wed.md",
     "remoteBrain/Daily-Docs/2025/04_April/2025-04-22 Tue.md",
     "remoteBrain/Daily-Docs/2025/04_April/2025-04-21 Mon.md",
-    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/04_April",
     "remoteBrain/_templater/finance_script.py",
     "remoteBrain/_templater/Python Test.py"
