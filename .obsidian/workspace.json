@@ -23,21 +23,8 @@
               "icon": "lucide-file",
               "title": "2025"
             }
-          },
-          {
-            "id": "7e45e854dc4b20da",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,7 +138,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7e45e854dc4b20da",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/99_InsightON/슬기로운 독서생활.md",
