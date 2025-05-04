@@ -25,15 +25,15 @@
             }
           },
           {
-            "id": "dcb08388b89cfecd",
+            "id": "7e45e854dc4b20da",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "custom-frames-google-calendar",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-calendar-heart",
-              "title": "Google Calendar"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
             }
           }
         ],
@@ -151,8 +151,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "dcb08388b89cfecd",
+  "active": "7e45e854dc4b20da",
   "lastOpenFiles": [
+    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/99_InsightON/슬기로운 독서생활.md",
     "remoteBrain/99_InsightON/SHE MU 디버깅.md",
     "wooyeon/Love Life/𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭 - 𝟐𝟎𝟐𝟑 ~ 𝟐𝟎𝟐𝟒.md",
@@ -178,7 +179,6 @@
     "remoteBrain/Report/2025/04_April.md",
     "remoteBrain/Daily-Docs/2025/04_April/2025-04-26 Sat.md",
     "remoteBrain/Daily-Docs/2025/04_April/2025-04-27 Sun.md",
-    "remoteBrain/Daily-Docs/2025/04_April/2025-04-25 Fri.md",
     "remoteBrain/Daily-Docs/2025/04_April",
     "remoteBrain/_templater/finance_script.py",
     "remoteBrain/_templater/Python Test.py"
