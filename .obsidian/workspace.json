@@ -137,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 292.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,8 +156,14 @@
   },
   "active": "35fbcfcc78b7b87a",
   "lastOpenFiles": [
-    "remoteBrain/VisionBoard/2025.md",
+    "remoteBrain/Daily-Docs/2025/05_May/2025-05-01 Thu.md",
+    "remoteBrain/Daily-Docs/2025/05_May/2025-05-02 Fri.md",
+    "remoteBrain/Daily-Docs/2025/05_May/2025-05-03 Sat.md",
+    "remoteBrain/Daily-Docs/2025/05_May/2025-05-04 Sun.md",
+    "remoteBrain/Daily-Docs/2025/05_May/2025-05-05 Mon.md",
+    "remoteBrain/Daily-Docs/2025/05_May/2025-05-06 Tue.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-07 Wed.md",
+    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/05_May",
     "remoteBrain/99_InsightON/슬기로운 독서생활.md",
     "remoteBrain/99_InsightON/SHE MU 디버깅.md",
@@ -177,12 +183,6 @@
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-23 Sun.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-22 Sat.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-14 Fri.md",
-    "remoteBrain/Daily-Docs/2025/03_March/2025-03-13 Thu.md",
-    "remoteBrain/Daily-Docs/2025/03_March/2025-03-12 Wed.md",
-    "remoteBrain/Report/2025/03_March.md",
-    "remoteBrain/Report/2025/02_February.md",
-    "remoteBrain/Report/2025/04_April.md",
-    "remoteBrain/Daily-Docs/2025/04_April/2025-04-26 Sat.md",
     "remoteBrain/Daily-Docs/2025/04_April",
     "remoteBrain/_templater/finance_script.py",
     "remoteBrain/_templater/Python Test.py"
