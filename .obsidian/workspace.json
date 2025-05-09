@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Report/2025/04_April.md",
+                "file": "remoteBrain/Report/2025/05_May.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "04_April"
+              "title": "05_May"
             }
           }
         ],
@@ -156,8 +156,8 @@
   },
   "active": "4eda1b410b8fea34",
   "lastOpenFiles": [
-    "remoteBrain/Report/2025/05_May.md",
     "remoteBrain/Report/2025/04_April.md",
+    "remoteBrain/Report/2025/05_May.md",
     "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-09 Fri.md",
     "remoteBrain/99_InsightON/SHE MU 디버깅.md",
