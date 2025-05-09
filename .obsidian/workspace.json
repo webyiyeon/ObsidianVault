@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/99_InsightON/V3.md",
+                "file": "remoteBrain/Daily-Docs/2025/05_May/2025-05-09 Fri.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "V3"
+              "title": "2025-05-09 Fri"
             }
           },
           {
@@ -171,12 +171,14 @@
   },
   "active": "161b960f0198ff34",
   "lastOpenFiles": [
-    "remoteBrain/99_InsightON/SHE MU 디버깅.md",
-    "remoteBrain/99_InsightON/V3.md",
+    "remoteBrain/Daily-Docs/2025/04_April/2025-04-01 Tue.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-09 Fri.md",
+    "remoteBrain/Report/2025/05_May.md",
+    "remoteBrain/VisionBoard/2025.md",
+    "remoteBrain/99_InsightON/V3.md",
+    "remoteBrain/99_InsightON/SHE MU 디버깅.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-08 Thu.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-07 Wed.md",
-    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-01 Thu.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-02 Fri.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-03 Sat.md",
@@ -196,8 +198,6 @@
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-30 Sun.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-29 Sat.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-28 Fri.md",
-    "remoteBrain/Daily-Docs/2025/03_March/2025-03-27 Thu.md",
-    "remoteBrain/Daily-Docs/2025/03_March/2025-03-26 Wed.md",
     "remoteBrain/Daily-Docs/2025/04_April",
     "remoteBrain/_templater/finance_script.py",
     "remoteBrain/_templater/Python Test.py"
