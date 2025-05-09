@@ -1,7 +1,7 @@
 
 ## 작업안전분석(JSA) 목록
 
-결재 로직 문제로 오류 
+##### 결재 로직 문제로 오류 
 1. 관련 DB Table
 	- com_appr_rqst / com_appr_rqst_line 
 	- saf_jsa / saf_jsa_appr 
@@ -22,3 +22,7 @@
 4. front 단의 update docstate 쪽 관리도 안되고 있어서 이 부분은 closePopup(refTempPopup) 으로 해결한 상황 
 
 
+##### Jenkins 빌드 구성 'Delete workspace before build starts' 추가 시 Logon failed 및 OOM 오류 발생
+1. Delete 설정 없을 경우 변경점만 pull 해서 괜찮았으나, 
+   설정 후 clone으로 바뀌면서 차지하는 메모리 량이 높았던 것으로 추정. 
+2. 다른 빌드 대기가 없을 때(12:30 ~ 13:00 / 17:40 ~ 18:00) 빌드 실행할 것.
