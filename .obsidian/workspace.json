@@ -25,8 +25,21 @@
             }
           },
           {
+            "id": "fa6f2c26311ee037",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "custom-frames-google-calendar",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-calendar-heart",
+              "title": "Google Calendar"
+            }
+          },
+          {
             "id": "6492c65139101c24",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -35,12 +48,12 @@
                 "source": false,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "2025-05-13 Tue"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e1f0c7632e67bdc4",
@@ -154,10 +168,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6492c65139101c24",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "remoteBrain/99_InsightON/V3.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-13 Tue.md",
+    "remoteBrain/99_InsightON/V3.md",
     "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/99_InsightON/SHE MU 디버깅.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-12 Mon.md",
