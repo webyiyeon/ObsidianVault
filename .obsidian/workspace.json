@@ -23,36 +23,8 @@
               "icon": "lucide-file",
               "title": "2025"
             }
-          },
-          {
-            "id": "dff17b3eef66592f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remoteBrain/Daily-Docs/2025/05_May/2025-05-14 Wed.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2025-05-14 Wed"
-            }
-          },
-          {
-            "id": "113545867745c6dc",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-google-calendar",
-              "state": {},
-              "icon": "lucide-calendar-heart",
-              "title": "Google Calendar"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,7 +139,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "dff17b3eef66592f",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-14 Wed.md",
     "remoteBrain/VisionBoard/2025.md",
