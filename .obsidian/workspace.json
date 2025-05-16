@@ -69,7 +69,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,12 +184,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "07d13ccac53edfc3",
+  "active": "b013afad9efa5994",
   "lastOpenFiles": [
+    "remoteBrain/Report/2025/05_May.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-14 Wed.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-15 Thu.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-16 Fri.md",
-    "remoteBrain/Report/2025/05_May.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-13 Tue.md",
     "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/99_InsightON/V3.md",
