@@ -37,20 +37,20 @@
             }
           },
           {
-            "id": "fcc8fe12544fdbe8",
+            "id": "0eccaa00c5dd5de2",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2025/05_May/2025-05-19 Mon.md",
+                "file": "remoteBrain/Daily-Docs/2025/05_May/2025-05-20 Tue.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2025-05-19 Mon"
+              "title": "2025-05-20 Tue"
             }
           },
           {
@@ -69,7 +69,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,8 +184,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c1522dfa27cc6e7b",
+  "active": "0eccaa00c5dd5de2",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2025/05_May/2025-05-20 Tue.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-19 Mon.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-16 Fri.md",
     "remoteBrain/Report/2025/05_May.md",
@@ -212,7 +213,6 @@
     "remoteBrain/Daily-Docs/2025/05_May",
     "remoteBrain/99_InsightON/슬기로운 독서생활.md",
     "wooyeon/Love Life/𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭 - 𝟐𝟎𝟐𝟑 ~ 𝟐𝟎𝟐𝟒.md",
-    "wooyeon/Love Life/𝒟𝒶𝓉𝑒 ℬ𝓊𝒸𝓀𝑒𝓉𝓁𝒾𝓈𝓉 - 𝟸𝟶𝟸𝟻.md",
     "remoteBrain/Daily-Docs/2025/04_April",
     "remoteBrain/_templater/finance_script.py",
     "remoteBrain/_templater/Python Test.py"
