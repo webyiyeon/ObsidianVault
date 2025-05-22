@@ -3,8 +3,8 @@
 
 - [ ] 작업허가서 #web #mobile 
 	- [x] 안전환경작업실시계획서 #web #mobile
-	- [ ] 작업허가 #web #mobile 
-	- [ ] 작업현황 #web #mobile 
+	- [x] 작업허가 #web #mobile
+	- [x] 작업현황 #web #mobile
 	- [ ] 작업허가서출력 #web 
 - [ ] 작업위험성평가 (AI JSA 제외) #web 
 	- [ ] 작업안전분석 목록 
