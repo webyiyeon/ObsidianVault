@@ -27,6 +27,7 @@
           {
             "id": "5ce445229dae89c4",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -35,12 +36,45 @@
                 "source": false,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Chemicals"
             }
+          },
+          {
+            "id": "a433f64c43a76e57",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2025/05_May/2025-05-26 Mon.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2025-05-26 Mon"
+            }
+          },
+          {
+            "id": "424f544907f2eb2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Report/2025/05_May.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "05_May"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,19 +188,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5ce445229dae89c4",
+  "active": "a433f64c43a76e57",
   "lastOpenFiles": [
+    "remoteBrain/Report/2025/05_May.md",
+    "remoteBrain/Report/2025/04_April.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-26 Mon.md",
+    "remoteBrain/99_InsightON/Chemicals.md",
     "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-23 Fri.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-22 Thu.md",
-    "remoteBrain/99_InsightON/Chemicals.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-21 Wed.md",
     "remoteBrain/99_InsightON/V3.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-20 Tue.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-19 Mon.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-16 Fri.md",
-    "remoteBrain/Report/2025/05_May.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-14 Wed.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-15 Thu.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-13 Tue.md",
@@ -174,7 +209,6 @@
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-12 Mon.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-11 Sun.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-10 Sat.md",
-    "remoteBrain/Report/2025/04_April.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-09 Fri.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-08 Thu.md",
     "remoteBrain/Daily-Docs/2025/04_April/2025-04-01 Tue.md",

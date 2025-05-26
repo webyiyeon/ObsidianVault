@@ -1,12 +1,18 @@
 ### Checking In on My Goals 🌱
 
 1. how are you feeling?
+	uncomfortable
 2. what goals have you started?
+	successfully ran 8km!
 3. what have you not started?
+	studying Japanese
 4. what obstacles are in your way?
+	breakup
 5. how can you overcome the obstacles?
+	study more, meet friends who make me feel confident
 6. adjustments to goals (changes, omissions, additions!):
 7. TO DO in order to reach these goals:
+	
 
 
 ### 🚀 How Close Am I to My Yearly Goals This Month ?
