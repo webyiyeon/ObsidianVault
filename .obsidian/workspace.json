@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -188,10 +188,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a433f64c43a76e57",
+  "active": "424f544907f2eb2a",
   "lastOpenFiles": [
-    "remoteBrain/99_InsightON/Chemicals.md",
+    "remoteBrain/Daily-Docs/2025/05_May/2025-05-18 Sun.md",
+    "remoteBrain/Daily-Docs/2025/05_May/2025-05-17 Sat.md",
+    "remoteBrain/Daily-Docs/2025/05_May/2025-05-25 Sun.md",
+    "remoteBrain/Daily-Docs/2025/05_May/2025-05-24 Sat.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-26 Mon.md",
+    "remoteBrain/99_InsightON/Chemicals.md",
     "remoteBrain/Report/2025/05_May.md",
     "remoteBrain/Report/2025/04_April.md",
     "remoteBrain/VisionBoard/2025.md",
@@ -212,10 +216,6 @@
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-09 Fri.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-08 Thu.md",
     "remoteBrain/Daily-Docs/2025/04_April/2025-04-01 Tue.md",
-    "remoteBrain/Daily-Docs/2025/05_May/2025-05-07 Wed.md",
-    "remoteBrain/Daily-Docs/2025/05_May/2025-05-01 Thu.md",
-    "remoteBrain/Daily-Docs/2025/05_May/2025-05-02 Fri.md",
-    "remoteBrain/Daily-Docs/2025/05_May/2025-05-03 Sat.md",
     "remoteBrain/Daily-Docs/2025/05_May",
     "remoteBrain/Daily-Docs/2025/04_April",
     "remoteBrain/_templater/finance_script.py",
