@@ -14,30 +14,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/VisionBoard/2025.md",
-                "mode": "preview",
+                "file": "remoteBrain/Daily-Docs/2025/06_June/2025-06-05 Thu.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2025"
-            }
-          },
-          {
-            "id": "0fb5040086252234",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "custom-frames-google-calendar",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-calendar-heart",
-              "title": "Google Calendar"
+              "title": "2025-06-05 Thu"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,9 +139,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0fb5040086252234",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "remoteBrain/VisionBoard/2025.md",
+    "remoteBrain/Daily-Docs/2025/06_June/2025-06-05 Thu.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-04 Wed.md",
     "remoteBrain/DDR/POS.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-03 Tue.md",
@@ -181,7 +169,6 @@
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-23 Fri.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-22 Thu.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-21 Wed.md",
-    "remoteBrain/Daily-Docs/2025/05_May/2025-05-20 Tue.md",
     "remoteBrain/Daily-Docs/2025/05_May",
     "remoteBrain/Daily-Docs/2025/04_April",
     "remoteBrain/_templater/finance_script.py",
