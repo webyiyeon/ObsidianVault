@@ -23,8 +23,24 @@
               "icon": "lucide-file",
               "title": "2025-06-05 Thu"
             }
+          },
+          {
+            "id": "d6c4e6612ff548a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2025/06_June/2025-06-04 Wed.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-06-04 Wed"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,10 +155,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "d6c4e6612ff548a1",
   "lastOpenFiles": [
-    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-05 Thu.md",
+    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-04 Wed.md",
     "remoteBrain/DDR/POS.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-03 Tue.md",
