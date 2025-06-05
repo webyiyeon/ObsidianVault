@@ -27,6 +27,7 @@
           {
             "id": "d6c4e6612ff548a1",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -35,12 +36,23 @@
                 "source": false,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "2025-06-05 Thu"
             }
+          },
+          {
+            "id": "d885fb79ff0a9388",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-google-calendar",
+              "state": {},
+              "icon": "lucide-calendar-heart",
+              "title": "Google Calendar"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -155,11 +167,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d6c4e6612ff548a1",
+  "active": "d885fb79ff0a9388",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2025/06_June/2025-06-05 Thu.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-04 Wed.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-28 Wed.md",
-    "remoteBrain/Daily-Docs/2025/06_June/2025-06-05 Thu.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-29 Thu.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-02 Mon.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-03 Tue.md",
