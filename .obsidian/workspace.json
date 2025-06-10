@@ -25,13 +25,13 @@
             }
           },
           {
-            "id": "22066f358818f7dd",
+            "id": "85ad18517cdd07e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "remoteBrain/Daily-Docs/2025/06_June/2025-06-10 Tue.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -154,7 +154,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "22066f358818f7dd",
+  "active": "85ad18517cdd07e1",
   "lastOpenFiles": [
     "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-10 Tue.md",
