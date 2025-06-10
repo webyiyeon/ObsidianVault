@@ -23,8 +23,26 @@
               "icon": "lucide-file",
               "title": "2025"
             }
+          },
+          {
+            "id": "0fe39fc926a13d0a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2025/06_June/2025-06-10 Tue.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2025-06-10 Tue"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,10 +156,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "0fe39fc926a13d0a",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2025/06_June/2025-06-09 Mon.md",
     "remoteBrain/VisionBoard/2025.md",
+    "remoteBrain/Daily-Docs/2025/06_June/2025-06-10 Tue.md",
+    "remoteBrain/99_InsightON/SHE Chemicals.md",
+    "remoteBrain/99_InsightON/V3.md",
+    "remoteBrain/Daily-Docs/2025/06_June/2025-06-09 Mon.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-20 Tue.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-07 Sat.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-06 Fri.md",
@@ -163,9 +184,6 @@
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-31 Sat.md",
     "remoteBrain/Report/2024/06_June.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-05 Thu.md",
-    "remoteBrain/Daily-Docs/2025/06_June/2025-06-04 Wed.md",
-    "remoteBrain/Daily-Docs/2025/06_June/2025-06-02 Mon.md",
-    "remoteBrain/Daily-Docs/2025/06_June/2025-06-03 Tue.md",
     "remoteBrain/DDR",
     "remoteBrain/Daily-Docs/2025/06_June",
     "remoteBrain/Daily-Docs/2025/05_May",
