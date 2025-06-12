@@ -38,9 +38,36 @@
               "icon": "lucide-file",
               "title": "V3"
             }
+          },
+          {
+            "id": "51fd4f4767815bfd",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2025/06_June/2025-06-12 Thu.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2025-06-12 Thu"
+            }
+          },
+          {
+            "id": "a11acc25f390577a",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-google-calendar",
+              "state": {},
+              "icon": "lucide-calendar-heart",
+              "title": "Google Calendar"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -154,13 +181,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "48d8b6d45cee7d73",
+  "active": "a11acc25f390577a",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2025/06_June/2025-06-12 Thu.md",
+    "remoteBrain/VisionBoard/2025.md",
+    "remoteBrain/99_InsightON/V3.md",
     "remoteBrain/99_InsightON/Chemicals.md",
     "remoteBrain/99_InsightON/SHE MU 디버깅.md",
-    "remoteBrain/99_InsightON/V3.md",
     "remoteBrain/99_InsightON/슬기로운 독서생활.md",
-    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-11 Wed.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-10 Tue.md",
     "remoteBrain/99_InsightON/SHE Chemicals.md",
@@ -181,7 +209,6 @@
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-22 Thu.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-23 Fri.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-24 Sat.md",
-    "remoteBrain/Daily-Docs/2025/05_May/2025-05-25 Sun.md",
     "remoteBrain/DDR",
     "remoteBrain/Daily-Docs/2025/06_June",
     "remoteBrain/Daily-Docs/2025/05_May",
