@@ -80,9 +80,24 @@
               "icon": "lucide-file",
               "title": "Chemicals"
             }
+          },
+          {
+            "id": "f46496b21a25d4f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2025/06_June/2025-06-13 Fri.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-06-13 Fri"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -196,13 +211,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "73b486fcc5e72f2f",
+  "active": "f46496b21a25d4f0",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2025/06_June/2025-06-13 Fri.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-12 Thu.md",
+    "remoteBrain/99_InsightON/Chemicals.md",
+    "remoteBrain/Daily-Docs/2025/06_June/2025-06-13 Fri.md",
     "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/99_InsightON/V3.md",
-    "remoteBrain/99_InsightON/Chemicals.md",
     "remoteBrain/99_InsightON/SHE MU 디버깅.md",
     "remoteBrain/99_InsightON/슬기로운 독서생활.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-11 Wed.md",
