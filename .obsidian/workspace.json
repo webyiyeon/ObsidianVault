@@ -69,7 +69,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,12 +183,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0823e7dc2fd388fe",
+  "active": "609f76a97f78ce09",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2025/06_June/2025-06-16 Mon.md",
-    "remoteBrain/Daily-Docs/2025/06_June/2025-06-17 Tue.md",
-    "remoteBrain/Daily-Docs/2025/06_June/2025-06-13 Fri.md",
     "remoteBrain/VisionBoard/2025.md",
+    "remoteBrain/Daily-Docs/2025/06_June/2025-06-17 Tue.md",
+    "remoteBrain/Daily-Docs/2025/06_June/2025-06-16 Mon.md",
+    "remoteBrain/Daily-Docs/2025/06_June/2025-06-13 Fri.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-12 Thu.md",
     "remoteBrain/99_InsightON/Chemicals.md",
     "remoteBrain/99_InsightON/V3.md",
