@@ -27,6 +27,7 @@
           {
             "id": "c73ccbe6b858afec",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -35,12 +36,23 @@
                 "source": false,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "2025-06-17 Tue"
             }
+          },
+          {
+            "id": "95eab4cac6b44f7b",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-google-calendar",
+              "state": {},
+              "icon": "lucide-calendar-heart",
+              "title": "Google Calendar"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,13 +166,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c73ccbe6b858afec",
+  "active": "95eab4cac6b44f7b",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2025/06_June/2025-06-17 Tue.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-15 Sun.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-14 Sat.md",
     "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-16 Mon.md",
-    "remoteBrain/Daily-Docs/2025/06_June/2025-06-17 Tue.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-13 Fri.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-12 Thu.md",
     "remoteBrain/99_InsightON/Chemicals.md",
