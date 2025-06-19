@@ -25,23 +25,6 @@
             }
           },
           {
-            "id": "c73ccbe6b858afec",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remoteBrain/Daily-Docs/2025/06_June/2025-06-17 Tue.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2025-06-17 Tue"
-            }
-          },
-          {
             "id": "95eab4cac6b44f7b",
             "type": "leaf",
             "state": {
@@ -52,22 +35,24 @@
             }
           },
           {
-            "id": "64032a51e6094612",
+            "id": "88c0e21672090c58",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2025/06_June/2025-06-18 Wed.md",
+                "file": "remoteBrain/Daily-Docs/2025/06_June/2025-06-19 Thu.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "2025-06-18 Wed"
+              "title": "2025-06-19 Thu"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,6 +168,7 @@
   },
   "active": "95eab4cac6b44f7b",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2025/06_June/2025-06-19 Thu.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-17 Tue.md",
     "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-18 Wed.md",
@@ -208,7 +194,6 @@
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-20 Tue.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-16 Fri.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-15 Thu.md",
-    "remoteBrain/Daily-Docs/2025/05_May/2025-05-14 Wed.md",
     "remoteBrain/DDR",
     "remoteBrain/Daily-Docs/2025/06_June",
     "remoteBrain/Daily-Docs/2025/05_May",
