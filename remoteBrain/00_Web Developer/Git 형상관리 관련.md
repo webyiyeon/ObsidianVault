@@ -6,4 +6,3 @@ git reset --hard <commit-hash>  # 특정 커밋 상태로 되돌림 (기존 변�
 git push origin HEAD --force  # 강제로 원격 브랜치 덮어쓰기
 ```
 
-

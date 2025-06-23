@@ -57,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,10 +171,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7d6fbb00d380ce5b",
+  "active": "979c97f85c98dff4",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2025/06_June/2025-06-23 Mon.md",
     "remoteBrain/00_Web Developer/Git 형상관리 관련.md",
+    "remoteBrain/Daily-Docs/2025/06_June/2025-06-23 Mon.md",
     "remoteBrain/00_Web Developer",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-22 Sun.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-21 Sat.md",
