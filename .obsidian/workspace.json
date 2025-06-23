@@ -23,8 +23,26 @@
               "icon": "lucide-file",
               "title": "2025"
             }
+          },
+          {
+            "id": "979c97f85c98dff4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2025/06_June/2025-06-23 Mon.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2025-06-23 Mon"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,8 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5,
-    "collapsed": true
+    "width": 337.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -139,11 +156,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "979c97f85c98dff4",
   "lastOpenFiles": [
+    "remoteBrain/VisionBoard/2025.md",
+    "remoteBrain/Daily-Docs/2025/06_June/2025-06-23 Mon.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-19 Thu.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-17 Tue.md",
-    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-18 Wed.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-15 Sun.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-14 Sat.md",
@@ -166,7 +184,6 @@
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-06 Fri.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-20 Tue.md",
     "remoteBrain/Daily-Docs/2025/05_May/2025-05-16 Fri.md",
-    "remoteBrain/Daily-Docs/2025/05_May/2025-05-15 Thu.md",
     "remoteBrain/DDR",
     "remoteBrain/Daily-Docs/2025/06_June",
     "remoteBrain/Daily-Docs/2025/05_May",
