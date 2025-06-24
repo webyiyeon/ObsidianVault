@@ -23,8 +23,36 @@
               "icon": "lucide-file",
               "title": "2025"
             }
+          },
+          {
+            "id": "903f9a7148173427",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2025/06_June/2025-06-24 Tue.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2025-06-24 Tue"
+            }
+          },
+          {
+            "id": "c7a306122a168b04",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-google-calendar",
+              "state": {},
+              "icon": "lucide-calendar-heart",
+              "title": "Google Calendar"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,15 +166,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c7a306122a168b04",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2025/06_June/2025-06-24 Tue.md",
+    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/00_Web Developer/Git 형상관리 관련.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-23 Mon.md",
     "remoteBrain/00_Web Developer",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-22 Sun.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-21 Sat.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-20 Fri.md",
-    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-19 Thu.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-17 Tue.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-18 Wed.md",
@@ -166,7 +195,6 @@
     "remoteBrain/Report/2025/06_June.md",
     "wooyeon/Love Life/𝒟𝒶𝓉𝑒 ℬ𝓊𝒸𝓀𝑒𝓉𝓁𝒾𝓈𝓉 - 𝟸𝟶𝟸𝟻.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-09 Mon.md",
-    "remoteBrain/Daily-Docs/2025/06_June/2025-06-08 Sun.md",
     "remoteBrain/DDR",
     "remoteBrain/Daily-Docs/2025/06_June",
     "remoteBrain/Daily-Docs/2025/05_May",
