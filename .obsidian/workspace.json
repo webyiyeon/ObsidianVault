@@ -99,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e1f0c7632e67bdc4",
@@ -169,9 +170,9 @@
   "active": "c7a306122a168b04",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-24 Tue.md",
+    "remoteBrain/Daily-Docs/2025/06_June/2025-06-23 Mon.md",
     "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/00_Web Developer/Git 형상관리 관련.md",
-    "remoteBrain/Daily-Docs/2025/06_June/2025-06-23 Mon.md",
     "remoteBrain/00_Web Developer",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-22 Sun.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-21 Sat.md",
