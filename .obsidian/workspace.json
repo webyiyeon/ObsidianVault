@@ -27,6 +27,7 @@
           {
             "id": "974362fcb843ab0d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -35,6 +36,7 @@
                 "source": false,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "2025-06-25 Wed"
             }
