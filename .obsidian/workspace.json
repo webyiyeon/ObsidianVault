@@ -47,17 +47,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/99_InsightON/SHE MU 디버깅.md",
+                "file": "remoteBrain/99_InsightON/V3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "SHE MU 디버깅"
+              "title": "V3"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,11 +171,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "974362fcb843ab0d",
+  "active": "df0d67d6bf351881",
   "lastOpenFiles": [
     "remoteBrain/99_InsightON/SHE MU 디버깅.md",
-    "remoteBrain/99_InsightON/V3.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-25 Wed.md",
+    "remoteBrain/99_InsightON/V3.md",
     "remoteBrain/DDR/POS.md",
     "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/99_InsightON/Chemicals.md",
