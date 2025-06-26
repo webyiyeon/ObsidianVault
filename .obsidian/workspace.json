@@ -47,13 +47,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/99_InsightON/V3.md",
+                "file": "remoteBrain/99_InsightON/Chemicals.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "V3"
+              "title": "Chemicals"
             }
           }
         ],
@@ -173,9 +173,9 @@
   },
   "active": "df0d67d6bf351881",
   "lastOpenFiles": [
+    "remoteBrain/99_InsightON/V3.md",
     "remoteBrain/99_InsightON/SHE MU 디버깅.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-25 Wed.md",
-    "remoteBrain/99_InsightON/V3.md",
     "remoteBrain/DDR/POS.md",
     "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/99_InsightON/Chemicals.md",
