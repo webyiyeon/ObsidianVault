@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2025/07_July/2025-07-01 Tue.md",
+                "file": "remoteBrain/00_Web Developer/Git 형상관리 관련.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-01 Tue"
+              "title": "Git 형상관리 관련"
             }
           }
         ],
@@ -156,8 +156,9 @@
   },
   "active": "95cc57ff11c1e1b7",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2025/06_June/2025-06-30 Mon.md",
+    "remoteBrain/99_InsightON/V3.md",
     "remoteBrain/Daily-Docs/2025/07_July/2025-07-01 Tue.md",
+    "remoteBrain/Daily-Docs/2025/06_June/2025-06-30 Mon.md",
     "remoteBrain/Daily-Docs/2025/07_July",
     "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-25 Wed.md",
@@ -166,7 +167,6 @@
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-26 Thu.md",
     "remoteBrain/99_InsightON/Chemicals.md",
     "remoteBrain/99_InsightON/SHE MU 디버깅.md",
-    "remoteBrain/99_InsightON/V3.md",
     "remoteBrain/DDR/POS.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-24 Tue.md",
     "remoteBrain/99_InsightON/슬기로운 독서생활.md",
