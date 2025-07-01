@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2025/06_June/2025-06-30 Mon.md",
+                "file": "remoteBrain/Daily-Docs/2025/07_July/2025-07-01 Tue.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-30 Mon"
+              "title": "2025-07-01 Tue"
             }
           }
         ],
@@ -156,8 +156,10 @@
   },
   "active": "95cc57ff11c1e1b7",
   "lastOpenFiles": [
-    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-30 Mon.md",
+    "remoteBrain/Daily-Docs/2025/07_July/2025-07-01 Tue.md",
+    "remoteBrain/Daily-Docs/2025/07_July",
+    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-25 Wed.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-27 Fri.md",
     "remoteBrain/Report/2025/06_June.md",
@@ -187,12 +189,10 @@
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-14 Sat.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-16 Mon.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-13 Fri.md",
-    "remoteBrain/Daily-Docs/2025/06_June/2025-06-12 Thu.md",
     "remoteBrain/DDR",
     "remoteBrain/Daily-Docs/2025/06_June",
     "remoteBrain/Daily-Docs/2025/05_May",
     "remoteBrain/Daily-Docs/2025/04_April",
-    "remoteBrain/_templater/finance_script.py",
-    "remoteBrain/_templater/Python Test.py"
+    "remoteBrain/_templater/finance_script.py"
   ]
 }
