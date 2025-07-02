@@ -23,24 +23,8 @@
               "icon": "lucide-file",
               "title": "2025"
             }
-          },
-          {
-            "id": "95cc57ff11c1e1b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remoteBrain/00_Web Developer/Git 형상관리 관련.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Git 형상관리 관련"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,13 +138,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "95cc57ff11c1e1b7",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "remoteBrain/VisionBoard/2025.md",
+    "remoteBrain/00_Web Developer/Git 형상관리 관련.md",
     "remoteBrain/99_InsightON/V3.md",
     "remoteBrain/Daily-Docs/2025/07_July/2025-07-01 Tue.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-30 Mon.md",
     "remoteBrain/Daily-Docs/2025/07_July",
-    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-25 Wed.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-27 Fri.md",
     "remoteBrain/Report/2025/06_June.md",
@@ -177,7 +162,6 @@
     "remoteBrain/Daily-Docs/Images/Pasted image 20250624095551.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20250624095303.png",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-23 Mon.md",
-    "remoteBrain/00_Web Developer/Git 형상관리 관련.md",
     "remoteBrain/00_Web Developer",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-22 Sun.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-21 Sat.md",
