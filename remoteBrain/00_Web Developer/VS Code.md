@@ -44,11 +44,7 @@
 - 자동 launch 쪽이 정상적으로 동작되지 않아 수정
 	1. Chrome을 디버깅 모드로 강제 실행
 	```
-	"C:\Program Files\Google\Chrome\Application\chrome.exe" ^
-	 --remote-debugging-port=9222 ^
-	 --user-data-dir="C:\chrome-dev-profile" ^
-	 --no-first-run ^
-	 --no-default-browser-check
+	"C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222 --user-data-dir="C:\chrome-dev-profile" --no-first-run no-default-browser-check
 	```
 
 	2. `launch.json` attach만 하도록 수정
