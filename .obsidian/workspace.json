@@ -23,8 +23,41 @@
               "icon": "lucide-file",
               "title": "2025"
             }
+          },
+          {
+            "id": "c0422ba27a0b5ccc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2025/07_July/2025-07-07 Mon.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2025-07-07 Mon"
+            }
+          },
+          {
+            "id": "bb3d2143fbf8dc66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/00_Web Developer/VS Code.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "VS Code"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,16 +171,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "bb3d2143fbf8dc66",
   "lastOpenFiles": [
+    "remoteBrain/00_Web Developer/Git 형상관리 관련.md",
+    "remoteBrain/Daily-Docs/2025/07_July/2025-07-07 Mon.md",
+    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/00_Web Developer/VS Code.md",
     "remoteBrain/99_InsightON/Chemicals.md",
     "remoteBrain/Daily-Docs/2025/07_July/2025-07-03 Thu.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-30 Mon.md",
     "remoteBrain/Daily-Docs/2025/07_July/2025-07-01 Tue.md",
     "remoteBrain/Daily-Docs/2025/07_July/2025-07-02 Wed.md",
-    "remoteBrain/VisionBoard/2025.md",
-    "remoteBrain/00_Web Developer/Git 형상관리 관련.md",
     "remoteBrain/99_InsightON/V3.md",
     "remoteBrain/Daily-Docs/2025/07_July",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-25 Wed.md",
@@ -172,7 +206,6 @@
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-19 Thu.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-17 Tue.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-18 Wed.md",
-    "remoteBrain/Daily-Docs/2025/06_June/2025-06-15 Sun.md",
     "remoteBrain/DDR",
     "remoteBrain/Daily-Docs/2025/06_June",
     "remoteBrain/Daily-Docs/2025/05_May",
