@@ -85,3 +85,6 @@ robots.txt 파일이 존재하지 않습니다. 이 경우, 검색 엔진 기능
 
 [# Windows Server disable TLS 1.0 TLS 1.1 (비활성화)](https://xinet.kr/?p=3402 "https://xinet.kr/?p=3402")
 
+
+
+requestFiltering > removeServerHeader True
