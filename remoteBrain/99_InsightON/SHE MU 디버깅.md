@@ -15,7 +15,7 @@ set appr_rqst_no = null, com_biz_appr_step_cd = null, complete_yn = 'N', complet
 where saf_jsa_id = #{safJsaId}		;
 
 update saf_jsa
-set appr_rqst_no = null, appr_step = 'SA-JA-01', last_appr_step = null
+set appr_rqst_no = null, appr_step = 'SA-JA-01', last_appr_step = 'SA-JA-03'
 where saf_jsa_id = #{safJsaId}
 ```
 
