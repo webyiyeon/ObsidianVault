@@ -47,13 +47,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2024/10_October/2024-10-28 Mon.md",
+                "file": "remoteBrain/99_InsightON/SHE MU 디버깅.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-28 Mon"
+              "title": "SHE MU 디버깅"
             }
           }
         ],
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "JSA",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,8 +100,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,6 +173,7 @@
   },
   "active": "bb3d2143fbf8dc66",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2024/10_October/2024-10-28 Mon.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-04 Wed.md",
     "remoteBrain/99_InsightON/SHE MU 디버깅.md",
     "remoteBrain/00_Web Developer/VS Code.md",
@@ -206,7 +206,6 @@
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-21 Sat.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-20 Fri.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-19 Thu.md",
-    "remoteBrain/Daily-Docs/2025/06_June/2025-06-17 Tue.md",
     "remoteBrain/DDR",
     "remoteBrain/Daily-Docs/2025/06_June",
     "remoteBrain/Daily-Docs/2025/05_May",
