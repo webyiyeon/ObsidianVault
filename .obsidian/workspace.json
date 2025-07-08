@@ -47,13 +47,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/00_Web Developer/VS Code.md",
+                "file": "remoteBrain/99_InsightON/SHE MU 디버깅.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "VS Code"
+              "title": "SHE MU 디버깅"
             }
           }
         ],
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "JSA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +100,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,12 +172,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bb3d2143fbf8dc66",
+  "active": "d32b7eed32765a08",
   "lastOpenFiles": [
+    "remoteBrain/00_Web Developer/VS Code.md",
     "remoteBrain/00_Web Developer/Git 형상관리 관련.md",
     "remoteBrain/Daily-Docs/2025/07_July/2025-07-07 Mon.md",
     "remoteBrain/VisionBoard/2025.md",
-    "remoteBrain/00_Web Developer/VS Code.md",
     "remoteBrain/99_InsightON/Chemicals.md",
     "remoteBrain/Daily-Docs/2025/07_July/2025-07-03 Thu.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-30 Mon.md",
