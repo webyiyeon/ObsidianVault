@@ -79,6 +79,11 @@ robots.txt 파일이 존재하지 않습니다. 이 경우, 검색 엔진 기능
 2. ![[Pasted image 20250624095303.png]]
 3. ![[Pasted image 20250624095551.png]]
 
+- 위 방법으로는 완전히 처리되지 않아서 아래 방법 추가
+	![[Pasted image 20250710145507.png]]
+	![[Pasted image 20250710145520.png]]
+	requestFiltering > removeServerHeader `True`
+
 
 #### 취약한 버전의 네트워크 보안 프로토콜 사용 여부
 현재 TLS 1.0, 1.1이 활성화 되어 있습니다. 해당 버전은 권장하지 않는 암호화 알고리즘 및 키 교환 알고리즘을 사용하고 있습니다. 이로 인한 취약성을 제거하기 위하여 TLS 1.0, 1.1 비활성화를 권고 드립니다.
@@ -87,4 +92,4 @@ robots.txt 파일이 존재하지 않습니다. 이 경우, 검색 엔진 기능
 
 
 
-requestFiltering > removeServerHeader True
+
