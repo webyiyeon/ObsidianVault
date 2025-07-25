@@ -33,9 +33,19 @@
               "icon": "lucide-calendar-heart",
               "title": "Google Calendar"
             }
+          },
+          {
+            "id": "28a41250a89145ef",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,10 +160,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5981e9dab44339df",
+  "active": "28a41250a89145ef",
   "lastOpenFiles": [
-    "remoteBrain/00_Web Developer/VS Code.md",
     "remoteBrain/VisionBoard/2025.md",
+    "remoteBrain/00_Web Developer/VS Code.md",
     "remoteBrain/Daily-Docs/2025/07_July/2025-07-23 Wed.md",
     "remoteBrain/Daily-Docs/2025/07_July/2025-07-24 Thu.md",
     "remoteBrain/Daily-Docs/2025/07_July/2025-07-20 Sun.md",
