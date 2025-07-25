@@ -38,14 +38,19 @@
             "id": "28a41250a89145ef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2025/07_July/2025-07-25 Fri.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-07-25 Fri"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,8 +165,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "28a41250a89145ef",
+  "active": "5981e9dab44339df",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2025/07_July/2025-07-25 Fri.md",
     "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/00_Web Developer/VS Code.md",
     "remoteBrain/Daily-Docs/2025/07_July/2025-07-23 Wed.md",
@@ -190,7 +196,6 @@
     "remoteBrain/Daily-Docs/2025/07_July/2025-07-14 Mon.md",
     "remoteBrain/Daily-Docs/2025/07_July/2025-07-11 Fri.md",
     "remoteBrain/_templater/Python Test.md",
-    "remoteBrain/_templater/Daily.md",
     "remoteBrain/Daily-Docs/Images/Pasted image 20250710145520.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20250710145507.png",
     "remoteBrain/Daily-Docs/2025/07_July",
