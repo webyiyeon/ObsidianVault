@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -148,8 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5,
-    "collapsed": true
+    "width": 337.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,7 +165,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5981e9dab44339df",
+  "active": "28a41250a89145ef",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2025/07_July/2025-07-25 Fri.md",
     "remoteBrain/VisionBoard/2025.md",
