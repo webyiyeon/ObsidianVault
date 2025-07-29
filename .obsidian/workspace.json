@@ -10,18 +10,11 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remoteBrain/VisionBoard/2025.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "pinned": true,
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025"
+              "title": "New tab"
             }
           }
         ]
