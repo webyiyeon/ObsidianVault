@@ -25,9 +25,37 @@
             }
           },
           {
-            "id": "1bfe07c69fb5356d",
+            "id": "db84069d93f6a605",
             "type": "leaf",
             "pinned": true,
+            "state": {
+              "type": "custom-frames-google-calendar",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-calendar-heart",
+              "title": "Google Calendar"
+            }
+          },
+          {
+            "id": "37167452970ddf12",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2025/07_July/2025-07-29 Tue.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2025-07-29 Tue"
+            }
+          },
+          {
+            "id": "1bfe07c69fb5356d",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -36,23 +64,12 @@
                 "source": false,
                 "backlinks": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "2025-07-28 Mon"
             }
-          },
-          {
-            "id": "db84069d93f6a605",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-google-calendar",
-              "state": {},
-              "icon": "lucide-calendar-heart",
-              "title": "Google Calendar"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,9 +186,11 @@
   },
   "active": "db84069d93f6a605",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2025/07_July/2025-07-29 Tue.md",
     "remoteBrain/Daily-Docs/2025/07_July/2025-07-28 Mon.md",
     "remoteBrain/Daily-Docs/2025/07_July/2025-07-27 Sun.md",
-    "remoteBrain/Daily-Docs/2025/07_July/2025-07-29 Tue.md",
+    "remoteBrain/Daily-Docs/2025/07_July/2025-07-21 Mon.md",
+    "remoteBrain/Daily-Docs/2025/07_July/2025-07-20 Sun.md",
     "remoteBrain/Daily-Docs/2025/07_July/2025-07-23 Wed.md",
     "remoteBrain/Daily-Docs/2025/07_July/2025-07-22 Tue.md",
     "remoteBrain/Daily-Docs/2025/07_July/2025-07-26 Sat.md",
@@ -179,7 +198,6 @@
     "remoteBrain/Daily-Docs/2025/07_July/2025-07-25 Fri.md",
     "remoteBrain/00_Web Developer/VS Code.md",
     "remoteBrain/Daily-Docs/2025/07_July/2025-07-24 Thu.md",
-    "remoteBrain/Daily-Docs/2025/07_July/2025-07-20 Sun.md",
     "remoteBrain/99_InsightON/SHE MU 디버깅.md",
     "remoteBrain/99_InsightON/V3.md",
     "remoteBrain/Daily-Docs/Images/Pasted image 20250723112514.png",
@@ -191,7 +209,6 @@
     "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/캠핑!.md",
     "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/240413_1.webp",
     "Blog/Tistory/Obsidian/Obisidan Markdown.md",
-    "remoteBrain/Daily-Docs/2025/07_July/2025-07-21 Mon.md",
     "remoteBrain/Daily-Docs/2025/07_July/2025-07-19 Sat.md",
     "remoteBrain/Daily-Docs/2025/07_July/2025-07-17 Thu.md",
     "remoteBrain/Daily-Docs/2025/07_July/2025-07-16 Wed.md",
