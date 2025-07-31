@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2025/07_July/2025-07-30 Wed.md",
+                "file": "remoteBrain/99_InsightON/슬기로운 독서생활.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-30 Wed"
+              "title": "슬기로운 독서생활"
             }
           }
         ],
@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e1f0c7632e67bdc4",
