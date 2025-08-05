@@ -1,5 +1,4 @@
 ### Checking In on My Goals 🌱
-### Checking In on My Goals 🌱
 
 1. how are you feeling?
 2. what goals have you started?
@@ -32,7 +31,7 @@ TABLE
 FROM 
 	#routine 
 WHERE 
-	file.folder = "remoteBrain/Daily-Docs/2025/06_June"
+	file.folder = "remoteBrain/Daily-Docs/2025/08_August"
 sort file.name	
 ```
 
@@ -49,7 +48,7 @@ TABLE
 FROM 
 	 #routine 
 WHERE 
-	file.folder = "remoteBrain/Daily-Docs/2025/06_June"
+	file.folder = "remoteBrain/Daily-Docs/2025/08_August"
 sort file.name
 ```
 
@@ -62,7 +61,7 @@ TABLE
 FROM 
 	#meal-log📝 
 WHERE 
-	file.folder = "remoteBrain/Daily-Docs/2025/06_June"
+	file.folder = "remoteBrain/Daily-Docs/2025/08_August"
 sort file.name	
 ```
 
@@ -74,7 +73,7 @@ TABLE
 FROM 
 	#workout-log💪 
 WHERE 
-	file.folder = "remoteBrain/Daily-Docs/2025/06_June"
+	file.folder = "remoteBrain/Daily-Docs/2025/08_August"
 sort file.name
 ```
 
@@ -94,7 +93,7 @@ TABLE WITHOUT ID
 	choice(file.tasks[8].completed, "✔️", " ") AS "독서하기"
 	FROM #routine 
 	WHERE
-	file.folder = "remoteBrain/Daily-Docs/2025/06_June"
+	file.folder = "remoteBrain/Daily-Docs/2025/08_August"
 	SORT file.name ASC
 ```
 
