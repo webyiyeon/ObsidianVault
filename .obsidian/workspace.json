@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "토큰",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,8 +83,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -154,7 +153,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d32b7eed32765a08",
+  "active": "e0cd7ee134df37c4",
   "lastOpenFiles": [
     "remoteBrain/99_InsightON/SHE MU 디버깅.md",
     "remoteBrain/99_InsightON/Chemicals.md",
