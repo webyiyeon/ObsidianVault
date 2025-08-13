@@ -23,19 +23,8 @@
               "icon": "lucide-file",
               "title": "2025"
             }
-          },
-          {
-            "id": "5c825d18b8c90785",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-google-calendar",
-              "state": {},
-              "icon": "lucide-calendar-heart",
-              "title": "Google Calendar"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,7 +137,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5c825d18b8c90785",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2025/08_August/2025-08-11 Mon.md",
     "remoteBrain/VisionBoard/2025.md",
