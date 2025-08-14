@@ -136,7 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 272.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,7 +153,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0b7f1f5bacee56d9",
+  "active": "eb1159e1da285736",
   "lastOpenFiles": [
     "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/08_August/2025-08-14 Thu.md",
