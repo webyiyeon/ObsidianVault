@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2025/08_August/2025-08-14 Thu.md",
+                "file": "remoteBrain/99_InsightON/V3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-14 Thu"
+              "title": "V3"
             }
           }
         ],
@@ -153,17 +153,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "eb1159e1da285736",
+  "active": "0b7f1f5bacee56d9",
   "lastOpenFiles": [
-    "remoteBrain/VisionBoard/2025.md",
-    "remoteBrain/Daily-Docs/2025/08_August/2025-08-14 Thu.md",
+    "remoteBrain/99_InsightON/SHE MU 디버깅.md",
     "remoteBrain/99_InsightON/V3.md",
+    "remoteBrain/Daily-Docs/2025/08_August/2025-08-14 Thu.md",
+    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/08_August/2025-08-11 Mon.md",
     "remoteBrain/Daily-Docs/2025/08_August/2025-08-08 Fri.md",
     "remoteBrain/Daily-Docs/2025/08_August/2025-08-07 Thu.md",
     "remoteBrain/Daily-Docs/2025/08_August/2025-08-06 Wed.md",
     "remoteBrain/Daily-Docs/2025/08_August/2025-08-05 Tue.md",
-    "remoteBrain/99_InsightON/SHE MU 디버깅.md",
     "remoteBrain/99_InsightON/Chemicals.md",
     "remoteBrain/00_Web Developer/VS Code.md",
     "remoteBrain/00_Web Developer/Git 형상관리 관련.md",
