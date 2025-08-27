@@ -25,13 +25,15 @@
             }
           },
           {
-            "id": "d67989c02bfb324e",
+            "id": "dea201c468c00743",
             "type": "leaf",
             "state": {
-              "type": "custom-frames-google-calendar",
-              "state": {},
-              "icon": "lucide-calendar-heart",
-              "title": "Google Calendar"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
             }
           }
         ],
@@ -149,14 +151,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d67989c02bfb324e",
+  "active": "dea201c468c00743",
   "lastOpenFiles": [
+    "remoteBrain/VisionBoard/2025.md",
     "Blog/Tistory/Obsidian/Tistory와 Obsidian 연동하기/Tistory와 Obsidian 연동하기.md",
     "Blog/Tistory/Obsidian/Tistory와 Obsidian 연동하기/1145918_1.png",
     "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/00.Windows에서 MySQL 압축파일(zip) 설치 방법.md",
     "Blog/Tistory/Data/RDBMS/Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기/Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기.md",
     "remoteBrain/Daily-Docs/2025/08_August/2025-08-27 Wed.md",
-    "remoteBrain/VisionBoard/2025.md",
     "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/캠핑!.md",
     "Blog/Tistory/맛따라/Recipe/알리오 올리오 파스타.md",
     "Blog/Tistory/맛따라/Recipe/브리치즈 오일 파스타.md",
