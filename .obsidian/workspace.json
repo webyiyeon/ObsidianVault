@@ -25,19 +25,36 @@
             }
           },
           {
-            "id": "9c8be6b9eec2efd6",
+            "id": "192caef85725ba9f",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "remoteBrain/Daily-Docs/2025/08_August/2025-08-27 Wed.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2025-08-27 Wed"
+            }
+          },
+          {
+            "id": "2a55815003362d02",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "custom-frames-google-calendar",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-calendar-heart",
+              "title": "Google Calendar"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -151,14 +168,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9c8be6b9eec2efd6",
+  "active": "2a55815003362d02",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2025/08_August/2025-08-27 Wed.md",
+    "remoteBrain/Daily-Docs/2025/08_August/2025-08-20 Wed.md",
     "remoteBrain/VisionBoard/2025.md",
+    "remoteBrain/Daily-Docs/2025/08_August/2025-08-19 Tue.md",
+    "remoteBrain/Daily-Docs/2025/08_August/2025-08-18 Mon.md",
+    "remoteBrain/Daily-Docs/2025/08_August/2025-08-25 Mon.md",
+    "remoteBrain/Daily-Docs/2025/08_August/2025-08-26 Tue.md",
     "Blog/Tistory/Obsidian/Tistory와 Obsidian 연동하기/Tistory와 Obsidian 연동하기.md",
     "Blog/Tistory/Obsidian/Tistory와 Obsidian 연동하기/1145918_1.png",
     "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/00.Windows에서 MySQL 압축파일(zip) 설치 방법.md",
     "Blog/Tistory/Data/RDBMS/Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기/Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기.md",
-    "remoteBrain/Daily-Docs/2025/08_August/2025-08-27 Wed.md",
     "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/캠핑!.md",
     "Blog/Tistory/맛따라/Recipe/알리오 올리오 파스타.md",
     "Blog/Tistory/맛따라/Recipe/브리치즈 오일 파스타.md",
@@ -166,11 +188,6 @@
     "Excalidraw/LLM(GPT) Price policy.md",
     "Excalidraw/Chain.md",
     "remoteBrain/Daily-Docs/2025/01_January/2025-01-02 Thu.md",
-    "remoteBrain/Daily-Docs/2025/08_August/2025-08-26 Tue.md",
-    "remoteBrain/Daily-Docs/2025/08_August/2025-08-25 Mon.md",
-    "remoteBrain/Daily-Docs/2025/08_August/2025-08-20 Wed.md",
-    "remoteBrain/Daily-Docs/2025/08_August/2025-08-18 Mon.md",
-    "remoteBrain/Daily-Docs/2025/08_August/2025-08-19 Tue.md",
     "remoteBrain/Report/2025/08_August.md",
     "remoteBrain/Report/2025/07_July.md",
     "remoteBrain/Daily-Docs/2025/08_August/2025-08-06 Wed.md",
