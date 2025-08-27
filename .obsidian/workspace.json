@@ -23,19 +23,8 @@
               "icon": "lucide-file",
               "title": "2025"
             }
-          },
-          {
-            "id": "8abd187b3a510767",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-google-calendar",
-              "state": {},
-              "icon": "lucide-calendar-heart",
-              "title": "Google Calendar"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,8 +138,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8abd187b3a510767",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2025/01_January/2025-01-02 Thu.md",
     "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/08_August/2025-08-26 Tue.md",
     "remoteBrain/Daily-Docs/2025/08_August/2025-08-25 Mon.md",
@@ -176,7 +166,6 @@
     "remoteBrain/Daily-Docs/2025/08_August/2025-08-13 Wed.md",
     "remoteBrain/Daily-Docs/2025/08_August/2025-08-12 Tue.md",
     "remoteBrain/Daily-Docs/2025/08_August/2025-08-14 Thu.md",
-    "remoteBrain/99_InsightON/SHE MU 디버깅.md",
     "remoteBrain/Daily-Docs/2025/08_August",
     "remoteBrain/Daily-Docs/Images/Pasted image 20250723112514.png",
     "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/9.jpeg",
