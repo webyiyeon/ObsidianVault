@@ -23,8 +23,19 @@
               "icon": "lucide-file",
               "title": "2025"
             }
+          },
+          {
+            "id": "8abd187b3a510767",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-google-calendar",
+              "state": {},
+              "icon": "lucide-calendar-heart",
+              "title": "Google Calendar"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,11 +149,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "8abd187b3a510767",
   "lastOpenFiles": [
+    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/08_August/2025-08-26 Tue.md",
     "remoteBrain/Daily-Docs/2025/08_August/2025-08-25 Mon.md",
-    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/08_August/2025-08-20 Wed.md",
     "remoteBrain/Daily-Docs/2025/08_August/2025-08-18 Mon.md",
     "remoteBrain/Daily-Docs/2025/08_August/2025-08-19 Tue.md",
