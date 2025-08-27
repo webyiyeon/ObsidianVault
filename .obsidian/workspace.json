@@ -23,8 +23,19 @@
               "icon": "lucide-file",
               "title": "2025"
             }
+          },
+          {
+            "id": "d67989c02bfb324e",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-google-calendar",
+              "state": {},
+              "icon": "lucide-calendar-heart",
+              "title": "Google Calendar"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,16 +149,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "d67989c02bfb324e",
   "lastOpenFiles": [
+    "Blog/Tistory/Obsidian/Tistory와 Obsidian 연동하기/Tistory와 Obsidian 연동하기.md",
+    "Blog/Tistory/Obsidian/Tistory와 Obsidian 연동하기/1145918_1.png",
+    "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/00.Windows에서 MySQL 압축파일(zip) 설치 방법.md",
+    "Blog/Tistory/Data/RDBMS/Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기/Mac OS에서 Homebrew(홈브류)로 MySQL 설치하기.md",
+    "remoteBrain/Daily-Docs/2025/08_August/2025-08-27 Wed.md",
+    "remoteBrain/VisionBoard/2025.md",
     "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/캠핑!.md",
     "Blog/Tistory/맛따라/Recipe/알리오 올리오 파스타.md",
     "Blog/Tistory/맛따라/Recipe/브리치즈 오일 파스타.md",
     "Blog/Tistory/맛따라/Recipe/바스크 치즈케이크.md",
-    "remoteBrain/VisionBoard/2025.md",
     "Excalidraw/LLM(GPT) Price policy.md",
     "Excalidraw/Chain.md",
-    "remoteBrain/Daily-Docs/2025/08_August/2025-08-27 Wed.md",
     "remoteBrain/Daily-Docs/2025/01_January/2025-01-02 Thu.md",
     "remoteBrain/Daily-Docs/2025/08_August/2025-08-26 Tue.md",
     "remoteBrain/Daily-Docs/2025/08_August/2025-08-25 Mon.md",
@@ -163,9 +178,6 @@
     "remoteBrain/Report/2025/03_March.md",
     "remoteBrain/Report/2025/05_May.md",
     "remoteBrain/Report/2025/06_June.md",
-    "wooyeon/Love Life/𝒟𝒶𝓉𝑒 ℬ𝓊𝒸𝓀𝑒𝓉𝓁𝒾𝓈𝓉 - 𝟸𝟶𝟸𝟻.md",
-    "remoteBrain/99_InsightON/V3.md",
-    "remoteBrain/Daily-Docs/2025/08_August/2025-08-15 Fri.md",
     "remoteBrain/Daily-Docs/2025/08_August",
     "remoteBrain/Daily-Docs/Images/Pasted image 20250723112514.png",
     "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/9.jpeg",
