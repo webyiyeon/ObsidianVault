@@ -24,7 +24,7 @@
   "dailyNoteDotColor": "#6aa1d8",
   "useWeeklyNotes": false,
   "debugMode": false,
-  "timelineHourFormat": 0,
+  "timelineHourFormat": 1,
   "atAnnotationEnabled": true,
   "usDateFormat": true,
   "viewSettings": {
