@@ -30,17 +30,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2025/09_September/2025-09-01 Mon.md",
+                "file": "remoteBrain/Daily-Docs/2025/08_August/2025-08-22 Fri.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-01 Mon"
+              "title": "2025-08-22 Fri"
+            }
+          },
+          {
+            "id": "530d86b8bbb123c6",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-google-calendar",
+              "state": {},
+              "icon": "lucide-calendar-heart",
+              "title": "Google Calendar"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,12 +164,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0befd1e29fc53533",
+  "active": "530d86b8bbb123c6",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2025/08_August/2025-08-22 Fri.md",
+    "remoteBrain/Daily-Docs/2025/08_August/2025-08-25 Mon.md",
+    "remoteBrain/Daily-Docs/2025/08_August/2025-08-26 Tue.md",
+    "remoteBrain/Daily-Docs/2025/08_August/2025-08-29 Fri.md",
+    "remoteBrain/Daily-Docs/2025/08_August/2025-08-20 Wed.md",
+    "remoteBrain/Daily-Docs/2025/08_August/2025-08-30 Sat.md",
+    "remoteBrain/Daily-Docs/2025/08_August/2025-08-31 Sun.md",
+    "remoteBrain/Daily-Docs/2025/09_September/2025-09-01 Mon.md",
     "remoteBrain/Daily-Docs/2025/09_September/2025-09-04 Thu.md",
     "remoteBrain/Daily-Docs/2025/09_September/2025-09-03 Wed.md",
     "remoteBrain/Daily-Docs/2025/09_September/2025-09-02 Tue.md",
-    "remoteBrain/Daily-Docs/2025/09_September/2025-09-01 Mon.md",
     "remoteBrain/Daily-Docs/2025/09_September/2025-09-05 Fri.md",
     "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/09_September",
@@ -169,11 +186,8 @@
     "remoteBrain/Daily-Docs/Images/0AFAACDD-F08F-4D5C-A2A3-A24B2049D6B7_1_105_c.jpeg",
     "Blog/Tistory/멋따라",
     "remoteBrain/Daily-Docs/2025/08_August/2025-08-27 Wed.md",
-    "remoteBrain/Daily-Docs/2025/08_August/2025-08-20 Wed.md",
     "remoteBrain/Daily-Docs/2025/08_August/2025-08-19 Tue.md",
     "remoteBrain/Daily-Docs/2025/08_August/2025-08-18 Mon.md",
-    "remoteBrain/Daily-Docs/2025/08_August/2025-08-25 Mon.md",
-    "remoteBrain/Daily-Docs/2025/08_August/2025-08-26 Tue.md",
     "Blog/Tistory/Obsidian/Tistory와 Obsidian 연동하기/Tistory와 Obsidian 연동하기.md",
     "Blog/Tistory/Obsidian/Tistory와 Obsidian 연동하기/1145918_1.png",
     "Blog/Tistory/Data/RDBMS/Windows에서 MySQL 압축파일(zip)로 설치 방법/00.Windows에서 MySQL 압축파일(zip) 설치 방법.md",
@@ -183,10 +197,6 @@
     "Blog/Tistory/맛따라/Recipe/브리치즈 오일 파스타.md",
     "Blog/Tistory/맛따라/Recipe/바스크 치즈케이크.md",
     "Excalidraw/LLM(GPT) Price policy.md",
-    "Excalidraw/Chain.md",
-    "remoteBrain/Daily-Docs/2025/01_January/2025-01-02 Thu.md",
-    "remoteBrain/Report/2025/08_August.md",
-    "remoteBrain/Report/2025/07_July.md",
     "remoteBrain/Daily-Docs/2025/08_August",
     "remoteBrain/Daily-Docs/Images/Pasted image 20250723112514.png",
     "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/9.jpeg",
