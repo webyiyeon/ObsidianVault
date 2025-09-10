@@ -55,9 +55,19 @@
               "icon": "lucide-file",
               "title": "2025-09-08 Mon"
             }
+          },
+          {
+            "id": "99ea01b7d4cd9637",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-google-calendar",
+              "state": {},
+              "icon": "lucide-calendar-heart",
+              "title": "Google Calendar"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -104,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e1f0c7632e67bdc4",
@@ -171,10 +182,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3c4e2683b17e55b5",
+  "active": "99ea01b7d4cd9637",
   "lastOpenFiles": [
-    "remoteBrain/99_InsightON/Chemicals.md",
     "remoteBrain/Daily-Docs/2025/09_September/2025-09-08 Mon.md",
+    "remoteBrain/99_InsightON/Chemicals.md",
     "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/99_InsightON/V3.md",
     "remoteBrain/00_Web Developer/VS Code.md",
