@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2025/09_September/2025-09-10 Wed.md",
+                "file": "remoteBrain/99_InsightON/슬기로운 독서생활.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-10 Wed"
+              "title": "슬기로운 독서생활"
             }
           }
         ],
@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e1f0c7632e67bdc4",
@@ -157,16 +156,16 @@
   },
   "active": "d4a5394d46074e43",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2025/09_September/2025-09-08 Mon.md",
+    "remoteBrain/99_InsightON/SHE MU 디버깅.md",
     "remoteBrain/Daily-Docs/2025/09_September/2025-09-11 Thu.md",
+    "remoteBrain/Daily-Docs/2025/09_September/2025-09-10 Wed.md",
+    "remoteBrain/Daily-Docs/2025/09_September/2025-09-08 Mon.md",
     "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/99_InsightON/Chemicals.md",
     "remoteBrain/99_InsightON/V3.md",
     "remoteBrain/00_Web Developer/VS Code.md",
     "remoteBrain/00_Web Developer/Git 형상관리 관련.md",
-    "remoteBrain/99_InsightON/SHE MU 디버깅.md",
     "remoteBrain/99_InsightON/슬기로운 독서생활.md",
-    "remoteBrain/Daily-Docs/2025/09_September/2025-09-10 Wed.md",
     "remoteBrain/Daily-Docs/2025/09_September/2025-09-09 Tue.md",
     "remoteBrain/Daily-Docs/2025/09_September/2025-09-07 Sun.md",
     "remoteBrain/Report/2025/09_September.md",
