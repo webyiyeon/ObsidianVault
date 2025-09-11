@@ -23,8 +23,24 @@
               "icon": "lucide-file",
               "title": "2025"
             }
+          },
+          {
+            "id": "d4a5394d46074e43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2025/09_September/2025-09-11 Thu.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-11 Thu"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,9 +155,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "d4a5394d46074e43",
   "lastOpenFiles": [
     "remoteBrain/VisionBoard/2025.md",
+    "remoteBrain/Daily-Docs/2025/09_September/2025-09-11 Thu.md",
     "remoteBrain/Daily-Docs/2025/09_September/2025-09-08 Mon.md",
     "remoteBrain/99_InsightON/Chemicals.md",
     "remoteBrain/99_InsightON/V3.md",
@@ -166,7 +183,6 @@
     "remoteBrain/Daily-Docs/2025/08_August/2025-08-20 Wed.md",
     "remoteBrain/Daily-Docs/2025/08_August/2025-08-30 Sat.md",
     "remoteBrain/Daily-Docs/2025/08_August/2025-08-31 Sun.md",
-    "remoteBrain/Daily-Docs/2025/09_September/2025-09-04 Thu.md",
     "remoteBrain/Daily-Docs/2025/09_September",
     "remoteBrain/Daily-Docs/Images/8A693925-8176-48F8-93A3-6EFCCA04963D.jpeg",
     "remoteBrain/Daily-Docs/Images/0AFAACDD-F08F-4D5C-A2A3-A24B2049D6B7_1_105_c.jpeg",
