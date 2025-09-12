@@ -38,9 +38,19 @@
               "icon": "lucide-file",
               "title": "2025-09-11 Thu"
             }
+          },
+          {
+            "id": "dd79cdb7056bd261",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-google-calendar",
+              "state": {},
+              "icon": "lucide-calendar-heart",
+              "title": "Google Calendar"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -155,10 +165,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ef26e7705c485c5b",
+  "active": "dd79cdb7056bd261",
   "lastOpenFiles": [
-    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/09_September/2025-09-11 Thu.md",
+    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/99_InsightON/슬기로운 독서생활.md",
     "remoteBrain/99_InsightON/SHE MU 디버깅.md",
     "remoteBrain/Daily-Docs/2025/09_September/2025-09-10 Wed.md",
