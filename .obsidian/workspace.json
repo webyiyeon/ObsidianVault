@@ -23,8 +23,24 @@
               "icon": "lucide-file",
               "title": "2025"
             }
+          },
+          {
+            "id": "5c6b95253d76d120",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2025/09_September/2025-09-17 Wed.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-17 Wed"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,11 +155,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "5c6b95253d76d120",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2025/09_September/2025-09-16 Tue.md",
-    "remoteBrain/VisionBoard/2025.md",
+    "remoteBrain/Daily-Docs/2025/09_September/2025-09-09 Tue.md",
+    "remoteBrain/Daily-Docs/2025/09_September/2025-09-13 Sat.md",
     "remoteBrain/Daily-Docs/2025/09_September/2025-09-15 Mon.md",
+    "remoteBrain/Daily-Docs/2025/09_September/2025-09-17 Wed.md",
+    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/09_September/2025-09-11 Thu.md",
     "remoteBrain/99_InsightON/슬기로운 독서생활.md",
     "remoteBrain/99_InsightON/SHE MU 디버깅.md",
@@ -153,7 +172,6 @@
     "remoteBrain/99_InsightON/V3.md",
     "remoteBrain/00_Web Developer/VS Code.md",
     "remoteBrain/00_Web Developer/Git 형상관리 관련.md",
-    "remoteBrain/Daily-Docs/2025/09_September/2025-09-09 Tue.md",
     "remoteBrain/Daily-Docs/2025/09_September/2025-09-07 Sun.md",
     "remoteBrain/Report/2025/09_September.md",
     "remoteBrain/Daily-Docs/2025/09_September/2025-09-06 Sat.md",
@@ -165,8 +183,6 @@
     "remoteBrain/Daily-Docs/2025/08_August/2025-08-22 Fri.md",
     "remoteBrain/Daily-Docs/2025/08_August/2025-08-25 Mon.md",
     "remoteBrain/Daily-Docs/2025/08_August/2025-08-26 Tue.md",
-    "remoteBrain/Daily-Docs/2025/08_August/2025-08-29 Fri.md",
-    "remoteBrain/Daily-Docs/2025/08_August/2025-08-20 Wed.md",
     "remoteBrain/Daily-Docs/2025/09_September",
     "remoteBrain/Daily-Docs/Images/8A693925-8176-48F8-93A3-6EFCCA04963D.jpeg",
     "remoteBrain/Daily-Docs/Images/0AFAACDD-F08F-4D5C-A2A3-A24B2049D6B7_1_105_c.jpeg",
