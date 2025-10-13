@@ -40,6 +40,8 @@
     "servings": "number",
     "날짜": "date",
     "날짜(date)": "date",
-    "타입(type)": "multitext"
+    "타입(type)": "multitext",
+    "결제(payment)": "multitext",
+    "결제금액(cost)": "number"
   }
 }
