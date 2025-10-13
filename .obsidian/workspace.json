@@ -65,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,12 +128,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "remoteBrain/01_Traveler/TOKYO ⛩️.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of TOKYO ⛩️"
             }
           },
           {
@@ -179,7 +180,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6e4e89bd8f26d9f0",
+  "active": "279d58620dd7a5af",
   "lastOpenFiles": [
     "remoteBrain/Report/2025/10_October.md",
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-13 Mon.md",
