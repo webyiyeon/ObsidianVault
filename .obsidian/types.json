@@ -37,6 +37,9 @@
     "sncals": "number",
     "lccals": "number",
     "bfcals": "number",
-    "servings": "number"
+    "servings": "number",
+    "날짜": "date",
+    "날짜(date)": "date",
+    "타입(type)": "multitext"
   }
 }
