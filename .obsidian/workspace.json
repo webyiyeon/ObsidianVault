@@ -133,12 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "remoteBrain/Report/2025/10_October.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 10_October"
             }
           },
           {
@@ -157,8 +158,8 @@
             "state": {
               "type": "custom-frames-perflexity",
               "state": {},
-              "icon": "lucide-bot-message-square",
-              "title": "Perflexity"
+              "icon": "lucide-ghost",
+              "title": "custom-frames-perflexity"
             }
           }
         ],
@@ -174,17 +175,17 @@
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
+      "periodic-notes:Open today": false,
       "obsidian42-brat:BRAT": false,
       "obsidian-custom-frames:Open Google Calendar": false,
       "obsidian-custom-frames:Open Perflexity": false,
       "obsidian-day-planner:Timeline": false,
       "obsidian-day-and-night:Toggle Theme": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "homepage:Open homepage": false,
-      "periodic-notes:Open today": false
+      "homepage:Open homepage": false
     }
   },
-  "active": "6e4e89bd8f26d9f0",
+  "active": "eb1159e1da285736",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-13 Mon.md",
     "remoteBrain/Report/2025/09_September.md",
