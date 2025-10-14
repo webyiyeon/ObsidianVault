@@ -64,11 +64,24 @@ PW: 1q2w3e4r5t
 
 #### 운영일지작성 조회 쿼리 관련
 현재 데이터가 1:N 구성으로 되어있으나, 화면 단에서는 1:1인 것으로 판정 
-일단 MAX
+일단 MAX 조인 해두었지만 차후 로직 변경 필요 가능성 有
 
 #### Jenkins Build & Deploy
-
-
+##### backend-java
+- 매개변수 SLAVE-JAVA
+- Git 연동 (bitbucket/scm/ushe/backend-java.git, i24474)
+- Execute Windows batch command (윈도우 환경 커맨드 라인)
+	```
+	set GRADLE_USER_HOME=D:\USHE\.gradle
+	set MAVEN_USER_HOME=D:\USHE\.m2
+	set SPRING_PROFILES_ACTIVE=prod (현재 여기 정상 동작 안 함)
+	call gradlew.bat clean build --offline --no-daemon 
+	if exist build\libs\*.jar (echo JAR file found) else (echo NOT FILE FOUND)
+	```
+- 빌드 후 조치, Deploy an application to AWS CodeDeploy
+	- AWS CodeDeploy Application Name 
+	- AWS CodeDeploy Deployment Group
+	- 
 
 #### 가동 전 안전점검
 
