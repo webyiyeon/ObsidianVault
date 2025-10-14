@@ -1,0 +1,14 @@
+---
+날짜(date):
+타입(type):
+  - 🎠체험(Experience)
+  - 👀구경(Sightseeing)
+  - 🤠투어(Tour)
+예약 상태(reservation): 예약전 / 예약필요(Before / Required)
+결제(payment):
+  - 선결제(Prepayment)
+  - 현장결제(On-site payment)
+  - 무료(Free)
+결제금액(cost):
+메모(note):
+---
