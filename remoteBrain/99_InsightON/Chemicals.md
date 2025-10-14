@@ -100,7 +100,7 @@ PW: 1q2w3e4r5t
 	- AWS Region: AP_NORTHEAST_2
 	- S3 Bucket: skch-backbone-prod-artifacts
 	- S3 Prefix: she/
-	- Include Files: build/libs/, appspec.yml, start-deploy.sh
+	- Include Files: build/, appspec.yml, start-deploy.sh
 	- Use Access/Secret Key 
 
 #### 가동 전 안전점검
