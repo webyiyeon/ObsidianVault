@@ -44,6 +44,23 @@
           {
             "id": "836de1cb416ce87e",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/99_InsightON/Chemicals.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Chemicals"
+            }
+          },
+          {
+            "id": "abba94f2352fec99",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -57,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -172,11 +189,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "836de1cb416ce87e",
+  "active": "abba94f2352fec99",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2025/10_October/2025-10-14 Tue.md",
+    "remoteBrain/99_InsightON/Chemicals.md",
     "remoteBrain/99_InsightON/V3.md",
     "remoteBrain/99_InsightON/SHE MU 디버깅.md",
-    "remoteBrain/Daily-Docs/2025/10_October/2025-10-14 Tue.md",
     "remoteBrain/01_Traveler/Tokyo/👘아사쿠사 기모노 대여.md",
     "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
     "remoteBrain/VisionBoard/2025.md",
@@ -206,7 +224,6 @@
     "remoteBrain/Report/2025/09_September.md",
     "remoteBrain/Report/2025/08_August.md",
     "remoteBrain/Report/2025/07_July.md",
-    "remoteBrain/99_InsightON/Chemicals.md",
     "remoteBrain/01_Traveler",
     "remoteBrain/Daily-Docs/2025/10_October",
     "remoteBrain/Daily-Docs/2025/09_September",
