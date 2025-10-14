@@ -27,6 +27,7 @@
           {
             "id": "e8196423fa2700fd",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -35,12 +36,28 @@
                 "source": false,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "TOKYO ⛩️"
             }
+          },
+          {
+            "id": "e9b72846212ad85b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2025/10_October/2025-10-14 Tue.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-10-14 Tue"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -155,11 +172,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e8196423fa2700fd",
+  "active": "e9b72846212ad85b",
   "lastOpenFiles": [
-    "remoteBrain/01_Traveler/Tokyo/숙소.md",
-    "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
     "remoteBrain/VisionBoard/2025.md",
+    "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
+    "remoteBrain/01_Traveler/Tokyo/숙소.md",
     "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly.md",
     "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly.md",
     "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly.md",
