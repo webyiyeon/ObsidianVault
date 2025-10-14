@@ -6,12 +6,12 @@
   "noteWidth": "",
   "theme": "Things",
   "themeMode": 0,
-  "titleSource": 0,
+  "titleSource": 2,
   "removeYaml": true,
   "removeBacklinksFooter": true,
   "expiry": "",
   "clipboard": true,
-  "shareUnencrypted": false,
+  "shareUnencrypted": true,
   "authRedirect": null,
   "debug": 0
 }
