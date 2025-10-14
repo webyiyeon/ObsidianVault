@@ -2,6 +2,10 @@
 share_link: https://share.note.sx/b2mjq1ep#S1e0Ceg5I+Au3S7GBT4zcXpgRqbUL1BglCpa8qi4f5k
 share_updated: 2025-10-14T13:52:33+09:00
 ---
+
+<%* tR += await tp.user.test(tp) %>
+
+
 # ✈️ 전체 개요
 
 - **여행기간**: 2박 3일
