@@ -2,5 +2,6 @@
   "spellcheck": false,
   "readableLineLength": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "remoteBrain/Daily-Docs/Images"
+  "attachmentFolderPath": "remoteBrain/Daily-Docs/Images",
+  "promptDelete": false
 }

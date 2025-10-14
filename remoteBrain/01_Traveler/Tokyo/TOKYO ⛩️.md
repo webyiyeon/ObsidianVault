@@ -1,11 +1,7 @@
 ---
-share_link: https://share.note.sx/b2mjq1ep#S1e0Ceg5I+Au3S7GBT4zcXpgRqbUL1BglCpa8qi4f5k
-share_updated: 2025-10-14T13:52:33+09:00
+share_link: https://share.note.sx/4glt5e2p#8JuKXKtDirIBZza2gMBKPP0umbOgmFDNrOuOmkuZMsU
+share_updated: 2025-10-14T14:17:25+09:00
 ---
-
-undefined
-
-
 # ✈️ 전체 개요
 
 - **여행기간**: 2박 3일
