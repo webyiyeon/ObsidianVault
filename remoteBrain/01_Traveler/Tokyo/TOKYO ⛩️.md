@@ -3,7 +3,7 @@ share_link: https://share.note.sx/b2mjq1ep#S1e0Ceg5I+Au3S7GBT4zcXpgRqbUL1BglCpa8
 share_updated: 2025-10-14T13:52:33+09:00
 ---
 
-<%* tR += await tp.user.test(tp) %>
+<%* tR += await tp.user.embed_recursive(tp) %>
 
 
 # ✈️ 전체 개요
