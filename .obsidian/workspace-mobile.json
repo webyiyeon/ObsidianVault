@@ -23,8 +23,24 @@
               "icon": "lucide-file",
               "title": "2025"
             }
+          },
+          {
+            "id": "b4fd139ac8f6860a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/01_Traveler/Tokyo/01.퓨로랜드.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "01.퓨로랜드"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,8 +107,8 @@
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "calendar-with-checkmark",
-          "title": "Calendar"
+          "icon": "lucide-ghost",
+          "title": "calendar"
         }
       },
       {
@@ -101,8 +117,8 @@
         "state": {
           "type": "timeline",
           "state": {},
-          "icon": "calendar-with-checkmark",
-          "title": "Day Planner Timeline"
+          "icon": "lucide-ghost",
+          "title": "timeline"
         }
       }
     ],
@@ -110,22 +126,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "obsidian42-brat:BRAT": false,
-      "obsidian-custom-frames:Open Google Calendar": false,
-      "obsidian-day-planner:Timeline": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "homepage:Open homepage": false,
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-custom-frames:Open Google Calendar": false,
+      "obsidian-day-planner:Timeline": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "b4fd139ac8f6860a",
   "lastOpenFiles": [
-    "remoteBrain/01_Traveler/Tokyo/00.TOKYO ⛩️.md",
     "remoteBrain/VisionBoard/2025.md",
+    "remoteBrain/01_Traveler/Tokyo/00.TOKYO ⛩️.md",
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-05 Sun.md",
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-08 Wed.md",
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-04 Sat.md",
