@@ -68,8 +68,8 @@ PW: 1q2w3e4r5t
 
 #### Jenkins Build & Deploy
 ##### backend-java
-- 매개변수 SLAVE-JAVA
-- Git 연동 (bitbucket/scm/ushe/backend-java.git, i24474)
+- 매개변수: SLAVE-JAVA
+- Git 연동: bitbucket/scm/ushe/backend-java.git, i24474
 - Execute Windows batch command (윈도우 환경 커맨드 라인)
 	```
 	set GRADLE_USER_HOME=D:\USHE\.gradle
@@ -79,9 +79,13 @@ PW: 1q2w3e4r5t
 	if exist build\libs\*.jar (echo JAR file found) else (echo NOT FILE FOUND)
 	```
 - 빌드 후 조치, Deploy an application to AWS CodeDeploy
-	- AWS CodeDeploy Application Name 
-	- AWS CodeDeploy Deployment Group
-	- 
+	- AWS CodeDeploy Application Name: skch-prod-she / skch-dev-she 
+	- AWS CodeDeploy Deployment Group: skch-pod-she-ap / skch-dev-she-ap
+	- AWS Region: AP_NORTHEAST_2
+	- S3 Bucket: skch-backbone-prod-artifacts
+	- S3 Prefix: she/
+	- Include Files: build/libs/, appspec.yml, start-deploy.sh
+	- Use Access/Secret Key 
 
 #### 가동 전 안전점검
 
