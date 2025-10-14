@@ -87,6 +87,22 @@ PW: 1q2w3e4r5t
 	- Include Files: build/libs/, appspec.yml, start-deploy.sh
 	- Use Access/Secret Key 
 
+##### frontend-react
+- 매개변수: SLAVE-JAVA
+- Git 연동: bitbucket/scm/ushe/frontend-react.git, i24474
+- Execute Windows batch command (윈도우 환경 커맨드 라인)
+	```
+	
+	```
+- 빌드 후 조치, Deploy an application to AWS CodeDeploy
+	- AWS CodeDeploy Application Name: skch-prod-she / skch-dev-she 
+	- AWS CodeDeploy Deployment Group: skch-pod-she-ap / skch-dev-she-ap
+	- AWS Region: AP_NORTHEAST_2
+	- S3 Bucket: skch-backbone-prod-artifacts
+	- S3 Prefix: she/
+	- Include Files: build/libs/, appspec.yml, start-deploy.sh
+	- Use Access/Secret Key 
+
 #### 가동 전 안전점검
 
 ==리스트 화면==
