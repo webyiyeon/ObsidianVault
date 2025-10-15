@@ -75,7 +75,11 @@ share_updated: 2025-10-14T14:24:38+09:00
 | 스카이트리     | 현장or온라인                | 저녁 조명 시간대 추천      |
 
 
-## 숙소 비교
+## 항공권
+
+[네이버 가격 비교](https://flight.naver.com/flights/international/PUS-NRT-20260108/NRT-PUS-20260111?adult=1&fareType=Y)
+
+## 숙소
 
 ![[Pasted image 20251014003915.png|400]]
 
