@@ -136,6 +136,7 @@ share_updated: 2025-10-15T15:47:09+09:00
 
 ## ✔️Checklist
 
+
 - [ ] 여행자보험 들기! (Make sure to get travel insurance!)
 - [ ] 여권 발급 확인하기
 - [ ] 일본 전자비자(무비자나 사전 사전전자여행허가, 90일 이하 체류)
