@@ -1,6 +1,6 @@
 ---
-share_link: https://share.note.sx/4glt5e2p#8JuKXKtDirIBZza2gMBKPP0umbOgmFDNrOuOmkuZMsU
-share_updated: 2025-10-14T14:24:38+09:00
+share_link: https://share.note.sx/4glt5e2p
+share_updated: 2025-10-15T13:36:06+09:00
 ---
 # ✈️ 전체 개요
 
@@ -77,18 +77,17 @@ share_updated: 2025-10-14T14:24:38+09:00
 
 ## 항공권
 
-[네이버 가격 비교](https://flight.naver.com/flights/international/PUS-NRT-20260108/NRT-PUS-20260111?adult=1&fareType=Y)
+![[Pasted image 20251015133324.png||400]]
+
+![[Pasted image 20251015133334.png|400]]
+
+
 
 ## 숙소
 
 ![[Pasted image 20251014003915.png|400]]
 
-[신주쿠 워싱턴 호텔](https://www.agoda.com/ko-kr/shinjuku-washington-hotel-main-building/hotel/tokyo-jp.html?countryId=3&finalPriceView=1&isShowMobileAppPrice=false&cid=1833981&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2026-01-8&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=KRW&isFreeOccSearch=false&los=2&searchrequestid=d9e1f19a-803f-4523-a32f-bca1d4dbfe82)
-
-[신주쿠 포드 셀렉트 호텔](https://www.agoda.com/ko-kr/pod-select-hotel/hotel/tokyo-jp.html?countryId=3&finalPriceView=1&isShowMobileAppPrice=false&cid=1833981&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2026-01-8&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=KRW&isFreeOccSearch=false&los=2&searchrequestid=ec885042-2f3e-4e53-baed-235acfa535ec&ds=OI4dGxKRiaiCr1y1)
-
-[신주쿠 APA 호텔](https://www.agoda.com/apa-hotel-shinjuku-gyoemmae_3/hotel/tokyo-jp.html?countryId=0&finalPriceView=1&isShowMobileAppPrice=false&cid=1833981&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2026-01-8&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=KRW&isFreeOccSearch=false&tspTypes=7%2C2&los=2&searchrequestid=e7bfca7c-d897-481e-87b7-b8dd908a09e1&ds=OI4dGxKRiaiCr1y1)
-
+[🔗숙소 리스트](https://www.google.com/maps/@/data=!3m1!4b1!4m3!11m2!2spBE25UynRi-W5oF42mmaPA!4sHUTMqrDggQo?g_ep=EgoyMDI1MTAxMi4wKgBIAVAD)
 
 
 
