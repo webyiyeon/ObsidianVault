@@ -1,6 +1,6 @@
 ---
 share_link: https://share.note.sx/u14z9srl
-share_updated: 2025-10-16T23:19:44+09:00
+share_updated: 2025-10-16T23:42:37+09:00
 ---
 # ✈️ 전체 개요
 
@@ -86,6 +86,7 @@ share_updated: 2025-10-16T23:19:44+09:00
 약 5km의 순환 코스로, 도쿄 도심을 한 바퀴 돌며 마루노우치, 긴자, 국회의사당 등 주요 명소를 감상할 수 있습니다. 러닝은 반시계 방향으로 도는 것이 에티켓이며, 아침 6~8시, 저녁 6시 이후가 한적하게 달리기 좋습니다. 
 인근에 러닝 스테이션(Adidas RUNBASE, ASICS RUN TOKYO 등)이 있어 장비 대여와 샤워가 가능합니다. 
 러너와 관광객이 많아 코스 이탈 없이 달리기 쉽고, 도심 속 자연과 야경을 동시에 즐길 수 있습니다. 
+[도쿄 러닝 성지 황궁 러닝](https://blog.naver.com/sumni23_/223995179800)
 
 #### 메구로강 러닝 코스
 약 4km로, 시나가와·세타가야·메구로를 잇는 강변 오솔길입니다. 봄에는 벚꽃이 만발해 경치가 뛰어나며, 아침 일찍이나 밤늦게 달리기를 추천합니다. 
@@ -98,6 +99,11 @@ share_updated: 2025-10-16T23:19:44+09:00
 
 #### 코가네이공원
 넓은 잔디밭, 벚나무 정원, 다양한 스포츠 시설이 있어 운동과 여가를 동시에 즐길 수 있습니다. 
+
+
+[도쿄 러닝화 성지, step sports 모든 재고/높은 할인율](https://cafe.naver.com/runningmaniac/148620?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InJ1bm5pbmdtYW5pYWMiLCJhcnRpY2xlSWQiOjE0ODYyMCwiaXNzdWVkQXQiOjE3NjA2MjUwMDM4MjB9._-kW3oT1yshO2etXnEuwyj7NnA0Ita6z_kv7__8wdPk)
+
+[도쿄는 러닝의 도시 러닝의 성지](https://blog.naver.com/dynamic789_/224031810358)
 
 
 
