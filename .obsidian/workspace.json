@@ -25,18 +25,20 @@
             }
           },
           {
-            "id": "92574a0ef591f5e6",
+            "id": "77e1f44b7e935e3d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2025/10_October/2025-10-16 Thu.md",
+                "file": "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "2025-10-16 Thu"
+              "title": "TOKYO ⛩️"
             }
           }
         ],
@@ -155,13 +157,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "92574a0ef591f5e6",
+  "active": "77e1f44b7e935e3d",
   "lastOpenFiles": [
+    "remoteBrain/VisionBoard/2025.md",
+    "remoteBrain/Daily-Docs/2025/10_October/2025-10-16 Thu.md",
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-13 Mon.md",
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-14 Tue.md",
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-15 Wed.md",
-    "remoteBrain/Daily-Docs/2025/10_October/2025-10-16 Thu.md",
-    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
     "remoteBrain/01_Traveler/Tokyo/🎀 퓨로랜드.md",
     "remoteBrain/01_Traveler/Tokyo/🎡 해리포터 스튜디오.md",
