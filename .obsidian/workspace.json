@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2025/10_October/2025-10-16 Thu.md",
+                "file": "remoteBrain/99_InsightON/ai talent lab (skax).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-16 Thu"
+              "title": "ai talent lab (skax)"
             }
           },
           {
@@ -189,9 +189,11 @@
   },
   "active": "d67b5b18eae92ac5",
   "lastOpenFiles": [
-    "remoteBrain/01_Traveler/Tokyo/👘아사쿠사 기모노 대여.md",
-    "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
+    "remoteBrain/99_InsightON/ai talent lab (skax).md",
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-16 Thu.md",
+    "remoteBrain/_templater/website.md",
+    "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
+    "remoteBrain/01_Traveler/Tokyo/👘아사쿠사 기모노 대여.md",
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-13 Mon.md",
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-14 Tue.md",
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-15 Wed.md",
@@ -215,8 +217,6 @@
     "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly.md",
     "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly.md",
     "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly.md",
-    "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly.md",
-    "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly.md",
     "REMOTE~1/01_TRA~1/Tokyo",
     "remoteBrain/_templater/Scripts/test.js",
     "remoteBrain/_templater/Scripts/embed_recursive.js",
