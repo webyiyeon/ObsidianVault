@@ -92,7 +92,14 @@ PW: 1q2w3e4r5t
 - Git 연동: bitbucket/scm/ushe/frontend-react.git, i24474
 - Execute Windows batch command (윈도우 환경 커맨드 라인)
 	```
-	
+	chcp 65001 (콘솔 출력 인코딩 용)
+	set NODE_HOME=D:\USHE\node-22.17.1
+	set PATH=%NODE_HOME%;%NODE_HOME%\node_modules\npm\bin;%PATH%
+	set NODE_OPTIONS=--max-old-space-size=4096 (heap memory 증가용)
+	set CI=false (warning 시에도 빌드 성공 처리)
+	node -v (version 확인용)
+	call yarn install --frozen-lockfile
+	call yarn run build-staging
 	```
 - 빌드 후 조치, Deploy an application to AWS CodeDeploy
 	- AWS CodeDeploy Application Name: skch-prod-she / skch-dev-she 
