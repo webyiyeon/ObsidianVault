@@ -68,7 +68,8 @@
               "title": "TOKYO ⛩️"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,12 +186,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "eb1061aecb1902d7",
   "lastOpenFiles": [
+    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
     "remoteBrain/99_InsightON/Chemicals.md",
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-17 Fri.md",
-    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/99_InsightON/ai talent lab (skax).md",
     "remoteBrain/01_Traveler/Tokyo/🎡 해리포터 스튜디오.md",
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-16 Thu.md",
