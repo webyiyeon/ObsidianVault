@@ -1,6 +1,6 @@
 ---
 share_link: https://share.note.sx/u14z9srl
-share_updated: 2025-10-16T23:42:37+09:00
+share_updated: 2025-10-20T15:24:59+09:00
 ---
 # ✈️ 전체 개요
 
@@ -129,7 +129,7 @@ share_updated: 2025-10-16T23:42:37+09:00
 
 ![[Pasted image 20251014003915.png|400]]
 
-[🔗숙소 리스트](https://www.google.com/maps/@/data=!3m1!4b1!4m3!11m2!2spBE25UynRi-W5oF42mmaPA!4sHUTMqrDggQo?g_ep=EgoyMDI1MTAxMi4wKgBIAVAD)
+[🔗여행 계획 장소](https://www.google.com/maps/@/data=!3m1!4b1!4m3!11m2!2spBE25UynRi-W5oF42mmaPA!4sHUTMqrDggQo?g_ep=EgoyMDI1MTAxMi4wKgBIAVAD)
 
 
 
