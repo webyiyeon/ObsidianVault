@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/99_InsightON/V3.md",
+                "file": "remoteBrain/99_InsightON/Chemicals.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "V3"
+              "title": "Chemicals"
             }
           },
           {
@@ -182,6 +182,7 @@
   },
   "active": "0ee92446a8e0a41f",
   "lastOpenFiles": [
+    "remoteBrain/99_InsightON/V3.md",
     "remoteBrain/99_InsightON/SHE MU 디버깅.md",
     "remoteBrain/99_InsightON/Chemicals.md",
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-21 Tue.md",
@@ -209,7 +210,6 @@
     "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly.md",
     "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly.md",
     "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly.md",
-    "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly.md",
     "REMOTE~1/01_TRA~1/Tokyo",
     "remoteBrain/_templater/Scripts/test.js",
     "remoteBrain/_templater/Scripts/embed_recursive.js",
