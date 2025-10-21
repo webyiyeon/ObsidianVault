@@ -27,6 +27,7 @@
           {
             "id": "9422eb81a8be0309",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -35,12 +36,47 @@
                 "source": false,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "2025-10-21 Tue"
             }
+          },
+          {
+            "id": "61664df6d5bc8e58",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "TOKYO ⛩️"
+            }
+          },
+          {
+            "id": "c7c3209399adf0e1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/99_InsightON/Chemicals.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Chemicals"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -156,15 +192,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9422eb81a8be0309",
+  "active": "c7c3209399adf0e1",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2025/10_October/2025-10-20 Mon.md",
+    "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-21 Tue.md",
+    "remoteBrain/Daily-Docs/2025/10_October/2025-10-20 Mon.md",
     "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-17 Fri.md",
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-19 Sun.md",
     "remoteBrain/99_InsightON/Chemicals.md",
-    "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
     "remoteBrain/Report/2025/10_October.md",
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-18 Sat.md",
     "remoteBrain/99_InsightON/ai talent lab (skax).md",
