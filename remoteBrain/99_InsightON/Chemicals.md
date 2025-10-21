@@ -67,7 +67,9 @@ PW: 1q2w3e4r5t
 일단 MAX 조인 해두었지만 차후 로직 변경 필요 가능성 有
 
 #### Jenkins Build & Deploy
-##### backend-java
+
+##### 임직원 포탈 
+###### backend-java
 - 매개변수: SLAVE-JAVA
 - Git 연동: bitbucket/scm/ushe/backend-java.git, i24474
 - Execute Windows batch command (윈도우 환경 커맨드 라인)
@@ -87,7 +89,7 @@ PW: 1q2w3e4r5t
 	- Include Files: build/libs/, appspec.yml, start-deploy.sh
 	- Use Access/Secret Key 
 
-##### frontend-react
+###### frontend-react
 - 매개변수: SLAVE-JAVA
 - Git 연동: bitbucket/scm/ushe/frontend-react.git, i24474
 - Execute Windows batch command (윈도우 환경 커맨드 라인)
@@ -109,6 +111,55 @@ PW: 1q2w3e4r5t
 	- S3 Prefix: she/
 	- Include Files: build/, appspec.yml, start-deploy.sh
 	- Use Access/Secret Key 
+
+
+##### 협력사 포탈
+###### backend-java 
+- 매개변수: SLAVE-JAVA
+- Git 연동: bitbucket/scm/ushe/backend-java.git, i24474
+- Execute Windows batch command (윈도우 환경 커맨드 라인)
+	```
+	set GRADLE_USER_HOME=D:\USHE\.gradle
+	set MAVEN_USER_HOME=D:\USHE\.m2
+	move "appspec-partner.yml" "appspec.yml"
+	call gradlew.bat clean build --offline --no-daemon 
+	if exist build\libs\*.jar (echo JAR file found) else (echo NOT FILE FOUND)
+	```
+- 빌드 후 조치, Deploy an application to AWS CodeDeploy
+	- AWS CodeDeploy Application Name: skch-prod-she / skch-dev-she 
+	- AWS CodeDeploy Deployment Group: skch-pod-she-ap / skch-dev-she-ap
+	- AWS Region: AP_NORTHEAST_2
+	- S3 Bucket: skch-backbone-prod-artifacts
+	- S3 Prefix: she/
+	- Include Files: build/libs/, appspec.yml, start-deploy-partner.sh
+	- Use Access/Secret Key 
+
+###### frontend-partner-react
+- 매개변수: SLAVE-JAVA
+- Git 연동: bitbucket/scm/ushe/frontend-react.git, i24474
+- Execute Windows batch command (윈도우 환경 커맨드 라인)
+	```
+	chcp 65001 (콘솔 출력 인코딩 용)
+	set NODE_HOME=D:\USHE\node-22.17.1
+	set PATH=%NODE_HOME%;%NODE_HOME%\node_modules\npm\bin;%PATH%
+	set NODE_OPTIONS=--max-old-space-size=4096 (heap memory 증가용)
+	set CI=false (warning 시에도 빌드 성공 처리)
+	move "appspec-partner.yml" "appspec.yml"
+	node -v (version 확인용)
+	call yarn install --frozen-lockfile
+	call yarn run build-staging
+	```
+- 빌드 후 조치, Deploy an application to AWS CodeDeploy
+	- AWS CodeDeploy Application Name: skch-prod-she-bp / skch-dev-she-bp
+	- AWS CodeDeploy Deployment Group: skch-prod-she-bp / skch-dev-she-bp
+	- AWS Region: AP_NORTHEAST_2
+	- S3 Bucket: skch-backbone-prod-artifacts / skch-backbone-dev-artifacts
+	- S3 Prefix: she-bp/${BUILD}
+	- Include Files: build/, appspec.yml, start-deploy.sh
+	- Use Access/Secret Key 
+
+
+
 
 #### 가동 전 안전점검
 
