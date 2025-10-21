@@ -53,9 +53,19 @@
               "icon": "lucide-file",
               "title": "Chemicals"
             }
+          },
+          {
+            "id": "82fc55b4ae7a7aca",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-google-calendar",
+              "state": {},
+              "icon": "lucide-calendar-heart",
+              "title": "Google Calendar"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,11 +180,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "70ac39d705275a53",
+  "active": "0ee92446a8e0a41f",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-21 Tue.md",
-    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/99_InsightON/Chemicals.md",
+    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-20 Mon.md",
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-17 Fri.md",

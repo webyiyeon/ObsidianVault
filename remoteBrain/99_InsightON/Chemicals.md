@@ -70,8 +70,8 @@ PW: 1q2w3e4r5t
 
 ##### 임직원 포탈 
 ###### backend-java
-- spring profiles를 WAS 서버의 service 설정에 삽입 `--spring.profiles.active=staging` 
-- 
+- spring profiles를 WAS 서버의 service 설정에 삽입 `--spring.profiles.active=prod` / `--spring.profiles.active=staging` 
+	- 경로: `/etc/systemd/system/`
 - 매개변수: SLAVE-JAVA
 - Git 연동: bitbucket/scm/ushe/backend-java.git, i24474
 - Execute Windows batch command (윈도우 환경 커맨드 라인)
@@ -115,8 +115,11 @@ PW: 1q2w3e4r5t
 	- Use Access/Secret Key 
 
 
+
 ##### 협력사 포탈
-###### backend-java 
+###### backend-partner-java 
+- spring profiles를 WAS 서버의 service 설정에 삽입 `--spring.profiles.active=prodp` / `--spring.profiles.active=stagingp` 
+	- 경로: `/etc/systemd/system/
 - 매개변수: SLAVE-JAVA
 - Git 연동: bitbucket/scm/ushe/backend-java.git, i24474
 - Execute Windows batch command (윈도우 환경 커맨드 라인)
@@ -224,7 +227,7 @@ PW: 1q2w3e4r5t
 
 **가동 전 안전점검**
 
-- [ ] ==등급별 점검 담당자 기준 팝업 추가==
+- [x] ==등급별 점검 담당자 기준 팝업 추가==
 - [x] 기기별 점검사항 2개씩 중복으로 보임
 - [x] 기기별 점검사항(공통)에서 선택하면 상단 라디오 버튼에 자동으로 매핑되어야 하고 상단 영역은 제어 불가 
 - [x] 확인 요청 기능
