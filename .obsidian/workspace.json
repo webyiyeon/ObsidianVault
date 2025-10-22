@@ -31,14 +31,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/02_UNIST/논문 작성 요령 (2025-10-15).md",
+                "file": "remoteBrain/02_UNIST/변영재 교수님 과제 (Due Date 2025-10-24).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "논문 작성 요령 (2025-10-15)"
+              "title": "변영재 교수님 과제 (Due Date 2025-10-24)"
             }
           },
           {
@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,7 +167,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e84e3e5aa7e73b95",
+  "active": "fcbbb4dd9832398c",
   "lastOpenFiles": [
     "remoteBrain/02_UNIST/논문 작성 요령 (2025-10-15).md",
     "remoteBrain/02_UNIST/변영재 교수님 과제 (Due Date 2025-10-24).md",
