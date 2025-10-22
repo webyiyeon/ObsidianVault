@@ -213,8 +213,7 @@
       "obsidian-day-planner:Timeline": false,
       "obsidian-day-and-night:Toggle Theme": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "homepage:Open homepage": false,
-      "periodic-notes:Open today": false
+      "homepage:Open homepage": false
     }
   },
   "active": "4712693b12526582",
