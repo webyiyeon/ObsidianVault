@@ -76,13 +76,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/02_UNIST/변영재 교수님 과제 (Due Date 2025-10-24).md",
+                "file": "remoteBrain/Daily-Docs/2025/10_October/2025-10-21 Tue.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "변영재 교수님 과제 (Due Date 2025-10-24)"
+              "title": "2025-10-21 Tue"
             }
           }
         ],
@@ -118,7 +118,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "모바일 로그인",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +129,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,8 +204,9 @@
   },
   "active": "183866de026c60e1",
   "lastOpenFiles": [
-    "remoteBrain/99_InsightON/Chemicals.md",
+    "remoteBrain/Daily-Docs/2025/09_September/2025-09-30 Tue.md",
     "remoteBrain/02_UNIST/변영재 교수님 과제 (Due Date 2025-10-24).md",
+    "remoteBrain/99_InsightON/Chemicals.md",
     "remoteBrain/02_UNIST",
     "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-22 Wed.md",
@@ -231,7 +233,6 @@
     "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly.md",
     "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly.md",
     "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly.md",
-    "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly.md",
     "REMOTE~1/01_TRA~1/Tokyo",
     "remoteBrain/_templater/Scripts/test.js",
     "remoteBrain/_templater/Scripts/embed_recursive.js",
