@@ -27,6 +27,7 @@
           {
             "id": "e43eb2a2b9497462",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -35,6 +36,7 @@
                 "source": false,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "2025-10-22 Wed"
             }
@@ -42,9 +44,11 @@
           {
             "id": "556ef33c0dc527c9",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "custom-frames-google-calendar",
               "state": {},
+              "pinned": true,
               "icon": "lucide-calendar-heart",
               "title": "Google Calendar"
             }
@@ -52,6 +56,7 @@
           {
             "id": "9fb5ac5df7112ab7",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -60,12 +65,13 @@
                 "source": false,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "TOKYO ⛩️"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,11 +186,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9fb5ac5df7112ab7",
+  "active": "556ef33c0dc527c9",
   "lastOpenFiles": [
+    "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-22 Wed.md",
     "remoteBrain/VisionBoard/2025.md",
-    "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
     "remoteBrain/99_InsightON/Chemicals.md",
     "remoteBrain/99_InsightON/V3.md",
     "remoteBrain/99_InsightON/SHE MU 디버깅.md",
