@@ -27,6 +27,7 @@
           {
             "id": "fcbbb4dd9832398c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -35,6 +36,7 @@
                 "source": false,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "논문 작성 요령 (2025-10-15)"
             }
