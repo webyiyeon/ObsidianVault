@@ -25,7 +25,7 @@
             }
           },
           {
-            "id": "8a952ac6e1a16a17",
+            "id": "e0761814af7629ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -155,16 +155,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8a952ac6e1a16a17",
+  "active": "e0761814af7629ed",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2025/10_October/2025-10-23 Thu.md",
+    "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
     "remoteBrain/VisionBoard/2025.md",
-    "remoteBrain/99_InsightON/Chemicals.md",
+    "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/캠핑!.md",
+    "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/240413_1.webp",
+    "Blog/Tistory/철따라/31, 아이스크림 말고 인생의 맛.md",
+    "Blog/Tistory/철따라/영화 후기/영화 웡카 후기/영화 웡카 후기.md",
     "remoteBrain/02_UNIST/변영재 교수님 과제 (Due Date 2025-10-24).md",
+    "remoteBrain/Daily-Docs/2025/10_October/2025-10-23 Thu.md",
+    "remoteBrain/99_InsightON/Chemicals.md",
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-21 Tue.md",
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-22 Wed.md",
     "remoteBrain/02_UNIST/논문 작성 요령 (2025-10-15).md",
-    "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
     "remoteBrain/Daily-Docs/2025/09_September/2025-09-30 Tue.md",
     "remoteBrain/02_UNIST",
     "remoteBrain/99_InsightON/V3.md",
@@ -183,9 +187,6 @@
     "remoteBrain/01_Traveler/Tokyo/🎀 퓨로랜드.md",
     "remoteBrain/Daily-Docs/Images/Pasted image 20251015133334.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20251015133324.png",
-    "remoteBrain/01_Traveler/Tokyo/숙소.md",
-    "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly.md",
-    "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly.md",
     "REMOTE~1/01_TRA~1/Tokyo",
     "remoteBrain/_templater/Scripts/test.js",
     "remoteBrain/_templater/Scripts/embed_recursive.js",
@@ -201,7 +202,6 @@
     "remoteBrain/Daily-Docs/2025/10_October",
     "remoteBrain/Daily-Docs/2025/09_September",
     "remoteBrain/Daily-Docs/Images/8A693925-8176-48F8-93A3-6EFCCA04963D.jpeg",
-    "remoteBrain/Daily-Docs/Images/0AFAACDD-F08F-4D5C-A2A3-A24B2049D6B7_1_105_c.jpeg",
     "Blog/Tistory/멋따라"
   ]
 }
