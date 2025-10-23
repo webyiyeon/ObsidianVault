@@ -23,8 +23,53 @@
               "icon": "lucide-file",
               "title": "2025"
             }
+          },
+          {
+            "id": "e87767c6a239ca22",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2025/10_October/2025-10-23 Thu.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2025-10-23 Thu"
+            }
+          },
+          {
+            "id": "c54ee8333bd0d305",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "custom-frames-google-calendar",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-calendar-heart",
+              "title": "Google Calendar"
+            }
+          },
+          {
+            "id": "6d15bc8e0cfb066c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/99_InsightON/Chemicals.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Chemicals"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,15 +184,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e87767c6a239ca22",
   "lastOpenFiles": [
+    "remoteBrain/99_InsightON/Chemicals.md",
+    "remoteBrain/Daily-Docs/2025/10_October/2025-10-23 Thu.md",
+    "remoteBrain/Daily-Docs/2025/10_October/2025-10-21 Tue.md",
+    "remoteBrain/Daily-Docs/2025/10_October/2025-10-22 Wed.md",
+    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/02_UNIST/변영재 교수님 과제 (Due Date 2025-10-24).md",
     "remoteBrain/02_UNIST/논문 작성 요령 (2025-10-15).md",
-    "remoteBrain/VisionBoard/2025.md",
-    "remoteBrain/Daily-Docs/2025/10_October/2025-10-22 Wed.md",
     "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
-    "remoteBrain/99_InsightON/Chemicals.md",
-    "remoteBrain/Daily-Docs/2025/10_October/2025-10-21 Tue.md",
     "remoteBrain/Daily-Docs/2025/09_September/2025-09-30 Tue.md",
     "remoteBrain/02_UNIST",
     "remoteBrain/99_InsightON/V3.md",
@@ -169,7 +215,6 @@
     "remoteBrain/01_Traveler/Tokyo/숙소.md",
     "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly.md",
     "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly.md",
-    "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly_embedsOnly.md",
     "REMOTE~1/01_TRA~1/Tokyo",
     "remoteBrain/_templater/Scripts/test.js",
     "remoteBrain/_templater/Scripts/embed_recursive.js",
