@@ -69,7 +69,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -184,10 +184,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e87767c6a239ca22",
+  "active": "6d15bc8e0cfb066c",
   "lastOpenFiles": [
-    "remoteBrain/99_InsightON/Chemicals.md",
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-23 Thu.md",
+    "remoteBrain/99_InsightON/Chemicals.md",
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-21 Tue.md",
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-22 Wed.md",
     "remoteBrain/VisionBoard/2025.md",

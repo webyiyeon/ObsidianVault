@@ -103,7 +103,7 @@ PW: 1q2w3e4r5t
 	set CI=false (warning 시에도 빌드 성공 처리)
 	node -v (version 확인용)
 	call yarn install --frozen-lockfile
-	call yarn run build-staging
+	call yarn run build-prod / call yarn run build-staging
 	```
 - 빌드 후 조치, Deploy an application to AWS CodeDeploy
 	- AWS CodeDeploy Application Name: skch-prod-she / skch-dev-she 
@@ -154,7 +154,7 @@ PW: 1q2w3e4r5t
 	move "appspec-partner.yml" "appspec.yml"
 	node -v (version 확인용)
 	call yarn install --frozen-lockfile
-	call yarn run build-staging
+	call yarn run build-prod / call yarn run build-staging
 	```
 - 빌드 후 조치, Deploy an application to AWS CodeDeploy
 	- AWS CodeDeploy Application Name: skch-prod-she-bp / skch-dev-she-bp
@@ -255,3 +255,5 @@ PW: 1q2w3e4r5t
 - [x] 완료일자 입력 후 저장 시 Object.toString() 발생(저장 불가)
 - [x] 변경관리 저장 시 Object.toString() 발생(간헐적으로 발생 하는지는 모름)   *⇒ NullPointerException 추가 *
 
+
+##### 4차
