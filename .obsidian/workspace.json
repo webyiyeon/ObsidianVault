@@ -23,36 +23,8 @@
               "icon": "lucide-file",
               "title": "2025"
             }
-          },
-          {
-            "id": "fcbbb4dd9832398c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remoteBrain/02_UNIST/변영재 교수님 과제 (Due Date 2025-10-24).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "변영재 교수님 과제 (Due Date 2025-10-24)"
-            }
-          },
-          {
-            "id": "e84e3e5aa7e73b95",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-google-calendar",
-              "state": {},
-              "icon": "lucide-calendar-heart",
-              "title": "Google Calendar"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,10 +139,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fcbbb4dd9832398c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "remoteBrain/02_UNIST/논문 작성 요령 (2025-10-15).md",
     "remoteBrain/02_UNIST/변영재 교수님 과제 (Due Date 2025-10-24).md",
+    "remoteBrain/02_UNIST/논문 작성 요령 (2025-10-15).md",
     "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-22 Wed.md",
     "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
