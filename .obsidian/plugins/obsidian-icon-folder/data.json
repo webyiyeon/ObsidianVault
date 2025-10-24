@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFileBarChart",
       "LiClover",
       "LiHome",
       "LiHeartPulse",
-      "LiPanelTop",
-      "LiClapperboard"
+      "LiPanelTop"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -27,7 +27,6 @@
     "iconsInNotesEnabled": true,
     "iconIdentifier": ":"
   },
-  "remoteBrain/_template": "LiPanelTop",
   "wooyeon": "LiHand",
   "remoteBrain": "LiInbox",
   "Blog": "LiClapperboard",
