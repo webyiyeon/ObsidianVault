@@ -23,24 +23,8 @@
               "icon": "lucide-file",
               "title": "2025"
             }
-          },
-          {
-            "id": "f669b7cb3bec16f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remoteBrain/Daily-Docs/2025/10_October/2025-10-24 Fri.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-10-24 Fri"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,8 +141,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f669b7cb3bec16f6",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2025/10_October/2025-10-24 Fri.md",
     "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/02_UNIST/변영재 교수님 과제 (Due Date 2025-10-24).md",
     "변영재 교수님 과제 (Due Date 2025-10-24).pdf",
@@ -168,7 +153,6 @@
     "remoteBrain/_template/tags.md",
     "remoteBrain/_template/recipe.md",
     "remoteBrain/99_InsightON/Chemicals.md",
-    "remoteBrain/Daily-Docs/2025/10_October/2025-10-24 Fri.md",
     "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
     "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/캠핑!.md",
     "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/240413_1.webp",
