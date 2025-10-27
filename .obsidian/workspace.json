@@ -38,9 +38,24 @@
               "icon": "lucide-file",
               "title": "2025-10-27 Mon"
             }
+          },
+          {
+            "id": "f67980717943d2d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/99_InsightON/Chemicals.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Chemicals"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -87,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e1f0c7632e67bdc4",
@@ -156,10 +170,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "722e86ebe3a5a59c",
+  "active": "f67980717943d2d5",
   "lastOpenFiles": [
-    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-27 Mon.md",
+    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-24 Fri.md",
     "remoteBrain/02_UNIST/변영재 교수님 과제 (Due Date 2025-10-24).md",
     "변영재 교수님 과제 (Due Date 2025-10-24).pdf",
