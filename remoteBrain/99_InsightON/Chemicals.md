@@ -115,6 +115,31 @@ PW: 1q2w3e4r5t
 	- Use Access/Secret Key 
 
 
+##### 임직원 모바일 포탈(teams in app)
+###### backend-mobile-java ==개발 서버 없음==
+- spring profiles를 WAS 서버의 service 설정에 삽입 `--spring.profiles.active=prodm`  
+	- 경로: `/etc/systemd/system/
+- 매개변수: SLAVE-JAVA
+- Git 연동: bitbucket/scm/ushe/backend-java.git, i24474
+- Execute Windows batch command (윈도우 환경 커맨드 라인)
+	```
+	chcp 65001 (콘솔 출력 인코딩 용)
+	set GRADLE_USER_HOME=D:\USHE\.gradle
+	set MAVEN_USER_HOME=D:\USHE\.m2
+	set SPRING_PROFILES_ACTIVE=stagingp (현재 여기 정상 동작 안 함, WAS 서버에 작성)
+	move "appspec-partner.yml" "appspec.yml"
+	call gradlew.bat clean build --offline --no-daemon
+	if exist build\libs\*.jar (echo JAR file found) else (echo NOT FILE FOUND)
+	```
+- 빌드 후 조치, Deploy an application to AWS CodeDeploy
+	- AWS CodeDeploy Application Name: skch-prod-she-bp / skch-dev-she-bp
+	- AWS CodeDeploy Deployment Group: skch-prod-she-bp / skch-dev-she-bp
+	- AWS Region: AP_NORTHEAST_2
+	- S3 Bucket: skch-backbone-prod-artifacts / skch-backbone-dev-artifacts
+	- S3 Prefix: she-bp/
+	- Include Files: build/libs/, appspec.yml, start-deploy-partner.sh
+	- Use Access/Secret Key 
+
 
 ##### 협력사 포탈
 ###### backend-partner-java 
