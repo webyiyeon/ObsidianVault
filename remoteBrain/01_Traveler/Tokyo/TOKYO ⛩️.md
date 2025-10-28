@@ -1,6 +1,6 @@
 ---
 share_link: https://share.note.sx/u14z9srl
-share_updated: 2025-10-28T09:18:41+09:00
+share_updated: 2025-10-28T09:34:18+09:00
 ---
 # ✈️ 전체 개요
 
@@ -13,6 +13,17 @@ share_updated: 2025-10-28T09:18:41+09:00
     - 🎀 퓨로랜드 (다마시, 사쿠라진자 근처)
     - ⛩ 아사쿠사 (센소지, 스카이트리 인근)
 - **구글 맵**: [🔗여행 계획 장소](https://www.google.com/maps/@/data=!3m1!4b1!4m3!11m2!2spBE25UynRi-W5oF42mmaP- A!4sHUTMqrDggQo?g_ep=EgoyMDI1MTAxMi4wKgBIAVAD)
+
+
+## 지금 해야할 일 
+
+- [x] 항공권 예약
+- [x] 숙소 예약
+- [ ] 지하철 이용권
+- [ ] 나리타공항 > 우에노 스카이라이너 티켓
+- [ ] 도쿄 아사쿠사 기모노 대여
+- [ ] 해리포터 스튜디오 
+- [ ] 퓨로랜드
 
 
 ## Website
