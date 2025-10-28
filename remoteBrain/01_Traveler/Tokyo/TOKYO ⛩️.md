@@ -12,6 +12,7 @@ share_updated: 2025-10-28T09:18:41+09:00
     - 🎇 해리포터 스튜디오 투어 (네리마구)
     - 🎀 퓨로랜드 (다마시, 사쿠라진자 근처)
     - ⛩ 아사쿠사 (센소지, 스카이트리 인근)
+- **구글 맵**: [🔗여행 계획 장소](https://www.google.com/maps/@/data=!3m1!4b1!4m3!11m2!2spBE25UynRi-W5oF42mmaP- A!4sHUTMqrDggQo?g_ep=EgoyMDI1MTAxMi4wKgBIAVAD)
 
 
 ## Website
@@ -127,9 +128,12 @@ share_updated: 2025-10-28T09:18:41+09:00
 
 ## 숙소
 
+[우에노 마루타니 호텔](https://maps.app.goo.gl/4EK6c16NnRiZumC69)
+
+
 ![[Pasted image 20251014003915.png|400]]
 
-[🔗여행 계획 장소](https://www.google.com/maps/@/data=!3m1!4b1!4m3!11m2!2spBE25UynRi-W5oF42mmaPA!4sHUTMqrDggQo?g_ep=EgoyMDI1MTAxMi4wKgBIAVAD)
+
 
 
 
