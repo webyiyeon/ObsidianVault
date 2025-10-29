@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -127,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e1f0c7632e67bdc4",
@@ -196,12 +197,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e0cd7ee134df37c4",
+  "active": "997c19593d999c93",
   "lastOpenFiles": [
+    "remoteBrain/99_InsightON/Chemicals.md",
     "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-29 Wed.md",
     "remoteBrain/VisionBoard/2025.md",
-    "remoteBrain/99_InsightON/Chemicals.md",
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-28 Tue.md",
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-27 Mon.md",
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-24 Fri.md",
