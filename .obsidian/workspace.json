@@ -28,10 +28,15 @@
             "id": "9c70900e038bac5b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/99_InsightON/Chemicals.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Chemicals"
             }
           }
         ],
