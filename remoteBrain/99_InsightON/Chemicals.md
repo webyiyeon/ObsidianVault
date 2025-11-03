@@ -358,8 +358,13 @@ C1S0108010_02 (기준정보)
 
 
 ##### 메일 발송 테스트 관련 
-- [ ] 안전점검 메일 로그 삽입 관련 오류 수정 
+- [x] 안전점검 메일 로그 삽입 관련 오류 수정
 - [ ] 메일 발송 배치 테스트 
+```
+UPDATE A1S160000_01
+SET sendem = 'ushe@skchemicals.com'
+WHERE sendem != 'ushe@skchemicals.com'
+```
 
 
 ##### JSA 검색 조건 관련
