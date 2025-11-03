@@ -23,54 +23,8 @@
               "icon": "lucide-file",
               "title": "2025"
             }
-          },
-          {
-            "id": "536264f8a3c4f0e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remoteBrain/Daily-Docs/2025/10_October/2025-10-31 Fri.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-10-31 Fri"
-            }
-          },
-          {
-            "id": "19229017f5ef71ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remoteBrain/99_InsightON/Chemicals.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Chemicals"
-            }
-          },
-          {
-            "id": "9bb4d7c5cf65b011",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remoteBrain/Daily-Docs/2025/10_October/2025-10-31 Fri.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-10-31 Fri"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,10 +141,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9bb4d7c5cf65b011",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "remoteBrain/99_InsightON/Chemicals.md",
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-31 Fri.md",
+    "remoteBrain/99_InsightON/Chemicals.md",
     "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-30 Thu.md",
     "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
