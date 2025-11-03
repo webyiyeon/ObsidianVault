@@ -360,3 +360,15 @@ C1S0108010_02 (기준정보)
 ##### 메일 발송 테스트 관련 
 - [ ] 안전점검 메일 로그 삽입 관련 오류 수정 
 - [ ] 메일 발송 배치 테스트 
+
+
+##### JSA 검색 조건 관련
+- 데이터 마이그레이션 과정에서 create_user_id가 일부 user_log_id(user_id를 암호화한 값)로 설정되어있는 현상  
+	⇒ GSHE 데이터와 user 정보가 100% 동일하지 않기 때문에 (HR 배치 관련) 검색 안 될 시, create_user_id 업데이트 치기
+	```
+	UPDATE C1S0103010_01
+	SET C1S0103010_01.create_user_id = E3_USER.user_id
+	FROM C1S0103010_01
+	JOIN E3_USER
+	ON C1S0103010_01.create_user_id = E3_USER.USER_LOG_ID
+	```
