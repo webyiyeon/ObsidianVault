@@ -55,7 +55,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,10 +171,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "758e9e117e85fa45",
+  "active": "269919670c1cdcb0",
   "lastOpenFiles": [
-    "remoteBrain/99_InsightON/Chemicals.md",
     "remoteBrain/Daily-Docs/2025/11_November/2025-11-04 Tue.md",
+    "remoteBrain/99_InsightON/Chemicals.md",
     "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/11_November/2025-11-03 Mon.md",
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-31 Fri.md",
