@@ -38,9 +38,24 @@
               "icon": "lucide-file",
               "title": "TOKYO ⛩️"
             }
+          },
+          {
+            "id": "80e4deceb1e66ae2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/99_InsightON/Chemicals.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Chemicals"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,13 +171,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7e2d67a6df522946",
+  "active": "80e4deceb1e66ae2",
   "lastOpenFiles": [
+    "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
     "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/99_InsightON/Chemicals.md",
     "remoteBrain/Daily-Docs/2025/11_November/2025-11-05 Wed.md",
     "remoteBrain/Daily-Docs/2025/11_November/2025-11-04 Tue.md",
-    "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
     "remoteBrain/01_Traveler/Tokyo/🎀 퓨로랜드.md",
     "remoteBrain/01_Traveler/Tokyo/🎡 해리포터 스튜디오.md",
     "remoteBrain/Daily-Docs/2025/11_November/2025-11-03 Mon.md",
