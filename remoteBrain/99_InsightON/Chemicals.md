@@ -511,3 +511,9 @@ A1S1406000_01
 ##### 작업허가서 sequence
 구she 에서 이관 시, 4000개 정도만 그대로 이관 가능
 4천개 정도의 갭이므로, 그 이후에는 새 seq 부여 필요 
+
+
+##### SHA512 
+자릿수 보기
+LoginService
+VendorService
