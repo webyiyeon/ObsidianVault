@@ -28,12 +28,15 @@
             "id": "0f48954113a79359",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "remoteBrain/99_InsightON/Chemicals.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "icon": "lucide-file",
+              "title": "Chemicals"
             }
           }
         ],
