@@ -25,33 +25,18 @@
             }
           },
           {
-            "id": "0f48954113a79359",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "TOKYO ⛩️"
-            }
-          },
-          {
             "id": "bb71e45a30762981",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/99_InsightON/Chemicals.md",
+                "file": "remoteBrain/01_Traveler/Tokyo/🎡 해리포터 스튜디오 (예약 완료).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Chemicals"
+              "title": "🎡 해리포터 스튜디오 (예약 완료)"
             }
           }
         ],
@@ -171,14 +156,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0f48954113a79359",
+  "active": "bb71e45a30762981",
   "lastOpenFiles": [
+    "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
+    "remoteBrain/99_InsightON/Chemicals.md",
+    "remoteBrain/01_Traveler/Tokyo/🎡 해리포터 스튜디오 (예약 완료).md",
+    "remoteBrain/Daily-Docs/Images/Pasted image 20251118160132.png",
     "remoteBrain/Daily-Docs/2025/11_November/2025-11-18 Tue.md",
     "remoteBrain/Daily-Docs/2025/11_November/2025-11-17 Mon.md",
-    "remoteBrain/99_InsightON/Chemicals.md",
     "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/11_November/2025-11-12 Wed.md",
-    "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
     "remoteBrain/99_InsightON/슬기로운 독서생활.md",
     "remoteBrain/Daily-Docs/Images/004.png",
     "remoteBrain/02_UNIST/변영재 교수님 과제 (Due Date 2025-10-24).md",
@@ -187,7 +174,6 @@
     "remoteBrain/Daily-Docs/2025/11_November/2025-11-05 Wed.md",
     "remoteBrain/Daily-Docs/2025/11_November/2025-11-04 Tue.md",
     "remoteBrain/01_Traveler/Tokyo/🎀 퓨로랜드.md",
-    "remoteBrain/01_Traveler/Tokyo/🎡 해리포터 스튜디오.md",
     "remoteBrain/Daily-Docs/2025/11_November/2025-11-03 Mon.md",
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-31 Fri.md",
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-30 Thu.md",
@@ -200,7 +186,6 @@
     "wooyeon/Love Life/𝐃𝐚𝐭𝐞 𝐁𝐮𝐜𝐤𝐞𝐭𝐥𝐢𝐬𝐭 - 𝟐𝟎𝟐𝟑 ~ 𝟐𝟎𝟐𝟒.md",
     "wooyeon/Love Life/𝒟𝒶𝓉𝑒 ℬ𝓊𝒸𝓀𝑒𝓉𝓁𝒾𝓈𝓉 - 𝟸𝟶𝟸𝟻.md",
     "remoteBrain/_template/tags.md",
-    "remoteBrain/_template/recipe.md",
     "Blog/Tistory/철따라/캠핑 후기/울산 북구 달곡 캠프/240413_1.webp",
     "remoteBrain/02_UNIST",
     "remoteBrain/Daily-Docs/Images/Pasted image 20251015133334.png",
@@ -214,7 +199,6 @@
     "remoteBrain/Daily-Docs/Images/Pasted image 20251014003800.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20251014002942.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20251014002507.png",
-    "remoteBrain/Daily-Docs/Images/Pasted image 20251014002448.png",
     "remoteBrain/01_Traveler/Tokyo",
     "remoteBrain/01_Traveler",
     "remoteBrain/Daily-Docs/2025/10_October",
