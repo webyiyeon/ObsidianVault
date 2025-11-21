@@ -1,6 +1,6 @@
 ---
 share_link: https://share.note.sx/mpoy9s4j
-share_updated: 2025-11-18T16:03:20+09:00
+share_updated: 2025-11-21T09:21:22+09:00
 ---
 # ✈️ 전체 개요
 
