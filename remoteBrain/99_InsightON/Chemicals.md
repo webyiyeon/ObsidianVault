@@ -519,3 +519,6 @@ LoginService
 VendorService
 
 
+
+##### UGAC 
+AuthGrpService.java 에 있는 getInitUgac로 API 전송 (추가만 함 변경 X)
