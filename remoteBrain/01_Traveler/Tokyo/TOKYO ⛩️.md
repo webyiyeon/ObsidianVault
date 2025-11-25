@@ -14,10 +14,12 @@ share_updated: 2025-11-25T10:45:18+09:00
     - ⛩ 아사쿠사 (센소지, 스카이트리 인근)
 - **구글 맵**: [🔗여행 계획 장소](https://www.google.com/maps/@/data=!3m1!4b1!4m3!11m2!2spBE25UynRi-W5oF42mmaP- A!4sHUTMqrDggQo?g_ep=EgoyMDI1MTAxMi4wKgBIAVAD)
 
+> [!info] Wish List (지수)
+> - [ ] 우표 펀칭 
 
-## Wish List 🛒
-- [ ] 우표 펀칭 
-- [ ] 해피해킹 키보드 
+> [!info] Wish List (이연)
+> - [ ]  해피해킹 키보드 
+
 
 
 ## 지금 해야할 일 
