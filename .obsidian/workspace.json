@@ -38,21 +38,9 @@
               "icon": "lucide-file",
               "title": "2025-12-02 Tue"
             }
-          },
-          {
-            "id": "6a67807e4538c304",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-12-02 22.42.53.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-12-02 22.42.53.excalidraw"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,11 +157,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6a67807e4538c304",
+  "active": "538ea3b0295453b0",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-12-02 22.42.53.excalidraw.md",
     "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/12_December/2025-12-02 Tue.md",
-    "Excalidraw/Drawing 2025-12-02 22.42.53.excalidraw.md",
     "remoteBrain/Daily-Docs/2025/12_December/2025-12-01 Mon.md",
     "remoteBrain/Daily-Docs/2025/11_November/2025-11-28 Fri.md",
     "remoteBrain/Daily-Docs/2025/12_December",
