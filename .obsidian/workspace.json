@@ -23,34 +23,8 @@
               "icon": "lucide-file",
               "title": "2025"
             }
-          },
-          {
-            "id": "8d22cb4e6450eca9",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-google-calendar",
-              "state": {},
-              "icon": "lucide-calendar-heart",
-              "title": "Google Calendar"
-            }
-          },
-          {
-            "id": "734e0935a9dc30f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remoteBrain/Daily-Docs/2025/12_December/2025-12-02 Tue.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-02 Tue"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "e1f0c7632e67bdc4",
@@ -167,10 +140,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "734e0935a9dc30f2",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2025/12_December/2025-12-01 Mon.md",
     "remoteBrain/Daily-Docs/2025/12_December/2025-12-02 Tue.md",
+    "remoteBrain/Daily-Docs/2025/12_December/2025-12-01 Mon.md",
     "remoteBrain/Daily-Docs/2025/11_November/2025-11-28 Fri.md",
     "remoteBrain/Daily-Docs/2025/12_December",
     "remoteBrain/VisionBoard/2025.md",
