@@ -45,13 +45,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/01_Traveler/Tokyo/🎀 퓨로랜드.md",
+                "file": "remoteBrain/01_Traveler/Tokyo/🎀 퓨로랜드 (예약완료).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🎀 퓨로랜드"
+              "title": "🎀 퓨로랜드 (예약완료)"
             }
           },
           {
@@ -127,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "e1f0c7632e67bdc4",
@@ -198,8 +199,8 @@
   },
   "active": "6298c610b672013d",
   "lastOpenFiles": [
+    "remoteBrain/01_Traveler/Tokyo/🎀 퓨로랜드 (예약완료).md",
     "remoteBrain/Daily-Docs/2025/12_December/2025-12-03 Wed.md",
-    "remoteBrain/01_Traveler/Tokyo/🎀 퓨로랜드.md",
     "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
     "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/12_December/2025-12-02 Tue.md",
