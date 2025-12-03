@@ -1,6 +1,6 @@
 ---
 share_link: https://share.note.sx/3yvvf1o4
-share_updated: 2025-12-03T14:49:25+09:00
+share_updated: 2025-12-03T14:52:56+09:00
 ---
 # ✈️ Concept
 
@@ -24,7 +24,7 @@ share_updated: 2025-12-03T14:49:25+09:00
 > - [ ]  해피해킹 키보드 
 
 
-## To do List (before the trip)
+## Pre-Trip To-Do List
 
 - [x] 항공권 예약
 - [x] 숙소 예약
@@ -144,7 +144,7 @@ share_updated: 2025-12-03T14:49:25+09:00
 
 
 
-## 숙소
+## Stay
 
 [우에노 마루타니 호텔](https://maps.app.goo.gl/4EK6c16NnRiZumC69)
 
@@ -153,7 +153,7 @@ share_updated: 2025-12-03T14:49:25+09:00
 
 
 
-## 💡 여행 팁
+## 💡 Tips
 
 - **교통패스:**
     - 도쿄 지하철 48시간 패스 + 스이카카드
