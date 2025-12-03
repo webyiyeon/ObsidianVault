@@ -1,6 +1,6 @@
 ---
 share_link: https://share.note.sx/mpoy9s4j
-share_updated: 2025-11-26T09:27:55+09:00
+share_updated: 2025-12-03T09:23:20+09:00
 ---
 # ✈️ 
 
@@ -129,15 +129,6 @@ share_updated: 2025-11-26T09:27:55+09:00
 
 
 
-## 🎫 티켓 & 예약 팁
-
-| 장소        | 예약                     | 비고                |
-| --------- | ---------------------- | ----------------- |
-| 해리포터 스튜디오 | 공식 사이트 or Klook에서 사전예매 | 입장시간 지정제          |
-| 퓨로랜드      | 현장구매 가능하지만 주말엔 예매 추천   | 오전 입장권이 여유롭고 덜 붐빔 |
-| 스카이트리     | 현장or온라인                | 저녁 조명 시간대 추천      |
-
-
 ## 항공권
 
 ![[Pasted image 20251015133324.png||400]]
@@ -156,19 +147,19 @@ share_updated: 2025-11-26T09:27:55+09:00
 
 
 
-
 ## 💡 여행 팁
 
-- **교통패스 추천:**
+- **교통패스:**
     - 도쿄 지하철 48시간 패스 + 스이카카드
 	    - 스이카(Suica): 공항/역 자동판매기에서 구입 시 보증금 500엔 포함 충전
-		
+		- [도쿄 스카이라이너 시간 왕복권 예약 팁 자판기 교환](https://cafe.naver.com/koarane/130329?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImtvYXJhbmUiLCJhcnRpY2xlSWQiOjEzMDMyOSwiaXNzdWVkQXQiOjE3NjQ3MjA5MzE1Nzl9.dwt7P846V2eW6WmuHr3O-9iP32GPfwyUu02NlTB0Wvo)
+	
 	- 퓨로랜드/해리포터 스튜디오 모두 현지 체크인 시간/폐장 체크 필수
 
 	- 열차 시간·환승은 NAVITIME·Google지도 앱 활용(한국어 지원)
 	- 짐이 많으면 코인락커·숙소 프런트(수하물 일시 보관) 이용
 	
-- **간식 추천:** 도쿄바나나, 도라야끼, 하리보 한정판, 프리츠 말차맛
+- **간식:** 도쿄바나나, 도라야끼, 하리보 한정판, 프리츠 말차맛
     
 - **기념사진 포인트:**
     - 아사쿠사 센소지 앞 대등롱
