@@ -1,6 +1,6 @@
 ---
 share_link: https://share.note.sx/mpoy9s4j
-share_updated: 2025-12-03T09:23:20+09:00
+share_updated: 2025-12-03T09:30:00+09:00
 ---
 # ✈️ 
 
@@ -153,7 +153,7 @@ share_updated: 2025-12-03T09:23:20+09:00
     - 도쿄 지하철 48시간 패스 + 스이카카드
 	    - 스이카(Suica): 공항/역 자동판매기에서 구입 시 보증금 500엔 포함 충전
 		- [도쿄 스카이라이너 시간 왕복권 예약 팁 자판기 교환](https://cafe.naver.com/koarane/130329?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImtvYXJhbmUiLCJhcnRpY2xlSWQiOjEzMDMyOSwiaXNzdWVkQXQiOjE3NjQ3MjA5MzE1Nzl9.dwt7P846V2eW6WmuHr3O-9iP32GPfwyUu02NlTB0Wvo)
-	
+	![[Pasted image 20251203092856.png | 500]]
 	- 퓨로랜드/해리포터 스튜디오 모두 현지 체크인 시간/폐장 체크 필수
 
 	- 열차 시간·환승은 NAVITIME·Google지도 앱 활용(한국어 지원)
