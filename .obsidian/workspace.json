@@ -55,7 +55,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -152,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5,
-    "collapsed": true
+    "width": 272.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,12 +170,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5be4fe2010e0d4c0",
+  "active": "391bd238696e496c",
   "lastOpenFiles": [
+    "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
     "remoteBrain/Daily-Docs/Images/Pasted image 20251204152957.png",
     "remoteBrain/Daily-Docs/2025/12_December/2025-12-03 Wed.md",
     "remoteBrain/Daily-Docs/2025/12_December/2025-12-04 Thu.md",
-    "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
     "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/01_Traveler/Tokyo/🎀 퓨로랜드 (예약완료).md",
     "remoteBrain/01_Traveler/Tokyo/🎡 해리포터 스튜디오 (예약 완료).md",
@@ -217,7 +216,6 @@
     "remoteBrain/_templater/Scripts/embed_recursive.js",
     "remoteBrain/_templater/Scripts",
     "remoteBrain/Daily-Docs/Images/Pasted image 20251014094047.png",
-    "remoteBrain/Daily-Docs/Images/Pasted image 20251014003915.png",
-    "remoteBrain/Daily-Docs/Images/Pasted image 20251014003800.png"
+    "remoteBrain/Daily-Docs/Images/Pasted image 20251014003915.png"
   ]
 }
