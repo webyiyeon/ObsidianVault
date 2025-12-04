@@ -1,6 +1,6 @@
 ---
 share_link: https://share.note.sx/3yvvf1o4
-share_updated: 2025-12-04T11:19:30+09:00
+share_updated: 2025-12-04T14:48:27+09:00
 ---
 # ✈️ Concept
 
@@ -20,8 +20,11 @@ share_updated: 2025-12-04T11:19:30+09:00
 > [!todo] 지수
 > - [ ] 우표 펀칭 
 
-> [!info] 이연
-> - [ ]  해피해킹 키보드 
+> [!todo] 이연
+> - [ ] 해피해킹 키보드 
+> - [ ] 여유가 있으면 러닝화
+> - [ ] 오니츠카 타이거
+> - [ ] 
 
 
 ## Pre-Trip To-Do List
