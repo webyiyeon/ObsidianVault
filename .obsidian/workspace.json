@@ -133,23 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/01_Traveler/Tokyo/00.TOKYO ⛩️.md",
+                "file": "remoteBrain/Daily-Docs/2025/12_December/2025-12-09 Tue.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 00.TOKYO ⛩️"
-            }
-          },
-          {
-            "id": "eb1159e1da285736",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "title": "Outline of 2025-12-09 Tue"
             }
           },
           {
@@ -158,12 +148,11 @@
             "state": {
               "type": "custom-frames-perflexity",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "custom-frames-perflexity"
+              "icon": "lucide-bot-message-square",
+              "title": "Perflexity"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,7 +174,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "afa8dedd1d60c2b4",
+  "active": "34a13eebabbe1f46",
   "lastOpenFiles": [
     "remoteBrain/_templater/New Daily (From 2026).md",
     "remoteBrain/Daily-Docs/2025/12_December/2025-12-09 Tue.md",
