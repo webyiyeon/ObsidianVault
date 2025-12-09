@@ -88,8 +88,8 @@ checklist.push("- [ ] 하루 최소 10분 정리정돈 하기.");
 // 4. 제시간 식사 — 매일
 checklist.push("- [ ] 식사 시간 지키고 기록하기.");
 
-// 5. 일본어 공부 — 주 1회 (월요일 기준 리마인드)
-if (weekday === "Monday") {
+// 5. 일본어 공부 — 주 1회 (목요일 기준 리마인드)
+if (weekday === "Thursday") {
   checklist.push("- [ ] 일본어 공부하기 (주 1회 목표)");
 }
 
@@ -98,8 +98,8 @@ if (weekday === "Sunday") {
   checklist.push("- [ ] 블로그 1회 업로드하기.");
 }
 
-// 7. 독서 — 주 1회 (토요일 리마인드)
-if (weekday === "Saturday") {
+// 7. 독서 — 주 1회 (화요일 리마인드)
+if (weekday === "Tuesday") {
   checklist.push("- [ ] 독서하기 (주 1회 목표).");
 }
 

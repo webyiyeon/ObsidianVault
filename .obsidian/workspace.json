@@ -45,13 +45,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/_templater/New Daily (From 2026).md",
+                "file": "remoteBrain/Daily-Docs/2025/12_December/2025-12-09 Tue.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "New Daily (From 2026)"
+              "title": "2025-12-09 Tue"
             }
           },
           {
@@ -187,9 +187,10 @@
   },
   "active": "afa8dedd1d60c2b4",
   "lastOpenFiles": [
-    "remoteBrain/_templater/New Monthly (From 2026).md",
     "remoteBrain/_templater/New Daily (From 2026).md",
     "remoteBrain/Daily-Docs/2025/12_December/2025-12-09 Tue.md",
+    "remoteBrain/99_InsightON/Chemicals.md",
+    "remoteBrain/_templater/New Monthly (From 2026).md",
     "remoteBrain/Report/2025/12_December.md",
     "remoteBrain/Daily-Docs/2025/12_December/2025-12-03 Wed.md",
     "remoteBrain/Daily-Docs/2025/12_December/2025-12-02 Tue.md",
@@ -205,7 +206,6 @@
     "remoteBrain/_templater/website.md",
     "remoteBrain/Report/2025/11_November.md",
     "remoteBrain/VisionBoard/2025.md",
-    "remoteBrain/99_InsightON/Chemicals.md",
     "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
     "remoteBrain/01_Traveler/Tokyo/스카이라이너(기차)+지하철 바우처.pdf",
     "remoteBrain/99_InsightON/슬기로운 독서생활.md",
