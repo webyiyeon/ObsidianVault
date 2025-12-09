@@ -31,9 +31,9 @@
 	- [x] 기준정보 번역
 	- [x] HR Interface
 	- [ ] 작업허가서 기준정보 변경 (중국 기준만)
-	- [ ] AWS / Linux / MSSQL 환경 세팅
+	- [x] AWS / Linux / MSSQL 환경 세팅
 	- [x] Jasper 번역
-	- [ ] 모바일 Teams In App 설정 (siteCd, langCd)
+	- [x] 모바일 Teams In App 설정 (siteCd, langCd)
 
 #### 배포 무관 변경점
 
