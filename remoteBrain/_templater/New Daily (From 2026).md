@@ -49,6 +49,25 @@ timespan: 7
 ```
 
 --- 
+# Today's GOAL (Top 3)
+
+- [ ] 
+- [ ] 
+- [ ] 
+
+# Today’s Tasks
+
+
+# Overdue List
+```tasks
+not done
+(tags include #work💼) OR (tags include #chores🧺) OR (tags include #todo)
+path does not include <%tp.file.title%>
+hide backlink
+```
+
+# Notes
+
 
 
 # Routine 
@@ -67,23 +86,3 @@ timespan: 7
 - [ ] 전공공부하기
 - [ ] 일본어 공부하기
 - [ ] 독서하기
-
-
-
-# To-do List
-
-
-# Overdue List
-```tasks
-not done
-(tags include #work💼) OR (tags include #chores🧺) OR (tags include #todo)
-path does not include <%tp.file.title%>
-hide backlink
-```
-
-# Related Pages
-
-
-
-# Thoughts & Inspirations
-
