@@ -124,5 +124,21 @@
       ],
       "key": "2"
     }
+  ],
+  "note-refactor-obsidian:app:extract-selection-content-only": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "1"
+    }
+  ],
+  "note-refactor-obsidian:app:extract-selection-first-line": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "2"
+    }
   ]
 }
