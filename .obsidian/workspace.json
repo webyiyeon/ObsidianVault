@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,13 +134,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/99_InsightON/Chemicals.md",
+                "file": "remoteBrain/Daily-Docs/2025/12_December/2025-12-10 Wed.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chemicals"
+              "title": "Outline of 2025-12-10 Wed"
             }
           },
           {
@@ -177,12 +177,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "65e88f201444a869",
+  "active": "afa8dedd1d60c2b4",
   "lastOpenFiles": [
+    "remoteBrain/99_InsightON/Chemicals.md",
     "remoteBrain/Daily-Docs/2025/12_December/2025-12-10 Wed.md",
     "remoteBrain/Daily-Docs/2025/12_December/2025-12-09 Tue.md",
     "remoteBrain/_templater/New Daily (From 2026).md",
-    "remoteBrain/99_InsightON/Chemicals.md",
     "remoteBrain/_templater/New Monthly (From 2026).md",
     "remoteBrain/Report/2025/12_December.md",
     "remoteBrain/Daily-Docs/2025/12_December/2025-12-03 Wed.md",
