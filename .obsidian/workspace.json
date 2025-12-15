@@ -152,6 +152,16 @@
               "icon": "lucide-bot-message-square",
               "title": "Perflexity"
             }
+          },
+          {
+            "id": "0554413a06ca7fa2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 1
