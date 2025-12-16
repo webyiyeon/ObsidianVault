@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "e1f0c7632e67bdc4",
@@ -158,6 +159,8 @@
   },
   "active": "7b9ab0a01e288a61",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/Images/Pasted image 20251216131207.png",
+    "remoteBrain/Daily-Docs/Images/Pasted image 20251216131201.png",
     "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/12_December/2025-12-15 Mon.md",
     "remoteBrain/Daily-Docs/2025/12_December/2025-12-10 Wed.md",
@@ -189,7 +192,6 @@
     "remoteBrain/Daily-Docs/Images/Pasted image 20251203092801.png",
     "remoteBrain/01_Traveler/Tokyo/퓨로랜드 바우처.pdf",
     "remoteBrain/Daily-Docs/Images/퓨로랜드 바우처.pdf",
-    "Excalidraw/Drawing 2025-12-02 22.42.53.excalidraw.md",
     "remoteBrain/Daily-Docs/2025/12_December",
     "remoteBrain/Daily-Docs/Images/Pasted image 20251118160132.png",
     "remoteBrain/Daily-Docs/Images/004.png",
@@ -202,7 +204,6 @@
     "remoteBrain/_templater/Scripts/test.js",
     "remoteBrain/_templater/Scripts/embed_recursive.js",
     "remoteBrain/_templater/Scripts",
-    "remoteBrain/Daily-Docs/Images/Pasted image 20251014094047.png",
-    "remoteBrain/Daily-Docs/Images/Pasted image 20251014003915.png"
+    "remoteBrain/Daily-Docs/Images/Pasted image 20251014094047.png"
   ]
 }
