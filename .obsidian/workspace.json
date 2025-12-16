@@ -23,8 +23,24 @@
               "icon": "lucide-file",
               "title": "2025"
             }
+          },
+          {
+            "id": "7b9ab0a01e288a61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "TOKYO ⛩️"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "e1f0c7632e67bdc4",
@@ -141,10 +156,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "7b9ab0a01e288a61",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2025/12_December/2025-12-15 Mon.md",
     "remoteBrain/VisionBoard/2025.md",
+    "remoteBrain/Daily-Docs/2025/12_December/2025-12-15 Mon.md",
     "remoteBrain/Daily-Docs/2025/12_December/2025-12-10 Wed.md",
     "remoteBrain/99_InsightON/Chemicals.md",
     "remoteBrain/Daily-Docs/2025/12_December/2025-12-09 Tue.md",
