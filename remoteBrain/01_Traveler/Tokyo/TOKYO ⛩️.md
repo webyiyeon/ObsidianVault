@@ -43,6 +43,7 @@ share_updated: 2025-12-18T09:45:56+09:00
 | A    | 캔메이크 틴트립밤 "무치푸루" , "모모" <br>(리미티드 있으면 쟁여오기)<br>![[Pasted image 20251216131409.png\|300]]                                                                                              |        |      |
 | A    | 연달력(포스터형)                                                                                                                                                                             |        |      |
 | A    | 다마고치 오야지치 관련 굿즈 (for 짬이)<br>![[Pasted image 20251216131425.png\|300]]                                                                                                                 |        |      |
+|      | [나리타공항 추천 술](https://metizen.co.kr/%EB%82%98%EB%A6%AC%ED%83%80-%EA%B3%B5%ED%95%AD-%EC%B6%94%EC%B2%9C-%EC%82%AC%EC%BC%80-5%EC%A2%85/)                                                  |        |      |
 
 ## Pre-Trip To-Do List
 
