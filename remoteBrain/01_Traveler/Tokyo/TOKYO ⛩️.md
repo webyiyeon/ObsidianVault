@@ -1,6 +1,6 @@
 ---
 share_link: https://share.note.sx/3yvvf1o4
-share_updated: 2025-12-22T09:56:09+09:00
+share_updated: 2025-12-22T14:31:38+09:00
 ---
 # ✈️ Concept
 
@@ -35,15 +35,16 @@ share_updated: 2025-12-22T09:56:09+09:00
 | C    | 해피해킹 키보드<br>[도쿄 여행 : 아키하바라 쇼핑 LP 레코드 커.. : 네이버블로그](https://blog.naver.com/codequa/223308677626)<br>[도쿄에서 HHKB(해피해킹) Professio.. : 네이버블로그](https://blog.naver.com/mytuur/223392812421) |        |      |
 | C    | 러닝화                                                                                                                                                                                   |        |      |
 | C    | 오니츠카 타이거                                                                                                                                                                              |        |      |
-| A    | 몬치치 (for sis)<br>포카키링(사진참고)<br>![[Pasted image 20251216131207.png \| 300]]                                                                                                            |        |      |
-| A    | 몬치치 (for sis)<br>미듐사이즈 / 베이지 / 남자 / 몬치치 (리본X, 내 푸우만한거)<br>![[Pasted image 20251216131201.png\|300]]                                                                                   |        |      |
-|      | 몬치치 (for sis)<br>베이지 / 여자 / 몬치치 (리본O)<br>![[Pasted image 20251216133501.png\|300]]                                                                                                    |        |      |
-| A    | 컵라면 - 닛신돈베이 오리육수소바<br>![[Pasted image 20251216131304.png\|300]]                                                                                                                       |        |      |
-| A    | 산리오 새틴 파우치(샵에 있다고는 함)<br>![[Pasted image 20251204152957.png \| 300]]                                                                                                                  |        |      |
-| A    | 캔메이크 틴트립밤 "무치푸루" , "모모" <br>(리미티드 있으면 쟁여오기)<br>![[Pasted image 20251216131409.png\|300]]                                                                                              |        |      |
+| A    | 몬치치 (for sis)<br>포카키링(사진참고)<br>![[Pasted image 20251216131207.png \| 200]]                                                                                                            |        |      |
+| A    | 몬치치 (for sis)<br>미듐사이즈 / 베이지 / 남자 / 몬치치 (리본X, 내 푸우만한거)<br>![[Pasted image 20251216131201.png\|200]]                                                                                   |        |      |
+|      | 몬치치 (for sis)<br>베이지 / 여자 / 몬치치 (리본O)<br>![[Pasted image 20251216133501.png\|200]]                                                                                                    |        |      |
+| A    | 컵라면 - 닛신돈베이 오리육수소바<br>![[Pasted image 20251216131304.png\|200]]                                                                                                                       |        |      |
+| A    | 몬치치 - 후디, 해드셋끼고 있는거<br>![[Pasted image 20251222142940.png\|200]]                                                                                                                      |        |      |
+| A    | 캔메이크 틴트립밤 "무치푸루" , "모모" <br>(리미티드 있으면 쟁여오기)<br>![[Pasted image 20251216131409.png\|200]]                                                                                              |        |      |
 | A    | 연달력(포스터형)                                                                                                                                                                             |        |      |
-| A    | 다마고치 오야지치 관련 굿즈 (for 짬이)<br>![[Pasted image 20251216131425.png\|300]]                                                                                                                 |        |      |
+| A    | 다마고치 오야지치 관련 굿즈 (for 짬이)<br>![[Pasted image 20251216131425.png\|200]]                                                                                                                 |        |      |
 |      | [나리타공항 추천 술](https://metizen.co.kr/%EB%82%98%EB%A6%AC%ED%83%80-%EA%B3%B5%ED%95%AD-%EC%B6%94%EC%B2%9C-%EC%82%AC%EC%BC%80-5%EC%A2%85/)                                                  |        |      |
+|      | 몽벨 백팩 또는 동전지갑 <br>![[Pasted image 20251222142957.png\|200]]                                                                                                                           |        |      |
 
 ## Pre-Trip To-Do List
 
