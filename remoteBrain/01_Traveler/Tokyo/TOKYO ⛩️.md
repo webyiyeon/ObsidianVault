@@ -1,6 +1,6 @@
 ---
 share_link: https://share.note.sx/3yvvf1o4
-share_updated: 2025-12-22T14:47:54+09:00
+share_updated: 2025-12-22T14:53:04+09:00
 ---
 # ✈️ Concept
 
@@ -152,20 +152,12 @@ share_updated: 2025-12-22T14:47:54+09:00
 러너와 관광객이 많아 코스 이탈 없이 달리기 쉽고, 도심 속 자연과 야경을 동시에 즐길 수 있습니다. 
 [도쿄 러닝 성지 황궁 러닝](https://blog.naver.com/sumni23_/223995179800)
 
-#### 메구로강 러닝 코스
-약 4km로, 시나가와·세타가야·메구로를 잇는 강변 오솔길입니다. 봄에는 벚꽃이 만발해 경치가 뛰어나며, 아침 일찍이나 밤늦게 달리기를 추천합니다. 
-
-#### 타마가와 러닝 코스
-최대 48km까지 달릴 수 있는 장거리 코스로, 차량 통행이 없어 쾌적하게 달릴 수 있습니다. 
-
 #### 코가네이공원
 넓은 잔디밭, 벚나무 정원, 다양한 스포츠 시설이 있어 운동과 여가를 동시에 즐길 수 있습니다. 
 
 
 [도쿄 러닝화 성지, step sports 모든 재고/높은 할인율](https://cafe.naver.com/runningmaniac/148620?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InJ1bm5pbmdtYW5pYWMiLCJhcnRpY2xlSWQiOjE0ODYyMCwiaXNzdWVkQXQiOjE3NjA2MjUwMDM4MjB9._-kW3oT1yshO2etXnEuwyj7NnA0Ita6z_kv7__8wdPk)
-
 [도쿄는 러닝의 도시 러닝의 성지](https://blog.naver.com/dynamic789_/224031810358)
-
 
 
 
