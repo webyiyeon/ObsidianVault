@@ -14,8 +14,6 @@ share_updated: 2025-12-22T17:34:57+09:00
 - **구글 맵**: [🔗여행 계획 장소](https://maps.app.goo.gl/tVoZKdowahJFC1oW8)
 
 
-
-
 ## Wish List 
 
 ### 지수
