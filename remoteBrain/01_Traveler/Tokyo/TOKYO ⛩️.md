@@ -1,6 +1,6 @@
 ---
 share_link: https://share.note.sx/3yvvf1o4
-share_updated: 2025-12-18T09:45:56+09:00
+share_updated: 2025-12-22T09:56:09+09:00
 ---
 # ✈️ Concept
 
