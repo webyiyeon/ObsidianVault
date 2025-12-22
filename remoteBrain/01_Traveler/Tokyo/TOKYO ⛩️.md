@@ -43,7 +43,7 @@ share_updated: 2025-12-22T14:56:39+09:00
 | A    | 해리포터 스웨터 <br>![[Pasted image 20251222143221.png\|200]]                                                                                      | 100,000   |      |
 | A    | 해리포터 버터비어 잔<br>![[Pasted image 20251222143417.png\|200]]                                                                                    | 12,000원   |      |
 | B    | 해리포터 지팡이                                                                                                                                    | 50,000원 ~ |      |
-| C    | 해피해킹 키보드<br>[도쿄 아키하바라 키보드](https://blog.naver.com/codequa/223308677626)<br>[도쿄에서 HHKB(해피해킹) 사기](https://blog.naver.com/mytuur/223392812421) |           |      |
+| C    | 해피해킹 키보드<br>[도쿄 아키하바라 키보드](https://blog.naver.com/codequa/223308677626)<br>[도쿄에서 HHKB(해피해킹) 사기](https://blog.naver.com/mytuur/223392812421) | 300,000원  |      |
 | C    | 러닝화                                                                                                                                         |           |      |
 | A    | 연달력(포스터형)                                                                                                                                   |           |      |
 | C    | 오니츠카 타이거                                                                                                                                    |           |      |
