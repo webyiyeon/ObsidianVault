@@ -95,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "e1f0c7632e67bdc4",
@@ -211,21 +212,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "64a486cfe46f78c8",
+  "active": "b538560ac46b155b",
   "lastOpenFiles": [
+    "remoteBrain/VisionBoard/2025.md",
+    "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
     "remoteBrain/01_Traveler/Tokyo/🏠호텔 마루타니 (예약 완료).md",
     "remoteBrain/01_Traveler/Tokyo/🎡 해리포터 스튜디오 (예약 완료).md",
     "remoteBrain/01_Traveler/Tokyo/👘아사쿠사 기모노 대여 (예약 완료).md",
     "remoteBrain/01_Traveler/Tokyo/📃비짓재팬웹.md",
     "remoteBrain/01_Traveler/Tokyo/🎀 퓨로랜드 (예약완료).md",
-    "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
     "remoteBrain/01_Traveler/Tokyo/Flight.md",
     "remoteBrain/_templater/website.md",
     "remoteBrain/_templater/Python Test.md",
     "remoteBrain/Daily-Docs/Images/Pasted image 20251223110013.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20251223110009.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20251223105954.png",
-    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/Images/Pasted image 20251222143551.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20251222143417.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20251222143401.png",
