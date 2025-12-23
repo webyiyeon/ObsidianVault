@@ -3,7 +3,7 @@ share_link: https://share.note.sx/3yvvf1o4
 share_updated: 2025-12-23T11:12:57+09:00
 ---
 
-![[Pasted image 20251014003915.png|400]]
+``![[Pasted image 20251014003915.png|400]]
 # ✈️ Concept
 - **여행기간**: 3박 4일
 - **출발지**: 부산 김해공항 
