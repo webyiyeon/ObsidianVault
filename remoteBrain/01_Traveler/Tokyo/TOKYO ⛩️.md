@@ -168,9 +168,6 @@ share_updated: 2025-12-23T11:12:57+09:00
 
 ## Flight
 
-![[Pasted image 20251015133324.png||500]]
-
-![[Pasted image 20251015133334.png|500]]
 
 
 
