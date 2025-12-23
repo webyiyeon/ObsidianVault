@@ -87,6 +87,7 @@ share_updated: 2025-12-22T17:34:57+09:00
 
 ![[🎀 퓨로랜드 (예약완료)]]
 
+[[호텔 마루타니]]
 
 ## Schedule
 
@@ -159,7 +160,6 @@ share_updated: 2025-12-22T17:34:57+09:00
 #### 코가네이공원
 넓은 잔디밭, 벚나무 정원, 다양한 스포츠 시설이 있어 운동과 여가를 동시에 즐길 수 있습니다. 
 
-
 [도쿄 러닝화 성지, step sports 모든 재고/높은 할인율](https://cafe.naver.com/runningmaniac/148620?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InJ1bm5pbmdtYW5pYWMiLCJhcnRpY2xlSWQiOjE0ODYyMCwiaXNzdWVkQXQiOjE3NjA2MjUwMDM4MjB9._-kW3oT1yshO2etXnEuwyj7NnA0Ita6z_kv7__8wdPk)
 [도쿄는 러닝의 도시 러닝의 성지](https://blog.naver.com/dynamic789_/224031810358)
 
@@ -170,18 +170,6 @@ share_updated: 2025-12-22T17:34:57+09:00
 ![[Pasted image 20251015133324.png||500]]
 
 ![[Pasted image 20251015133334.png|500]]
-
-
-
-## Stay
-
-[우에노 마루타니 호텔](https://maps.app.goo.gl/4EK6c16NnRiZumC69)
-
-3박()
-![[Pasted image 20251223110013.png]]
-
-![[Pasted image 20251014003915.png|400]]
-
 
 
 
