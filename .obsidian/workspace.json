@@ -31,8 +31,8 @@
               "type": "markdown",
               "state": {
                 "file": "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
-                "mode": "source",
-                "source": false,
+                "mode": "preview",
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
@@ -45,13 +45,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "호텔 마루타니.md",
+                "file": "remoteBrain/01_Traveler/Tokyo/🏠호텔 마루타니 (예약 완료).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "호텔 마루타니"
+              "title": "🏠호텔 마루타니 (예약 완료)"
             }
           },
           {
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,11 +196,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2ed52bcab089f081",
+  "active": "ac895f8159a6e12b",
   "lastOpenFiles": [
-    "호텔 마루타니.md",
-    "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
+    "remoteBrain/01_Traveler/Tokyo/🏠호텔 마루타니 (예약 완료).md",
     "remoteBrain/01_Traveler/Tokyo/👘아사쿠사 기모노 대여 (예약 완료).md",
+    "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
+    "remoteBrain/_templater/website.md",
+    "remoteBrain/_templater/Python Test.md",
     "remoteBrain/Daily-Docs/Images/Pasted image 20251223110013.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20251223110009.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20251223105954.png",
@@ -232,9 +234,6 @@
     "remoteBrain/Daily-Docs/2025/12_December/2025-12-01 Mon.md",
     "remoteBrain/Daily-Docs/2025/12_December/2025-12-04 Thu.md",
     "remoteBrain/Daily-Docs/2025/12_December/2025-12-05 Fri.md",
-    "remoteBrain/Daily-Docs/2025/12_December/2025-12-08 Mon.md",
-    "remoteBrain/Daily-Docs/2025/12_December/2025-12-07 Sun.md",
-    "remoteBrain/_templater/Monthly.md",
     "remoteBrain/01_Traveler/Tokyo/스카이라이너(기차)+지하철 바우처.pdf",
     "remoteBrain/01_Traveler/Tokyo/퓨로랜드 바우처.pdf",
     "remoteBrain/Daily-Docs/Images/퓨로랜드 바우처.pdf",
