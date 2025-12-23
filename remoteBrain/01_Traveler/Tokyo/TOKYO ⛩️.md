@@ -177,6 +177,9 @@ share_updated: 2025-12-22T17:34:57+09:00
 
 [우에노 마루타니 호텔](https://maps.app.goo.gl/4EK6c16NnRiZumC69)
 
+3박()
+![[Pasted image 20251223110013.png]]
+
 ![[Pasted image 20251014003915.png|400]]
 
 
