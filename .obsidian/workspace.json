@@ -174,8 +174,8 @@
             "state": {
               "type": "custom-frames-perflexity",
               "state": {},
-              "icon": "lucide-bot-message-square",
-              "title": "Perflexity"
+              "icon": "lucide-ghost",
+              "title": "custom-frames-perflexity"
             }
           },
           {
@@ -184,8 +184,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ],
@@ -202,14 +202,14 @@
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
+      "periodic-notes:Open today": false,
       "obsidian42-brat:BRAT": false,
       "obsidian-custom-frames:Open Google Calendar": false,
       "obsidian-custom-frames:Open Perflexity": false,
       "obsidian-day-planner:Timeline": false,
       "obsidian-day-and-night:Toggle Theme": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "homepage:Open homepage": false,
-      "periodic-notes:Open today": false
+      "homepage:Open homepage": false
     }
   },
   "active": "b538560ac46b155b",
