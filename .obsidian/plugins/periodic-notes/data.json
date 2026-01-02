@@ -17,7 +17,7 @@
   "monthly": {
     "format": "MM_MMMM",
     "template": "remoteBrain/_templater/Monthly.md",
-    "folder": "remoteBrain/Report/2025",
+    "folder": "remoteBrain/Report/2026",
     "enabled": true
   },
   "quarterly": {

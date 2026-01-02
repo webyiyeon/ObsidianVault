@@ -1,21 +1,12 @@
 ---
-wakeup🌞: 
-sleep🌜: 
-mood: 
-workout🏋️: 
-workout-type: 
-workout-routine: 
-gratitude🙏: 
-keyword🗝️: 
-breakfast🍳: 
-bfcals: 0
-lunch🍚: 
-lccals: 0
-dinner🥗: 
-dncals: 0
-snack🍬: 
-sncals: 0
-water💧: 
+wakeup🌞:
+sleep🌜:
+mood:
+workout🏋️:
+workout-type:
+workout-routine:
+gratitude🙏:
+keyword🗝️:
 tags:
   - meal-log📝
   - study-log📓
@@ -58,31 +49,16 @@ timespan: 7
 ```
 
 --- 
+# Today's GOAL (Top 3)
+
+- [ ] 
+- [ ] 
+- [ ] 
+
+# Today’s Tasks
 
 
-# Routine 
-
-####  Healthy Habits
-- [ ] 영양제 챙겨 먹기
-- [ ] 운동하기
-- [ ] 도시락 싸먹기 
-- [ ] 외식하지 않기 
-
-####  Intentional Living 
-- [ ] 무지출 챌린지 
-- [ ] 집 정리·정돈하기
-
-#### Intellectual Growth
-- [ ] 전공공부하기
-- [ ] 일본어 공부하기
-- [ ] 독서하기
-
-
-
-# To-do List
-
-
-# Overdue List
+# Delayed Tasks
 ```tasks
 not done
 (tags include #work💼) OR (tags include #chores🧺) OR (tags include #todo)
@@ -90,9 +66,57 @@ path does not include <%tp.file.title%>
 hide backlink
 ```
 
-# Related Pages
+# Notes
 
 
 
-# Thoughts & Inspirations
+# Routines
+
+<%*
+const weekday = tp.date.now("dddd"); 
+let checklist = [];
+
+// 1. 운동하기 — 매일
+checklist.push("- [ ] 건강한 몸에 건강한 마음이 깃든다. 운동하기.");
+
+// 2. 산책 — 점심/저녁 식후 매일
+checklist.push("- [ ] 점심 & 저녁 식후 3~5분이라도 산책하기.");
+
+// 3. 정리정돈 — 매일
+checklist.push("- [ ] 하루 최소 10분 정리정돈 하기.");
+
+// 4. 제시간 식사 — 매일
+checklist.push("- [ ] 식사 시간 지키고 기록하기.");
+
+// 5. 일본어 공부 — 주 1회 (목요일 기준 리마인드)
+if (weekday === "Thursday") {
+  checklist.push("- [ ] 일본어 공부하기 (주 1회 목표)");
+}
+
+// 6. 블로그 업로드 — 주 1회 (일요일 리마인드)
+if (weekday === "Sunday") {
+  checklist.push("- [ ] 블로그 1회 업로드하기.");
+}
+
+// 7. 독서 — 주 1회 (화요일 리마인드)
+if (weekday === "Tuesday") {
+  checklist.push("- [ ] 독서하기 (주 1회 목표).");
+}
+
+// 8. 대학원 과제 — 매일 가능 (학기 중)
+checklist.push("- [ ] 대학원 수업/레포트 밀리지 않기.");
+
+// 9. 저축 — 월 1회(매달 1일 리마인드)
+if (tp.date.now("D") === "1") {
+  checklist.push("- [ ] 이번 달 저축 60만원 이상 하기.");
+}
+
+// 10. 여행 준비는 하반기(6~12월만)
+let monthNum = Number(tp.date.now("MM"));
+if (monthNum >= 6) {
+  checklist.push("- [ ] 해외 여행 준비 / 리서치하기.");
+}
+
+tR += checklist.join("\n");
+%>
 
