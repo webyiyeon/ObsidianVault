@@ -25,7 +25,7 @@
             }
           },
           {
-            "id": "2ba02cb2464bda98",
+            "id": "a06d73b529fd07c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -156,11 +156,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2ba02cb2464bda98",
+  "active": "a06d73b529fd07c8",
   "lastOpenFiles": [
-    "remoteBrain/VisionBoard/2025.md",
-    "remoteBrain/Daily-Docs/2026/01_January/2026-01-02 Fri.md",
     "remoteBrain/_templater/Daily.md",
+    "remoteBrain/Daily-Docs/2026/01_January/2026-01-02 Fri.md",
+    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/_templater/Daily ㅇㅇ.md",
     "remoteBrain/_templater/Monthly.md",
     "remoteBrain/VisionBoard/2026.md",
