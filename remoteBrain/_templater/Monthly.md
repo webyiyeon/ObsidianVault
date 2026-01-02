@@ -26,27 +26,17 @@
 
 ### 🚀 How Close Am I to My Yearly Goals This Month?
 
-(완벽 달성 여부 ❌ / **지속 여부 체크 ⭕**)
+- [ ] Did I exercise around three times this week?
+- [ ] Did I take at least one walk after a meal today?
+- [ ] Did I spend at least 10 minutes tidying up today?
+- [ ] Did I eat my meals on time and log them honestly?
+- [ ] Did I engage with Japanese at least once this week?
+- [ ] Did I save at least KRW 600,000 this month?
+- [ ] Did I stay on top of my graduate classes and assignments?
+- [ ] Did I write on my blog a little this week and aim for one post this month?
+- [ ] Did I read for at least 5 minutes today?
+- [ ] Did I switch to recovery mode when my energy was low?
 
-- [ ] 운동은 **주 3회 기준**으로 유지하고 있는가?
-    
-- [ ] 식후 산책을 **하루 한 번이라도** 실천하고 있는가?
-    
-- [ ] 하루 최소 **10분 정리정돈**으로 공간과 리듬을 관리하고 있는가?
-    
-- [ ] 식사를 제시간에 챙기고, 좋고 나쁨을 판단하지 않고 **솔직하게 기록**하고 있는가?
-    
-- [ ] 일본어를 **가볍게라도 주 1회** 이상 접하고 있는가?
-    
-- [ ] 매달 **저축 60만원 이상**을 미루지 않고 실행하고 있는가?
-    
-- [ ] 대학원 수업, 레포트, 논문을 **밀리지 않는 상태**로 관리하고 있는가?
-    
-- [ ] 블로그 글을 **매주 조금씩 작성**하고, **월 1회 업로드**를 목표로 하고 있는가?
-    
-- [ ] 독서를 **매일 5분이라도** 이어가고 있는가?
-    
-- [ ] 컨디션이 안 좋은 날에는 **회복 모드**를 잘 사용했는가?
 
 ## Summary Datas
 

@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/_templater/Monthly.md",
+                "file": "remoteBrain/_templater/Daily ㅇㅇ.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Monthly"
+              "title": "Daily ㅇㅇ"
             }
           }
         ],
@@ -158,11 +158,11 @@
   },
   "active": "d6f0c58f20e29e53",
   "lastOpenFiles": [
-    "remoteBrain/_templater/Daily.md",
     "remoteBrain/Daily-Docs/2026/01_January/2026-01-02 Fri.md",
+    "remoteBrain/_templater/Monthly.md",
+    "remoteBrain/_templater/Daily.md",
     "remoteBrain/_templater/Daily ㅇㅇ.md",
     "remoteBrain/VisionBoard/2025.md",
-    "remoteBrain/_templater/Monthly.md",
     "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/_templater/Daily (2025).md",
     "remoteBrain/_templater/Python Test.md",
