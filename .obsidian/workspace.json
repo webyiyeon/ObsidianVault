@@ -4,25 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "22cbeb3065c2a2ce",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "8cc5698e192408f7",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/_templater/Daily.md",
-                "mode": "source",
-                "source": true,
+                "file": "remoteBrain/VisionBoard/2025.md",
+                "mode": "preview",
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Daily"
+              "title": "2025"
+            }
+          },
+          {
+            "id": "a8501e134bc7b1dc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,13 +149,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e0cd7ee134df37c4",
+  "active": "a8501e134bc7b1dc",
   "lastOpenFiles": [
+    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2026/01_January/2026-01-02 Fri.md",
     "remoteBrain/_templater/Daily.md",
+    "remoteBrain/_templater/Daily ㅇㅇ.md",
+    "remoteBrain/_templater/Monthly.md",
     "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/_templater/Daily (2025).md",
-    "remoteBrain/_templater/Monthly.md",
     "remoteBrain/_templater/Python Test.md",
     "remoteBrain/_templater/Monthly (2025).md",
     "remoteBrain/Report/2026/01_January.md",
@@ -152,7 +165,6 @@
     "remoteBrain/Daily-Docs/2026",
     "remoteBrain/Report/2026",
     "remoteBrain/Report/2025/04_April.md",
-    "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/99_InsightON/슬기로운 독서생활.md",
     "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
     "remoteBrain/01_Traveler/Tokyo/🏠호텔 마루타니 (예약 완료).md",
@@ -178,8 +190,6 @@
     "remoteBrain/Daily-Docs/Images/Pasted image 20251218094649.png",
     "remoteBrain/01_Traveler/Tokyo/기모노 바우처.pdf",
     "remoteBrain/Daily-Docs/2025/12_December/2025-12-15 Mon.md",
-    "remoteBrain/Daily-Docs/2025/12_December/2025-12-10 Wed.md",
-    "remoteBrain/Daily-Docs/2025/12_December/2025-12-09 Tue.md",
     "remoteBrain/01_Traveler/Tokyo/스카이라이너(기차)+지하철 바우처.pdf",
     "remoteBrain/01_Traveler/Tokyo/퓨로랜드 바우처.pdf",
     "remoteBrain/Daily-Docs/Images/퓨로랜드 바우처.pdf",
