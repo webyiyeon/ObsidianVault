@@ -51,22 +51,30 @@ timespan: 7
 
 ---
 
-## Today's GOAL (Top 3)
+# Today's GOAL (Top 3)
 - [ ] 
 - [ ] 
 - [ ] 
 
----
 
-<summary>🌱 회복 모드</summary>
-- [ ] 오늘은 회복 모드로 진행하기
+# Today’s Tasks
 
-## Notes
 
----
 
-## 🔁 Routines
+# Delayed Tasks
+```tasks
+not done
+(tags include #work💼) OR (tags include #chores🧺) OR (tags include #todo)
+path does not include <%tp.file.title%>
+hide backlink
+```
 
+
+# Routines
+
+## Today's
+
+- [ ] 🌱 오늘은 회복 모드로 진행하기
 ```dataviewjs
 const page = dv.current();
 const weekday = moment(page.file.name, "YYYY-MM-DD").format("dddd");
@@ -82,24 +90,22 @@ const recoveryMode =
 // 출력
 // ──────────────────
 
-dv.header(3, "오늘의 루틴");
-
 // Daily 루틴 (항상 표시)
 dv.paragraph(`
 - [ ] 📘 독서 5분  
-- [ ] 📝 다이어리 쓰기
+- [ ] 📝 다이어리 쓰기 20분
 - [ ] 🧹 정리정돈 10분  
-- [ ] 🍽️ 식사 기록  
-- [ ] 🚶 식후 산책  
-- [ ] 🎓 대학원 수업 / 논문 관리
+- [ ] 🍽️ 식사 기록 5분
+- [ ] 🚶 식후 산책 5분
 `);
 
 if (recoveryMode) {
   dv.paragraph("🌱 **회복 모드 ON — 최소 루틴만 진행합니다**");
 } else {
-  dv.header(3, "주간 루틴");
-
   let weekly = [];
+  
+  if (weekday === "Monday")
+	weekly.push("- [ ] 🎓 대학원 수업 / 논문 관리");
 
   if (["Tuesday", "Thursday", "Saturday"].includes(weekday))
     weekly.push("- [ ] 🏋️ 운동 50분");
@@ -114,8 +120,12 @@ if (recoveryMode) {
     weekly.push("- [ ] ✍️ 블로그 글 작성");
 
   if (weekly.length > 0) {
+	dv.header(2, "Weekly");
     dv.paragraph(weekly.join("\n"));
   }
 }
 
 ```
+
+
+# Notes
