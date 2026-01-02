@@ -108,6 +108,11 @@ if (weekday === "Wednesday") {
   checklist.push("- [ ] 10분 일본어 공부하기 (주 1회 목표).");
 }
 
+// 블로그 작성 — 주 1회 (일요일 추천)
+if (weekday === "Sunday") {
+  checklist.push("- [ ] 블로그 글 작성하기 (초안/메모 OK).");
+}
+
 // ──────────────────
 // Monthly 루틴
 // ──────────────────
