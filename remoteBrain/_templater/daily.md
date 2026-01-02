@@ -81,36 +81,31 @@ let checklist = [];
 // Daily 루틴
 // ──────────────────
 
-// 1. 독서 — 매일 5분
-checklist.push("- [ ] 독서 5분 이상 하기.");
-
-// 2. 다이어리 쓰기 — 매일
-checklist.push("- [ ] 다이어리 쓰기 (한 줄도 OK).");
-
-// 3. 정리정돈 — 매일
-checklist.push("- [ ] 하루 최소 10분 정리정돈 하기.");
-
-// 4. 식사 기록 — 매일
-checklist.push("- [ ] 식사 제시간에 챙겨 먹고 기록하기.");
-
-// 5. 식후 산책 — 매일 (점심 or 저녁)
-checklist.push("- [ ] 식후 3~5분 산책하기.");
-
-// 6. 대학원 생활 — 매일
-checklist.push("- [ ] 대학원 수업/논문/레포트 마감 밀리지 않기.");
+// 1. 독서
+// 2. 다이어리 쓰기
+// 3. 정리정돈
+// 4. 식사 기록
+// 5. 식후 산책
+// 6. 대학원 생활
+checklist.push("- [ ] 5분 독서하기.");
+checklist.push("- [ ] 10분 다이어리 쓰기 (한 줄도 OK).");
+checklist.push("- [ ] 10분 정리정돈 하기.");
+checklist.push("- [ ] 10분 식사 제시간에 챙겨 먹고 기록하기.");
+checklist.push("- [ ] 5분 식후 산책하기.");
+checklist.push("- [ ] 30분 대학원 수업/논문/레포트 마감 밀리지 않기.");
 
 // ──────────────────
 // Weekly 루틴
 // ──────────────────
 
-// 7. 운동 — 주 3회 (월/수/금 기준)
-if (["Monday", "Wednesday", "Friday"].includes(weekday)) {
-  checklist.push("- [ ] 운동하기 (주 3회 목표).");
+// 7. 운동 — 주 3회 (화/목/토 기준)
+if (["Tuesday", "Thursday", "Saturday"].includes(weekday)) {
+  checklist.push("- [ ] 50분 운동하기 (주 3회 목표).");
 }
 
 // 8. 일본어 공부 — 주 1회 (목요일 리마인드)
-if (weekday === "Thursday") {
-  checklist.push("- [ ] 일본어 공부하기 (주 1회 목표).");
+if (weekday === "Wednesday") {
+  checklist.push("- [ ] 10분 일본어 공부하기 (주 1회 목표).");
 }
 
 // ──────────────────
@@ -119,12 +114,12 @@ if (weekday === "Thursday") {
 
 // 9. 블로그 업로드 — 월 1회 (매달 15일 리마인드)
 if (dayOfMonth === "15") {
-  checklist.push("- [ ] 블로그 월 1회 업로드하기.");
+  checklist.push("- [ ] 50분 블로그 월 1회 업로드하기.");
 }
 
-// 10. 저축 — 월 1회 (매달 1일)
-if (dayOfMonth === "1") {
-  checklist.push("- [ ] 이번 달 저축 60만원 이상 하기.");
+// 10. 저축 — 월 1회 (매달 10일: 월급일) 
+if (dayOfMonth === "10") {
+  checklist.push("- [ ] 월 저축 60만원 이상 하기.");
 }
 
 tR += checklist.join("\n");
