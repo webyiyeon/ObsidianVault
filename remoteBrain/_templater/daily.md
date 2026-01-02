@@ -57,32 +57,20 @@ timespan: 7
 - [ ] 
 
 
-# Today’s Tasks
-
-
-
-# Delayed Tasks
-```tasks
-not done
-(tags include #work💼) OR (tags include #chores🧺) OR (tags include #todo)
-path does not include <%tp.file.title%>
-hide backlink
-```
-
-
 # Routines
 
-## Today's
+## Daily
 
-- [ ] 🌱 오늘은 회복 모드로 진행하기
+- [ ] switch to recovery mode.
 ```dataviewjs
 const page = dv.current();
-const weekday = moment(page.file.name, "YYYY-MM-DD").format("dddd");
+const dateStr = page.file.name.slice(0, 10);
+const weekday = moment(dateStr, "YYYY-MM-DD").format("dddd");
 
 // 회복 모드 체크 여부 (본문 체크박스 기반)
 const recoveryMode =
   page.file.tasks
-    .where(t => t.text.includes("회복 모드"))
+    .where(t => t.text.includes("recovery mode"))
     .where(t => t.completed)
     .length > 0;
 
@@ -100,12 +88,12 @@ dv.paragraph(`
 `);
 
 if (recoveryMode) {
-  dv.paragraph("🌱 **회복 모드 ON — 최소 루틴만 진행합니다**");
+  dv.paragraph("🌱 **Recovery Mode ON — 최소 루틴만 진행합니다**");
 } else {
   let weekly = [];
   
   if (weekday === "Monday")
-	weekly.push("- [ ] 🎓 대학원 수업 / 논문 관리");
+	weekly.push("- [ ] 🎓 대학원 수업 / 논문 관리 30분");
 
   if (["Tuesday", "Thursday", "Saturday"].includes(weekday))
     weekly.push("- [ ] 🏋️ 운동 50분");
@@ -117,7 +105,7 @@ if (recoveryMode) {
     weekly.push("- [ ] 🇯🇵 일본어 공부 10분");
 
   if (weekday === "Sunday")
-    weekly.push("- [ ] ✍️ 블로그 글 작성");
+    weekly.push("- [ ] ✍️ 블로그 글 작성 40분");
 
   if (weekly.length > 0) {
 	dv.header(2, "Weekly");
@@ -126,6 +114,22 @@ if (recoveryMode) {
 }
 
 ```
+
+
+# Today’s Tasks
+
+
+
+
+
+# Delayed Tasks
+```tasks
+not done
+(tags include #work💼) OR (tags include #chores🧺) OR (tags include #todo)
+path does not include <%tp.file.title%>
+hide backlink
+```
+
 
 
 # Notes
