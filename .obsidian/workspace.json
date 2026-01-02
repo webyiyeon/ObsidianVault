@@ -15,7 +15,7 @@
               "state": {
                 "file": "remoteBrain/_templater/Daily.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
@@ -138,7 +138,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8cc5698e192408f7",
+  "active": "e0cd7ee134df37c4",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2026/01_January/2026-01-02 Fri.md",
     "remoteBrain/_templater/Daily.md",

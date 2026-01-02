@@ -7,6 +7,7 @@ workout-type:
 workout-routine:
 gratitude🙏:
 keyword🗝️:
+recovery: false
 tags:
   - meal-log📝
   - study-log📓
@@ -79,7 +80,7 @@ const dayOfMonth = tp.date.now("D");
 // ──────────────────
 // 회복 모드 설정 (true / false)
 // ──────────────────
-let recoveryMode = false; // ← 필요할 때 true로 바꾸기
+let recoveryMode = tp.frontmatter.recovery === true;
 
 let checklist = [];
 let totalTasks = 0;
