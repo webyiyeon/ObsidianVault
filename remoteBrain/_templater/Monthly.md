@@ -35,7 +35,7 @@
 - [ ] Did I stay on top of my graduate classes and assignments?
 - [ ] Did I write on my blog a little this week and aim for one post this month?
 - [ ] Did I read for at least 5 minutes today?
-- [ ] Did I switch to recovery mode when my energy was low?
+- [ ] Did I switch to recovery mode when my energy was low?               
 
 
 ## Summary Datas

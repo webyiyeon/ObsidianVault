@@ -3,8 +3,6 @@ wakeup🌞:
 sleep🌜:
 mood:
 workout🏋️:
-workout-type:
-workout-routine:
 gratitude🙏:
 keyword🗝️:
 tags:
