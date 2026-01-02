@@ -1,27 +1,52 @@
 ### Checking In on My Goals 🌱
 
-1. how are you feeling?
-2. what goals have you started?
-3. what have you not started?
-4. what obstacles are in your way?
-5. how can you overcome the obstacles?
-6. adjustments to goals (changes, omissions, additions!):
-7. TO DO in order to reach these goals:
+1. How are you feeling this month?  
+    (에너지 수준, 멘탈 상태, 전체적인 컨디션은 어땠는지)
+    
+2. What goals have you started?  
+    (작게라도 시작한 것들, 시도만 해본 것도 포함)
+    
+3. What goals have you not started yet?  
+    (아직 손도 못 댄 것들, 미뤄진 이유는 무엇인지)
+    
+4. What obstacles are in your way?  
+    (시간, 체력, 감정, 환경, 우선순위 등)
+    
+5. How can you realistically overcome those obstacles?  
+    (의지를 끌어올리는 게 아니라, 조건을 바꾸는 방식으로)
+    
+6. Adjustments to goals  
+    (이번 달에 기준을 낮추거나, 잠시 빼거나, 새로 추가할 것들)
+    
+7. TO DO this month in order to move forward  
+    (이번 달에 “이것만 하면 잘했다”고 말할 수 있는 최소 행동)
+    
 
+---
 
-### 🚀 How Close Am I to My Yearly Goals This Month ?
+### 🚀 How Close Am I to My Yearly Goals This Month?
 
-- [ ] 건강한 몸에 건강한 마음이 깃든다. 운동하기.
-- [ ] 점심 & 저녁 식후 3~5분이라도 산책하기.
-- [ ] 오전 오후 저녁 관계없이 하루에 최소 10분은 정리 정돈에 할당하기
-- [ ] 식사를 제 시간에 챙겨먹고 기록하기. (솔직하게)
-- [ ] 일주일에 최소 1번 이상 일본어 공부하기. (가벼운 학습지)
-- [ ] 하반기(6월 이후)에는 해외 여행 가기.
-- [ ] 저축하는 비용을 절대 미루지 않기. 매달 60만원 이상 저축하기.
-- [ ] 대학원 생활 열심히 하기. 레포트, 수업 밀리지 않을 것.
-- [ ] 일주일 1회 블로그 업로드하기.
-- [ ] 일주일 최소 1번 이상 독서하기.
+(완벽 달성 여부 ❌ / **지속 여부 체크 ⭕**)
 
+- [ ] 운동은 **주 3회 기준**으로 유지하고 있는가?
+    
+- [ ] 식후 산책을 **하루 한 번이라도** 실천하고 있는가?
+    
+- [ ] 하루 최소 **10분 정리정돈**으로 공간과 리듬을 관리하고 있는가?
+    
+- [ ] 식사를 제시간에 챙기고, 좋고 나쁨을 판단하지 않고 **솔직하게 기록**하고 있는가?
+    
+- [ ] 일본어를 **가볍게라도 주 1회** 이상 접하고 있는가?
+    
+- [ ] 매달 **저축 60만원 이상**을 미루지 않고 실행하고 있는가?
+    
+- [ ] 대학원 수업, 레포트, 논문을 **밀리지 않는 상태**로 관리하고 있는가?
+    
+- [ ] 블로그 글을 **매주 조금씩 작성**하고, **월 1회 업로드**를 목표로 하고 있는가?
+    
+- [ ] 독서를 **매일 5분이라도** 이어가고 있는가?
+    
+- [ ] 컨디션이 안 좋은 날에는 **회복 모드**를 잘 사용했는가?
 
 ## Summary Datas
 
