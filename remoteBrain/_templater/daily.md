@@ -73,50 +73,59 @@ hide backlink
 # Routines
 
 <%*
-const weekday = tp.date.now("dddd"); 
+const weekday = tp.date.now("dddd");
+const dayOfMonth = tp.date.now("D");
 let checklist = [];
 
-// 1. 운동하기 — 매일
-checklist.push("- [ ] 건강한 몸에 건강한 마음이 깃든다. 운동하기.");
+// ──────────────────
+// Daily 루틴
+// ──────────────────
 
-// 2. 산책 — 점심/저녁 식후 매일
-checklist.push("- [ ] 점심 & 저녁 식후 3~5분이라도 산책하기.");
+// 1. 독서 — 매일 5분
+checklist.push("- [ ] 독서 5분 이상 하기.");
+
+// 2. 다이어리 쓰기 — 매일
+checklist.push("- [ ] 다이어리 쓰기 (한 줄도 OK).");
 
 // 3. 정리정돈 — 매일
 checklist.push("- [ ] 하루 최소 10분 정리정돈 하기.");
 
-// 4. 제시간 식사 — 매일
-checklist.push("- [ ] 식사 시간 지키고 기록하기.");
+// 4. 식사 기록 — 매일
+checklist.push("- [ ] 식사 제시간에 챙겨 먹고 기록하기.");
 
-// 5. 일본어 공부 — 주 1회 (목요일 기준 리마인드)
+// 5. 식후 산책 — 매일 (점심 or 저녁)
+checklist.push("- [ ] 식후 3~5분 산책하기.");
+
+// 6. 대학원 생활 — 매일
+checklist.push("- [ ] 대학원 수업/논문/레포트 마감 밀리지 않기.");
+
+// ──────────────────
+// Weekly 루틴
+// ──────────────────
+
+// 7. 운동 — 주 3회 (월/수/금 기준)
+if (["Monday", "Wednesday", "Friday"].includes(weekday)) {
+  checklist.push("- [ ] 운동하기 (주 3회 목표).");
+}
+
+// 8. 일본어 공부 — 주 1회 (목요일 리마인드)
 if (weekday === "Thursday") {
-  checklist.push("- [ ] 일본어 공부하기 (주 1회 목표)");
+  checklist.push("- [ ] 일본어 공부하기 (주 1회 목표).");
 }
 
-// 6. 블로그 업로드 — 주 1회 (일요일 리마인드)
-if (weekday === "Sunday") {
-  checklist.push("- [ ] 블로그 1회 업로드하기.");
+// ──────────────────
+// Monthly 루틴
+// ──────────────────
+
+// 9. 블로그 업로드 — 월 1회 (매달 15일 리마인드)
+if (dayOfMonth === "15") {
+  checklist.push("- [ ] 블로그 월 1회 업로드하기.");
 }
 
-// 7. 독서 — 주 1회 (화요일 리마인드)
-if (weekday === "Tuesday") {
-  checklist.push("- [ ] 독서하기 (주 1회 목표).");
-}
-
-// 8. 대학원 과제 — 매일 가능 (학기 중)
-checklist.push("- [ ] 대학원 수업/레포트 밀리지 않기.");
-
-// 9. 저축 — 월 1회(매달 1일 리마인드)
-if (tp.date.now("D") === "1") {
+// 10. 저축 — 월 1회 (매달 1일)
+if (dayOfMonth === "1") {
   checklist.push("- [ ] 이번 달 저축 60만원 이상 하기.");
-}
-
-// 10. 여행 준비는 하반기(6~12월만)
-let monthNum = Number(tp.date.now("MM"));
-if (monthNum >= 6) {
-  checklist.push("- [ ] 해외 여행 준비 / 리서치하기.");
 }
 
 tR += checklist.join("\n");
 %>
-
