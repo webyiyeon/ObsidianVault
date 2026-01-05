@@ -133,8 +133,8 @@
             "state": {
               "type": "custom-frames-perflexity",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "custom-frames-perflexity"
+              "icon": "lucide-bot-message-square",
+              "title": "Perflexity"
             }
           },
           {
@@ -152,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5,
-    "collapsed": true
+    "width": 272.5
   },
   "left-ribbon": {
     "hiddenItems": {
