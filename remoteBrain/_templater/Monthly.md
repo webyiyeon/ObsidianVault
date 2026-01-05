@@ -83,19 +83,56 @@ sort file.name
 ### Habit Tracker 
 ```dataview
 TABLE WITHOUT ID
-	link(file.name) as "Date",
-	choice(file.tasks[0].completed, "✔️", " ") AS "영양제 챙겨먹기",
-	choice(file.tasks[1].completed, "✔️", " ") AS "운동하기",
-	choice(file.tasks[2].completed, "✔️", " ") AS "도시락 챙기기",
-	choice(file.tasks[3].completed, "✔️", " ") AS "외식 안하기",
-	choice(file.tasks[4].completed, "✔️", " ") AS "무지출 챌린지",
-	choice(file.tasks[5].completed, "✔️", " ") AS "집안일 잘하기",
-	choice(file.tasks[6].completed, "✔️", " ") AS "전공 공부하기",
-	choice(file.tasks[7].completed, "✔️", " ") AS "일본어 공부하기",
-	choice(file.tasks[8].completed, "✔️", " ") AS "독서하기"
-	FROM #routine 
-	WHERE
-	file.folder = "remoteBrain/Daily-Docs/{{date:YYYY}}/{{date:MM}}_{{date:MMMM}}"
-	SORT file.name ASC
+  link(file.name) as "Date",
+
+  choice(
+    length(filter(file.tasks, (t) => contains(t.text, "독서") AND t.completed)) > 0,
+    "✔️", ""
+  ) AS "독서 5분",
+
+  choice(
+    length(filter(file.tasks, (t) => contains(t.text, "다이어리") AND t.completed)) > 0,
+    "✔️", ""
+  ) AS "다이어리 20분",
+
+  choice(
+    length(filter(file.tasks, (t) => contains(t.text, "정리정돈") AND t.completed)) > 0,
+    "✔️", ""
+  ) AS "정리정돈 10분",
+
+  choice(
+    length(filter(file.tasks, (t) => contains(t.text, "식사 기록") AND t.completed)) > 0,
+    "✔️", ""
+  ) AS "식사 기록",
+
+  choice(
+    length(filter(file.tasks, (t) => contains(t.text, "산책") AND t.completed)) > 0,
+    "✔️", ""
+  ) AS "식후 산책",
+
+  choice(
+    length(filter(file.tasks, (t) => contains(t.text, "운동") AND t.completed)) > 0,
+    "✔️", ""
+  ) AS "운동",
+
+  choice(
+    length(filter(file.tasks, (t) => contains(t.text, "일본어") AND t.completed)) > 0,
+    "✔️", ""
+  ) AS "일본어",
+
+  choice(
+    length(filter(file.tasks, (t) => contains(t.text, "블로그") AND t.completed)) > 0,
+    "✔️", ""
+  ) AS "블로그",
+
+  choice(
+    length(filter(file.tasks, (t) => contains(t.text, "그림") AND t.completed)) > 0,
+    "✔️", ""
+  ) AS "그림 공부"
+
+FROM #routine
+WHERE file.folder = "remoteBrain/Daily-Docs/{{date:YYYY}}/{{date:MM}}_{{date:MMMM}}"
+SORT file.name ASC
+
 ```
 

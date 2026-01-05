@@ -45,17 +45,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
+                "file": "remoteBrain/_templater/Monthly.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "TOKYO ⛩️"
+              "title": "Monthly"
             }
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "e721b82ea4ff14a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e480382a2a559c70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/_templater/Daily.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Daily"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "e1f0c7632e67bdc4",
@@ -173,17 +195,17 @@
   },
   "active": "44b73ada1d5dd69f",
   "lastOpenFiles": [
+    "remoteBrain/_templater/Daily.md",
+    "remoteBrain/_templater/Monthly.md",
     "remoteBrain/99_InsightON/Chemicals.md",
-    "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
+    "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/01_Traveler/Tokyo/퓨로랜드.jpg",
     "remoteBrain/01_Traveler/Tokyo/주일본 대한민국 대사관.md",
     "remoteBrain/01_Traveler/Tokyo/대사관 찾아가는 길.png",
     "remoteBrain/01_Traveler/Tokyo/RECEIPT_enclosed.pdf",
     "remoteBrain/01_Traveler/Tokyo/E-Ticket.pdf",
     "remoteBrain/01_Traveler/Tokyo/퓨로랜드 바우처.pdf",
-    "remoteBrain/_templater/Daily.md",
-    "remoteBrain/_templater/Monthly.md",
     "remoteBrain/_templater/Daily ㅇㅇ.md",
     "remoteBrain/_templater/Daily (2025).md",
     "remoteBrain/Daily-Docs/2026/01_January/2026-01-02 Fri.md",
