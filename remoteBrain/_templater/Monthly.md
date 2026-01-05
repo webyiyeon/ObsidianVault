@@ -67,19 +67,6 @@ WHERE
 sort file.name
 ```
 
-
-### Workout Logs
-```dataview
-TABLE 
-	workout🏋️, workout-type as type, workout-routine as routine 
-FROM 
-	#workout-log💪 
-WHERE 
-	file.folder = "remoteBrain/Daily-Docs/{{date:YYYY}}/{{date:MM}}_{{date:MMMM}}"
-sort file.name
-```
-
-
 ### Habit Tracker 
 ```dataview
 TABLE WITHOUT ID
@@ -88,47 +75,47 @@ TABLE WITHOUT ID
   choice(
     length(filter(file.tasks, (t) => contains(t.text, "독서") AND t.completed)) > 0,
     "✔️", ""
-  ) AS "독서 5분",
+  ) AS "read",
 
   choice(
     length(filter(file.tasks, (t) => contains(t.text, "다이어리") AND t.completed)) > 0,
     "✔️", ""
-  ) AS "다이어리 20분",
+  ) AS "journal",
 
   choice(
     length(filter(file.tasks, (t) => contains(t.text, "정리정돈") AND t.completed)) > 0,
     "✔️", ""
-  ) AS "정리정돈 10분",
+  ) AS "tidy up",
 
   choice(
     length(filter(file.tasks, (t) => contains(t.text, "식사 기록") AND t.completed)) > 0,
     "✔️", ""
-  ) AS "식사 기록",
+  ) AS "log meals",
 
   choice(
     length(filter(file.tasks, (t) => contains(t.text, "산책") AND t.completed)) > 0,
     "✔️", ""
-  ) AS "식후 산책",
+  ) AS "walk after meals",
 
   choice(
     length(filter(file.tasks, (t) => contains(t.text, "운동") AND t.completed)) > 0,
     "✔️", ""
-  ) AS "운동",
+  ) AS "workout",
 
   choice(
     length(filter(file.tasks, (t) => contains(t.text, "일본어") AND t.completed)) > 0,
     "✔️", ""
-  ) AS "일본어",
+  ) AS "Japanese study",
 
   choice(
     length(filter(file.tasks, (t) => contains(t.text, "블로그") AND t.completed)) > 0,
     "✔️", ""
-  ) AS "블로그",
+  ) AS "write blog",
 
   choice(
     length(filter(file.tasks, (t) => contains(t.text, "그림") AND t.completed)) > 0,
     "✔️", ""
-  ) AS "그림 공부"
+  ) AS "drawing practice"
 
 FROM #routine
 WHERE file.folder = "remoteBrain/Daily-Docs/{{date:YYYY}}/{{date:MM}}_{{date:MMMM}}"
