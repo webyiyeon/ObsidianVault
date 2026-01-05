@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "remoteBrain/VisionBoard/2026.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -54,8 +54,7 @@
               "title": "Monthly"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,13 +171,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "44b73ada1d5dd69f",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "remoteBrain/_templater/Daily.md",
     "remoteBrain/_templater/Monthly.md",
+    "remoteBrain/VisionBoard/2026.md",
+    "remoteBrain/_templater/Daily.md",
     "remoteBrain/99_InsightON/Chemicals.md",
     "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
-    "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/01_Traveler/Tokyo/퓨로랜드.jpg",
     "remoteBrain/01_Traveler/Tokyo/주일본 대한민국 대사관.md",
     "remoteBrain/01_Traveler/Tokyo/대사관 찾아가는 길.png",
