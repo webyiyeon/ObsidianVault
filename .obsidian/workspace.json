@@ -23,24 +23,8 @@
               "icon": "lucide-file",
               "title": "2026"
             }
-          },
-          {
-            "id": "e4062f544e892144",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "TOKYO ⛩️"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,8 +140,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e4062f544e892144",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
     "remoteBrain/01_Traveler/Tokyo/퓨로랜드.jpg",
     "remoteBrain/01_Traveler/Tokyo/주일본 대한민국 대사관.md",
     "remoteBrain/01_Traveler/Tokyo/대사관 찾아가는 길.png",
@@ -165,7 +150,6 @@
     "remoteBrain/01_Traveler/Tokyo/E-Ticket.pdf",
     "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/01_Traveler/Tokyo/퓨로랜드 바우처.pdf",
-    "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
     "remoteBrain/_templater/Daily.md",
     "remoteBrain/_templater/Monthly.md",
     "remoteBrain/_templater/Daily ㅇㅇ.md",
@@ -191,7 +175,6 @@
     "remoteBrain/Daily-Docs/Images/Pasted image 20251222143401.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20251222143221.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20251222142957.png",
-    "remoteBrain/Daily-Docs/Images/Pasted image 20251222142940.png",
     "remoteBrain/Daily-Docs/2025/12_December/2025-12-22 Mon.md",
     "remoteBrain/99_InsightON/Chemicals.md",
     "remoteBrain/Daily-Docs/2025/12_December/2025-12-19 Fri.md",
