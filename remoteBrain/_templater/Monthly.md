@@ -26,7 +26,7 @@
 
 ### 🚀 How Close Am I to My Yearly Goals This Month?
 
-- [ ] Did I exercise around three times this week?
+- [ ] Did I exercise around 3 times this week?
 - [ ] Did I take at least one walk after a meal today?
 - [ ] Did I spend at least 10 minutes tidying up today?
 - [ ] Did I eat my meals on time and log them honestly?
