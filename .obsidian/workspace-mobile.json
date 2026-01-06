@@ -14,33 +14,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/VisionBoard/2025.md",
+                "file": "remoteBrain/VisionBoard/2026.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2025"
-            }
-          },
-          {
-            "id": "92a49892a658c090",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remoteBrain/Report/2025/10_October.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "10_October"
+              "title": "2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,8 +91,8 @@
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "calendar-with-checkmark",
-          "title": "Calendar"
+          "icon": "lucide-ghost",
+          "title": "calendar"
         }
       },
       {
@@ -138,8 +122,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "92a49892a658c090",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "remoteBrain/VisionBoard/2026.md",
+    "remoteBrain/Report/2025/10_October.md",
     "remoteBrain/Report/2025/11_November.md",
     "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/11_November/2025-11-02 Sun.md",
@@ -164,8 +150,6 @@
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-10 Mon.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-07 Fri.md",
     "remoteBrain/Daily-Docs/2025/03_March/2025-03-06 Thu.md",
-    "remoteBrain/Daily-Docs/2025/03_March/2025-03-05 Wed.md",
-    "remoteBrain/Daily-Docs/2025/03_March/2025-03-04 Tue.md",
-    "remoteBrain/Daily-Docs/2025/02_February/2025-02-28 Fri.md"
+    "remoteBrain/Daily-Docs/2025/03_March/2025-03-05 Wed.md"
   ]
 }
