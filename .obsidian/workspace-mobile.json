@@ -32,7 +32,7 @@
               "state": {
                 "file": "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
