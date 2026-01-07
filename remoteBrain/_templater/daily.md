@@ -59,7 +59,7 @@ timespan: 7
 # Routines
 
 
-### Daily
+## Daily
 - [ ] 📘 독서 5분
 - [ ] 📝 다이어리 쓰기 20분
 - [ ] 🧹 정리정돈 10분
@@ -69,61 +69,10 @@ timespan: 7
 ---
 
 ## 📆 Weekly
-
-### 🎓 Monday
-- [ ] 대학원 수업 / 논문 관리 30분
-
-### 🏋️ Tuesday · Thursday · Saturday
-- [ ] 운동 50분
-
-### 🎨 Wednesday · Sunday
-- [ ] 그림 공부 70분
-
-### 🇯🇵 Thursday
-- [ ] 일본어 공부 10분
-
-### ✍️ Sunday
-- [ ] 블로그 글 작성 40분
-
----
-
-```dataviewjs
-const page = dv.current();
-const dateStr = page.file.name.slice(0, 10);
-const weekday = moment(dateStr, "YYYY-MM-DD").format("dddd");
-
-const recoveryMode =
-  page.file.tasks
-    .where(t => t.text.includes("recovery mode") && t.completed)
-    .length > 0;
-
-// Recovery Mode 안내
-if (recoveryMode) {
-  dv.paragraph("🌱 Recovery Mode ON — Daily 루틴만 진행해도 충분한 날");
-}
-
-// 요일별 Weekly 표시
-const show = {
-  Monday: ["🎓 Monday"],
-  Tuesday: ["🏋️ Tuesday · Thursday · Saturday"],
-  Wednesday: ["🎨 Wednesday · Sunday"],
-  Thursday: ["🏋️ Tuesday · Thursday · Saturday", "🇯🇵 Thursday"],
-  Saturday: ["🏋️ Tuesday · Thursday · Saturday"],
-  Sunday: ["🎨 Wednesday · Sunday", "✍️ Sunday"]
-};
-
-if (!recoveryMode) {
-  dv.header(3, "Today’s Weekly Focus");
-  (show[weekday] || []).forEach(s => dv.paragraph("- " + s));
-}
-# Today’s Tasks
-
-
-
-
-
-```
-
-
+- [ ] 🎓 월요일: 대학원 수업 / 논문 관리 30분
+- [ ] 🏋️ 화·목·토: 운동 50분
+- [ ] 🎨 수·일: 그림 공부 70분
+- [ ] 🇯🇵 목요일: 일본어 공부 10분
+- [ ] ✍️ 일요일: 블로그 글 작성 40분
 
 # Notes
