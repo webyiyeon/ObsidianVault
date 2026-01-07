@@ -58,77 +58,21 @@ timespan: 7
 
 # Routines
 
+
 ## Daily
-
-- [ ] switch to recovery mode.
-```dataviewjs
-const page = dv.current();
-const dateStr = page.file.name.slice(0, 10);
-const weekday = moment(dateStr, "YYYY-MM-DD").format("dddd");
-
-// 회복 모드 체크 여부 (본문 체크박스 기반)
-const recoveryMode =
-  page.file.tasks
-    .where(t => t.text.includes("recovery mode"))
-    .where(t => t.completed)
-    .length > 0;
-
-// ──────────────────
-// 출력
-// ──────────────────
-
-// Daily 루틴 (항상 표시)
-dv.paragraph(`
-- [ ] 📘 독서 5분  
+- [ ] 📘 독서 5분
 - [ ] 📝 다이어리 쓰기 20분
-- [ ] 🧹 정리정돈 10분  
+- [ ] 🧹 정리정돈 10분
 - [ ] 🍽️ 식사 기록 5분
 - [ ] 🚶 식후 산책 5분
-`);
 
-if (recoveryMode) {
-  dv.paragraph("🌱 **Recovery Mode ON — 최소 루틴만 진행합니다**");
-} else {
-  let weekly = [];
-  
-  if (weekday === "Monday")
-	weekly.push("- [ ] 🎓 대학원 수업 / 논문 관리 30분");
+---
 
-  if (["Tuesday", "Thursday", "Saturday"].includes(weekday))
-    weekly.push("- [ ] 🏋️ 운동 50분");
-
-  if (["Wednesday", "Sunday"].includes(weekday))
-    weekly.push("- [ ] 🎨 그림 공부 70분");
-
-  if (weekday === "Thursday")
-    weekly.push("- [ ] 🇯🇵 일본어 공부 10분");
-
-  if (weekday === "Sunday")
-    weekly.push("- [ ] ✍️ 블로그 글 작성 40분");
-
-  if (weekly.length > 0) {
-	dv.header(2, "Weekly");
-    dv.paragraph(weekly.join("\n"));
-  }
-}
-
-```
-
-
-# Today’s Tasks
-
-
-
-
-
-# Delayed Tasks
-```tasks
-not done
-(tags include #work💼) OR (tags include #chores🧺) OR (tags include #todo)
-path does not include <%tp.file.title%>
-hide backlink
-```
-
-
+## 📆 Weekly
+- [ ] 🎓 월요일: 대학원 수업 / 논문 관리 30분
+- [ ] 🏋️ 화·목·토: 운동 50분
+- [ ] 🎨 수·일: 그림 공부 70분
+- [ ] 🇯🇵 목요일: 일본어 공부 10분
+- [ ] ✍️ 일요일: 블로그 글 작성 40분
 
 # Notes
