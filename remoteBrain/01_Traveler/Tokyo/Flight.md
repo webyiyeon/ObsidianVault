@@ -12,6 +12,6 @@
 주소(address):
 ---
 
-![[Pasted image 20251015133324.png||500]]
+![[Pasted image 20251015133324.png||300]]
 
-![[Pasted image 20251015133334.png|500]]
+![[Pasted image 20251015133334.png|300]]

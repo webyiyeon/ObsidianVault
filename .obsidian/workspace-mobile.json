@@ -25,14 +25,14 @@
             }
           },
           {
-            "id": "932ac99117f21f80",
+            "id": "f8d6d98492cee648",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
@@ -138,14 +138,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "932ac99117f21f80",
+  "active": "f8d6d98492cee648",
   "lastOpenFiles": [
     "remoteBrain/VisionBoard/2026.md",
+    "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
+    "remoteBrain/Daily-Docs/2026/01_January/2026-01-07 Wed.md",
+    "//remoteBrain/Daily-Docs/2026/01_January/2026-01-07 Wed.md",
+    "//remoteBrain/_templater/daily.md",
+    "//remoteBrain/_templater",
+    "//remoteBrain/Daily-Docs/2026/01_January",
+    "//remoteBrain/Daily-Docs/2026",
+    "//remoteBrain/Daily-Docs",
+    "//remoteBrain",
+    "remoteBrain/01_Traveler/Tokyo/Flight.md",
     "remoteBrain/Report/2025/10_October.md",
     "remoteBrain/Report/2025/11_November.md",
     "remoteBrain/VisionBoard/2025.md",
     "remoteBrain/Daily-Docs/2025/11_November/2025-11-02 Sun.md",
-    "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
     "remoteBrain/Daily-Docs/2025/11_November/2025-11-03 Mon.md",
     "remoteBrain/Daily-Docs/2025/11_November/2025-11-01 Sat.md",
     "remoteBrain/Daily-Docs/2025/11_November",
@@ -162,10 +171,6 @@
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-04 Sat.md",
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-03 Fri.md",
     "remoteBrain/Daily-Docs/2025/10_October/2025-10-02 Thu.md",
-    "remoteBrain/Daily-Docs/2025/03_March/2025-03-08 Sat.md",
-    "remoteBrain/Daily-Docs/2025/03_March/2025-03-10 Mon.md",
-    "remoteBrain/Daily-Docs/2025/03_March/2025-03-07 Fri.md",
-    "remoteBrain/Daily-Docs/2025/03_March/2025-03-06 Thu.md",
-    "remoteBrain/Daily-Docs/2025/03_March/2025-03-05 Wed.md"
+    "remoteBrain/Daily-Docs/2025/03_March/2025-03-08 Sat.md"
   ]
 }
