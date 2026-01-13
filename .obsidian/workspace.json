@@ -39,7 +39,8 @@
               "title": "2026-01-13 Tue"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,10 +155,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "fc6444c19587fe51",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2026/01_January/2026-01-13 Tue.md",
     "remoteBrain/VisionBoard/2026.md",
+    "remoteBrain/Daily-Docs/2026/01_January/2026-01-13 Tue.md",
     "remoteBrain/Daily-Docs/2026/01_1월/2026-01-13 화.md",
     "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
     "remoteBrain/Daily-Docs/2026/01_1월",
