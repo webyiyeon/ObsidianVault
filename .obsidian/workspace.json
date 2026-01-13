@@ -25,6 +25,16 @@
             }
           },
           {
+            "id": "e24902e803ce25dc",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-google-calendar",
+              "state": {},
+              "icon": "lucide-calendar-heart",
+              "title": "Google Calendar"
+            }
+          },
+          {
             "id": "fc6444c19587fe51",
             "type": "leaf",
             "state": {
@@ -37,16 +47,6 @@
               },
               "icon": "lucide-file",
               "title": "2026-01-13 Tue"
-            }
-          },
-          {
-            "id": "e24902e803ce25dc",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-google-calendar",
-              "state": {},
-              "icon": "lucide-calendar-heart",
-              "title": "Google Calendar"
             }
           },
           {
@@ -65,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
