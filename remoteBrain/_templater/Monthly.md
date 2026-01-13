@@ -37,7 +37,7 @@
 - [ ] Did I switch to recovery mode when my energy was low?               
 
 
-## How I 
+## A Thankful Record
 
 ```dataview
 TABLE 
@@ -51,7 +51,7 @@ sort file.name
 
 
 
-### Sleep Tracker
+## Sleep Log 
 ```dataview
 TABLE
 	dateformat(wakeup🌞, "HH:mm") AS "wakeup🌞", 
@@ -66,7 +66,9 @@ WHERE
 sort file.name
 ```
 
-### Habit Tracker 
+
+
+## Small Daily Wins
 ```dataview
 TABLE WITHOUT ID
   link(file.name) as "Date",
