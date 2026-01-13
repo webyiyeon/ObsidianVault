@@ -10,5 +10,7 @@
     --font-text: "WalkTogether", sans-serif;
     --font-interface: "WalkTogether", sans-serif;
     --font-monospace: "WalkTogether", monospace;
+    font-size: 15px;
+    font-weight: 400;
   }
   
