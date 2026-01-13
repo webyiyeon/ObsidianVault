@@ -2,6 +2,7 @@
   "theme": "moonstone",
   "cssTheme": "Things",
   "enabledCssSnippets": [
-    "walktogether"
+    "walktogether",
+    "walktogether-font"
   ]
 }
