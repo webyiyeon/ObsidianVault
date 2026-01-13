@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "WalkTogether";
+    src: url("../fonts/walktogether.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  /* Obsidian 전체 폰트 적용 */
+  body {
+    --font-text: "WalkTogether", sans-serif;
+    --font-interface: "WalkTogether", sans-serif;
+    --font-monospace: "WalkTogether", monospace;
+  }
+  
