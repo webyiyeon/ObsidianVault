@@ -1,16 +1,16 @@
 @font-face {
-    font-family: "WalkTogether";
-    src: url("/fonts/walktogether.ttf") format("truetype");
-    font-weight: normal;
-    font-style: normal;
-  }
-  
-  /* Obsidian 전체 폰트 적용 */
-  body {
-    --font-text: "WalkTogether", sans-serif;
-    --font-interface: "WalkTogether", sans-serif;
-    --font-monospace: "WalkTogether", monospace;
-    font-size: 15px;
-    font-weight: 400;
-  }
-  
+  font-family: "WalkTogether";
+  src: url("/fonts/walktogether.ttf") format("truetype");
+}
+
+body,
+.markdown-preview-view,
+.markdown-source-view,
+.table-view-table {
+  font-family: "WalkTogether", -apple-system, BlinkMacSystemFont, sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  font-weight: 400;
+  line-height: 1.6;
+  font-size: 15px;
+}
