@@ -65,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,7 +181,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "dc9b42cea4b95d93",
+  "active": "fc6444c19587fe51",
   "lastOpenFiles": [
     "remoteBrain/Report/2026/01_January.md",
     "remoteBrain/Daily-Docs/2026/01_January/2026-01-13 Tue.md",
