@@ -10,7 +10,7 @@ body {
   --font-interface: "WalkTogether", sans-serif;
   --font-monospace: "WalkTogether", monospace;
   text-rendering: optimizeLegibility;
-  font-weight: 400;
+  font-weight: 500;
   line-height: 1.6;
   font-size: 15px;
 }
