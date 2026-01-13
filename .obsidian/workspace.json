@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2026/01_January/2026-01-13 Tue.md",
+                "file": "remoteBrain/Daily-Docs/2025/01_January/2025-01-01 Wed.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-13 Tue"
+              "title": "2025-01-01 Wed"
             }
           },
           {
@@ -53,8 +53,34 @@
               "icon": "lucide-file",
               "title": "01_January"
             }
+          },
+          {
+            "id": "11c0feeeccd52adb",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-google-calendar",
+              "state": {},
+              "icon": "lucide-calendar-heart",
+              "title": "Google Calendar"
+            }
+          },
+          {
+            "id": "efaf9480f2a489c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2026/01_January/2026-01-13 Tue.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-13 Tue"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -101,8 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e1f0c7632e67bdc4",
@@ -170,9 +195,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "11c0feeeccd52adb",
   "lastOpenFiles": [
+    "remoteBrain/_templater/Daily (2025).md",
     "remoteBrain/Daily-Docs/2026/01_January/2026-01-13 Tue.md",
+    "remoteBrain/Daily-Docs/2025/01_January/2025-01-01 Wed.md",
+    "remoteBrain/_templater/daily.md",
     "remoteBrain/Report/2026/01_January.md",
     "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/Daily-Docs/2026/01_1월/2026-01-13 화.md",
@@ -184,7 +212,6 @@
     "remoteBrain/_templater/Monthly.md",
     "remoteBrain/_templater/Daily.md",
     "remoteBrain/Daily-Docs/2026/01_January/2026-01-12 Mon.md",
-    "remoteBrain/_templater/Daily (2025).md",
     "remoteBrain/Daily-Docs/2026/01_January/2026-01-07 Wed.md",
     "remoteBrain/Daily-Docs/2026/01_January/2026-01-06 Tue.md",
     "remoteBrain/Daily-Docs/Images/Pasted image 20260106115822.png",
@@ -209,14 +236,12 @@
     "remoteBrain/01_Traveler/Tokyo/🎀 퓨로랜드 (예약완료).md",
     "remoteBrain/01_Traveler/Tokyo/Flight.md",
     "remoteBrain/_templater/website.md",
-    "remoteBrain/_templater/Python Test.md",
     "remoteBrain/Daily-Docs/Images/Pasted image 20251223110013.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20251223110009.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20251223105954.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20251222143551.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20251222143417.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20251222143401.png",
-    "remoteBrain/Daily-Docs/2025/12_December/2025-12-22 Mon.md",
     "remoteBrain/01_Traveler/Tokyo/기모노 바우처.pdf"
   ]
 }
