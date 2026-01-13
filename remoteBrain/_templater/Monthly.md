@@ -1,4 +1,4 @@
-### Checking In on My Goals 🌱
+## Checking In on My Goals 🌱
 
 1. How are you feeling this month?  
     (에너지 수준, 멘탈 상태, 전체적인 컨디션은 어땠는지)
@@ -22,9 +22,8 @@
     (이번 달에 “이것만 하면 잘했다”고 말할 수 있는 최소 행동)
     
 
----
 
-### 🚀 How Close Am I to My Yearly Goals This Month?
+## 🚀 How Close Am I to My Yearly Goals This Month?
 
 - [ ] Did I exercise around three times a week?
 - [ ] Did I take at least one post-meal walk each day?
@@ -38,7 +37,7 @@
 - [ ] Did I switch to recovery mode when my energy was low?               
 
 
-## Summary Datas
+## How I 
 
 ```dataview
 TABLE 

@@ -45,13 +45,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2026/01_January/2026-01-13 Tue.md",
+                "file": "remoteBrain/_templater/Monthly.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-13 Tue"
+              "title": "Monthly"
             }
           }
         ],
@@ -172,8 +172,9 @@
   },
   "active": "e062b2d891ee7407",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2026/01_January/2026-01-13 Tue.md",
     "remoteBrain/_templater/Daily.md",
+    "remoteBrain/_templater/Monthly.md",
+    "remoteBrain/Daily-Docs/2026/01_January/2026-01-13 Tue.md",
     "remoteBrain/Daily-Docs/2026/01_January/2026-01-12 Mon.md",
     "remoteBrain/_templater/Daily (2025).md",
     "remoteBrain/Daily-Docs/2026/01_January/2026-01-07 Wed.md",
@@ -182,7 +183,6 @@
     "remoteBrain/Daily-Docs/2026/01_January/2026-01-06 Tue.md",
     "remoteBrain/Daily-Docs/Images/Pasted image 20260106115822.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20260106115819.png",
-    "remoteBrain/_templater/Monthly.md",
     "remoteBrain/99_InsightON/Chemicals.md",
     "remoteBrain/01_Traveler/Tokyo/퓨로랜드.jpg",
     "remoteBrain/01_Traveler/Tokyo/주일본 대한민국 대사관.md",
