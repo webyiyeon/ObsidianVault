@@ -23,8 +23,24 @@
               "icon": "lucide-file",
               "title": "2026"
             }
+          },
+          {
+            "id": "a8813bb678866b38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/99_InsightON/Chemicals.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Chemicals"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,10 +155,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "a8813bb678866b38",
   "lastOpenFiles": [
-    "remoteBrain/99_InsightON/Chemicals.md",
     "remoteBrain/VisionBoard/2026.md",
+    "remoteBrain/99_InsightON/Chemicals.md",
     "remoteBrain/Daily-Docs/2026/01_January/2026-01-14 Wed.md",
     "remoteBrain/Report/2026/01_January.md",
     "remoteBrain/Daily-Docs/2026/01_January/2026-01-13 Tue.md",
