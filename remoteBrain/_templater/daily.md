@@ -94,8 +94,6 @@ const today = dayMap[fileDate.day()];
 tR += `## Weekly (${today})\n${tasks[today]}\n`;
 %>
 
-
-
 # To-do List
 
 
