@@ -14,14 +14,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2026/01_January/2026-01-19 Mon.md",
-                "mode": "source",
+                "file": "remoteBrain/VisionBoard/2026.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2026-01-19 Mon"
+              "title": "2026"
             }
           }
         ]
@@ -141,8 +141,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/Daily-Docs/2026/01_January/2026-01-19 Mon.md",
+    "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/Daily-Docs/2026/01_January/2026-01-16 Fri.md",
     "remoteBrain/_templater/Daily.md",
     "remoteBrain/Daily-Docs/2026/01_January/2026-01-15 Thu.md",
