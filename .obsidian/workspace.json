@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "모바일 로그인",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,8 +168,8 @@
   },
   "active": "1e841f8e928ee648",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2026/01_January/2026-01-20 Tue.md",
     "remoteBrain/Daily-Docs/2026/01_January/2026-01-19 Mon.md",
+    "remoteBrain/Daily-Docs/2026/01_January/2026-01-20 Tue.md",
     "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/Daily-Docs/2026/01_January/2026-01-16 Fri.md",
     "remoteBrain/_templater/Daily.md",
