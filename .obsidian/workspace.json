@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e1f0c7632e67bdc4",
@@ -165,10 +166,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1e841f8e928ee648",
+  "active": "681fc26a58a4aa83",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2026/01_January/2026-01-19 Mon.md",
     "remoteBrain/Daily-Docs/2026/01_January/2026-01-20 Tue.md",
+    "remoteBrain/Daily-Docs/2026/01_January/2026-01-19 Mon.md",
     "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/Daily-Docs/2026/01_January/2026-01-16 Fri.md",
     "remoteBrain/_templater/Daily.md",
