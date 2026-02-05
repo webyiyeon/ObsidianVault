@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2026/02_February/2026-02-05 Thu.md",
+                "file": "remoteBrain/99_InsightON/SHE Chemicals.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-05 Thu"
+              "title": "SHE Chemicals"
             }
           },
           {
@@ -113,13 +113,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2026/02_February/2026-02-05 Thu.md",
+                "file": "remoteBrain/99_InsightON/SHE Chemicals.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-02-05 Thu"
+              "title": "Outline of SHE Chemicals"
             }
           },
           {
@@ -167,10 +167,10 @@
   },
   "active": "5bf98a2279da15de",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2026/02_February/2026-02-05 Thu.md",
     "remoteBrain/_templater/Daily.md",
     "remoteBrain/Daily-Docs/2026/02_February/2026-02-03 Tue.md",
     "remoteBrain/Daily-Docs/2026/02_February/2026-02-04 Wed.md",
-    "remoteBrain/Daily-Docs/2026/02_February/2026-02-05 Thu.md",
     "remoteBrain/Daily-Docs/2026/02_February/2026-02-02 Mon.md",
     "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/99_InsightON/LIMS.md",
