@@ -670,4 +670,4 @@ function BoardEditor() {
 
 ⇒ 그러나 잘 안되었음
 그래서 `plugins`에서 `help` 항목 주석 처리, `toolbar`에서도 `help` 항목 주석 처리 진행
-이
+
