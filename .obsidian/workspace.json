@@ -23,8 +23,34 @@
               "icon": "lucide-file",
               "title": "2026"
             }
+          },
+          {
+            "id": "5bf98a2279da15de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2026/02_February/2026-02-05 Thu.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-05 Thu"
+            }
+          },
+          {
+            "id": "459d22f9ab2dab98",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-google-calendar",
+              "state": {},
+              "icon": "lucide-calendar-heart",
+              "title": "Google Calendar"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,12 +165,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "459d22f9ab2dab98",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2026/02_February/2026-02-05 Thu.md",
+    "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/99_InsightON/LIMS.md",
     "remoteBrain/99_InsightON/SHE Chemicals.md",
     "remoteBrain/99_InsightON/SHE MU 디버깅.md",
-    "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/Daily-Docs/2026/02_February/2026-02-03 Tue.md",
     "remoteBrain/Report/2026/01_January.md",
     "remoteBrain/Report/2026/02_February.md",
@@ -184,7 +211,6 @@
     "remoteBrain/01_Traveler/Tokyo/RECEIPT_enclosed.pdf",
     "remoteBrain/01_Traveler/Tokyo/E-Ticket.pdf",
     "remoteBrain/01_Traveler/Tokyo/퓨로랜드 바우처.pdf",
-    "remoteBrain/_templater/Daily ㅇㅇ.md",
     "remoteBrain/Daily-Docs/2026/01_January",
     "remoteBrain/Daily-Docs/2026"
   ]
