@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,13 +113,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2026/01_January/2026-01-13 Tue.md",
+                "file": "remoteBrain/Daily-Docs/2026/02_February/2026-02-05 Thu.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-01-13 Tue"
+              "title": "Outline of 2026-02-05 Thu"
             }
           },
           {
@@ -142,12 +142,12 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 401.5,
-    "collapsed": true
+    "width": 401.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,14 +165,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "459d22f9ab2dab98",
+  "active": "5bf98a2279da15de",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2026/02_February/2026-02-03 Tue.md",
+    "remoteBrain/Daily-Docs/2026/02_February/2026-02-02 Mon.md",
+    "remoteBrain/Daily-Docs/2026/02_February/2026-02-04 Wed.md",
     "remoteBrain/Daily-Docs/2026/02_February/2026-02-05 Thu.md",
     "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/99_InsightON/LIMS.md",
     "remoteBrain/99_InsightON/SHE Chemicals.md",
     "remoteBrain/99_InsightON/SHE MU 디버깅.md",
-    "remoteBrain/Daily-Docs/2026/02_February/2026-02-03 Tue.md",
     "remoteBrain/Report/2026/01_January.md",
     "remoteBrain/Report/2026/02_February.md",
     "remoteBrain/Daily-Docs/2026/02_February",
@@ -205,9 +207,7 @@
     "remoteBrain/Daily-Docs/2026/01_January/2026-01-12 Mon.md",
     "remoteBrain/_templater/Daily (2025).md",
     "remoteBrain/Daily-Docs/2026/01_January/2026-01-07 Wed.md",
-    "remoteBrain/Daily-Docs/2026/01_January/2026-01-06 Tue.md",
     "remoteBrain/Daily-Docs/Images/Pasted image 20260106115822.png",
-    "remoteBrain/01_Traveler/Tokyo/주일본 대한민국 대사관.md",
     "remoteBrain/01_Traveler/Tokyo/RECEIPT_enclosed.pdf",
     "remoteBrain/01_Traveler/Tokyo/E-Ticket.pdf",
     "remoteBrain/01_Traveler/Tokyo/퓨로랜드 바우처.pdf",
