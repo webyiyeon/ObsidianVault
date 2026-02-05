@@ -570,55 +570,66 @@ VendorService
 
 ## 서버 헤더정보 노출
 
-보통 아마존 리눅스의 Apache 기본 설정 파일 경로는 `/etc/httpd/conf/httpd.conf`
+### 기본 설정으로 숨기기 (Apache는 두고 버전 정보만 숨김 처리)
 
-1. **설정 파일 열기**
-    ```
-    sudo vi /etc/httpd/conf/httpd.conf
-    ```
-    
-2. **파일 끝에 아래 내용 추가 또는 수정** 
-    - **`ServerTokens`**: 서버가 보낼 정보의 양을 조절합니다. `Prod`로 설정하면 "Apache"라고만 나옵니다.
-    - **`ServerSignature`**: 에러 페이지 하단에 서버 정보를 표시할지 여부를 결정합니다.
+아마존 리눅스의 Apache 기본 설정 파일 경로: `/etc/httpd/conf/httpd.conf`
 
-    ```
-    # 서버 헤더에 소프트웨어 이름만 출력 (예: Server: Apache)
-    ServerTokens Prod
-    
-    # 에러 페이지 하단에서 서버 버전 정보 제거
-    ServerSignature Off
-    ```
-    
+설정 파일 
+```
+sudo nano /etc/httpd/conf/httpd.conf
+sudo vi /etc/httpd/conf/httpd.conf
+```
 
-> **참고:** 아예 `Server: Apache`라는 문구조차 완전히 지우고 싶다면, 표준 모듈만으로는 어렵고 `mod_security` 같은 별도 모듈을 설치해야 합니다. 하지만 일반적인 보안 권고안은 `Prod` 설정만으로도 충분합니다.
+파일 끝에 추가 또는 수정
+- **`ServerTokens`**: 서버가 보낼 정보의 양을 조절합니다. `Prod`로 설정하면 "Apache"라고만 나옵니다.
+- **`ServerSignature`**: 에러 페이지 하단에 서버 정보를 표시할지 여부를 결정합니다.
+```
+# 서버 헤더에 소프트웨어 이름만 출력 (예: Server: Apache)
+ServerTokens Prod
 
+# 에러 페이지 하단에서 서버 버전 정보 제거
+ServerSignature Off
+```
 
 
 설정을 바꾼 후에는 반드시 서비스를 재시작해야 적용
 
-1. **문법 검사** (오타가 없는지 확인)
-    ```
-    httpd -t
-    ```
+문법 검사 (오타가 없는지 확인)
+```
+httpd -t
+```
+`Syntax OK` 가 나오면 성공
 
-    `Syntax OK`가 나오면 성공
+서비스 재시작
+```
+sudo systemctl restart httpd
+```
 
-2. **서비스 재시작**
-    ```
-    sudo systemctl restart httpd
-    ```
-    
-3. **결과 확인** `curl` 명령어를 사용해 헤더 정보를 바로 확인할 수 있습니다.
-    
-    Bash
-    
-    ```
-    curl -I localhost
-    ```
-    
-    출력 결과 중 `Server: Apache` (버전 번호 없음)만 나오는지 확인해 보세요.
-    
+결과 확인: `curl` 명령어를 사용해 헤더 정보를 바로 확인 가능
+```
+curl -I localhost
+```
+출력 결과 중 `Server: Apache` (버전 번호 없음)만 나오는지 확인
 
----
 
-혹시 Apache 서버 앞에 **CloudFront**나 **ALB(Application Load Balancer)**를 사용 중이신가요? 이 경우 해당 서비스들이 자체적으로 헤더를 추가할 수 있는데, 이 부분도 설정이 필요할지 확인해 드릴까요?
+### mod_security를 이용해 헤더 숨기기
+
+mod_security 설치
+```
+# Amazon Linux 2 / AL2023
+sudo dnf install mod_security  # 또는 sudo yum install mod_security
+```
+
+설치 후 설정 파일을 열어 `ServerTokens`를 무시하고 헤더를 덮어쓰도록 설정
+- **파일 열기:** `sudo vi /etc/httpd/conf.d/mod_security.conf` (또는 `/etc/httpd/conf/httpd.conf`)
+- **내용 수정:** 파일 안에 `SecServerSignature` 항목을 찾아 아래와 같이 수정하거나 추가하세요.
+
+Apache
+
+```
+# 기존 설정을 끄고 보안 엔진 활성화
+SecRuleEngine On
+
+# Server 헤더 내용을 빈 값이나 원하는 이름으로 변경
+SecServerSignature " " 
+```
