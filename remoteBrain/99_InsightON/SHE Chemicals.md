@@ -612,7 +612,9 @@ curl -I localhost
 mod_security 설치
 ```
 # Amazon Linux 2 / AL2023
-sudo dnf install mod_security  # 또는 sudo yum install mod_security
+sudo dnf install mod_security 
+# 또는 
+sudo yum install mod_security
 ```
 
 설치 후 설정 파일을 열어 `ServerTokens`를 무시하고 헤더를 덮어쓰도록 설정
