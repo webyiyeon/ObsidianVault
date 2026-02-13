@@ -25,15 +25,18 @@
             }
           },
           {
-            "id": "abc40138318d7bb5",
+            "id": "438035c86c9fb3ce",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "remoteBrain/Daily-Docs/2026/02_February/2026-02-13 Fri.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "2026-02-13 Fri"
             }
           }
         ],
@@ -153,9 +156,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "abc40138318d7bb5",
+  "active": "438035c86c9fb3ce",
   "lastOpenFiles": [
     "remoteBrain/VisionBoard/2026.md",
+    "remoteBrain/Daily-Docs/2026/02_February/2026-02-13 Fri.md",
     "remoteBrain/99_InsightON/SHE Chemicals.md",
     "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
     "remoteBrain/Daily-Docs/2026/02_February/2026-02-05 Thu.md",
@@ -194,7 +198,6 @@
     "remoteBrain/_templater/Monthly.md",
     "remoteBrain/Daily-Docs/2026/01_January/2026-01-12 Mon.md",
     "remoteBrain/_templater/Daily (2025).md",
-    "remoteBrain/Daily-Docs/2026/01_January/2026-01-07 Wed.md",
     "remoteBrain/Daily-Docs/Images/Pasted image 20260106115822.png",
     "remoteBrain/01_Traveler/Tokyo/RECEIPT_enclosed.pdf",
     "remoteBrain/01_Traveler/Tokyo/E-Ticket.pdf",
