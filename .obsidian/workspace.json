@@ -25,18 +25,15 @@
             }
           },
           {
-            "id": "ee91f50a7dc259fc",
+            "id": "abc40138318d7bb5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "remoteBrain/99_InsightON/SHE Chemicals.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "currentVersion": "1.11.7"
               },
-              "icon": "lucide-file",
-              "title": "SHE Chemicals"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
             }
           }
         ],
@@ -156,12 +153,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ee91f50a7dc259fc",
+  "active": "abc40138318d7bb5",
   "lastOpenFiles": [
     "remoteBrain/VisionBoard/2026.md",
+    "remoteBrain/99_InsightON/SHE Chemicals.md",
     "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
     "remoteBrain/Daily-Docs/2026/02_February/2026-02-05 Thu.md",
-    "remoteBrain/99_InsightON/SHE Chemicals.md",
     "remoteBrain/_templater/Daily.md",
     "remoteBrain/Daily-Docs/2026/02_February/2026-02-03 Tue.md",
     "remoteBrain/Daily-Docs/2026/02_February/2026-02-04 Wed.md",
