@@ -23,24 +23,8 @@
               "icon": "lucide-file",
               "title": "2026"
             }
-          },
-          {
-            "id": "f03cbf77fe8202b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remoteBrain/Daily-Docs/2026/02_February/2026-02-20 Fri.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-02-20 Fri"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,13 +88,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2026/02_February/2026-02-20 Fri.md",
+                "file": "remoteBrain/VisionBoard/2026.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-02-20 Fri"
+              "title": "Outline of 2026"
             }
           },
           {
@@ -155,10 +139,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f03cbf77fe8202b5",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/Daily-Docs/2026/02_February/2026-02-20 Fri.md",
+    "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/Daily-Docs/2026/02_February/2026-02-13 Fri.md",
     "remoteBrain/99_InsightON/SHE Chemicals.md",
     "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
