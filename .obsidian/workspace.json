@@ -137,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401.5
+    "width": 259.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,7 +155,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "74b77af5ae62b840",
+  "active": "34a13eebabbe1f46",
   "lastOpenFiles": [
     "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/Daily-Docs/2026/02_February/2026-02-25 Wed.md",
