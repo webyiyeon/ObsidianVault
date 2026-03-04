@@ -25,37 +25,19 @@
             }
           },
           {
-            "id": "9615f6e9d322c396",
+            "id": "88d6cde2f92104cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "remoteBrain/_templater/Daily.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "currentVersion": "1.12.4"
               },
-              "icon": "lucide-file",
-              "title": "Daily"
-            }
-          },
-          {
-            "id": "2eb5d8a26fd905d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remoteBrain/99_InsightON/SHE Chemicals.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "SHE Chemicals"
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.12.4"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +60,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "파일 탐색기"
             }
           },
           {
@@ -156,10 +138,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:빠른 전환기 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
       "obsidian42-brat:BRAT": false,
       "obsidian-custom-frames:Open Google Calendar": false,
       "obsidian-custom-frames:Open Perflexity": false,
@@ -170,17 +152,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2eb5d8a26fd905d3",
+  "active": "88d6cde2f92104cf",
   "lastOpenFiles": [
+    "remoteBrain/VisionBoard/2026.md",
+    "remoteBrain/99_InsightON/SHE Chemicals.md",
     "remoteBrain/Daily-Docs/Images/Pasted image 20260304171614.png",
     "remoteBrain/Daily-Docs/2026/03_March/2026-03-04 Wed.md",
     "remoteBrain/_templater/Daily.md",
-    "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/Report/2026/02_February.md",
     "remoteBrain/Daily-Docs/2026/03_March/2026-03-03 Tue.md",
     "remoteBrain/Daily-Docs/2026/03_March",
     "remoteBrain/Daily-Docs/2026/02_February/2026-02-25 Wed.md",
-    "remoteBrain/99_InsightON/SHE Chemicals.md",
     "remoteBrain/Daily-Docs/2026/02_February/2026-02-20 Fri.md",
     "remoteBrain/Daily-Docs/2026/02_February/2026-02-13 Fri.md",
     "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
@@ -213,7 +195,6 @@
     "fonts/walktogether.ttf",
     "fonts/WalkTogether.ttf",
     "fonts",
-    "remoteBrain/Daily-Docs/Images/Pasted image 20260106115822.png",
     "remoteBrain/01_Traveler/Tokyo/RECEIPT_enclosed.pdf",
     "remoteBrain/01_Traveler/Tokyo/E-Ticket.pdf",
     "remoteBrain/01_Traveler/Tokyo/퓨로랜드 바우처.pdf",
