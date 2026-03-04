@@ -66,32 +66,38 @@ timespan: 7
 - [ ] 🚶 식후 산책 5분
 
 <%*
-const dayMap = {
-  1: "月",
-  2: "火",
-  3: "水",
-  4: "木",
-  5: "金",
-  6: "土",
-  0: "日",
+// 1. 오늘 요일 계산
+const dayMap = { 
+  1: "Monday", 
+  2: "Tuesday", 
+  3: "Wednesday", 
+  4: "Thursday", 
+  5: "Friday", 
+  6: "Saturday", 
+  0: "Sunday" 
 };
-
-const tasks = {
-  "月": "- [ ] 🏃 운동 50분",
-  "火": "- [ ] 🎓 대학원 수업 / 논문 관리 30분",
-  "水": "- [ ] 🏃 운동 50분\n- [ ] 👩‍💻 블로그 글 작성 40분",
-  "木": "- [ ] 🎨 그림 공부 50분\n- [ ] 📓 일본어 공부 10분",
-  "土": "- [ ] 🏃 운동 50분\n- [ ] 🧹 청소기 돌리기",
-  "日": "- [ ] 🎓 대학원 수업 / 논문 관리 30분\n- [ ] 🎨 그림 공부 70분\n- [ ] 👩‍💻 블로그 글 작성 40분",
-};
-
-// 파일 제목 기준 날짜 파싱
 const fileDate = moment(tp.file.title, "YYYY-MM-DD dd");
-
-// 요일 계산
 const today = dayMap[fileDate.day()];
 
-tR += `## Weekly (${today})\n${tasks[today]}\n`;
+// 2. 전체 할 일 데이터 (중복 제거 전)
+const allTasks = [
+  "🏃 운동 50분",
+  "🎓 대학원 수업 / 논문 관리 30분",
+  "👩‍💻 블로그 글 작성 40분",
+  "🎨 그림 공부 50분",
+  "📓 일본어 공부 10분",
+  "🧹 청소기 돌리기",
+  "🎨 그림 공부 70분" // 일요일에만 70분이라 따로 들어갔지만, 중복 제거시 하나로 합칠 수 있습니다.
+];
+
+// 3. 중복 제거 (Set 활용)
+const uniqueTasks = [...new Set(allTasks)];
+
+// 4. 출력
+tR += `## Today is ${today}\n\n`;
+uniqueTasks.forEach(task => {
+  tR += `- [ ] ${task}\n`;
+});
 %>
 
 # To-do List

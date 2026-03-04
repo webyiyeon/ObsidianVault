@@ -25,7 +25,22 @@
             }
           },
           {
-            "id": "4b5a06f18f69fd8c",
+            "id": "9615f6e9d322c396",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/_templater/Daily.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Daily"
+            }
+          },
+          {
+            "id": "2eb5d8a26fd905d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,19 +53,9 @@
               "icon": "lucide-file",
               "title": "2026-03-04 Wed"
             }
-          },
-          {
-            "id": "57a1a96895898ce7",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-google-calendar",
-              "state": {},
-              "icon": "lucide-calendar-heart",
-              "title": "Google Calendar"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5110321044922,
-    "collapsed": true
+    "width": 302.5110321044922
   },
   "right": {
     "id": "e1f0c7632e67bdc4",
@@ -166,11 +170,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4b5a06f18f69fd8c",
+  "active": "2eb5d8a26fd905d3",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2026/03_March/2026-03-04 Wed.md",
-    "remoteBrain/Daily-Docs/2026/03_March/2026-03-03 Tue.md",
+    "remoteBrain/_templater/Daily.md",
     "remoteBrain/VisionBoard/2026.md",
+    "remoteBrain/Report/2026/02_February.md",
+    "remoteBrain/Daily-Docs/2026/03_March/2026-03-03 Tue.md",
     "remoteBrain/Daily-Docs/2026/03_March",
     "remoteBrain/Daily-Docs/2026/02_February/2026-02-25 Wed.md",
     "remoteBrain/99_InsightON/SHE Chemicals.md",
@@ -178,14 +184,12 @@
     "remoteBrain/Daily-Docs/2026/02_February/2026-02-13 Fri.md",
     "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
     "remoteBrain/Daily-Docs/2026/02_February/2026-02-05 Thu.md",
-    "remoteBrain/_templater/Daily.md",
     "remoteBrain/Daily-Docs/2026/02_February/2026-02-03 Tue.md",
     "remoteBrain/Daily-Docs/2026/02_February/2026-02-04 Wed.md",
     "remoteBrain/Daily-Docs/2026/02_February/2026-02-02 Mon.md",
     "remoteBrain/99_InsightON/LIMS.md",
     "remoteBrain/99_InsightON/SHE MU 디버깅.md",
     "remoteBrain/Report/2026/01_January.md",
-    "remoteBrain/Report/2026/02_February.md",
     "remoteBrain/Daily-Docs/2026/02_February",
     "remoteBrain/Daily-Docs/2026/01_January/2026-01-26 Mon.md",
     "remoteBrain/Daily-Docs/2026/01_January/2026-01-22 Thu.md",
