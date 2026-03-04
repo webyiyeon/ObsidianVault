@@ -38,9 +38,19 @@
               "icon": "lucide-file",
               "title": "2026-03-04 Wed"
             }
+          },
+          {
+            "id": "57a1a96895898ce7",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-google-calendar",
+              "state": {},
+              "icon": "lucide-calendar-heart",
+              "title": "Google Calendar"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,13 +114,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2026/03_March/2026-03-04 Wed.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-03-04 Wed"
+              "title": "Outline"
             }
           },
           {
@@ -133,7 +142,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -155,10 +165,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4b5a06f18f69fd8c",
+  "active": "0554413a06ca7fa2",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2026/03_March/2026-03-03 Tue.md",
     "remoteBrain/Daily-Docs/2026/03_March/2026-03-04 Wed.md",
+    "remoteBrain/Daily-Docs/2026/03_March/2026-03-03 Tue.md",
     "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/Daily-Docs/2026/03_March",
     "remoteBrain/Daily-Docs/2026/02_February/2026-02-25 Wed.md",
