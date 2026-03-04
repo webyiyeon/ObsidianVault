@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,12 +114,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "remoteBrain/Daily-Docs/2026/03_March/2026-03-04 Wed.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2026-03-04 Wed"
             }
           },
           {
@@ -165,7 +166,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0554413a06ca7fa2",
+  "active": "4b5a06f18f69fd8c",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2026/03_March/2026-03-04 Wed.md",
     "remoteBrain/Daily-Docs/2026/03_March/2026-03-03 Tue.md",
