@@ -55,7 +55,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -172,19 +172,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "45fd2870ad7df5d2",
+  "active": "9273c76c33533ee1",
   "lastOpenFiles": [
-    "remoteBrain/Report/2026/01_January.md",
-    "remoteBrain/Report/2026/03_March.md",
     "remoteBrain/_templater/Monthly.md",
-    "remoteBrain/Report/2026/02_February.md",
+    "remoteBrain/Report/2026/03_March.md",
+    "remoteBrain/Report/2026/01_January.md",
+    "remoteBrain/Daily-Docs/2026/03_March/2026-03-03 Tue.md",
+    "remoteBrain/Daily-Docs/2026/03_March/2026-03-04 Wed.md",
     "remoteBrain/Daily-Docs/2026/03_March/2026-03-05 Thu.md",
+    "remoteBrain/Report/2026/02_February.md",
     "remoteBrain/_templater/Daily.md",
     "remoteBrain/VisionBoard/2026.md",
-    "remoteBrain/Daily-Docs/2026/03_March/2026-03-04 Wed.md",
     "remoteBrain/99_InsightON/SHE Chemicals.md",
     "remoteBrain/Daily-Docs/Images/Pasted image 20260304171614.png",
-    "remoteBrain/Daily-Docs/2026/03_March/2026-03-03 Tue.md",
     "remoteBrain/Daily-Docs/2026/03_March",
     "remoteBrain/Daily-Docs/2026/02_February/2026-02-25 Wed.md",
     "remoteBrain/Daily-Docs/2026/02_February/2026-02-20 Fri.md",

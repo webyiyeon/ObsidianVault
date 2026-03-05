@@ -50,8 +50,8 @@ TABLE
 	dateformat(wakeup🌞, "HH:mm") AS "wakeup🌞", 
 	dateformat(sleep🌜, "HH:mm") AS "sleep🌜", 
 	durationformat((wakeup🌞 - sleep🌜), "h'hr' m'min'") AS "time",
-	("■" * number(durationformat((wakeup🌞 - sleep🌜), "h"))) 
-	+ "□" * (10 - number(durationformat((wakeup🌞 - sleep🌜), "h"))) AS " ", mood
+	("●" * number(durationformat((wakeup🌞 - sleep🌜), "h"))) 
+	+ "○" * (10 - number(durationformat((wakeup🌞 - sleep🌜), "h"))) AS " ", mood
 FROM 
 	 #routine 
 WHERE 
