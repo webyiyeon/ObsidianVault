@@ -1,40 +1,33 @@
 ## Checking In on My Goals 🌱
 
 1. How are you feeling this month?  
-    (에너지 수준, 멘탈 상태, 전체적인 컨디션은 어땠는지)
     
 2. What goals have you started?  
-    (작게라도 시작한 것들, 시도만 해본 것도 포함)
     
 3. What goals have you not started yet?  
-    (아직 손도 못 댄 것들, 미뤄진 이유는 무엇인지)
     
 4. What obstacles are in your way?  
-    (시간, 체력, 감정, 환경, 우선순위 등)
     
 5. How can you realistically overcome those obstacles?  
-    (의지를 끌어올리는 게 아니라, 조건을 바꾸는 방식으로)
     
 6. Adjustments to goals  
-    (이번 달에 기준을 낮추거나, 잠시 빼거나, 새로 추가할 것들)
     
 7. TO DO this month in order to move forward  
-    (이번 달에 “이것만 하면 잘했다”고 말할 수 있는 최소 행동)
     
 
 
 ## 🚀 How Close Am I to My Yearly Goals This Month?
 
 - [ ] Did I exercise around three times a week?
-- [ ] Did I take at least one post-meal walk each day?
-- [ ] Did I spend at least 10 minutes tidying up each day?
+- [x] Did I take at least one post-meal walk each day?
+- [x] Did I spend at least 10 minutes tidying up each day?
 - [ ] Did I eat my meals on time and log them honestly?
 - [ ] Did I engage with Japanese at least once a week, even lightly?
 - [ ] Did I save at least KRW 600,000 this month?
 - [ ] Did I stay on top of my graduate classes and assignments?
 - [ ] Did I write on my blog consistently this week and aim for one post this month?`
-- [ ] Did I read for at least 5 minutes a day?
-- [ ] Did I switch to recovery mode when my energy was low?               
+- [x] Did I read for at least 5 minutes a day?
+- [x] Did I switch to recovery mode when my energy was low?
 
 
 ## A Thankful Record
@@ -57,8 +50,8 @@ TABLE
 	dateformat(wakeup🌞, "HH:mm") AS "wakeup🌞", 
 	dateformat(sleep🌜, "HH:mm") AS "sleep🌜", 
 	durationformat((wakeup🌞 - sleep🌜), "h'hr' m'min'") AS "time",
-	("■" * number(durationformat((wakeup🌞 - sleep🌜), "h"))) 
-	+ "□" * (10 - number(durationformat((wakeup🌞 - sleep🌜), "h"))) AS " ", mood
+	("●" * number(durationformat((wakeup🌞 - sleep🌜), "h"))) 
+	+ "○" * (10 - number(durationformat((wakeup🌞 - sleep🌜), "h"))) AS " ", mood
 FROM 
 	 #routine 
 WHERE 
