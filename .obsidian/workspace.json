@@ -39,7 +39,8 @@
               "title": "2026-03-05 Thu"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 259.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,10 +157,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "45fd2870ad7df5d2",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2026/03_March/2026-03-05 Thu.md",
     "remoteBrain/VisionBoard/2026.md",
+    "remoteBrain/Daily-Docs/2026/03_March/2026-03-05 Thu.md",
     "remoteBrain/Report/2026/02_February.md",
     "remoteBrain/Report/2026/03_March.md",
     "remoteBrain/Daily-Docs/2026/03_March/2026-03-04 Wed.md",
