@@ -25,13 +25,18 @@
             }
           },
           {
-            "id": "7628f62664683b2c",
+            "id": "f38a488fc429e0a9",
             "type": "leaf",
             "state": {
-              "type": "custom-frames-google-calendar",
-              "state": {},
-              "icon": "lucide-calendar-heart",
-              "title": "Google Calendar"
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2026/03_3월/2026-03-11 수.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-11 수"
             }
           }
         ],
@@ -152,10 +157,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7628f62664683b2c",
+  "active": "f38a488fc429e0a9",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2026/03_3월/2026-03-11 수.md",
     "remoteBrain/VisionBoard/2026.md",
+    "remoteBrain/Daily-Docs/2026/03_3월/2026-03-11 수.md",
     "remoteBrain/Daily-Docs/2026/03_3월",
     "remoteBrain/Daily-Docs/2026/03_March/2026-03-05 Thu.md",
     "remoteBrain/_templater/Monthly.md",
