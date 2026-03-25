@@ -25,18 +25,15 @@
             }
           },
           {
-            "id": "7ddbd2835a8f356d",
+            "id": "803613cceb497927",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2026/03_3월/2026-03-25 수.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "currentVersion": "1.12.7"
               },
-              "icon": "lucide-file",
-              "title": "2026-03-25 수"
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.12.7"
             }
           }
         ],
@@ -156,7 +153,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7ddbd2835a8f356d",
+  "active": "803613cceb497927",
   "lastOpenFiles": [
     "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/Daily-Docs/2026/03_3월/2026-03-25 수.md",
