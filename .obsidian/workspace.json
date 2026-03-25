@@ -23,21 +23,8 @@
               "icon": "lucide-file",
               "title": "2026"
             }
-          },
-          {
-            "id": "803613cceb497927",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.12.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +140,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "803613cceb497927",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/Daily-Docs/2026/03_3월/2026-03-25 수.md",
