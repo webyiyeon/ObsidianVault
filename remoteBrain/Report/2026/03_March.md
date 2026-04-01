@@ -1,17 +1,17 @@
 ## Checking In on My Goals 🌱
 
 1. How are you feeling this month?  
-    
+    번아웃이 올 뻔 했으나? 토스트아웃으로 극복했다.
 2. What goals have you started?  
-    
+    그림 그리기! 구마 선생님 강의를 듣기 시작함. 물론 4주만 하고 종료할 거지만... 
 3. What goals have you not started yet?  
-    
+    정보보안기사 공부하기. 공부해야지, 해놓고 업무+게임에 집중해버렸다.
 4. What obstacles are in your way?  
-    
+    연봉 협상에 대한 걱정?
 5. How can you realistically overcome those obstacles?  
-    
+    이러나 저러나 1년 이상 더 다녀야 하는 회사니, 의미 부여하지 말고 적당히 만족하면서 다니자.
 6. Adjustments to goals  
-    
+    연봉을 올리는 것에는 잠시 마음을 내려놓고, 
 7. TO DO this month in order to move forward  
     
 
