@@ -837,7 +837,7 @@ gradle --offline
 - [ ] Client side AES 암호화 키 하드코딩
 	→ `raonkupload` 모듈 삭제
 - [ ] 내부 테스트 및 관리용 API 경로 노출
-	→ url 모아둔 js 파일을 각 화면으로 이동 
+	→ url 모아둔 js 파일 내용을 각 화면으로 이동 
 
 ## USHE
 - [ ] IV(초기화 벡터) 하드코딩
