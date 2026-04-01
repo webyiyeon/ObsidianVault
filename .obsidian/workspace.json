@@ -30,17 +30,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Report/2026/03_March.md",
+                "file": "remoteBrain/Daily-Docs/2026/04_April/2026-04-01 Wed.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "03_March"
+              "title": "2026-04-01 Wed"
+            }
+          },
+          {
+            "id": "2a6c9da48dcc0f4a",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-google-calendar",
+              "state": {},
+              "icon": "lucide-calendar-heart",
+              "title": "Google Calendar"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -87,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5110321044922
+    "width": 302.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "e1f0c7632e67bdc4",
@@ -156,11 +167,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a273f43e76519b6f",
+  "active": "2a6c9da48dcc0f4a",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2026/04_April/2026-04-01 Wed.md",
+    "remoteBrain/Report/2026/03_March.md",
+    "remoteBrain/Daily-Docs/2026/04_April",
     "remoteBrain/Report/2026/02_February.md",
     "remoteBrain/Report/2026/01_January.md",
-    "remoteBrain/Report/2026/03_March.md",
     "remoteBrain/Report/2026/04_April.md",
     "remoteBrain/00_Web Developer/VS Code.md",
     "remoteBrain/00_Web Developer/Git 형상관리 관련.md",
@@ -187,7 +200,6 @@
     "remoteBrain/Daily-Docs/2026/02_February/2026-02-25 Wed.md",
     "remoteBrain/Daily-Docs/2026/02_February/2026-02-20 Fri.md",
     "remoteBrain/Daily-Docs/2026/02_February/2026-02-13 Fri.md",
-    "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
     "remoteBrain/Daily-Docs/2026/02_February",
     "remoteBrain/Daily-Docs/Images/f48a5113db62430daec34a9d9b1502e2.jpg",
     "remoteBrain/Daily-Docs/Images/d41d8061caa810a32289b818ca29fecd.jpg",
@@ -202,7 +214,6 @@
     "fonts/walktogether.ttf",
     "fonts/WalkTogether.ttf",
     "fonts",
-    "remoteBrain/01_Traveler/Tokyo/RECEIPT_enclosed.pdf",
-    "remoteBrain/01_Traveler/Tokyo/E-Ticket.pdf"
+    "remoteBrain/01_Traveler/Tokyo/RECEIPT_enclosed.pdf"
   ]
 }
