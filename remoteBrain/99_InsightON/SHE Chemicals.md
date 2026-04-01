@@ -863,5 +863,6 @@ gradle --offline
 - [x] 전체 협력업체 정보 조회 및 협력업체로 로그인 가능
 	→ `partner_yn` 파라미터 조작으로 조회 가능
 - [ ] CCTV 정보 노출 (설치 위치, IP 주소, 포트, 패스워드)
+	→ 박수빈M이 마킹 후 재업로드 예정 
 - [x] 웹 서버 정보 노출 (Server Header Disclosure)
 	→ httpd conf 파일에 파라미터 추가
