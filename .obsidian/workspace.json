@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "remoteBrain/VisionBoard/2026.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -39,8 +39,7 @@
               "title": "2026-04-02 Thu"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5110321044922
+    "width": 302.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "e1f0c7632e67bdc4",
@@ -156,10 +156,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "afe49bc3a109a6df",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "remoteBrain/VisionBoard/2026.md",
+    "remoteBrain/Daily-Docs/Images/메인-커버-이미지.gif",
     "remoteBrain/Daily-Docs/2026/04_April/2026-04-02 Thu.md",
+    "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/99_InsightON/SHE Chemicals.md",
     "remoteBrain/Daily-Docs/2026/04_April/2026-04-01 Wed.md",
     "remoteBrain/Report/2026/03_March.md",
@@ -188,7 +189,6 @@
     "remoteBrain/Daily-Docs/Images/Pasted image 20260304171614.png",
     "remoteBrain/Daily-Docs/2026/03_March",
     "remoteBrain/Daily-Docs/2026/02_February/2026-02-25 Wed.md",
-    "remoteBrain/Daily-Docs/2026/02_February/2026-02-20 Fri.md",
     "remoteBrain/Daily-Docs/2026/02_February",
     "remoteBrain/Daily-Docs/Images/f48a5113db62430daec34a9d9b1502e2.jpg",
     "remoteBrain/Daily-Docs/Images/d41d8061caa810a32289b818ca29fecd.jpg",
