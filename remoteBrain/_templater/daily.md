@@ -108,10 +108,9 @@ if (today === "Saturday") {
 }
 
 // 4. 출력
-tR += `## Today is ${today}\n`;
-tR += "\n---\n";
+tR += `## Today is ${today}\n\n`;
 tR += randomImageTag; // 랜덤 이미지 출력 
-tR += "\n---\n";
+tR += `\n\n`;
 
 tasks.forEach(task => {
     tR += `- [ ] ${task}\n`;
