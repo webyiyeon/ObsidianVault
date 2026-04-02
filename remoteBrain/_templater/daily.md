@@ -76,6 +76,23 @@ const dayMap = {
 const fileDate = moment(tp.file.title, "YYYY-MM-DD dd");
 const today = dayMap[fileDate.day()];
 
+// 2. 랜덤 이미지 선정 (Animal Crossing 폴더)
+const folderPath = "remoteBrain/_templater/Animal Crossing"; // 폴더 경로 설정 
+const files = app.vault.getAbstractFileByPath(folderPath); 
+let randomImageTag = ""; 
+if (files && files.children) { 
+	// 이미지 확장자 필터링 (png, jpg, jpeg, gif 등) 
+	const imageFiles = files.children.filter(f => 
+		['png', 'jpg', 'jpeg', 'gif', 'webp'].includes(f.extension) 
+	); 
+	
+	if (imageFiles.length > 0) { 
+		const randomIndex = Math.floor(Math.random() * imageFiles.length); 
+		const selectedImage = imageFiles[randomIndex]; 
+		randomImageTag = `![[${selectedImage.path}]]\n`; 
+	} 
+}
+
 // 2. 기본 공통 할 일 (요일 상관 없이 매일 하는 것)
 let tasks = [
     "🏃 운동 50분",
@@ -92,6 +109,9 @@ if (today === "Saturday") {
 
 // 4. 출력
 tR += `## Today is ${today}\n`;
+tR += "\n---\n";
+tR += randomImageTag; // 랜덤 이미지 출력 
+tR += "\n---\n";
 
 tasks.forEach(task => {
     tR += `- [ ] ${task}\n`;
