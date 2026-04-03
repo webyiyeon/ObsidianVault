@@ -40,13 +40,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/DDR/POS.md",
+                "file": "remoteBrain/99_InsightON/SHE Chemicals.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "POS"
+              "title": "SHE Chemicals"
             }
           },
           {
@@ -183,6 +183,7 @@
   },
   "active": "5b572c1c68d06829",
   "lastOpenFiles": [
+    "remoteBrain/DDR/POS.md",
     "remoteBrain/99_InsightON/SHE Chemicals.md",
     "remoteBrain/Daily-Docs/2026/04_April/2026-04-03 Fri.md",
     "remoteBrain/Daily-Docs/2026/04_April/2026-04-02 Thu.md",
