@@ -871,3 +871,12 @@ gradle --offline
 	→ 박수빈M이 마킹 후 재업로드 예정 
 - [x] 웹 서버 정보 노출 (Server Header Disclosure)
 	→ httpd conf 파일에 파라미터 추가
+
+
+# 개발 서버 백엔드 종료 이슈 (2026-04-03)
+
+사유는 알 수 없으나 `2026-04-03 20:00:16`에 `stopping she-back.service` 된 내역이 있음 
+
+![[이미지 (1).jpg|100]]
+![[이미지 (9).png|100]]
+
