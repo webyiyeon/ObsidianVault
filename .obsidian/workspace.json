@@ -38,9 +38,19 @@
               "icon": "lucide-file",
               "title": "SHE Chemicals"
             }
+          },
+          {
+            "id": "088ea878c5ce71c1",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-google-calendar",
+              "state": {},
+              "icon": "lucide-calendar-heart",
+              "title": "Google Calendar"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,12 +166,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "11530537377f02d6",
+  "active": "088ea878c5ce71c1",
   "lastOpenFiles": [
+    "remoteBrain/99_InsightON/SHE Chemicals.md",
     "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/DDR/POS.md",
     "remoteBrain/Daily-Docs/2026/04_April/2026-04-03 Fri.md",
-    "remoteBrain/99_InsightON/SHE Chemicals.md",
     "remoteBrain/Daily-Docs/2026/04_April/2026-04-02 Thu.md",
     "remoteBrain/Daily-Docs/Images/이미지 (9).png",
     "remoteBrain/Daily-Docs/Images/이미지 (1).jpg",
