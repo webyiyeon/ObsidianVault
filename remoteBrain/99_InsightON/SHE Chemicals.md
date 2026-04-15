@@ -827,7 +827,7 @@ gradle --offline
 	신청부서 필수 첨부는 LOTO List와 전기 단선도이다.  
 	허가부서 필수 첨부는 Blind List와 P&ID이다.
 
-- [ ] 안전 작업에서 전기와 취급 화학물질 선택  
+- [x] 안전 작업에서 전기와 취급 화학물질 선택
 	공통 첨부는 LOTO List, Blind List, P&ID가 체크된다.  
 	신청부서 필수 첨부는 LOTO List와 전기 단선도이다.  
 	허가부서 필수 첨부는 LOTO List와 P&ID이다.
