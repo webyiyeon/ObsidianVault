@@ -808,7 +808,7 @@ gradle --offline
 	공통 첨부는 LOTO List, Blind List, P&ID가 체크된다.  
 	허가부서 필수 첨부는 LOTO List와 P&ID이다.
 
-- [ ] 안전 작업에서 Blind 설치 해체 작업 선택  
+- [x] 안전 작업에서 Blind 설치 해체 작업 선택
 	공통 첨부는 LOTO List, Blind List, P&ID가 체크된다.  
 	허가부서 필수 첨부는 Blind List와 P&ID이다.
 
