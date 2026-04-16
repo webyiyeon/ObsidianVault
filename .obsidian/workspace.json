@@ -55,7 +55,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,10 +171,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4fe75be41c18bf69",
+  "active": "e318c9f342880401",
   "lastOpenFiles": [
-    "remoteBrain/99_InsightON/SHE Chemicals.md",
     "remoteBrain/Daily-Docs/2026/04_April/2026-04-15 Wed.md",
+    "remoteBrain/99_InsightON/SHE Chemicals.md",
     "remoteBrain/Daily-Docs/2026/04_April/2026-04-16 Thu.md",
     "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/DDR/POS.md",
