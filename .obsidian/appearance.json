@@ -1,5 +1,5 @@
 {
-  "theme": "moonstone",
+  "theme": "system",
   "cssTheme": "Border",
   "enabledCssSnippets": [
     "walktogether",
@@ -10,6 +10,8 @@
   "monospaceFontFamily": "Cascadia Code",
   "textFontFamily": "그리운 묘은흘림체",
   "interfaceFontFamily": "그리운 묘은흘림체",
-  "nativeMenus": true,
-  "accentColor": ""
+  "nativeMenus": false,
+  "accentColor": "",
+  "showViewHeader": true,
+  "showRibbon": false
 }
