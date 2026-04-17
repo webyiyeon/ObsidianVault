@@ -6,23 +6,18 @@
 }
 
 @font-face {
-  font-family: "GriunMyoeunHeullim";
-  src: url("/fonts/Griun_MyoeunHeullim-Rg.ttf") format("truetype");
+  font-family: "Griun";
+  src: url("/fonts/griun.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
 
 body {
-  --font-text: "GriunMyoeunHeullim", sans-serif;
-  --font-interface: "GriunMyoeunHeullim", sans-serif;
-  --font-monospace: "GriunMyoeunHeullim", monospace;
+  --font-text: "Griun", sans-serif;
+  --font-interface: "Griun", sans-serif;
+  --font-monospace: "Griun", monospace;
   text-rendering: optimizeLegibility;
   font-weight: 500;
   line-height: 1.6;
   font-size: 15px;
-}
-
-/* 혹시 모르니 강제 적용 한 줄 추가 */
-body {
-  font-family: "GriunMyoeunHeullim" !important;
 }

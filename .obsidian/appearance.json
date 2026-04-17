@@ -3,10 +3,11 @@
   "cssTheme": "Royal Velvet",
   "enabledCssSnippets": [
     "walktogether",
-    "walktogether-font",
-    "font"
+    "walktogether-font"
   ],
   "baseFontSizeAction": true,
   "baseFontSize": 16,
-  "monospaceFontFamily": "Cascadia Code"
+  "monospaceFontFamily": "Cascadia Code",
+  "textFontFamily": "그리운 묘은흘림체",
+  "interfaceFontFamily": "그리운 묘은흘림체"
 }
