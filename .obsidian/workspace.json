@@ -48,9 +48,19 @@
               "icon": "lucide-calendar-heart",
               "title": "Google Calendar"
             }
+          },
+          {
+            "id": "ab2851281abb15f7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,7 +176,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9a866d1ea3c67960",
+  "active": "ab2851281abb15f7",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2026/04_April/2026-04-17 Fri.md",
     "remoteBrain/VisionBoard/2026.md",
