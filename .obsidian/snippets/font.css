@@ -15,7 +15,7 @@
 body {
   --font-text: "GriunMyoeunHeullim", sans-serif;
   --font-interface: "GriunMyoeunHeullim", sans-serif;
-  --font-monospace: "GriunMyoeunHeullimRg", monospace;
+  --font-monospace: "GriunMyoeunHeullim", monospace;
   text-rendering: optimizeLegibility;
   font-weight: 500;
   line-height: 1.6;

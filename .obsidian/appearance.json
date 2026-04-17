@@ -1,9 +1,10 @@
 {
   "theme": "moonstone",
-  "cssTheme": "Border",
+  "cssTheme": "Dayspring",
   "enabledCssSnippets": [
     "walktogether",
-    "walktogether-font"
+    "walktogether-font",
+    "font"
   ],
   "baseFontSizeAction": true,
   "baseFontSize": 16,
