@@ -1,6 +1,6 @@
 {
   "theme": "moonstone",
-  "cssTheme": "Royal Velvet",
+  "cssTheme": "Border",
   "enabledCssSnippets": [
     "walktogether",
     "walktogether-font"
@@ -9,5 +9,7 @@
   "baseFontSize": 16,
   "monospaceFontFamily": "Cascadia Code",
   "textFontFamily": "그리운 묘은흘림체",
-  "interfaceFontFamily": "그리운 묘은흘림체"
+  "interfaceFontFamily": "그리운 묘은흘림체",
+  "nativeMenus": true,
+  "accentColor": ""
 }
