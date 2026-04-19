@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2026/04_April/2026-04-19 Sun.md",
+                "file": "remoteBrain/DDR/POS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-19 Sun"
+              "title": "POS"
             }
           }
         ],
@@ -157,8 +157,8 @@
   },
   "active": "e90f8b636bbc7e72",
   "lastOpenFiles": [
-    "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/Daily-Docs/2026/04_April/2026-04-19 Sun.md",
+    "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/Daily-Docs/2026/04_April/2026-04-17 Fri.md",
     "remoteBrain/Daily-Docs/2026/04_April/2026-04-15 Wed.md",
     "remoteBrain/Daily-Docs/2026/04_April/2026-04-16 Thu.md",
