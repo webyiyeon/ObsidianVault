@@ -38,9 +38,19 @@
               "icon": "lucide-file",
               "title": "2026-04-22 Wed"
             }
+          },
+          {
+            "id": "d61f469ba1a2e440",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-google-calendar",
+              "state": {},
+              "icon": "lucide-calendar-heart",
+              "title": "Google Calendar"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 259.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,10 +166,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a932ce584a1477b6",
+  "active": "d61f469ba1a2e440",
   "lastOpenFiles": [
-    "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/Daily-Docs/2026/04_April/2026-04-22 Wed.md",
+    "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/DDR/POS.md",
     "remoteBrain/Daily-Docs/2026/04_April/2026-04-20 Mon.md",
     "remoteBrain/Daily-Docs/2026/04_April/2026-04-19 Sun.md",
