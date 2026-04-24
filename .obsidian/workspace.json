@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/99_InsightON/SHE MU 디버깅.md",
+                "file": "remoteBrain/99_InsightON/SK SHE MU.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "SHE MU 디버깅"
+              "title": "SK SHE MU"
             }
           },
           {
@@ -45,16 +45,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2026/04_April/2026-04-24 Fri.md",
+                "file": "remoteBrain/99_InsightON/SK USHE.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-24 Fri"
+              "title": "SK USHE"
+            }
+          },
+          {
+            "id": "0233cd206effff3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/99_InsightON/SK USHE.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "SK USHE"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -151,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5,
-    "collapsed": true
+    "width": 259.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,15 +185,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "0233cd206effff3d",
   "lastOpenFiles": [
+    "remoteBrain/99_InsightON/SK USHE Jenkins Build & Deploy.md",
+    "remoteBrain/99_InsightON/SK USHE.md",
+    "remoteBrain/99_InsightON/SK USHE 신규 작업허가 (2026 03).md",
+    "remoteBrain/99_InsightON/SK USHE 모의해킹 (2026 03).md",
+    "remoteBrain/99_InsightON/SK SHE MU.md",
+    "remoteBrain/99_InsightON/LIMS (종료-불참).md",
+    "remoteBrain/99_InsightON/슬기로운 독서생활 (종료).md",
+    "remoteBrain/99_InsightON/AI talent lab (skax).md",
+    "remoteBrain/Report/2026/04_April.md",
     "remoteBrain/Daily-Docs/2026/04_April/2026-04-24 Fri.md",
-    "remoteBrain/99_InsightON/SHE MU 디버깅.md",
     "remoteBrain/VisionBoard/2026.md",
-    "remoteBrain/99_InsightON/USHE 신규 작업허가 (2026 03).md",
-    "remoteBrain/99_InsightON/USHE 모의해킹 (2026 03).md",
-    "remoteBrain/99_InsightON/슬기로운 독서생활.md",
-    "remoteBrain/99_InsightON/USHE Chemicals.md",
     "remoteBrain/Daily-Docs/Images/Pasted image 20260423174403.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20260423174357.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20260423174350.png",
@@ -186,7 +205,6 @@
     "remoteBrain/Daily-Docs/Images/Pasted image 20260423174334.png",
     "remoteBrain/Daily-Docs/2026/04_April/2026-04-23 Thu.md",
     "remoteBrain/Daily-Docs/2026/04_April/2026-04-22 Wed.md",
-    "remoteBrain/Report/2026/04_April.md",
     "remoteBrain/DDR/POS.md",
     "remoteBrain/Daily-Docs/2026/04_April/2026-04-20 Mon.md",
     "remoteBrain/Daily-Docs/2026/04_April/2026-04-19 Sun.md",
@@ -202,11 +220,8 @@
     "remoteBrain/Daily-Docs/2026/04_4월/2026-04-16 목.md",
     "remoteBrain/Daily-Docs/2026/04_4월",
     "fonts/Griun_MyoeunHeullim-Rg.ttf",
-    "remoteBrain/Daily-Docs/2026/04_April/2026-04-03 Fri.md",
-    "remoteBrain/Daily-Docs/2026/04_April/2026-04-02 Thu.md",
     "remoteBrain/Daily-Docs/Images/이미지 (9).png",
     "remoteBrain/Daily-Docs/Images/이미지 (1).jpg",
-    "remoteBrain/_templater/daily.md",
     "remoteBrain/_templater/Animal Crossing/패치_노랑.gif",
     "remoteBrain/_templater/Animal Crossing/탁호_노랑.gif",
     "remoteBrain/_templater/Animal Crossing/유니오_노랑.gif",
