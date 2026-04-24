@@ -7,7 +7,7 @@
   ],
   "baseFontSizeAction": true,
   "baseFontSize": 18,
-  "monospaceFontFamily": "Cascadia Code",
+  "monospaceFontFamily": "JetBrains Mono",
   "textFontFamily": "그리운 묘은흘림체",
   "interfaceFontFamily": "그리운 묘은흘림체",
   "nativeMenus": false,
