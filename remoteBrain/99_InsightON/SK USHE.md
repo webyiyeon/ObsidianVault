@@ -1,4 +1,6 @@
-#### 6월 말 ~ 7월 초 선배포
+# 선배포
+
+#### 6월 말 ~ 7월 초 
 
 - [x] 작업허가서 #web #mobile
   - [x] 안전환경작업실시계획서 #web #mobile
@@ -36,19 +38,17 @@
   - [x] 모바일 Teams In App 설정 (siteCd, langCd)
 
 #### 배포 무관 변경점
-
 - [x] 협력사 포탈 회원가입 시 개인정보 동의 추가
   - [x] 회원가입/탈퇴 요청 → SHE 담당자 확인 → 승인 시 가입/탈퇴
 
 #### 일정
-
 - 6월 말: 선배포 및 1차 소스 전달
 - 7월: 양수석님 중국 교육 가능성 有
 - 7월 15일 ~ 8월 15일: 중국 산터우 작업
 - 8월 말 ~ 9월: 2차 소스 전달 (최종)
 - 10월: 울산공장, 산터우 교육
 
-#### 서버
+# 서버
 
 [인사이트온 SKMU / SHE_GEN2 사내 개발 서버](http://e3.insighton.co.kr:9000/loginError "http://e3.insighton.co.kr:9000/")
 
@@ -57,22 +57,24 @@ PW: 1q2w3e4r5t
 
 개발서버에 배포 시 커밋 후 해당 프로젝트 빌드만 눌러주면 됩니다.
 
-#### 운영일지작성 조회 쿼리 관련
-
-현재 데이터가 1:N 구성으로 되어있으나, 화면 단에서는 1:1인 것으로 판정
-일단 MAX 조인 해두었지만 차후 로직 변경 필요 가능성 有
-
 ## Jenkins 
 
 [[SK USHE Jenkins Build & Deploy]]
 
-## 가동 전 안전점검
+
+# 운영일지작성 조회 쿼리 관련
+
+현재 데이터가 1:N 구성으로 되어있으나, 화면 단에서는 1:1인 것으로 판정
+일단 MAX 조인 해두었지만 차후 로직 변경 필요 가능성 有
+
+
+# 가동 전 안전점검
 [[SK USHE 가동 전 안전점검]]
 
-## 출입자교육이수증
+# 출입자교육이수증
 - [ ] jasper 넣어주신 거 보고 데이터 매핑
 
-## 메일 발송 테스트 관련
+# 메일 발송 테스트 관련
 - [x] 안전점검 메일 로그 삽입 관련 오류 수정
 - [x] 메일 발송 배치 테스트
 ```
@@ -81,7 +83,7 @@ SET sendem = 'ushe@skchemicals.com'
 WHERE sendem != 'ushe@skchemicals.com'
 ```
 
-## JSA 검색 조건 관련
+# JSA 검색 조건 관련
 
 - 데이터 마이그레이션 과정에서 create_user_id가 일부 user_log_id(user_id를 암호화한 값)로 설정되어있는 현상  
   ⇒ GSHE 데이터와 user 정보가 100% 동일하지 않기 때문에 (HR 배치 관련) 검색 안 될 시, create_user_id 업데이트 치기
@@ -93,9 +95,10 @@ WHERE sendem != 'ushe@skchemicals.com'
   ON C1S0103010_01.create_user_id = E3_USER.USER_LOG_ID
   ```
 
-## ugac 로그
+# ugac 로그
 
 A1S1406000_01
+
 
 # 오픈
 
@@ -195,6 +198,7 @@ A1S1406000_01
 구she 에서 이관 시, 4000개 정도만 그대로 이관 가능
 4천개 정도의 갭이므로, 그 이후에는 새 seq 부여 필요
 
+
 ## SHA512
 
 자릿수 보기
@@ -252,134 +256,13 @@ VendorService
 
 
 # 보안성 검토
+[[SK USHE 보안성 검토]]
 
-## 서버 헤더정보 노출
-
-### 기본 설정으로 숨기기 (Apache는 두고 버전 정보만 숨김 처리)
-
-아마존 리눅스의 Apache 기본 설정 파일 경로: `/etc/httpd/conf/httpd.conf`
-
-설정 파일
-
-```
-sudo nano /etc/httpd/conf/httpd.conf
-sudo vi /etc/httpd/conf/httpd.conf
-```
-
-파일 끝에 추가 또는 수정
-
-- **`ServerTokens`**: 서버가 보낼 정보의 양을 조절합니다. `Prod`로 설정하면 "Apache"라고만 나옵니다.
-- **`ServerSignature`**: 에러 페이지 하단에 서버 정보를 표시할지 여부를 결정합니다.
-
-```
-# 서버 헤더에 소프트웨어 이름만 출력 (예: Server: Apache)
-ServerTokens Prod
-
-# 에러 페이지 하단에서 서버 버전 정보 제거
-ServerSignature Off
-```
-
-설정을 바꾼 후에는 반드시 서비스를 재시작해야 적용
-
-```
-# 문법 체크
-sudo httpd -t
-
-# 재시작
-sudo systemctl restart httpd
-
-# 확인
-curl -I localhost
-```
-
-문법 체크는 `Syntax OK`나오면 성공
-출력 결과 중 `Server: Apache` (버전 번호 없음) 만 나오는지 확인
-
-### mod_security를 이용해 헤더 숨기기
-
-mod_security 설치
-
-```
-# Amazon Linux 2 / AL2023
-sudo dnf install mod_security
-# 또는
-sudo yum install mod_security
-```
-
-설치 후 설정 파일을 열어 `ServerTokens`를 무시하고 헤더를 덮어쓰도록 설정
-
-- **파일 열기:** `sudo nano /etc/httpd/conf.d/mod_security.conf` (또는 `/etc/httpd/conf/httpd.conf`)
-- **내용 수정:** 파일 안에 `SecServerSignature` 항목을 찾아 아래와 같이 수정하거나 추가
-
-```
-# 기존 설정을 끄고 보안 엔진 활성화
-SecRuleEngine On
-
-# Server 헤더 내용을 빈 값이나 원하는 이름으로 변경
-SecServerSignature " "
-```
-
-빈값(`" "`)으로 설정하면 `Server:` 헤더 자체가 비어 보이게 되고, `"Unknown"` 등으로 적으면 해당 텍스트가 출력됨.
-
-적용 및 확인
-
-```
-# 문법 체크
-sudo httpd -t
-
-# 재시작
-sudo systemctl restart httpd
-
-# 확인
-curl -I localhost
-```
-
-## TinyMCE 버전 숨기기
-
-게시판의 Editor 역할을 하는 Library 중 TinyMCE
-`BoardEditor.jsx` 파일에서 아래 위치 확인 및 수정
-
-```
-import { Editor } from '@tinymce/tinymce-react';
-
-function BoardEditor() {
-  return (
-    <Editor
-      // ...기존에 작성된 apiKey 등의 설정들
-      init={{
-        height: 500,
-        menubar: true,
-        plugins: [ 'advlist', 'autolink', 'lists', 'link', 'image', 'charmap', 'preview' ],
-        toolbar: 'undo redo | formatselect | bold italic | alignleft aligncenter alignright',
-
-        // --- 여기서부터가 버전/브랜딩 숨기기 설정 ---
-        branding: false,   // 하단 'Powered by Tiny' 제거
-        promotion: false,  // 우측 상단 'Upgrade' 버튼 제거
-        help_accessibility: false, // (선택) 도움말 관련 안내 제거
-        // ---------------------------------------
-      }}
-    />
-  );
-}
-```
-
-⇒ 그러나 잘 안되었음
-그래서 `plugins`에서 `help` 항목 주석 처리, `toolbar`에서도 `help` 항목 주석 처리 진행
 
 # 환경 세팅
+[[SK USHE 환경 세팅]]
 
-## gradle 못 찾는 경우
-
-![[Pasted image 20260304171614.png]]
-
-폐쇄망에서 gradle 경로를 못 찾는 경우가 있음
-`.gradle` 에 있는 cache를 기존 다른 사용자의 cache로 채워준 다음, gradle 오프라인 옵션으로 실행
-
-```
-gradle --offline
-```
-
-# 작업허가서(new) 양식 변경 건
+# 신규 작업허가서 양식 변경 건
 
 [[SK USHE 신규 작업허가 (2026 03)]]
 
@@ -387,55 +270,6 @@ gradle --offline
 
 [[SK USHE 모의해킹 (2026 03)]]
 
+# 변경관리 & 가동 전 안전점검
 
-# 가동 전 안전점검
-
-## 1. 회의 개요
-
-- 일시: 2026. 4. 14.(월) 13:00 ~ 14:30
-- 안건: 가동전안전점검(신) 시스템 및 출력물 개선사항 정리
-
-## 2. 주요 논의 및 개선 요청 사항
-
-### 요청서
-
-- [x] 출력물에 점검분야 및 수신처에 ‘부서’ 항목 추가
-- [x] 요청서 출력물과 시스템 UI 간 불일치 항목 정합성 확보 (예: 요청서 상 점검팀장 승인 대상)
-- [x] 등급별 선정 기준 내용 수정 필요
-
-### 결과서 / 결과보고
-
-- [x] 결과서 출력물 번호 누락 보완 및 항목별 세션 분리
-- [ ] 점검팀원 정보에 부서, 팀명, 직급, 직책(팀장) 추가
-- [ ] 점검팀원에 기타 항목 추가 (요청서와 동일 기준)
-- [ ] ‘가동전안전점검일’ → ‘가동 전 안전점검일(실시)’로 명칭 변경
-- [ ] 시스템 상 점검결과요약 > 최종 영역→ 양식은 출력물 기준 유지, 데이터는 시스템의 적합/부적합 값 적용
-- [ ] 전체 탭 공통: 점검결과요약 > 변경관리 > 기타(마지막 줄) 삭제
-- [ ] 개선항목 중 개선계획(내용) 블라인드 처리
-
-### 조치결과
-
-- [ ] 출력물 내 ‘유틸리티’ → ‘소방시설’로 명칭 변경
-- [ ] 안전 및 공통사항 필수값 지정 필요
-- [ ] ‘안전운전절차서’ → '안전운전표준’으로 명칭 수정
-- [ ] 출력물에 점검결과 요약 대상 컬럼 추가
-- [ ] 개선항목 조치결과에 증빙자료(개선 후) 컬럼 필수 추가
-- [ ] 미완료 개선항목 컬럼 값 누락 문제→ 개선항목 조치결과와 동일한 컬럼 구조로 개선 필요
-- [ ] ‘미 완료 개선항목’ → ‘미완료 개선항목 조치결과’로 명칭 변경
-- [ ] 시스템 UI 상 ‘조치결과’ 표기→ 출력물 기준인 ‘개선항목 조치결과’로 텍스트 통일
-
-### 승인 탭
-
-- [ ] ‘가동게시일’ → ‘가동게시일(실시)’로 명칭 변경
-      (가동점검일자 기준)
-- [ ] 점검결과 판정 기준 변경 필요
-- [ ] 승인 탭 출력물 내 ‘가동 승인 결재’ 영역 Merge 처리
-
-### 기타
-
-- [ ] 가동전안전점검(신) 검색조건에 ‘부서’ 추가
-
-## 3. 향후 조치
-
-- [ ] 상기 사항 기준으로 시스템/UI 및 출력물 개선안 반영 예정
-- [ ] 세부 일정 및 반영 범위는 추후 별도 공유 드리겠습니다.
+[[SK USHE 변경관리 & 가동 전 안전점검 안정화 (2026 04)]]
