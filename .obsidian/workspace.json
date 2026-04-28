@@ -53,9 +53,19 @@
               "icon": "lucide-file",
               "title": "SK USHE 안정화 (2026 04)"
             }
+          },
+          {
+            "id": "d4a0d7fbce5d3c4a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -171,8 +181,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fb11976a0773cb58",
+  "active": "d4a0d7fbce5d3c4a",
   "lastOpenFiles": [
+    "remoteBrain/99_InsightON/SK USHE 안정화 (2026 04).md",
     "remoteBrain/99_InsightON/SK USHE 가동 전 안전점검 (2025).md",
     "remoteBrain/Daily-Docs/2026/04_April/2026-04-28 Tue.md",
     "remoteBrain/Daily-Docs/2026/04_April/2026-04-27 Mon.md",
@@ -180,7 +191,6 @@
     "remoteBrain/Daily-Docs/2026/04_April/2026-04-24 Fri.md",
     "remoteBrain/99_InsightON/SK USHE 환경 세팅.md",
     "remoteBrain/99_InsightON/SK USHE 보안성 검토 (2026 02).md",
-    "remoteBrain/99_InsightON/SK USHE 안정화 (2026 04).md",
     "remoteBrain/99_InsightON/SK USHE 오픈 직후 오류 (2025 12).md",
     "remoteBrain/99_InsightON/SK USHE.md",
     "remoteBrain/99_InsightON/SK USHE Jenkins Build & Deploy.md",
