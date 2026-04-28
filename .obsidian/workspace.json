@@ -58,10 +58,10 @@
             "id": "d4a0d7fbce5d3c4a",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "custom-frames-google-calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-calendar-heart",
+              "title": "Google Calendar"
             }
           }
         ],
