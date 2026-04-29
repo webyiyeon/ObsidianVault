@@ -269,4 +269,4 @@ VendorService
 [[SK USHE 모의해킹 (2026 03)]]
 
 # 변경관리 & 가동 전 안전점검
-[[SK USHE 안정화 (2026 04)]]
+[[SK USHE PSM 안정화 (2026 04)]]
