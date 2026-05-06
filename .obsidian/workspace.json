@@ -58,14 +58,14 @@
             "id": "a51c43626bce3c0e",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "custom-frames-google-calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-calendar-heart",
+              "title": "Google Calendar"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,10 +181,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "228200174b7a4637",
+  "active": "ec8d9ef23ce8fc44",
   "lastOpenFiles": [
-    "remoteBrain/Report/2026/03_March.md",
     "remoteBrain/Report/2026/04_April.md",
+    "remoteBrain/Report/2026/03_March.md",
     "remoteBrain/Report/2026/02_February.md",
     "remoteBrain/Report/2026/05_May.md",
     "remoteBrain/Daily-Docs/2026/05_May/2026-05-06 Wed.md",
