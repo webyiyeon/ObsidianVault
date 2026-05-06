@@ -43,14 +43,19 @@
             "id": "cc10db4c09c8e3a5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Report/2026/05_May.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "05_May"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,14 +171,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cc10db4c09c8e3a5",
+  "active": "6e1c6c1c58b8e4f0",
   "lastOpenFiles": [
+    "remoteBrain/Report/2026/05_May.md",
+    "remoteBrain/Report/2026/04_April.md",
     "remoteBrain/Daily-Docs/2026/05_May/2026-05-06 Wed.md",
     "remoteBrain/VisionBoard/2026.md",
-    "remoteBrain/Report/2026/04_April.md",
     "remoteBrain/Report/2026/03_March.md",
     "remoteBrain/Report/2026/02_February.md",
-    "remoteBrain/Report/2026/05_May.md",
     "remoteBrain/Daily-Docs/2026/05_May",
     "remoteBrain/99_InsightON/SK USHE PSM 안정화 (2026 04).md",
     "remoteBrain/99_InsightON/SK SHE MU.md",
