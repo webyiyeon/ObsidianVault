@@ -45,17 +45,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Report/2026/05_May.md",
+                "file": "remoteBrain/99_InsightON/SK USHE PSM 안정화 (2026 04).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "05_May"
+              "title": "SK USHE PSM 안정화 (2026 04)"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,11 +171,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6e1c6c1c58b8e4f0",
+  "active": "cc10db4c09c8e3a5",
   "lastOpenFiles": [
     "remoteBrain/Report/2026/05_May.md",
-    "remoteBrain/Report/2026/04_April.md",
     "remoteBrain/Daily-Docs/2026/05_May/2026-05-06 Wed.md",
+    "remoteBrain/Report/2026/04_April.md",
     "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/Report/2026/03_March.md",
     "remoteBrain/Report/2026/02_February.md",
