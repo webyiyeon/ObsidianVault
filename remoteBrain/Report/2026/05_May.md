@@ -69,47 +69,47 @@ TABLE WITHOUT ID
   choice(
     length(filter(file.tasks, (t) => contains(t.text, "독서") AND t.completed)) > 0,
     "✔️", ""
-  ) AS "read",
+  ) AS "read 📖",
 
   choice(
     length(filter(file.tasks, (t) => contains(t.text, "다이어리") AND t.completed)) > 0,
     "✔️", ""
-  ) AS "journal",
+  ) AS "journal 📓",
 
   choice(
     length(filter(file.tasks, (t) => contains(t.text, "정리정돈") AND t.completed)) > 0,
     "✔️", ""
-  ) AS "tidy up",
+  ) AS "tidy up 🧹",
 
   choice(
     length(filter(file.tasks, (t) => contains(t.text, "식사 기록") AND t.completed)) > 0,
     "✔️", ""
-  ) AS "log meals",
+  ) AS "log meals ✍️",
 
   choice(
     length(filter(file.tasks, (t) => contains(t.text, "산책") AND t.completed)) > 0,
     "✔️", ""
-  ) AS "walk after meals",
+  ) AS "walk after meals 🚶",
 
   choice(
     length(filter(file.tasks, (t) => contains(t.text, "운동") AND t.completed)) > 0,
     "✔️", ""
-  ) AS "workout",
+  ) AS "workout 🏋️",
 
   choice(
     length(filter(file.tasks, (t) => contains(t.text, "일본어") AND t.completed)) > 0,
     "✔️", ""
-  ) AS "Japanese study",
+  ) AS "Japanese study 🍡",
 
   choice(
     length(filter(file.tasks, (t) => contains(t.text, "블로그") AND t.completed)) > 0,
     "✔️", ""
-  ) AS "write blog",
+  ) AS "write blog 💻",
 
   choice(
-    length(filter(file.tasks, (t) => contains(t.text, "그림") AND t.completed)) > 0,
+    length(filter(file.tasks, (t) => contains(t.text, "드럼") AND t.completed)) > 0,
     "✔️", ""
-  ) AS "drawing practice"
+  ) AS "drum practice 🥁"
 
 FROM #routine
 WHERE file.folder = "remoteBrain/Daily-Docs/2026/05_May"
