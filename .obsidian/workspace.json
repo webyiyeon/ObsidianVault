@@ -53,9 +53,24 @@
               "icon": "lucide-file",
               "title": "SK SHE MU"
             }
+          },
+          {
+            "id": "4080b7bf87dd32ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2026/05_May/2026-05-11 Mon.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-11 Mon"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -152,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5,
-    "collapsed": true
+    "width": 259.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,15 +185,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "55fd167331eee67f",
+  "active": "4080b7bf87dd32ff",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2026/05_May/2026-05-10 Sun.md",
+    "remoteBrain/Daily-Docs/2026/05_May/2026-05-09 Sat.md",
+    "remoteBrain/Daily-Docs/2026/05_May/2026-05-08 Fri.md",
+    "remoteBrain/Daily-Docs/2026/05_May/2026-05-11 Mon.md",
+    "remoteBrain/99_InsightON/SK SHE MU.md",
     "remoteBrain/99_InsightON/SK USHE PSM 안정화 (2026 04).md",
     "remoteBrain/99_InsightON/SK USHE 보안성 검토 (2026 02).md",
     "remoteBrain/99_InsightON/SK USHE 모의해킹 (2026 03).md",
     "remoteBrain/99_InsightON/SK USHE.md",
     "remoteBrain/99_InsightON/SK USHE 환경 세팅.md",
-    "remoteBrain/Daily-Docs/2026/05_May/2026-05-11 Mon.md",
-    "remoteBrain/Daily-Docs/2026/05_May/2026-05-08 Fri.md",
     "remoteBrain/Daily-Docs/2026/05_May/2026-05-07 Thu.md",
     "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/Daily-Docs/2026/05_May/2026-05-06 Wed.md",
@@ -190,7 +207,6 @@
     "remoteBrain/Report/2026/03_March.md",
     "remoteBrain/Report/2026/02_February.md",
     "remoteBrain/Daily-Docs/2026/05_May",
-    "remoteBrain/99_InsightON/SK SHE MU.md",
     "remoteBrain/99_InsightON/SK USHE 가동 전 안전점검 (2025).md",
     "remoteBrain/Daily-Docs/2026/04_April/2026-04-29 Wed.md",
     "remoteBrain/Daily-Docs/2026/04_April/2026-04-28 Tue.md",
@@ -198,8 +214,6 @@
     "remoteBrain/Daily-Docs/2026/04_April/2026-04-27 Mon.md",
     "remoteBrain/Daily-Docs/2026/04_April/2026-04-24 Fri.md",
     "remoteBrain/99_InsightON/SK USHE 오픈 직후 오류 (2025 12).md",
-    "remoteBrain/99_InsightON/SK USHE 신규 작업허가 (2026 03).md",
-    "remoteBrain/99_InsightON/LIMS (종료-불참).md",
     "remoteBrain/Daily-Docs/Images/Pasted image 20260423174403.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20260423174357.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20260423174350.png",
