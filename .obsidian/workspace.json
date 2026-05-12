@@ -45,13 +45,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2026/05_May/2026-05-09 Sat.md",
+                "file": "remoteBrain/Daily-Docs/2026/05_May/2026-05-12 Tue.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-09 Sat"
+              "title": "2026-05-12 Tue"
             }
           }
         ],
@@ -172,13 +172,15 @@
   },
   "active": "a166902d8d199c66",
   "lastOpenFiles": [
+    "remoteBrain/_templater/daily.md",
+    "remoteBrain/Daily-Docs/2026/05_May/2026-05-12 Tue.md",
+    "remoteBrain/_templater/Monthly.md",
+    "remoteBrain/Daily-Docs/2026/05_May/2026-05-11 Mon.md",
     "remoteBrain/Daily-Docs/2026/05_May/2026-05-10 Sun.md",
     "remoteBrain/Daily-Docs/2026/05_May/2026-05-09 Sat.md",
     "remoteBrain/Report/2026/05_May.md",
     "remoteBrain/Report/2026/04_April.md",
-    "remoteBrain/Daily-Docs/2026/05_May/2026-05-12 Tue.md",
     "remoteBrain/_templater/Monthly (2025).md",
-    "remoteBrain/_templater/Monthly.md",
     "remoteBrain/99_InsightON/SK SHE MU.md",
     "remoteBrain/_templater/Python Test.md",
     "remoteBrain/_templater/website.md",
@@ -189,13 +191,11 @@
     "remoteBrain/99_InsightON/SK USHE 신규 작업허가 (2026 03).md",
     "remoteBrain/99_InsightON/SK USHE 보안성 검토 (2026 02).md",
     "remoteBrain/99_InsightON/SK USHE 모의해킹 (2026 03).md",
-    "remoteBrain/Daily-Docs/2026/05_May/2026-05-11 Mon.md",
     "remoteBrain/Daily-Docs/2026/05_May/2026-05-08 Fri.md",
     "remoteBrain/99_InsightON/SK USHE.md",
     "remoteBrain/Daily-Docs/2026/05_May/2026-05-07 Thu.md",
     "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/Daily-Docs/2026/05_May/2026-05-06 Wed.md",
-    "remoteBrain/_templater/daily.md",
     "remoteBrain/Report/2026/03_March.md",
     "remoteBrain/Report/2026/02_February.md",
     "remoteBrain/Daily-Docs/2026/05_May",

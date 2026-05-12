@@ -43,7 +43,7 @@ navigation: false
 showAllDay: true
 hourRange: [8, 24]
 offset: -2
-include: ["Default", "Todoist", "Korea", "Work", "Study", "Game"]
+include: ["Default", "Todoist", "Korea", "Work", "Study", "Game", "공연", "가족", "Korea"]
 timespan: 7
 ```
 
