@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2025/06_June/2025-06-04 Wed.md",
+                "file": "remoteBrain/Daily-Docs/2026/05_May/2026-05-29 Fri.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-04 Wed"
+              "title": "2026-05-29 Fri"
             }
           },
           {
@@ -55,7 +55,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 292.5,
+    "collapsed": true
   },
   "right": {
     "id": "e1f0c7632e67bdc4",
@@ -170,8 +171,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e0cd7ee134df37c4",
+  "active": "ed7a218b3192c731",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2025/06_June/2025-06-04 Wed.md",
+    "remoteBrain/Daily-Docs/2026/05_May/2026-05-29 Fri.md",
     "remoteBrain/99_InsightON/SK USHE.md",
     "remoteBrain/99_InsightON/SK USHE 환경 세팅.md",
     "remoteBrain/99_InsightON/SK USHE 모의해킹 (2026 03).md",
@@ -196,8 +199,6 @@
     "remoteBrain/Daily-Docs/2026/05_May/2026-05-11 Mon.md",
     "remoteBrain/Daily-Docs/2026/05_May/2026-05-10 Sun.md",
     "remoteBrain/Daily-Docs/2026/05_May/2026-05-09 Sat.md",
-    "remoteBrain/Report/2026/05_May.md",
-    "remoteBrain/Report/2026/04_April.md",
     "remoteBrain/Daily-Docs/2026/05_May",
     "remoteBrain/Daily-Docs/Images/Pasted image 20260423174403.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20260423174357.png",
