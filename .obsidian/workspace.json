@@ -103,13 +103,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2026/05_May/2026-05-19 Tue.md",
+                "file": "remoteBrain/Report/2026/05_May.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-05-19 Tue"
+              "title": "Outline of 05_May"
             }
           },
           {
@@ -132,12 +132,12 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 259.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
