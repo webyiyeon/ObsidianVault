@@ -1,6 +1,6 @@
-##### 임직원 포탈
+# 임직원 포탈
 
-###### backend-java
+## backend-java
 
 - spring profiles를 WAS 서버의 service 설정에 삽입 `--spring.profiles.active=prod` / `--spring.profiles.active=staging`
   - 경로: `/etc/systemd/system/`
@@ -23,7 +23,7 @@
   - Include Files: build/libs/, appspec.yml, start-deploy.sh
   - Use Access/Secret Key
 
-###### frontend-react
+## frontend-react
 
 - 매개변수: SLAVE-JAVA
 - Git 연동: bitbucket/scm/ushe/frontend-react.git, i24474
@@ -47,9 +47,9 @@
   - Include Files: build/, appspec.yml, start-deploy.sh
   - Use Access/Secret Key
 
-##### 임직원 모바일 포탈(teams in app) ==개발 서버 없음==
+# 임직원 모바일 포탈(teams in app) ==개발 서버 없음==
 
-###### backend-mobile-java
+## backend-mobile-java
 
 - spring profiles를 WAS 서버의 service 설정에 삽입 `--spring.profiles.active=prodm`
   - 경로: `/etc/systemd/system/
@@ -74,7 +74,7 @@
   - Include Files: build/libs/, appspec.yml, start-deploy-mobile.sh
   - Use Access/Secret Key
 
-###### frontend-mobile-react
+## frontend-mobile-react
 
 - 매개변수: SLAVE-JAVA
 - Git 연동: bitbucket/scm/ushe/frontend-react.git, i24474
@@ -99,9 +99,9 @@
   - Include Files: build/, appspec.yml, start-deploy.sh
   - Use Access/Secret Key
 
-##### 협력사 포탈
+# 협력사 포탈
 
-###### backend-partner-java
+## backend-partner-java
 
 - spring profiles를 WAS 서버의 service 설정에 삽입 `--spring.profiles.active=prodp` / `--spring.profiles.active=stagingp`
   - 경로: `/etc/systemd/system/
@@ -126,7 +126,7 @@
   - Include Files: build/libs/, appspec.yml, start-deploy-partner.sh
   - Use Access/Secret Key
 
-###### frontend-partner-react
+## frontend-partner-react
 
 - 매개변수: SLAVE-JAVA
 - Git 연동: bitbucket/scm/ushe/frontend-react.git, i24474
@@ -152,14 +152,12 @@
   - Use Access/Secret Key
 
 
-##### frontend 빌드 중에 라이브러리 추가 되었을 때 
-```
+## frontend 빌드 중에 라이브러리 추가 되었을 때 
+```bash
 dir /s /b .\html2canvas*
-
 # 경로 확인
 
 move ".\html2canvas" "c:\workspace\ushe\GODO_frontend-react\node_modules\html2canvas"
-
 # 이동 
 ```
 - `html2canvas`: 라이브러리(모듈) 이름
