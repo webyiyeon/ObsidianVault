@@ -150,3 +150,17 @@
   - S3 Prefix: she-bp/${BUILD_NUMBER}
   - Include Files: build/, appspec.yml, start-deploy.sh
   - Use Access/Secret Key
+
+
+##### frontend 빌드 중에 라이브러리 추가 되었을 때 
+```
+dir /s /b .\html2canvas*
+
+# 경로 확인
+
+move ".\html2canvas" "c:\workspace\ushe\GODO_frontend-react\node_modules\html2canvas"
+
+# 이동 
+```
+- `html2canvas`: 라이브러리(모듈) 이름
+- `GODO_frontend-react`: 젠킨스 이름 
