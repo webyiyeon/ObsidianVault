@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/_templater/daily.md",
+                "file": "remoteBrain/Daily-Docs/2026/06_June/2026-06-02 Tue.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "daily"
+              "title": "2026-06-02 Tue"
             }
           },
           {
@@ -45,17 +45,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2026/05_May/2026-05-31 Sun.md",
+                "file": "remoteBrain/Report/2026/04_April.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-31 Sun"
+              "title": "04_April"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,13 +118,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2026/05_May/2026-05-31 Sun.md",
+                "file": "remoteBrain/Daily-Docs/2026/06_June/2026-06-02 Tue.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-05-31 Sun"
+              "title": "Outline of 2026-06-02 Tue"
             }
           },
           {
@@ -170,11 +170,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "05a48440f6a94088",
+  "active": "de71e42a9f1bb285",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2026/06_June/2026-06-01 Mon.md",
-    "remoteBrain/Daily-Docs/2026/05_May/2026-05-31 Sun.md",
+    "remoteBrain/_templater/daily.md",
+    "remoteBrain/Report/2026/04_April.md",
+    "remoteBrain/Report/2026/05_May.md",
     "remoteBrain/Daily-Docs/2026/06_June/2026-06-02 Tue.md",
+    "remoteBrain/Daily-Docs/2026/05_May/2026-05-31 Sun.md",
+    "remoteBrain/Daily-Docs/2026/06_June/2026-06-01 Mon.md",
     "remoteBrain/Daily-Docs/2026/05_May/2026-05-28 Thu.md",
     "remoteBrain/Daily-Docs/2026/05_May/2026-05-12 Tue.md",
     "remoteBrain/Daily-Docs/2026/05_May/2026-05-11 Mon.md",
@@ -182,12 +185,10 @@
     "remoteBrain/Daily-Docs/2026/05_May/2026-05-08 Fri.md",
     "remoteBrain/Daily-Docs/2026/05_May/2026-05-07 Thu.md",
     "remoteBrain/Daily-Docs/2026/05_May/2026-05-26 Tue.md",
-    "remoteBrain/_templater/daily.md",
     "remoteBrain/Daily-Docs/2026/06_June",
     "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/Daily-Docs/2026/05_May/2026-05-29 Fri.md",
     "remoteBrain/99_InsightON/SK USHE Jenkins Build & Deploy.md",
-    "remoteBrain/Report/2026/05_May.md",
     "remoteBrain/Daily-Docs/2025/06_June/2025-06-04 Wed.md",
     "remoteBrain/99_InsightON/SK USHE.md",
     "remoteBrain/99_InsightON/SK USHE 환경 세팅.md",
@@ -198,7 +199,6 @@
     "remoteBrain/99_InsightON/SK USHE 가동 전 안전점검 (2025).md",
     "remoteBrain/Daily-Docs/2026/05_May/2026-05-27 Wed.md",
     "remoteBrain/Daily-Docs/2026/05_May/2026-05-22 Fri.md",
-    "remoteBrain/Daily-Docs/2026/05_May/2026-05-20 Wed.md",
     "remoteBrain/Daily-Docs/2026/05_May",
     "remoteBrain/Daily-Docs/Images/Pasted image 20260423174403.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20260423174357.png",
