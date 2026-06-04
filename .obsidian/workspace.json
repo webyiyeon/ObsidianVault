@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "certificate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -155,7 +156,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9f0c2ab9959294e1",
+  "active": "d32b7eed32765a08",
   "lastOpenFiles": [
     "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/Daily-Docs/2026/06_June/2026-06-02 Tue.md",
