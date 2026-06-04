@@ -13,3 +13,13 @@ gradle --offline
 `.m2` 폴더도 이전에 사용했던 폴더로 덮어쓰기 해줄 것
 
 
+## 환경변수
+시스템 변수(S)
+`JAVA_HOME` `C:\jdk-17.0.12`
+
+사용자 변수
+- Path
+	`%JAVA_HOME%\bin`
+	`C:\gradle-7.6.1\bin`
+	`C:\node-v20.18.0-win-x64`
+
