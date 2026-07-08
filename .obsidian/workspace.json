@@ -23,24 +23,8 @@
               "icon": "lucide-file",
               "title": "2026"
             }
-          },
-          {
-            "id": "7e7e883cb70814d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remoteBrain/Daily-Docs/2026/07_July/2026-07-01 Wed.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-07-01 Wed"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,10 +139,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7e7e883cb70814d0",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/Daily-Docs/2026/07_July/2026-07-01 Wed.md",
+    "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/Daily-Docs/2026/07_July",
     "remoteBrain/Daily-Docs/2026/06_June/2026-06-29 Mon.md",
     "remoteBrain/Daily-Docs/2026/06_June/2026-06-25 Thu.md",
