@@ -9,7 +9,7 @@
   "baseFontSize": 18,
   "monospaceFontFamily": "JetBrains Mono,D2Coding",
   "textFontFamily": "그리운 묘은흘림체",
-  "interfaceFontFamily": "그리운 묘은흘림체",
+  "interfaceFontFamily": "나눔고딕,그리운 묘은흘림체",
   "nativeMenus": false,
   "accentColor": "",
   "showViewHeader": true,
