@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2026/07_July/2026-07-20 Mon.md",
+                "file": "remoteBrain/99_InsightON/대한유화 SHE/회의록_SH시스템_20260715(보건관리)_초안.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-20 Mon"
+              "title": "회의록_SH시스템_20260715(보건관리)_초안"
             }
           }
         ],
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"remoteBrain/99_InsightON/대한유화 SHE/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,13 +103,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2026/07_July/2026-07-20 Mon.md",
+                "file": "remoteBrain/99_InsightON/대한유화 SHE/회의록_SH시스템_20260715(보건관리)_초안.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-07-20 Mon"
+              "title": "Outline of 회의록_SH시스템_20260715(보건관리)_초안"
             }
           },
           {
@@ -156,10 +156,11 @@
   },
   "active": "d2d846345c2720fd",
   "lastOpenFiles": [
-    "remoteBrain/VisionBoard/2026.md",
-    "remoteBrain/Daily-Docs/2026/07_July/2026-07-20 Mon.md",
-    "remoteBrain/Daily-Docs/2026/07_July/2026-07-19 Sun.md",
     "remoteBrain/99_InsightON/대한유화 SHE/보건 (2026-07-15).md",
+    "remoteBrain/99_InsightON/대한유화 SHE/회의록_SH시스템_20260715(보건관리)_초안.md",
+    "remoteBrain/Daily-Docs/2026/07_July/2026-07-20 Mon.md",
+    "remoteBrain/VisionBoard/2026.md",
+    "remoteBrain/Daily-Docs/2026/07_July/2026-07-19 Sun.md",
     "remoteBrain/99_InsightON/대한유화 SHE",
     "remoteBrain/Daily-Docs/2026/07_July/2026-07-16 Thu.md",
     "Excalidraw/Drawing 2026-07-16 13.31.53.excalidraw.md",
@@ -184,7 +185,6 @@
     "remoteBrain/Daily-Docs/2026/06_June/2026-06-06 Sat.md",
     "Blog/Tistory/철따라/여행",
     "remoteBrain/Daily-Docs/2026/06_June/2026-06-02 Tue.md",
-    "remoteBrain/_templater/daily.md",
     "remoteBrain/Daily-Docs/2026/06_June",
     "remoteBrain/Daily-Docs/2026/05_May",
     "remoteBrain/Daily-Docs/Images/Pasted image 20260423174403.png",
