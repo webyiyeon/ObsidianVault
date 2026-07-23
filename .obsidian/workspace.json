@@ -23,8 +23,24 @@
               "icon": "lucide-file",
               "title": "2026"
             }
+          },
+          {
+            "id": "16f04106305cf128",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2026/07_July/2026-07-23 Thu.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-23 Thu"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,13 +103,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/VisionBoard/2026.md",
+                "file": "remoteBrain/Daily-Docs/2026/07_July/2026-07-23 Thu.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026"
+              "title": "Outline of 2026-07-23 Thu"
             }
           },
           {
@@ -138,8 +154,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "16f04106305cf128",
   "lastOpenFiles": [
+    "remoteBrain/VisionBoard/2026.md",
+    "remoteBrain/Daily-Docs/2026/07_July/2026-07-23 Thu.md",
     "remoteBrain/Daily-Docs/2026/07_July/2026-07-22 Wed.md",
     "remoteBrain/Report/2026/01_January.md",
     "remoteBrain/Report/2026/02_February.md",
@@ -151,7 +169,6 @@
     "remoteBrain/99_InsightON/대한유화 SHE/회의록_SH시스템_20260715(보건관리)_초안.md",
     "remoteBrain/99_InsightON/대한유화 SHE/보건 (2026-07-15).md",
     "Blog/Tistory/Obsidian/Obisidan Markdown.md",
-    "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/Daily-Docs/2026/07_July/2026-07-20 Mon.md",
     "remoteBrain/Daily-Docs/2026/07_July/2026-07-19 Sun.md",
     "remoteBrain/99_InsightON/대한유화 SHE",
@@ -167,7 +184,6 @@
     "remoteBrain/Daily-Docs/2026/06_June/2026-06-25 Thu.md",
     "remoteBrain/Daily-Docs/2026/06_June/2026-06-24 Wed.md",
     "remoteBrain/99_InsightON/SK USHE.md",
-    "remoteBrain/Daily-Docs/2026/06_June/2026-06-22 Mon.md",
     "Blog/Tistory/철따라/여행",
     "remoteBrain/Daily-Docs/2026/06_June",
     "remoteBrain/Daily-Docs/2026/05_May",
