@@ -23,8 +23,24 @@
               "icon": "lucide-file",
               "title": "2026"
             }
+          },
+          {
+            "id": "ff5fcc275061f58c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2026/07_July/2026-07-30 Thu.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-30 Thu"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,13 +103,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/VisionBoard/2026.md",
+                "file": "remoteBrain/Daily-Docs/2026/07_July/2026-07-30 Thu.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026"
+              "title": "Outline of 2026-07-30 Thu"
             }
           },
           {
@@ -138,10 +154,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "ff5fcc275061f58c",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2026/07_July/2026-07-29 Wed.md",
     "remoteBrain/VisionBoard/2026.md",
+    "remoteBrain/Daily-Docs/2026/07_July/2026-07-30 Thu.md",
+    "remoteBrain/Daily-Docs/2026/07_July/2026-07-29 Wed.md",
     "remoteBrain/Daily-Docs/2026/07_July/2026-07-28 Tue.md",
     "remoteBrain/Daily-Docs/2026/07_July/2026-07-27 Mon.md",
     "remoteBrain/DDR/POS.md",
@@ -166,7 +183,6 @@
     "Excalidraw/Drawing 2026-07-16 13.31.53.excalidraw.md",
     "Excalidraw/Drawing 2026-07-16 13.31.16.excalidraw.md",
     "remoteBrain/Daily-Docs/2026/07_July/2026-07-13 Mon.md",
-    "remoteBrain/99_InsightON/SK USHE Jenkins Build & Deploy.md",
     "remoteBrain/Daily-Docs/2026/07_July",
     "Blog/Tistory/철따라/여행",
     "remoteBrain/Daily-Docs/2026/06_June",
