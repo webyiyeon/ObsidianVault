@@ -25,18 +25,18 @@
             }
           },
           {
-            "id": "ff5fcc275061f58c",
+            "id": "2d0509599679c791",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/99_InsightON/SK USHE PSM 안정화 (2026 04).md",
+                "file": "remoteBrain/Daily-Docs/2026/08_August/2026-08-05 Wed.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "SK USHE PSM 안정화 (2026 04)"
+              "title": "2026-08-05 Wed"
             }
           }
         ],
@@ -103,13 +103,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/99_InsightON/SK USHE PSM 안정화 (2026 04).md",
+                "file": "remoteBrain/Daily-Docs/2026/08_August/2026-08-05 Wed.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SK USHE PSM 안정화 (2026 04)"
+              "title": "Outline of 2026-08-05 Wed"
             }
           },
           {
@@ -154,14 +154,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ff5fcc275061f58c",
+  "active": "2d0509599679c791",
   "lastOpenFiles": [
+    "remoteBrain/VisionBoard/2026.md",
+    "remoteBrain/Daily-Docs/2026/08_August/2026-08-05 Wed.md",
+    "remoteBrain/Daily-Docs/2026/08_August",
+    "remoteBrain/99_InsightON/SK USHE PSM 안정화 (2026 04).md",
     "remoteBrain/99_InsightON/SK USHE Jenkins Build & Deploy.md",
     "remoteBrain/99_InsightON/SK USHE 환경 세팅.md",
     "remoteBrain/99_InsightON/SK USHE 오픈 직후 오류 (2025 12).md",
     "Blog/Tistory/철따라/31, 아이스크림 말고 인생의 맛.md",
     "remoteBrain/Daily-Docs/2026/07_July/2026-07-30 Thu.md",
-    "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/Daily-Docs/2026/07_July/2026-07-29 Wed.md",
     "remoteBrain/Daily-Docs/2026/07_July/2026-07-28 Tue.md",
     "remoteBrain/Daily-Docs/2026/07_July/2026-07-27 Mon.md",
@@ -180,8 +183,6 @@
     "remoteBrain/Report/2026/07_July.md",
     "remoteBrain/99_InsightON/대한유화 SHE/회의록_SH시스템_20260715(보건관리)_초안.md",
     "Blog/Tistory/Obsidian/Obisidan Markdown.md",
-    "remoteBrain/Daily-Docs/2026/07_July/2026-07-20 Mon.md",
-    "remoteBrain/Daily-Docs/2026/07_July/2026-07-19 Sun.md",
     "remoteBrain/99_InsightON/대한유화 SHE",
     "remoteBrain/Daily-Docs/2026/07_July",
     "Blog/Tistory/철따라/여행",
@@ -200,7 +201,6 @@
     "remoteBrain/_templater/Animal Crossing/탁호_노랑.gif",
     "remoteBrain/_templater/Animal Crossing/유니오_노랑.gif",
     "remoteBrain/_templater/Animal Crossing",
-    "remoteBrain/Daily-Docs/2026/04_April",
-    "remoteBrain/Daily-Docs/2026/03_3월"
+    "remoteBrain/Daily-Docs/2026/04_April"
   ]
 }
