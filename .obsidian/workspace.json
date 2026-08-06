@@ -25,18 +25,15 @@
             }
           },
           {
-            "id": "2d0509599679c791",
+            "id": "aef36f8b1992edf5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2026/08_August/2026-08-05 Wed.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "currentVersion": "1.13.4"
               },
-              "icon": "lucide-file",
-              "title": "2026-08-05 Wed"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.4"
             }
           }
         ],
@@ -60,7 +57,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -103,13 +102,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2026/08_August/2026-08-05 Wed.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-08-05 Wed"
+              "title": "Outline"
             }
           },
           {
@@ -154,7 +152,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2d0509599679c791",
+  "active": "aef36f8b1992edf5",
   "lastOpenFiles": [
     "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/Daily-Docs/2026/08_August/2026-08-05 Wed.md",
