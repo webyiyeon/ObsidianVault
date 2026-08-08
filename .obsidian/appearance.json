@@ -6,10 +6,10 @@
     "walktogether-font"
   ],
   "baseFontSizeAction": true,
-  "baseFontSize": 17,
+  "baseFontSize": 15,
   "monospaceFontFamily": "JetBrains Mono,D2Coding",
-  "textFontFamily": "그리운 묘은흘림체,나눔고딕",
-  "interfaceFontFamily": "그리운 묘은흘림체,나눔고딕",
+  "textFontFamily": "D2Coding,나눔고딕,그리운 묘은흘림체",
+  "interfaceFontFamily": "D2Coding,나눔고딕,그리운 묘은흘림체",
   "nativeMenus": false,
   "accentColor": "",
   "showViewHeader": true,
