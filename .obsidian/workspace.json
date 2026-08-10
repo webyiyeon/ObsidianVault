@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 292.5
   },
   "right": {
     "id": "e1f0c7632e67bdc4",
@@ -160,10 +159,10 @@
   },
   "active": "a9e4a7327acd4139",
   "lastOpenFiles": [
-    "remoteBrain/VisionBoard/2026.md",
-    "remoteBrain/99_InsightON/대한유화 SHE/변경관리 (2026-08-07).md",
     "remoteBrain/99_InsightON/대한유화 SHE/보건 (2026-07-23).md",
     "remoteBrain/99_InsightON/대한유화 SHE/보건 (2026-07-15).md",
+    "remoteBrain/99_InsightON/대한유화 SHE/변경관리 (2026-08-07).md",
+    "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/Daily-Docs/2026/08_August/2026-08-07 Fri.md",
     "remoteBrain/Daily-Docs/2026/08_August/2026-08-05 Wed.md",
     "remoteBrain/Daily-Docs/2026/08_August/2026-08-06 Thu.md",
