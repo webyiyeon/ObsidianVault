@@ -1,6 +1,6 @@
 {
   "theme": "system",
-  "cssTheme": "",
+  "cssTheme": "Things",
   "enabledCssSnippets": [
     "walktogether",
     "walktogether-font"
