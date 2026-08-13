@@ -106,7 +106,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "천창",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -189,7 +190,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d5fa7f9f2145c7a6",
+  "active": "d32b7eed32765a08",
   "lastOpenFiles": [
     "remoteBrain/99_InsightON/대한유화 SHE/보건 (2026-07-15).md",
     "remoteBrain/99_InsightON/대한유화 SHE/변경관리 (2026-08-12).md",
