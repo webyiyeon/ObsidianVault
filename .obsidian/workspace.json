@@ -30,13 +30,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/99_InsightON/대한유화 SHE/2026-08-24 공통 협의.md",
+                "file": "remoteBrain/01_Traveler/2026 Tokyo/Flight.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-24 공통 협의"
+              "title": "Flight"
+            }
+          },
+          {
+            "id": "fc7d44ba7432eb9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/01_Traveler/2026 Tokyo/00.TOKYO ⛩️.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "00.TOKYO ⛩️"
             }
           }
         ],
@@ -161,19 +176,25 @@
   },
   "active": "25063caa2d297ac0",
   "lastOpenFiles": [
-    "remoteBrain/VisionBoard/2026.md",
+    "remoteBrain/01_Traveler/2026 Tokyo/Files/RECEIPT_enclosed.pdf",
+    "remoteBrain/01_Traveler/2026 Tokyo/Files/E-Ticket.pdf",
+    "remoteBrain/01_Traveler/2026 Tokyo/Files/기모노 바우처.pdf",
+    "remoteBrain/01_Traveler/2026 Tokyo/Files",
+    "remoteBrain/01_Traveler/2026 Tokyo/01.📃비짓재팬웹.md",
+    "remoteBrain/01_Traveler/2026 Tokyo/01.👘아사쿠사 기모노 대여 (예약 완료).md",
+    "remoteBrain/01_Traveler/2026 Tokyo/01.🏠호텔 마루타니 (예약 완료).md",
+    "remoteBrain/01_Traveler/2026 Tokyo/01.🎀퓨로랜드 (예약완료).md",
+    "remoteBrain/01_Traveler/2026 Tokyo/01.🎡해리포터 스튜디오 (예약 완료).md",
+    "remoteBrain/01_Traveler/2026 Tokyo/00.TOKYO ⛩️.md",
     "remoteBrain/99_InsightON/대한유화 SHE/2026-08-24 공통 협의.md",
+    "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/99_InsightON/대한유화 SHE/2026-08-25 To Do List.md",
     "remoteBrain/99_InsightON/대한유화 SHE/산업안전 (2026-08-19).md",
     "remoteBrain/99_InsightON/대한유화 SHE/2026-08-21 주간회의.md",
-    "remoteBrain/01_Traveler/Tokyo/🏠호텔 마루타니 (예약 완료).md",
-    "remoteBrain/01_Traveler/Tokyo/퓨로랜드.jpg",
-    "remoteBrain/01_Traveler/Tokyo/E-Ticket.pdf",
-    "remoteBrain/01_Traveler/Tokyo/Flight.md",
-    "remoteBrain/01_Traveler/Tokyo/주일본 대한민국 대사관.md",
-    "remoteBrain/01_Traveler/Tokyo/TOKYO ⛩️.md",
-    "remoteBrain/01_Traveler/Tokyo/RECEIPT_enclosed.pdf",
-    "remoteBrain/01_Traveler/Tokyo/스카이라이너(기차)+지하철 바우처.pdf",
+    "remoteBrain/01_Traveler/2026 Tokyo/Files/퓨로랜드.jpg",
+    "remoteBrain/01_Traveler/2026 Tokyo/Flight.md",
+    "remoteBrain/01_Traveler/2026 Tokyo/주일본 대한민국 대사관.md",
+    "remoteBrain/01_Traveler/2026 Tokyo/Files/스카이라이너(기차)+지하철 바우처.pdf",
     "remoteBrain/Daily-Docs/2026/08_August/2026-08-24 Mon.md",
     "Untitled",
     "remoteBrain/Daily-Docs/2026/08_August/2026-08-21 Fri.md",
@@ -187,17 +208,11 @@
     "remoteBrain/Daily-Docs/2026/08_August/2026-08-15 Sat.md",
     "remoteBrain/99_InsightON/대한유화 SHE/소방 (2026-07-31).md",
     "remoteBrain/Daily-Docs/2026/08_August/2026-08-14 Fri.md",
-    "remoteBrain/99_InsightON/대한유화 SHE/변경관리 (2026-08-12).md",
-    "remoteBrain/99_InsightON/대한유화 SHE/변경관리 (2026-08-07).md",
-    "remoteBrain/Report/2026/08_August.md",
-    "remoteBrain/Daily-Docs/2026/08_August/2026-08-13 Thu.md",
-    "remoteBrain/Daily-Docs/2026/08_August/2026-08-12 Wed.md",
     "remoteBrain/Daily-Docs/2026/08_August",
     "remoteBrain/99_InsightON/대한유화 SHE",
     "remoteBrain/Daily-Docs/2026/07_July",
     "Blog/Tistory/철따라/여행",
     "remoteBrain/Daily-Docs/2026/06_June",
-    "remoteBrain/Daily-Docs/2026/05_May",
     "remoteBrain/Daily-Docs/Images/Pasted image 20260423174403.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20260423174357.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20260423174350.png",
