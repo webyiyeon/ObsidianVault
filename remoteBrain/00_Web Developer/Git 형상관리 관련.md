@@ -4,6 +4,7 @@
 # 특정 커밋 상태로 되돌림 (기존 변경사항 삭제됨)
 git reset --hard <commit-hash>  
 
+# 강제로 원격 브랜치 덮어쓰기
 git push origin HEAD --force  
 ```
 
@@ -19,3 +20,4 @@ git pull origin 브랜치명
 # 3. 임시 저장했던 내 작업물을 최신 코드 위에 다시 얹습니다.
 git stash pop
 ```
+
