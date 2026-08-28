@@ -45,13 +45,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2026/08_August/2026-08-28 Fri.md",
+                "file": "remoteBrain/00_Web Developer/Git 형상관리 관련.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-28 Fri"
+              "title": "Git 형상관리 관련"
             }
           }
         ],
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "형상",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +100,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,12 +177,12 @@
   },
   "active": "e68c191c7e473d88",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2026/08_August/2026-08-28 Fri.md",
     "remoteBrain/99_InsightON/대한유화 SHE/2026-08-21 주간회의.md",
     "remoteBrain/99_InsightON/대한유화 SHE/2026-08-28 주간회의.md",
     "remoteBrain/99_InsightON/대한유화 SHE/PSM (2026-08-27).md",
     "remoteBrain/99_InsightON/SK USHE.md",
     "remoteBrain/99_InsightON/슬기로운 독서생활 (종료).md",
-    "remoteBrain/Daily-Docs/2026/08_August/2026-08-28 Fri.md",
     "remoteBrain/Daily-Docs/2026/08_August/2026-08-27 Thu.md",
     "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/99_InsightON/대한유화 SHE/산업안전 (2026-08-26).md",
