@@ -55,7 +55,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,8 +175,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e68c191c7e473d88",
+  "active": "bb05a0604cd724f9",
   "lastOpenFiles": [
+    "remoteBrain/00_Web Developer/Git 형상관리 관련.md",
     "remoteBrain/Daily-Docs/2026/08_August/2026-08-28 Fri.md",
     "remoteBrain/99_InsightON/대한유화 SHE/2026-08-21 주간회의.md",
     "remoteBrain/99_InsightON/대한유화 SHE/2026-08-28 주간회의.md",
@@ -186,7 +187,6 @@
     "remoteBrain/Daily-Docs/2026/08_August/2026-08-27 Thu.md",
     "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/99_InsightON/대한유화 SHE/산업안전 (2026-08-26).md",
-    "remoteBrain/00_Web Developer/Git 형상관리 관련.md",
     "remoteBrain/99_InsightON/대한유화 SHE/PSM (2026-08-18).md",
     "remoteBrain/99_InsightON/대한유화 SHE/2026-08-25 To Do List.md",
     "remoteBrain/99_InsightON/대한유화 SHE/2026-08-24 공통 협의.md",
