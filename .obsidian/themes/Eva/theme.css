@@ -1,0 +1,393 @@
+/*─────────────────────────────────────────────────────────
+EVA
+A port of the VS Code "Eva Theme" (fisheva/Eva-Theme) — a
+comfortable, semantic blue-gray editor theme. Colors pulled
+directly from the theme's own Eva-Dark.json / Eva-Light.json:
+soft blue-gray backgrounds, never-quite-white/black text, blue
+accent, and the theme's signature orange cursor/highlight.
+Built on the same variable structure Obsidian's built-in
+default.css derives all UI colors from.
+────────────────────────────────────────────────────────── */
+
+@charset "UTF-8";
+
+body {
+	--base-h: 225;   /* blue-gray, shared muted-text tint */
+	--base-s: 12%;
+	--base-d: 17%;   /* dark mode base lightness */
+	--base-l: 94%;   /* light mode base lightness */
+
+	--font-text-theme: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+		Inter, Ubuntu, sans-serif;
+	--font-editor-theme: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+		Inter, Ubuntu, sans-serif;
+	--font-monospace-theme: 'JetBrains Mono', 'Fira Code', Consolas,
+		'Roboto Mono', monospace;
+	--font-interface-theme: -apple-system, BlinkMacSystemFont, 'Segoe UI',
+		Roboto, Inter, Ubuntu, sans-serif;
+
+	--h1-size: 1.6rem;
+	--h2-size: 1.3rem;
+	--h3-size: 1.1rem;
+	--h4-size: 1.02rem;
+	--h5-size: 0.95rem;
+	--h6-size: 0.85rem;
+
+	/* VS Code's UI is sharp and small-radius, not soft/bubbly */
+	--radius-s: 3px;
+	--radius-m: 4px;
+	--radius-l: 6px;
+	--radius-xl: 8px;
+	--checkbox-radius: 20%;
+
+	--link-external-decoration: underline;
+	--link-decoration: underline;
+
+	--line-width: 40rem;
+	--line-height: 1.6;
+	--max-width: 90%;
+	--max-col-width: 18em;
+	--icon-muted: 0.6;
+	--nested-padding: 1.1em;
+	--folding-offset: 10px;
+	--line-width-adaptive: var(--line-width);
+	--line-width-wide: calc(var(--line-width) + 12.5%);
+
+	--h1-color: var(--eva-orange);
+	--h2-color: var(--eva-blue);
+	--h3-color: var(--eva-blue);
+	--h4-color: var(--eva-purple);
+	--h5-color: var(--eva-green);
+	--h6-color: var(--text-muted);
+
+	--strong-color: var(--eva-orange);
+	--em-color: var(--eva-purple);
+	--quote-color: var(--text-muted); /* Eva styles code comments italic + muted — blockquotes borrow that look */
+
+	--tag-background-color-l: #0065ff26;
+	--tag-font-color-l: #2f5fc7;
+	--tag-background-color-d: #598def33;
+	--tag-font-color-d: #a7c2f7;
+
+	--highlight-background-color--normal: hsl(220deg 89% 65% / 22%) !important;
+	--highlight-background-color-underline: hsl(16deg 96% 66% / 100%) !important;
+	--highlight-background-color--active: hsl(220deg 89% 65% / 20%) !important;
+}
+
+/* COLOR SCHEMES
+────────────────────────────────────────────────────── */
+
+.theme-light,
+body.theme-light.is-mobile {
+	color-scheme: light;
+	--highlight-mix-blend-mode: darken;
+	--mono-rgb-0: 255, 255, 255;
+	--mono-rgb-100: 0, 0, 0;
+
+	--eva-blue: #4480f4;
+	--eva-orange: #fc8357;
+	--eva-purple: #7c4dff;
+	--eva-green: #53a053;
+
+	--color-red-rgb: 224, 55, 74;
+	--color-red: #e0374b;
+	--color-green-rgb: 83, 160, 83;
+	--color-green: #53a053;
+	--color-orange: #ff6d12;
+	--color-yellow: #c99a1f;
+	--color-cyan: #2db7b5;
+	--color-blue: #437aed;
+	--color-purple: #7c4dff;
+	--color-pink: #c32b74;
+
+	--color-base-00: #ebeef5; /* main editor background */
+	--color-base-05: #e6e9f0;
+	--color-base-10: #e1e4eb; /* code blocks */
+	--color-base-20: #e1e4eb; /* sidebar / secondary bg */
+	--color-base-25: #d7dae1;
+	--color-base-30: #ced1d7; /* dividers — editorGroup.border */
+	--color-base-35: #c2c5cc;
+	--color-base-40: #b3b3b4; /* editorLineNumber / badge */
+	--color-base-50: #a0a1a7; /* button bg */
+	--color-base-60: #8e8e90; /* tab inactive fg */
+	--color-base-70: #767678;
+	--color-base-100: #5d5d5f; /* editor.foreground — text normal */
+
+	--color-accent-hsl: 220, 89%, 61%;
+	--color-accent: hsl(220, 89%, 61%);
+	--color-accent-1: hsl(220, 89%, 63.5%);
+	--color-accent-2: hsl(220, 89%, 66%);
+
+	--background-modifier-hover: #0065ff1a;
+	--background-secondary-alt: var(--color-base-05);
+	--background-modifier-box-shadow: rgba(93, 93, 95, 0.12);
+	--background-modifier-cover: rgba(225, 228, 235, 0.6);
+
+	--text-highlight-bg-l: rgba(0, 101, 255, 0.2);
+	--text-highlight-bg: var(--text-highlight-bg-l);
+	--text-highlight-bg-active: rgba(0, 101, 255, 0.35);
+
+	--input-shadow: inset 0 0 0 1px var(--color-base-35), 0 1px 3px rgba(93, 93, 95, 0.1);
+	--input-shadow-hover: inset 0 0 0 1px var(--eva-blue), 0 2px 6px rgba(68, 128, 244, 0.2);
+	--shadow-s: 0px 2px 6px rgba(93, 93, 95, 0.1);
+	--shadow-l: 0px 6px 20px rgba(93, 93, 95, 0.16);
+
+	--tag-background: var(--tag-background-color-l);
+	--tag-color: var(--tag-font-color-l);
+
+	--text-muted: #8e8e90;  /* tab.inactiveForeground / comment color */
+	--text-faint: #b3b3b4;  /* editorLineNumber.foreground */
+	--text-formatted: #767678;
+
+	--text-accent: var(--eva-blue);
+	--text-accent-hover: #2f68e0;
+	--text-selection: rgba(0, 101, 255, 0.25); /* selection.background */
+}
+
+.theme-dark,
+body.theme-dark.is-mobile {
+	color-scheme: dark;
+	--highlight-mix-blend-mode: lighten;
+	--mono-rgb-0: 0, 0, 0;
+	--mono-rgb-100: 255, 255, 255;
+
+	--eva-blue: #4480f4;
+	--eva-orange: #ff9070;
+	--eva-purple: #a78cfa;
+	--eva-green: #98c379;
+
+	--color-red-rgb: 224, 90, 105;
+	--color-red: #e05a69;
+	--color-green-rgb: 152, 195, 121;
+	--color-green: #98c379;
+	--color-orange: #ff9070;
+	--color-yellow: #e5c07b;
+	--color-cyan: #56b6c2;
+	--color-blue: #6495ee;
+	--color-purple: #a78cfa;
+	--color-pink: #e07ec0;
+
+	--color-base-00: #282c34; /* main editor background */
+	--color-base-05: #252930;
+	--color-base-10: #21252b; /* code blocks / sidebar */
+	--color-base-20: #21252b; /* sidebar / secondary bg */
+	--color-base-25: #262a32;
+	--color-base-30: #333844; /* dividers */
+	--color-base-35: #3d4250;
+	--color-base-40: #454b5c;
+	--color-base-50: #535773; /* editorLineNumber.foreground */
+	--color-base-60: #676e95; /* tab.inactiveForeground / comment */
+	--color-base-70: #8e99b1; /* sideBar.foreground */
+	--color-base-100: #9da5b3; /* editor.foreground — text normal, deliberately never stark white */
+
+	--color-accent-hsl: 220, 89%, 61%;
+	--color-accent: hsl(220, 89%, 61%);
+	--color-accent-1: hsl(220, 89%, 58%);
+	--color-accent-2: hsl(220, 89%, 64%);
+
+	--titlebar-background-focused: var(--color-base-10);
+	--background-modifier-form-field: var(--color-base-25);
+	--background-secondary-alt: var(--color-base-30);
+	--interactive-normal: var(--color-base-30);
+	--interactive-hover: var(--color-base-35);
+	--background-modifier-hover: #598def29;
+	--background-modifier-box-shadow: rgba(0, 0, 0, 0.35);
+	--background-modifier-cover: rgba(24, 26, 31, 0.65);
+
+	--text-highlight-bg-d: rgba(89, 141, 239, 0.28);
+	--text-highlight-bg: var(--text-highlight-bg-d);
+	--text-highlight-bg-active: rgba(89, 141, 239, 0.4);
+
+	--text-selection: rgba(89, 141, 239, 0.35); /* selection.background */
+	--input-shadow: inset 0 0.5px 0.5px 0.5px rgba(255, 255, 255, 0.05), 0 2px 4px rgba(0, 0, 0, 0.2);
+	--input-shadow-hover: inset 0 0 0 1px var(--eva-blue), 0 2px 8px rgba(68, 128, 244, 0.3);
+	--shadow-s: 0px 2px 8px rgba(0, 0, 0, 0.25);
+	--shadow-l: 0px 6px 24px rgba(0, 0, 0, 0.35);
+
+	--tag-background: var(--tag-background-color-d);
+	--tag-color: var(--tag-font-color-d);
+
+	--text-muted: #676e95;  /* tab.inactiveForeground / comment color */
+	--text-faint: #535773;  /* editorLineNumber.foreground */
+	--text-formatted: #8e99b1;
+
+	--text-accent: var(--eva-blue);
+	--text-accent-hover: #6a9bf6;
+}
+
+/* EVA FLOURISHES
+────────────────────────────────────────────────────── */
+
+/* Headings: no serif, no gradients — clean and code-editor-flat,
+   just colored like syntax tokens (orange/blue/purple/green) */
+.markdown-preview-view h1,
+.HyperMD-header-1,
+.cm-header-1,
+.view-header-title,
+.markdown-preview-view h2,
+.HyperMD-header-2,
+.cm-header-2,
+.markdown-preview-view h3,
+.HyperMD-header-3,
+.cm-header-3 {
+	font-family: var(--font-text-theme);
+	font-weight: 600;
+}
+
+/* Blockquote styled like an Eva code comment: italic, muted, no
+   loud color */
+body:not(.default-font-color) .markdown-preview-view blockquote,
+body:not(.default-font-color) span.cm-quote.cm-quote-1 {
+	font-style: italic;
+	color: var(--quote-color);
+}
+.markdown-preview-view blockquote {
+	border-left: 3px solid var(--color-base-40);
+	background: var(--color-base-05);
+	border-radius: 0 var(--radius-s) var(--radius-s) 0;
+	padding: 0.4em 1em;
+}
+
+body:not(.default-font-color) strong,
+body:not(.default-font-color) span:not(.cm-highlight).cm-strong {
+	color: var(--strong-color);
+}
+body:not(.default-font-color) em,
+body:not(.default-font-color) span:not(.cm-highlight).cm-em {
+	color: var(--em-color);
+}
+
+body.fancy-highlight span.cm-highlight,
+body.fancy-highlight .markdown-preview-view mark,
+body.fancy-highlight span.search-result-file-matched-text {
+	background-image: linear-gradient(
+		0deg,
+		var(--highlight-background-color-underline) 0%,
+		var(--highlight-background-color-underline) 2px,
+		var(--highlight-background-color--active) 2px,
+		var(--highlight-background-color--active) 100%
+	) !important;
+}
+
+.markdown-preview-view ul > li.task-list-item.is-checked,
+.markdown-source-view.mod-cm6 .HyperMD-task-line[data-task='x'],
+.markdown-source-view.mod-cm6 .HyperMD-task-line[data-task='X'] {
+	text-decoration: line-through;
+	color: var(--text-faint);
+}
+
+img {
+	border-radius: var(--radius-m);
+	box-shadow: var(--shadow-s);
+}
+
+/* Only style buttons Obsidian intends to look like buttons — modal
+   actions, settings controls, CTAs. Deliberately NOT a blanket
+   `button:not(.clickable-icon)` selector: that catches Obsidian's
+   own small overlay icon buttons (like the block-copy button) and
+   makes them look broken. */
+.modal-button-container button,
+.setting-item-control button,
+.prompt-instructions,
+button.mod-cta,
+button.mod-warning {
+	font-weight: 500;
+	background: var(--color-base-20);
+	color: var(--text-normal);
+	border: 1px solid var(--color-base-35);
+	border-radius: var(--radius-s);
+	transition: border-color 0.12s ease, background 0.12s ease;
+}
+.modal-button-container button:hover,
+.setting-item-control button:hover,
+button.mod-cta:hover,
+button.mod-warning:hover {
+	border-color: var(--eva-blue);
+}
+button.mod-cta {
+	background: var(--eva-blue);
+	color: #ffffff;
+	border-color: var(--eva-blue);
+}
+button.mod-cta:hover {
+	background: var(--text-accent-hover);
+	border-color: var(--text-accent-hover);
+}
+button.mod-warning {
+	background: var(--color-red);
+	color: #ffffff;
+	border-color: var(--color-red);
+}
+
+/* Tags: small, square-ish, blue chip — like a VS Code badge */
+.tag,
+a.tag {
+	border-radius: var(--radius-s);
+	font-family: var(--font-monospace-theme);
+	font-size: 0.75em;
+}
+
+/* Callouts: clean panel, thin border, no soft shadow gloss */
+.callout {
+	border: 1px solid var(--color-base-30);
+	border-radius: var(--radius-m);
+	background: var(--color-base-05);
+	overflow: hidden;
+}
+.callout-title {
+	background: var(--color-base-10);
+	color: var(--eva-blue);
+	font-weight: 600;
+	padding: 8px 12px;
+	border-bottom: 1px solid var(--color-base-30);
+}
+.callout-content {
+	background: var(--color-base-00);
+	padding: 8px 12px;
+}
+
+/* Active tab: blue underline, like VS Code's active-tab indicator */
+.workspace-tab-header.is-active {
+	position: relative;
+}
+.workspace-tab-header.is-active::after {
+	content: '';
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	height: 2px;
+	background: var(--eva-blue);
+}
+
+.side-dock-ribbon-action:hover,
+.clickable-icon:hover {
+	color: var(--eva-blue);
+}
+
+::-webkit-scrollbar-thumb {
+	background: var(--color-base-40);
+	border-radius: var(--radius-s);
+}
+
+/* Current-line highlight, like VS Code's editor.lineHighlightBackground */
+body.active-line .cm-active:not(.HyperMD-header, .HyperMD-codeblock)::before,
+body.active-line .cm-active.HyperMD-quote::before {
+	content: '';
+	height: 100%;
+	position: absolute;
+	left: -1.125em;
+	border-left: 3px solid var(--eva-blue);
+	opacity: 0.85;
+}
+
+.theme-dark .modal-container .suggestion-item.is-selected {
+	background: var(--color-accent);
+}
+
+/* Eva's signature: an orange text cursor instead of the theme's
+   own text color */
+.cm-content,
+.cm-line {
+	caret-color: var(--eva-orange);
+}
