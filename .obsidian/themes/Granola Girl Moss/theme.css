@@ -9,6 +9,30 @@ default.css derives all UI colors from.
 
 @charset "UTF-8";
 
+/* @settings
+
+name: Granola Girl Moss
+id: granola-girl-moss
+settings:
+    -
+        id: granola-empty-bg-mode
+        title: Empty screen background
+        description: What shows on an empty pane. For "My own image", drop a file named empty-bg.jpg (or empty-bg.png) into this theme's folder — .obsidian/themes/Granola Girl Moss/ — then pick this option.
+        type: variable-select
+        default: 'var(--granola-landscape)'
+        options:
+            -
+                label: Mountain & desert (default)
+                value: 'var(--granola-landscape)'
+            -
+                label: My own image
+                value: 'var(--granola-custom-bg)'
+            -
+                label: Plain (no artwork)
+                value: 'none'
+
+*/
+
 /* Fraunces = a warm, soft-serif display face (the "that girl /
    granola" branding font), paired with Gowun Batang for the same
    warm-serif feel on Hangul headings. Quicksand + Gowun Dodum are
@@ -400,25 +424,35 @@ body.active-line .cm-active.HyperMD-quote::before {
 	background: var(--color-accent);
 }
 
-/* MINIMAL LINE-ART LEAF (single stroke, no fill) — used only on the
-   empty-pane background, i.e. only where no text/icons ever sit */
+/* MOUNTAIN + DESERT HORIZON (hand-drawn silhouette, layered peaks +
+   dune + two small cacti, honey sun) — used only on the empty-pane
+   background, i.e. only where no text/icons ever sit */
 :root {
-	--granola-leaf: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='26' height='26' viewBox='0 0 24 24'%3E%3Cpath d='M4 20c8-1 14-7 15-16-9 1-15 7-16 16z' fill='none' stroke='%236b7a3f' stroke-width='1.4' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M6.5 17.5c4-3.2 8-7.2 10.8-12.8' fill='none' stroke='%236b7a3f' stroke-width='1' stroke-linecap='round'/%3E%3C/svg%3E");
-	--granola-sprout: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='22' height='22' viewBox='0 0 24 24'%3E%3Cpath d='M12 21V11' fill='none' stroke='%238a6d3f' stroke-width='1.4' stroke-linecap='round'/%3E%3Cpath d='M12 12c0-4 3-6 7-6-1 4-3 6-7 6z' fill='none' stroke='%238a6d3f' stroke-width='1.4' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M12 15c0-3-2.5-5-6-5 1 3 2.5 5 6 5z' fill='none' stroke='%238a6d3f' stroke-width='1.4' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+	--granola-landscape: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='130' viewBox='0 0 400 130'%3E%3Ccircle cx='310' cy='28' r='16' fill='%23cfa059' opacity='0.85'/%3E%3Cpath d='M0,85 L45,50 L90,78 L140,35 L190,70 L245,42 L300,75 L350,30 L400,60 L400,130 L0,130 Z' fill='%23b3b884'/%3E%3Cpath d='M0,100 L55,65 L110,95 L170,55 L230,92 L290,60 L340,98 L400,80 L400,130 L0,130 Z' fill='%236b7a3f'/%3E%3Cpath d='M0,130 C70,105 150,120 220,108 C300,96 350,112 400,105 L400,130 L0,130 Z' fill='%234d5a2a'/%3E%3Cg stroke='%23e3e6c9' stroke-width='2' stroke-linecap='round' fill='none'%3E%3Cpath d='M130,130 L130,108 M130,116 C124,116 122,112 122,108 M130,112 C136,112 138,108 138,104'/%3E%3C/g%3E%3Cg stroke='%23e3e6c9' stroke-width='1.6' stroke-linecap='round' fill='none'%3E%3Cpath d='M290,130 L290,112 M290,120 C286,120 284,117 284,114'/%3E%3C/g%3E%3C/svg%3E");
+
+	/* User-supplied empty-screen image. Drop a file literally named
+	   empty-bg.jpg (or empty-bg.png) next to this theme.css and pick
+	   "My own image" in Settings → Style Settings → Granola Girl Moss.
+	   Both extensions are listed so either works; whichever file
+	   doesn't exist is simply ignored, not an error. */
+	--granola-custom-bg: url('empty-bg.jpg'), url('empty-bg.png');
 }
 
 /* Empty pane only — never the titlebar/tab bar/status bar, since
-   those always carry text or icons and the leaves would sit under
-   them. Positioned in the corners, away from Obsidian's own centered
-   empty-state icon/text. */
+   those always carry text or icons and the scene would sit under
+   them. Anchored to the bottom edge so Obsidian's own centered
+   empty-state icon/text always has clear space above it.
+   --granola-empty-bg-mode is set by the Style Settings dropdown
+   above (Settings → Style Settings → Granola Girl Moss); the
+   var()'s second argument is just the fallback before that plugin
+   has run once. */
 .empty-state {
 	background-image:
-		var(--granola-leaf),
-		var(--granola-sprout),
-		linear-gradient(180deg, var(--granola-moss-pale) 0%, var(--color-base-00) 70%);
-	background-repeat: no-repeat, no-repeat, no-repeat;
-	background-position: 90% 12%, 8% 88%, center;
-	background-size: 24px auto, 20px auto, 100% 100%;
+		var(--granola-empty-bg-mode, var(--granola-landscape)),
+		linear-gradient(180deg, var(--granola-moss-pale) 0%, #f0e9c9 60%, var(--color-base-00) 100%);
+	background-repeat: no-repeat, no-repeat;
+	background-position: bottom center, center;
+	background-size: 100% auto, 100% 100%;
 	opacity: 1;
 }
 

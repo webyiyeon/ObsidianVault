@@ -38,8 +38,19 @@
               "icon": "lucide-file",
               "title": "2026-09-01 Tue"
             }
+          },
+          {
+            "id": "960cf629f29711fb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/VisionBoard/2026.md",
+                "file": "remoteBrain/Daily-Docs/2026/09_September/2026-09-01 Tue.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
@@ -179,10 +190,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "028839b0d8b4a468",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2026/09_September/2026-09-01 Tue.md",
     "remoteBrain/VisionBoard/2026.md",
+    "remoteBrain/Daily-Docs/2026/09_September/2026-09-01 Tue.md",
     "remoteBrain/_templater/Daily (2025).md",
     "remoteBrain/Report/2026/09_September.md",
     "remoteBrain/_templater/Daily.md",
