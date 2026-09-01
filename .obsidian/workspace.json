@@ -23,8 +23,39 @@
               "icon": "lucide-file",
               "title": "2026"
             }
+          },
+          {
+            "id": "32ff7ee792bdb310",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2026/09_September/2026-09-01 Tue.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-09-01 Tue"
+            }
+          },
+          {
+            "id": "1f33e6bab0c2b834",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2026/09_September/2026-09-01 Tue.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-09-01 Tue"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.26893615722656
+    "width": 271.5386199951172
   },
   "right": {
     "id": "e1f0c7632e67bdc4",
@@ -165,21 +196,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "32ff7ee792bdb310",
   "lastOpenFiles": [
+    "remoteBrain/Report/2026/09_September.md",
+    "remoteBrain/Daily-Docs/2026/09_September/2026-09-01 Tue.md",
+    "Untitled.md",
     "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/Daily-Docs/2026/09_September/2026-09-02 Wed.md",
     "remoteBrain/Daily-Docs/2026/08_August/2026-08-31 Mon.md",
     "remoteBrain/_templater/Monthly.md.tmp.16356.e156594b5344",
-    "remoteBrain/Daily-Docs/2026/09_September/2026-09-01 Tue.md",
     "remoteBrain/_templater/Monthly.md.tmp.16356.5678f1e332a6",
     "remoteBrain/_templater/Daily.md.tmp.16356.60ba200dbbaf",
-    "Untitled.md",
     "remoteBrain/99_InsightON/SK USHE PSM 안정화 (2026 04).md",
     "remoteBrain/99_InsightON/대한유화 SHE/PSM (2026-08-27).md",
     "remoteBrain/99_InsightON/대한유화 SHE/2026-08-24 공통 협의.md",
     "remoteBrain/99_InsightON/대한유화 SHE/2026-08-25 To Do List.md",
-    "remoteBrain/Report/2026/09_September.md",
     "remoteBrain/_templater/_disabled/InsertCalendarEvents.md",
     "remoteBrain/_templater/_disabled/importCalendars.js",
     "remoteBrain/_templater/_disabled",
