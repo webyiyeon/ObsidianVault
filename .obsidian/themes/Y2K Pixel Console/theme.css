@@ -1,0 +1,440 @@
+/*─────────────────────────────────────────────────────────
+Y2K PIXEL CONSOLE
+Periwinkle-blue Y2K game-console aesthetic: pixel headings,
+white cards with thick blue borders, pink CRT accent, pixel
+heart/diamond confetti on the chrome areas.
+Built on the same variable structure Obsidian's built-in
+default.css derives all UI colors from.
+────────────────────────────────────────────────────────── */
+
+@charset "UTF-8";
+
+/* Press Start 2P = the true 8-bit pixel face for latin/numbers.
+   It has no Hangul glyphs — drop a Galmuri11 font file into
+   ./fonts/ next to this theme.css (see @font-face below) to get
+   the same pixel look on Korean headings. */
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+@font-face {
+	font-family: 'Galmuri11';
+	src: url('fonts/Galmuri11.woff2') format('woff2'),
+		url('fonts/Galmuri11.ttf') format('truetype');
+	font-display: swap;
+}
+
+body {
+	--base-h: 230;   /* periwinkle blue */
+	--base-s: 55%;
+	--base-d: 14%;   /* dark mode base lightness */
+	--base-l: 98%;   /* light mode base lightness */
+
+	--accent-h: 231;
+	--accent-s: 70%;
+	--accent-d: 72%;
+	--accent-l: 66%;
+
+	--pixel-blue: #6c7fe0;
+	--pixel-blue-dark: #4a5bc4;
+	--pixel-blue-pale: #dce3ff;
+	--pixel-pink: #ff9fd1;
+	--pixel-pink-dark: #ff7ec2;
+	--pixel-white: #ffffff;
+	--pixel-wash: linear-gradient(180deg, #aebdf5 0%, #dde3fb 55%, #ffffff 100%);
+
+	--h1-color: var(--pixel-blue-dark);
+	--h2-color: var(--pixel-blue);
+	--h3-color: var(--pixel-blue);
+	--h4-color: var(--pixel-blue-dark);
+	--h5-color: var(--pixel-blue-dark);
+	--h6-color: var(--text-muted);
+
+	--strong-color: var(--pixel-pink-dark);
+	--em-color: var(--pixel-blue);
+	--quote-color: var(--pixel-blue-dark);
+
+	--tag-background-color-l: #ffffff;
+	--tag-font-color-l: var(--pixel-blue-dark);
+	--tag-background-color-d: #22284a;
+	--tag-font-color-d: #cfd8ff;
+
+	--highlight-background-color--normal: hsl(231deg 70% 75% / 25%) !important;
+	--highlight-background-color-underline: hsl(330deg 100% 80% / 100%) !important;
+	--highlight-background-color--active: hsl(231deg 70% 75% / 35%) !important;
+
+	--font-text-theme: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+		Inter, Ubuntu, sans-serif;
+	--font-editor-theme: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+		Inter, Ubuntu, sans-serif;
+	--font-monospace-theme: 'JetBrains Mono', 'Fira Code', Consolas,
+		'Roboto Mono', monospace;
+	--font-interface-theme: -apple-system, BlinkMacSystemFont, 'Segoe UI',
+		Roboto, Inter, Ubuntu, sans-serif;
+	/* pixel display stack: latin pixel font first, Korean pixel font
+	   second (once ./fonts/Galmuri11.woff2 exists), then a plain
+	   fallback so text never disappears in the meantime */
+	--font-pixel: 'Press Start 2P', 'Galmuri11', var(--font-text-theme);
+
+	--h1-size: 1.6rem;
+	--h2-size: 1.3rem;
+	--h3-size: 1.1rem;
+	--h4-size: 1rem;
+	--h5-size: 0.95rem;
+	--h6-size: 0.85rem;
+
+	/* Sharp-ish, blocky corners — pixel/retro, not bubble */
+	--radius-s: 3px;
+	--radius-m: 6px;
+	--radius-l: 8px;
+	--radius-xl: 10px;
+	--checkbox-radius: 20%;
+
+	--link-external-decoration: underline;
+	--link-decoration: underline;
+
+	--line-width: 40rem;
+	--line-height: 1.6;
+	--max-width: 90%;
+	--max-col-width: 18em;
+	--icon-muted: 0.6;
+	--nested-padding: 1.1em;
+	--folding-offset: 10px;
+	--line-width-adaptive: var(--line-width);
+	--line-width-wide: calc(var(--line-width) + 12.5%);
+}
+
+/* COLOR SCHEMES
+────────────────────────────────────────────────────── */
+
+.theme-light,
+body.theme-light.is-mobile {
+	color-scheme: light;
+	--highlight-mix-blend-mode: darken;
+	--mono-rgb-0: 255, 255, 255;
+	--mono-rgb-100: 0, 0, 0;
+
+	--color-red-rgb: 255, 108, 130;
+	--color-red: #ff6c82;
+	--color-green-rgb: 82, 214, 160;
+	--color-green: #52d6a0;
+	--color-orange: #ffb15c;
+	--color-yellow: #f0c94e;
+	--color-cyan: #5cd3e8;
+	--color-blue: #6c7fe0;
+	--color-purple: #9a8cf0;
+	--color-pink: #ff9fd1;
+
+	--color-base-00: #fbfbff; /* main editor background */
+	--color-base-05: #f5f6ff;
+	--color-base-10: #eef0ff; /* code blocks */
+	--color-base-20: #e7eaff; /* unfocused nav */
+	--color-base-25: #dee2fd;
+	--color-base-30: #cfd5fb; /* dividers */
+	--color-base-35: #b7bff2;
+	--color-base-40: #9aa5e8;
+	--color-base-50: #7c89d6;
+	--color-base-60: #5f6bb5;
+	--color-base-70: #47518c;
+	--color-base-100: #232752;
+
+	--color-accent-hsl: var(--accent-h), var(--accent-s), var(--accent-l);
+	--color-accent: hsl(var(--accent-h), var(--accent-s), var(--accent-l));
+	--color-accent-1: hsl(var(--accent-h), var(--accent-s), calc(var(--accent-l) + 2.5%));
+	--color-accent-2: hsl(var(--accent-h), var(--accent-s), calc(var(--accent-l) + 5%));
+
+	--background-modifier-hover: #e7eaff;
+	--background-secondary-alt: var(--color-base-05);
+	--background-modifier-box-shadow: rgba(108, 127, 224, 0.18);
+	--background-modifier-cover: rgba(220, 227, 255, 0.6);
+
+	--text-highlight-bg-l: rgba(255, 159, 209, 0.35);
+	--text-highlight-bg: var(--text-highlight-bg-l);
+	--text-highlight-bg-active: rgba(108, 127, 224, 0.3);
+
+	--input-shadow: inset 0 0 0 2px var(--color-base-30), 0 2px 0 0 var(--color-base-30);
+	--input-shadow-hover: inset 0 0 0 2px var(--pixel-blue), 0 2px 0 0 var(--pixel-blue);
+	--shadow-s: 0px 2px 0px rgba(108, 127, 224, 0.15);
+	--shadow-l: 0px 4px 0px rgba(108, 127, 224, 0.18);
+
+	--tag-background: var(--tag-background-color-l);
+	--tag-color: var(--tag-font-color-l);
+
+	--text-muted: hsl(var(--base-h), calc(var(--base-s) - 15%), calc(var(--base-l) - 55%));
+	--text-faint: hsl(var(--base-h), calc(var(--base-s) - 15%), calc(var(--base-l) - 30%));
+	--text-formatted: hsl(var(--base-h), calc(var(--base-s) - 15%), calc(var(--base-l) - 35%));
+
+	--text-accent: hsl(var(--accent-h), var(--accent-s), var(--accent-l));
+	--text-accent-hover: hsl(var(--accent-h), var(--accent-s), calc(var(--accent-l) - 10%));
+}
+
+.theme-dark,
+body.theme-dark.is-mobile {
+	color-scheme: dark;
+	--highlight-mix-blend-mode: lighten;
+	--mono-rgb-0: 0, 0, 0;
+	--mono-rgb-100: 255, 255, 255;
+
+	--color-red-rgb: 255, 128, 145;
+	--color-red: #ff8091;
+	--color-green-rgb: 100, 230, 180;
+	--color-green: #64e6b4;
+	--color-orange: #ffbd76;
+	--color-yellow: #f5d876;
+	--color-cyan: #7be0f0;
+	--color-blue: #8b9bf0;
+	--color-purple: #b3a4f7;
+	--color-pink: #ffabdd;
+
+	--color-base-00: #11142b; /* main editor background — deep navy */
+	--color-base-05: #161a34;
+	--color-base-10: #1c2140; /* code blocks */
+	--color-base-20: #12152c; /* unfocused nav */
+	--color-base-25: #1e2340;
+	--color-base-30: #2a3054; /* dividers */
+	--color-base-35: #383f6c;
+	--color-base-40: #4d5690;
+	--color-base-50: #6570b0;
+	--color-base-60: #8b93cf;
+	--color-base-70: #b3b9e5;
+	--color-base-100: #eef0ff;
+
+	--color-accent-hsl: var(--accent-h), var(--accent-s), var(--accent-l);
+	--color-accent: hsl(var(--accent-h), var(--accent-s), var(--accent-l));
+	--color-accent-1: hsl(var(--accent-h), var(--accent-s), calc(var(--accent-l) - 3.8%));
+	--color-accent-2: hsl(var(--accent-h), var(--accent-s), calc(var(--accent-l) + 3.8%));
+
+	--titlebar-background-focused: var(--color-base-10);
+	--background-modifier-form-field: var(--color-base-25);
+	--background-secondary-alt: var(--color-base-30);
+	--interactive-normal: var(--color-base-30);
+	--interactive-hover: var(--color-base-35);
+	--background-modifier-box-shadow: rgba(0, 0, 0, 0.4);
+	--background-modifier-cover: rgba(17, 20, 43, 0.65);
+
+	--text-highlight-bg-d: rgba(255, 171, 221, 0.3);
+	--text-highlight-bg: var(--text-highlight-bg-d);
+	--text-highlight-bg-active: rgba(139, 155, 240, 0.35);
+
+	--text-selection: hsla(var(--color-accent-hsl), 0.3);
+	--input-shadow: inset 0 0 0 2px var(--color-base-35), 0 2px 0 0 var(--color-base-35);
+	--input-shadow-hover: inset 0 0 0 2px var(--pixel-blue), 0 2px 0 0 var(--pixel-blue);
+	--shadow-s: 0px 2px 0px rgba(0, 0, 0, 0.35);
+	--shadow-l: 0px 4px 0px rgba(0, 0, 0, 0.4);
+
+	--tag-background: var(--tag-background-color-d);
+	--tag-color: var(--tag-font-color-d);
+
+	--text-muted: hsl(var(--base-h), var(--base-s), calc(var(--base-d) + 60%));
+	--text-faint: hsl(var(--base-h), var(--base-s), calc(var(--base-d) + 28%));
+	--text-formatted: hsl(var(--base-h), var(--base-s), calc(var(--base-d) + 48%));
+
+	--text-accent: hsl(var(--accent-h), var(--accent-s), var(--accent-d));
+	--text-accent-hover: hsl(var(--accent-h), var(--accent-s), calc(var(--accent-d) + 12%));
+}
+
+/* PIXEL CONFETTI ICONS (inline pixel-art SVGs, hard edges) */
+:root {
+	--pixel-heart-blue: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='12' viewBox='0 0 14 12' shape-rendering='crispEdges'%3E%3Crect x='2' y='0' width='4' height='2' fill='%236c7fe0'/%3E%3Crect x='8' y='0' width='4' height='2' fill='%236c7fe0'/%3E%3Crect x='0' y='2' width='14' height='2' fill='%236c7fe0'/%3E%3Crect x='0' y='4' width='14' height='2' fill='%236c7fe0'/%3E%3Crect x='2' y='6' width='10' height='2' fill='%236c7fe0'/%3E%3Crect x='4' y='8' width='6' height='2' fill='%236c7fe0'/%3E%3Crect x='6' y='10' width='2' height='2' fill='%236c7fe0'/%3E%3C/svg%3E");
+	--pixel-heart-pink: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='12' viewBox='0 0 14 12' shape-rendering='crispEdges'%3E%3Crect x='2' y='0' width='4' height='2' fill='%23ff9fd1'/%3E%3Crect x='8' y='0' width='4' height='2' fill='%23ff9fd1'/%3E%3Crect x='0' y='2' width='14' height='2' fill='%23ff9fd1'/%3E%3Crect x='0' y='4' width='14' height='2' fill='%23ff9fd1'/%3E%3Crect x='2' y='6' width='10' height='2' fill='%23ff9fd1'/%3E%3Crect x='4' y='8' width='6' height='2' fill='%23ff9fd1'/%3E%3Crect x='6' y='10' width='2' height='2' fill='%23ff9fd1'/%3E%3C/svg%3E");
+	--pixel-diamond-blue: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 14 14' shape-rendering='crispEdges'%3E%3Crect x='6' y='0' width='2' height='2' fill='%236c7fe0'/%3E%3Crect x='4' y='2' width='6' height='2' fill='%236c7fe0'/%3E%3Crect x='2' y='4' width='10' height='2' fill='%236c7fe0'/%3E%3Crect x='0' y='6' width='14' height='2' fill='%236c7fe0'/%3E%3Crect x='2' y='8' width='10' height='2' fill='%236c7fe0'/%3E%3Crect x='4' y='10' width='6' height='2' fill='%236c7fe0'/%3E%3Crect x='6' y='12' width='2' height='2' fill='%236c7fe0'/%3E%3C/svg%3E");
+}
+
+/* PIXEL FLOURISHES
+────────────────────────────────────────────────────── */
+
+/* Headings: solid pixel-blue with a hard offset pink pixel-shadow,
+   like a retro game title */
+.markdown-preview-view h1,
+.HyperMD-header-1,
+.cm-header-1,
+.view-header-title {
+	font-family: var(--font-pixel);
+	letter-spacing: 1px;
+	text-shadow: 2px 2px 0 var(--pixel-pink);
+}
+
+.markdown-preview-view h2,
+.HyperMD-header-2,
+.cm-header-2,
+.markdown-preview-view h3,
+.HyperMD-header-3,
+.cm-header-3,
+.markdown-preview-view h4,
+.HyperMD-header-4,
+.cm-header-4 {
+	font-family: var(--font-pixel);
+	letter-spacing: 0.5px;
+}
+
+/* Blockquote: solid blue left bar, no italics (pixel text doesn't
+   have an italic face) */
+body:not(.default-font-color) .markdown-preview-view blockquote,
+body:not(.default-font-color) span.cm-quote.cm-quote-1 {
+	color: var(--quote-color);
+}
+.markdown-preview-view blockquote {
+	border-left: 4px solid var(--pixel-blue);
+	background: var(--color-base-10);
+	border-radius: 0 var(--radius-s) var(--radius-s) 0;
+}
+
+body:not(.default-font-color) strong,
+body:not(.default-font-color) span:not(.cm-highlight).cm-strong {
+	color: var(--strong-color);
+}
+body:not(.default-font-color) em,
+body:not(.default-font-color) span:not(.cm-highlight).cm-em {
+	color: var(--em-color);
+}
+
+body.fancy-highlight span.cm-highlight,
+body.fancy-highlight .markdown-preview-view mark,
+body.fancy-highlight span.search-result-file-matched-text {
+	background-image: linear-gradient(
+		0deg,
+		var(--highlight-background-color-underline) 0%,
+		var(--highlight-background-color-underline) 2px,
+		var(--highlight-background-color--active) 2px,
+		var(--highlight-background-color--active) 100%
+	) !important;
+}
+
+.markdown-preview-view ul > li.task-list-item.is-checked,
+.markdown-source-view.mod-cm6 .HyperMD-task-line[data-task='x'],
+.markdown-source-view.mod-cm6 .HyperMD-task-line[data-task='X'] {
+	text-decoration: line-through;
+	color: var(--text-faint);
+}
+
+img {
+	border-radius: var(--radius-m);
+	border: 2px solid var(--color-base-30);
+}
+
+/* "Press Start!" button: white / thick blue border / pixel text,
+   inverts on hover, presses down on click — no gloss, no gradients */
+button:not(.clickable-icon),
+.modal-button-container button {
+	font-family: var(--font-pixel);
+	font-size: 0.7em;
+	background: var(--pixel-white);
+	color: var(--pixel-blue-dark);
+	border: 2px solid var(--pixel-blue);
+	border-radius: var(--radius-s);
+	box-shadow: 0 3px 0 0 var(--pixel-blue-dark);
+	transition: transform 0.08s ease, box-shadow 0.08s ease;
+}
+button:not(.clickable-icon):hover,
+.modal-button-container button:hover {
+	background: var(--pixel-blue);
+	color: var(--pixel-white);
+}
+button:not(.clickable-icon):active,
+.modal-button-container button:active {
+	transform: translateY(3px);
+	box-shadow: 0 0 0 0 var(--pixel-blue-dark);
+}
+button.mod-cta {
+	background: var(--pixel-blue);
+	color: var(--pixel-white);
+	border-color: var(--pixel-blue-dark);
+}
+button.mod-cta:hover {
+	background: var(--pixel-blue-dark);
+}
+
+/* Tags: square-ish chip, blue border, white fill */
+.tag,
+a.tag {
+	font-family: var(--font-pixel);
+	font-size: 0.65em;
+	border: 1.5px solid var(--pixel-blue);
+	border-radius: var(--radius-s);
+	background: var(--tag-background);
+}
+
+/* Callouts recreated as the reference's card headers: solid blue
+   title bar with pixel text, white body, thick blue border */
+.callout {
+	border: 2px solid var(--pixel-blue);
+	border-radius: var(--radius-l);
+	overflow: hidden;
+	background: var(--pixel-white);
+}
+.callout-title {
+	background: var(--pixel-blue);
+	color: var(--pixel-white);
+	font-family: var(--font-pixel);
+	font-size: 0.75em;
+	letter-spacing: 0.5px;
+	padding: 10px 12px;
+}
+.callout-title-inner {
+	color: var(--pixel-white);
+}
+.callout-icon {
+	color: var(--pixel-white);
+}
+.callout-content {
+	background: var(--pixel-white);
+	color: var(--text-normal);
+	padding: 10px 12px;
+}
+
+/* Active tab: blue underline, no gradient shimmer */
+.workspace-tab-header.is-active {
+	position: relative;
+}
+.workspace-tab-header.is-active::after {
+	content: '';
+	position: absolute;
+	left: 8px;
+	right: 8px;
+	bottom: 2px;
+	height: 3px;
+	border-radius: 2px;
+	background: var(--pixel-blue);
+}
+
+.side-dock-ribbon-action:hover,
+.clickable-icon:hover {
+	color: var(--pixel-blue-dark);
+}
+
+::-webkit-scrollbar-thumb {
+	background: var(--pixel-blue);
+	border-radius: 2px;
+}
+
+body.active-line .cm-active:not(.HyperMD-header, .HyperMD-codeblock)::before,
+body.active-line .cm-active.HyperMD-quote::before {
+	content: '';
+	height: 100%;
+	position: absolute;
+	left: -1.125em;
+	border-left: 3px solid var(--pixel-blue);
+	opacity: 0.85;
+}
+
+.theme-dark .modal-container .suggestion-item.is-selected {
+	background: var(--color-accent);
+}
+
+/* Periwinkle-to-white wash + pixel heart/diamond confetti on the
+   chrome only (titlebar, sidebar header, empty pane) — the editor
+   pane itself stays a clean pale tint so body text stays readable */
+.titlebar,
+.nav-header,
+.empty-state {
+	background-image:
+		var(--pixel-heart-pink),
+		var(--pixel-diamond-blue),
+		var(--pixel-heart-blue),
+		var(--pixel-wash);
+	background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
+	background-position: 12% 20%, 82% 65%, 92% 15%, center;
+	background-size: 16px auto, 18px auto, 16px auto, 100% 100%;
+}
+
+.workspace-split.mod-left-split .nav-header {
+	border-bottom: 2px solid var(--pixel-blue);
+}
