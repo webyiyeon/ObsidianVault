@@ -218,8 +218,9 @@ body.theme-dark.is-mobile {
 /* EVA FLOURISHES
 ────────────────────────────────────────────────────── */
 
-/* Headings: no serif, no gradients — clean and code-editor-flat,
-   just colored like syntax tokens (orange/blue/purple/green) */
+/* Headings: same font as the body text — colored like syntax
+   tokens (orange/blue/purple/green) is the only thing that sets
+   them apart, no serif, no gradients, code-editor-flat */
 .markdown-preview-view h1,
 .HyperMD-header-1,
 .cm-header-1,
@@ -229,9 +230,37 @@ body.theme-dark.is-mobile {
 .cm-header-2,
 .markdown-preview-view h3,
 .HyperMD-header-3,
-.cm-header-3 {
-	font-family: var(--font-text-theme);
+.cm-header-3,
+.markdown-preview-view h4,
+.HyperMD-header-4,
+.cm-header-4,
+.markdown-preview-view h5,
+.HyperMD-header-5,
+.cm-header-5,
+.markdown-preview-view h6,
+.HyperMD-header-6,
+.cm-header-6 {
 	font-weight: 600;
+}
+
+/* Lists sitting directly under a heading were reading as glued-on
+   in Live Preview. `.HyperMD-header + .HyperMD-list-line` only
+   caught the no-blank-line case — when there IS a blank line (the
+   normal case), that's an empty .cm-line sitting between them, so
+   the heading was never actually the list's direct sibling. Instead
+   target whatever line comes right BEFORE a list line (heading,
+   blank line, or paragraph) and give THAT line the bottom margin —
+   works regardless of which one it turns out to be. */
+.cm-line:has(+ .HyperMD-list-line-1) {
+	margin-bottom: 0.6em;
+}
+.markdown-preview-view h1 + ul, .markdown-preview-view h1 + ol,
+.markdown-preview-view h2 + ul, .markdown-preview-view h2 + ol,
+.markdown-preview-view h3 + ul, .markdown-preview-view h3 + ol,
+.markdown-preview-view h4 + ul, .markdown-preview-view h4 + ol,
+.markdown-preview-view h5 + ul, .markdown-preview-view h5 + ol,
+.markdown-preview-view h6 + ul, .markdown-preview-view h6 + ol {
+	margin-top: 0.8em;
 }
 
 /* Blockquote styled like an Eva code comment: italic, muted, no
