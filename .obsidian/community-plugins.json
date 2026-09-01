@@ -14,7 +14,6 @@
   "google-calendar",
   "mousewheel-image-zoom",
   "ics",
-  "templater-obsidian",
   "text-snippets-obsidian",
   "obsidian-day-and-night",
   "obsidian-excalidraw-plugin",
@@ -23,5 +22,6 @@
   "note-refactor-obsidian",
   "emoji-shortcodes",
   "metafolders",
-  "execute-code"
+  "execute-code",
+  "templater-obsidian"
 ]

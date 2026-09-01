@@ -1,6 +1,6 @@
 ---
-wakeup🌞: <% tp.file.title.slice(0,10) %>T07:00
-sleep🌜: <% tp.file.title.slice(0,10) %>T23:00
+wakeup🌞:
+sleep🌜:
 mood:
 workout🏋️:
 gratitude🙏:
