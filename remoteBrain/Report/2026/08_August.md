@@ -1,19 +1,19 @@
 ## Checking In on My Goals 🌱
 
 1. How are you feeling this month?  
-    
+    왠지 시간이 느리게 가는 느낌이었달까? 컨텐츠를 많이 즐겼는데도 그렇게 느껴져서 신기했다!
 2. What goals have you started?  
-    
+    야구 직관과 러닝!
 3. What goals have you not started yet?  
-    
+    논문 작성 ㅠ.ㅠ
 4. What obstacles are in your way?  
-    
+    ㅠㅠ 1월에 깨졌던 맥북 액정이 더 심각해져서 화면 보고 있기가 힘들었다.
 5. How can you realistically overcome those obstacles?  
-    
+    노트북을 사다! 대신 거지가 됨...
 6. Adjustments to goals  
-    
+    부자가 되기로 했으나, 거지만 면하는 것으로 만족하기.
 7. TO DO this month in order to move forward  
-    
+    역시 운동, 운동만이 답이다.
 
 
 ## 🚀 How Close Am I to My Yearly Goals This Month?

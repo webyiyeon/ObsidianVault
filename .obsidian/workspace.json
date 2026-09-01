@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "remoteBrain/VisionBoard/2026.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Report/2026/09_September.md",
+                "file": "remoteBrain/Report/2026/08_August.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "09_September"
+              "title": "08_August"
             }
           }
         ],
@@ -184,11 +184,10 @@
   },
   "active": "1f33e6bab0c2b834",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2026/09_September/2026-09-01 Tue.md",
-    "remoteBrain/Report/2026/09_September.md",
-    "remoteBrain/Daily-Docs/2026/09_September/2026-09-02 Wed.md",
     "remoteBrain/Report/2026/09_September.md",
     "remoteBrain/VisionBoard/2026.md",
+    "remoteBrain/Daily-Docs/2026/09_September/2026-09-01 Tue.md",
+    "remoteBrain/Daily-Docs/2026/09_September/2026-09-02 Wed.md",
     "remoteBrain/Daily-Docs/2026/08_August/2026-08-31 Mon.md",
     "remoteBrain/_templater/Monthly.md.tmp.16356.e156594b5344",
     "remoteBrain/_templater/Monthly.md.tmp.16356.5678f1e332a6",

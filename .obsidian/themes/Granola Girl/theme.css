@@ -263,29 +263,33 @@ body.granola-scheme-desert {
    muted low-saturation everything else, restrained single-accent
    headings instead of the other schemes' multi-hue heading system. */
 body.granola-scheme-oat {
-	--granola-ui-accent: #8f7566;         /* muted clay, less orange */
-	--granola-ui-accent-dark: #66554c;
-	--granola-ui-accent-pale: #e9e3d9;
-	--granola-ui-warn: #7a8174;          /* muted sage-gray, kept quiet on purpose */
-	--granola-ui-warn-dark: #5a5f54;
-	--granola-honey: #9e957e;             /* muted, much less yellow than the other schemes' honey */
+	--granola-ui-accent: #b17f5c;         /* warm clay — colorful, but a notch quieter than Default/Desert's rust */
+	--granola-ui-accent-dark: #8a5f42;
+	--granola-ui-accent-pale: #ece0d3;
+	--granola-ui-warn: #7d9270;           /* sage green, the "olive" the other schemes have too */
+	--granola-ui-warn-dark: #5c6e4f;
+	--granola-honey: #c9a25f;
 	--granola-neutral: #fbfaf5;
 	--granola-shadow: rgba(60, 55, 45, 0.1);
 
 	--accent-h: 25;
-	--accent-s: 13%;
+	--accent-s: 24%;
 	--accent-d: 50%;
 	--accent-l: 42%;
 
+	/* Same two-hue heading system as the other schemes now (clay for
+	   h1/h4/strong, sage for h2/h3/h5/em/quote) — Oat stays calmer
+	   because the hues themselves are quieter, not because headings
+	   fall back to plain text color */
 	--h1-color: var(--granola-ui-accent-dark);
-	--h2-color: var(--text-normal);
-	--h3-color: var(--text-normal);
+	--h2-color: var(--granola-ui-warn-dark);
+	--h3-color: var(--granola-ui-warn-dark);
 	--h4-color: var(--granola-honey);
-	--h5-color: var(--text-muted);
+	--h5-color: var(--granola-ui-accent);
 
 	--strong-color: var(--granola-ui-accent-dark);
-	--em-color: var(--text-muted);
-	--quote-color: var(--text-muted);
+	--em-color: var(--granola-ui-warn-dark);
+	--quote-color: var(--granola-ui-warn-dark);
 
 	--tag-background-color-l: var(--granola-ui-accent-pale);
 	--tag-font-color-l: var(--granola-ui-accent-dark);
@@ -873,7 +877,7 @@ table.dataview thead tr {
 .dataview.table-view-table th,
 table.dataview th {
 	color: var(--granola-ui-accent-dark);
-	font-family: var(--font-ui-granola);
+	font-family: var(--font-heading-granola);
 	font-weight: 600;
 	text-align: left;
 	padding: 8px 12px;
