@@ -18,3 +18,8 @@
    - empty-bg.jpg
    - empty-bg.png
 그 다음 Style Settings에서 "My own image"를 선택하면 돼요.
+
+3. 폰트 — 본문/UI 텍스트는 Quicksand(영문) + Paperlogy(한글) 조합이에요.
+   Paperlogy는 구글 폰트가 아니라 ./fonts/ 폴더에 파일로 직접 들어있어요
+   (Regular/Medium/SemiBold/Bold 4종). 이 폴더를 통째로 옮기거나 삭제하면
+   폰트도 같이 사라지니 주의하세요.

@@ -7,10 +7,10 @@
     "google-calendar-muted"
   ],
   "baseFontSizeAction": true,
-  "baseFontSize": 15,
+  "baseFontSize": 16,
   "monospaceFontFamily": "JetBrains Mono,D2Coding",
-  "textFontFamily": "Quicksand,Gowun Dodum,나눔고딕",
-  "interfaceFontFamily": "Quicksand,Gowun Dodum,나눔고딕",
+  "textFontFamily": "Quicksand,Paperlogy 4,나눔고딕",
+  "interfaceFontFamily": "Quicksand,Paperlogy 4,나눔고딕",
   "nativeMenus": true,
   "accentColor": "",
   "showViewHeader": true,
