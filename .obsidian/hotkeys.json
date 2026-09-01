@@ -50,7 +50,9 @@
       "key": "X"
     }
   ],
-  "periodic-notes:open-monthly-note": [
+  "periodic-notes:open-monthly-note": [],
+  "periodic-notes:open-daily-note": [],
+  "templater-obsidian:create-remoteBrain/_templater/Monthly.md": [
     {
       "modifiers": [
         "Alt"
@@ -58,7 +60,7 @@
       "key": "3"
     }
   ],
-  "periodic-notes:open-daily-note": [
+  "templater-obsidian:create-remoteBrain/_templater/Daily.md": [
     {
       "modifiers": [
         "Alt"

@@ -130,8 +130,9 @@ SORT file.name ASC
 if (monthlyExisting) {
 	const stub = tp.config.target_file;
 	await app.workspace.getLeaf(false).openFile(monthlyExisting);
+	tR = "";
 	if (stub && stub.path !== monthlyExisting.path) {
-		try { await app.vault.delete(stub); } catch (e) {}
+		setTimeout(() => { app.vault.delete(stub).catch(() => {}); }, 500);
 	}
 } else {
 	await tp.file.move(`${monthlyFolder}/${monthlyFilename}`);

@@ -145,8 +145,12 @@ hide backlink
 if (dailyExisting) {
 	const stub = tp.config.target_file;
 	await app.workspace.getLeaf(false).openFile(dailyExisting);
+	tR = "";
 	if (stub && stub.path !== dailyExisting.path) {
-		try { await app.vault.delete(stub); } catch (e) {}
+		// Deleting `stub` here (mid-processing) would race Templater's own
+		// final "write tR to target_file" step, which still holds a
+		// reference to it — defer the cleanup until well after that's done.
+		setTimeout(() => { app.vault.delete(stub).catch(() => {}); }, 500);
 	}
 } else {
 	await tp.file.move(`${dailyFolder}/${dailyFilename}`);
