@@ -551,6 +551,40 @@ body.granola-scheme-desert.theme-dark.is-mobile {
 .metadata-property-value .metadata-input-longtext {
 	text-align: center;
 }
+.metadata-property:hover,
+.metadata-property-key:hover,
+.metadata-property-key-input:hover,
+.metadata-property-value:hover {
+	background: transparent !important;
+}
+/* Kill the hover/focus ring box (Obsidian draws it as an outline or
+   box-shadow, not a real border, so this doesn't touch the row/
+   column divider lines above) and flatten every corner radius in
+   the properties block */
+.metadata-property:hover,
+.metadata-property-key:hover,
+.metadata-property-key-input:hover,
+.metadata-property-key-input:focus,
+.metadata-property-value:hover,
+.metadata-property-value:focus-within,
+.metadata-property-value input:hover,
+.metadata-property-value input:focus,
+.metadata-property-value .metadata-input-longtext:hover,
+.metadata-property-value .metadata-input-longtext:focus {
+	box-shadow: none !important;
+	outline: none !important;
+}
+.metadata-container,
+.metadata-property,
+.metadata-property-key,
+.metadata-property-key-input,
+.metadata-property-value,
+.metadata-property-value input,
+.metadata-property-value .metadata-input-longtext,
+.metadata-property-value .multi-select-container,
+.metadata-property-value .multi-select-pill {
+	border-radius: 0 !important;
+}
 .metadata-property-value .multi-select-container {
 	justify-content: center;
 }
