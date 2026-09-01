@@ -10,7 +10,7 @@
   },
   "weekly": {
     "format": "",
-    "template": "remoteBrain/_templater/daily.md",
+    "template": "remoteBrain/_templater/Daily.md",
     "folder": "/",
     "enabled": false
   },

@@ -1,0 +1,427 @@
+/*─────────────────────────────────────────────────────────
+GRANOLA GIRL — MOSS
+Same warm oat/cream Granola Girl base, recolored to a
+yellow-leaning moss/olive green instead of sage + terracotta.
+Same soft artisanal serif headings, minimal line-art leaves.
+Built on the same variable structure Obsidian's built-in
+default.css derives all UI colors from.
+────────────────────────────────────────────────────────── */
+
+@charset "UTF-8";
+
+/* Fraunces = a warm, soft-serif display face (the "that girl /
+   granola" branding font), paired with Gowun Batang for the same
+   warm-serif feel on Hangul headings. Quicksand + Gowun Dodum are
+   the friendly rounded sans pair for UI text (tags, buttons,
+   callout titles) and, via appearance.json, the body text font. */
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Quicksand:wght@500;600&family=Gowun+Batang:wght@400;700&family=Gowun+Dodum&display=swap');
+
+body {
+	--base-h: 38;    /* warm cream */
+	--base-s: 32%;
+	--base-d: 15%;   /* dark mode base lightness */
+	--base-l: 97%;   /* light mode base lightness */
+
+	--accent-h: 80;  /* yellow-leaning moss green */
+	--accent-s: 38%;
+	--accent-d: 56%;
+	--accent-l: 40%;
+
+	--granola-moss: #6b7a3f;
+	--granola-moss-dark: #4d5a2a;
+	--granola-moss-pale: #e3e6c9;
+	--granola-olive: #8a6d3f;
+	--granola-olive-dark: #6b5429;
+	--granola-honey: #cfa059;
+	--granola-cream: #faf6ee;
+	--granola-shadow: rgba(95, 100, 45, 0.16);
+
+	--h1-color: var(--granola-moss-dark);
+	--h2-color: var(--granola-moss);
+	--h3-color: var(--granola-moss);
+	--h4-color: var(--granola-honey);
+	--h5-color: var(--granola-olive);
+	--h6-color: var(--text-muted);
+
+	--strong-color: var(--granola-moss-dark);
+	--em-color: var(--granola-olive);
+	--quote-color: var(--granola-moss);
+
+	--tag-background-color-l: var(--granola-moss-pale);
+	--tag-font-color-l: var(--granola-moss-dark);
+	--tag-background-color-d: #3a3f22;
+	--tag-font-color-d: #d3d9a8;
+
+	--highlight-background-color--normal: hsl(38deg 70% 70% / 30%) !important;
+	--highlight-background-color-underline: hsl(48deg 60% 50% / 100%) !important;
+	--highlight-background-color--active: hsl(80deg 35% 45% / 25%) !important;
+
+	--font-text-theme: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+		Inter, Ubuntu, sans-serif;
+	--font-editor-theme: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+		Inter, Ubuntu, sans-serif;
+	--font-monospace-theme: 'JetBrains Mono', 'Fira Code', Consolas,
+		'Roboto Mono', monospace;
+	--font-interface-theme: -apple-system, BlinkMacSystemFont, 'Segoe UI',
+		Roboto, Inter, Ubuntu, sans-serif;
+	--font-heading-granola: 'Fraunces', 'Gowun Batang', Georgia, 'Noto Serif KR', serif;
+	--font-ui-granola: 'Quicksand', 'Gowun Dodum', var(--font-text-theme);
+
+	--h1-size: 1.9rem;
+	--h2-size: 1.5rem;
+	--h3-size: 1.2rem;
+	--h4-size: 1.1rem;
+	--h5-size: 1rem;
+	--h6-size: 0.9rem;
+
+	/* Soft, rounded — ceramic mug corners, not pixel/bubble */
+	--radius-s: 8px;
+	--radius-m: 12px;
+	--radius-l: 18px;
+	--radius-xl: 24px;
+	--checkbox-radius: 50%;
+
+	--link-external-decoration: underline;
+	--link-decoration: underline;
+
+	--line-width: 40rem;
+	--line-height: 1.65;
+	--max-width: 90%;
+	--max-col-width: 18em;
+	--icon-muted: 0.6;
+	--nested-padding: 1.1em;
+	--folding-offset: 10px;
+	--line-width-adaptive: var(--line-width);
+	--line-width-wide: calc(var(--line-width) + 12.5%);
+}
+
+/* COLOR SCHEMES
+────────────────────────────────────────────────────── */
+
+.theme-light,
+body.theme-light.is-mobile {
+	color-scheme: light;
+	--highlight-mix-blend-mode: darken;
+	--mono-rgb-0: 255, 255, 255;
+	--mono-rgb-100: 0, 0, 0;
+
+	--color-red-rgb: 201, 90, 74;
+	--color-red: #c95a4a;
+	--color-green-rgb: 107, 122, 63;
+	--color-green: #6b7a3f;
+	--color-orange: #a9843f;
+	--color-yellow: #cfa059;
+	--color-cyan: #6ba398;
+	--color-blue: #6b8fa3;
+	--color-purple: #9683a3;
+	--color-pink: #c98a9b;
+
+	--color-base-00: #faf6ee; /* main editor background */
+	--color-base-05: #f7f1e6;
+	--color-base-10: #f2ead9; /* code blocks */
+	--color-base-20: #efe5d2;
+	--color-base-25: #ebdec7;
+	--color-base-30: #e2d2b8; /* dividers */
+	--color-base-35: #d3c0a0;
+	--color-base-40: #bfa980;
+	--color-base-50: #a68f68;
+	--color-base-60: #8a7555;
+	--color-base-70: #6c5c42;
+	--color-base-100: #332a1d;
+
+	--color-accent-hsl: var(--accent-h), var(--accent-s), var(--accent-l);
+	--color-accent: hsl(var(--accent-h), var(--accent-s), var(--accent-l));
+	--color-accent-1: hsl(var(--accent-h), var(--accent-s), calc(var(--accent-l) + 2.5%));
+	--color-accent-2: hsl(var(--accent-h), var(--accent-s), calc(var(--accent-l) + 5%));
+
+	--background-modifier-hover: #efe5d2;
+	--background-secondary-alt: var(--color-base-05);
+	--background-modifier-box-shadow: var(--granola-shadow);
+	--background-modifier-cover: rgba(225, 222, 180, 0.55);
+
+	--text-highlight-bg-l: rgba(207, 160, 89, 0.3);
+	--text-highlight-bg: var(--text-highlight-bg-l);
+	--text-highlight-bg-active: rgba(107, 122, 63, 0.28);
+
+	--input-shadow: inset 0 0 0 1px var(--color-base-35), 0 1px 3px var(--granola-shadow);
+	--input-shadow-hover: inset 0 0 0 1px var(--granola-moss), 0 2px 6px var(--granola-shadow);
+	--shadow-s: 0px 2px 8px var(--granola-shadow);
+	--shadow-l: 0px 6px 24px var(--granola-shadow);
+
+	--tag-background: var(--tag-background-color-l);
+	--tag-color: var(--tag-font-color-l);
+
+	--text-muted: hsl(var(--base-h), calc(var(--base-s) - 5%), calc(var(--base-l) - 55%));
+	--text-faint: hsl(var(--base-h), calc(var(--base-s) - 5%), calc(var(--base-l) - 30%));
+	--text-formatted: hsl(var(--base-h), calc(var(--base-s) - 5%), calc(var(--base-l) - 35%));
+
+	--text-accent: hsl(var(--accent-h), var(--accent-s), var(--accent-l));
+	--text-accent-hover: hsl(var(--accent-h), var(--accent-s), calc(var(--accent-l) - 10%));
+}
+
+.theme-dark,
+body.theme-dark.is-mobile {
+	color-scheme: dark;
+	--highlight-mix-blend-mode: lighten;
+	--mono-rgb-0: 0, 0, 0;
+	--mono-rgb-100: 255, 255, 255;
+
+	--color-red-rgb: 224, 122, 104;
+	--color-red: #e07a68;
+	--color-green-rgb: 163, 184, 118;
+	--color-green: #a3b876;
+	--color-orange: #d1b06a;
+	--color-yellow: #e0b978;
+	--color-cyan: #8bc3b6;
+	--color-blue: #8bafc3;
+	--color-purple: #b3a0c3;
+	--color-pink: #e0a5b6;
+
+	--color-base-00: #241d16; /* main editor background — espresso */
+	--color-base-05: #2a2119;
+	--color-base-10: #2f251b; /* code blocks */
+	--color-base-20: #1f1810;
+	--color-base-25: #362b1f;
+	--color-base-30: #493a29; /* dividers */
+	--color-base-35: #5a4835;
+	--color-base-40: #715a41;
+	--color-base-50: #8a7256;
+	--color-base-60: #a68f70;
+	--color-base-70: #c4af90;
+	--color-base-100: #f2e8d8;
+
+	--color-accent-hsl: var(--accent-h), var(--accent-s), var(--accent-l);
+	--color-accent: hsl(var(--accent-h), var(--accent-s), var(--accent-l));
+	--color-accent-1: hsl(var(--accent-h), var(--accent-s), calc(var(--accent-l) - 3.8%));
+	--color-accent-2: hsl(var(--accent-h), var(--accent-s), calc(var(--accent-l) + 3.8%));
+
+	--titlebar-background-focused: var(--color-base-10);
+	--background-modifier-form-field: var(--color-base-25);
+	--background-secondary-alt: var(--color-base-30);
+	--interactive-normal: var(--color-base-30);
+	--interactive-hover: var(--color-base-35);
+	--background-modifier-box-shadow: rgba(0, 0, 0, 0.35);
+	--background-modifier-cover: rgba(36, 29, 22, 0.6);
+
+	--text-highlight-bg-d: rgba(163, 184, 118, 0.25);
+	--text-highlight-bg: var(--text-highlight-bg-d);
+	--text-highlight-bg-active: rgba(163, 184, 118, 0.28);
+
+	--text-selection: hsla(var(--color-accent-hsl), 0.28);
+	--input-shadow: inset 0 0 0 1px var(--color-base-35), 0 1px 4px rgba(0, 0, 0, 0.3);
+	--input-shadow-hover: inset 0 0 0 1px var(--granola-moss), 0 2px 8px rgba(0, 0, 0, 0.35);
+	--shadow-s: 0px 2px 10px rgba(0, 0, 0, 0.3);
+	--shadow-l: 0px 6px 26px rgba(0, 0, 0, 0.4);
+
+	--tag-background: var(--tag-background-color-d);
+	--tag-color: var(--tag-font-color-d);
+
+	--text-muted: hsl(var(--base-h), var(--base-s), calc(var(--base-d) + 58%));
+	--text-faint: hsl(var(--base-h), var(--base-s), calc(var(--base-d) + 26%));
+	--text-formatted: hsl(var(--base-h), var(--base-s), calc(var(--base-d) + 46%));
+
+	--text-accent: hsl(var(--accent-h), var(--accent-s), var(--accent-d));
+	--text-accent-hover: hsl(var(--accent-h), var(--accent-s), calc(var(--accent-d) + 12%));
+}
+
+/* GRANOLA FLOURISHES
+────────────────────────────────────────────────────── */
+
+/* Warm serif headings, no gradients / no hard shadows */
+.markdown-preview-view h1,
+.HyperMD-header-1,
+.cm-header-1,
+.view-header-title {
+	font-family: var(--font-heading-granola);
+	font-weight: 600;
+	letter-spacing: 0.2px;
+}
+.markdown-preview-view h2,
+.HyperMD-header-2,
+.cm-header-2,
+.markdown-preview-view h3,
+.HyperMD-header-3,
+.cm-header-3 {
+	font-family: var(--font-heading-granola);
+	font-weight: 600;
+}
+
+/* Blockquote: soft olive bar + warm tint, italic */
+body:not(.default-font-color) .markdown-preview-view blockquote,
+body:not(.default-font-color) span.cm-quote.cm-quote-1 {
+	font-style: italic;
+	color: var(--quote-color);
+}
+.markdown-preview-view blockquote {
+	border-left: 3px solid var(--granola-olive);
+	background: var(--color-base-05);
+	border-radius: 0 var(--radius-s) var(--radius-s) 0;
+	padding: 0.4em 1em;
+}
+
+body:not(.default-font-color) strong,
+body:not(.default-font-color) span:not(.cm-highlight).cm-strong {
+	color: var(--strong-color);
+}
+body:not(.default-font-color) em,
+body:not(.default-font-color) span:not(.cm-highlight).cm-em {
+	color: var(--em-color);
+}
+
+body.fancy-highlight span.cm-highlight,
+body.fancy-highlight .markdown-preview-view mark,
+body.fancy-highlight span.search-result-file-matched-text {
+	background-image: linear-gradient(
+		0deg,
+		var(--highlight-background-color-underline) 0%,
+		var(--highlight-background-color-underline) 2px,
+		var(--highlight-background-color--active) 2px,
+		var(--highlight-background-color--active) 100%
+	) !important;
+}
+
+.markdown-preview-view ul > li.task-list-item.is-checked,
+.markdown-source-view.mod-cm6 .HyperMD-task-line[data-task='x'],
+.markdown-source-view.mod-cm6 .HyperMD-task-line[data-task='X'] {
+	text-decoration: line-through;
+	color: var(--text-faint);
+}
+
+img {
+	border-radius: var(--radius-m);
+	box-shadow: var(--shadow-s);
+}
+
+/* Only style buttons Obsidian intends to look like buttons — modal
+   actions, settings controls, CTAs. Deliberately NOT a blanket
+   `button:not(.clickable-icon)` selector: that catches Obsidian's own
+   small overlay icon buttons (like the block-copy button) and makes
+   them look broken, so this theme stays scoped. */
+.modal-button-container button,
+.setting-item-control button,
+.prompt-instructions,
+button.mod-cta,
+button.mod-warning {
+	font-family: var(--font-ui-granola);
+	font-weight: 600;
+	background: var(--granola-cream);
+	color: var(--granola-moss-dark);
+	border: 1.5px solid var(--granola-moss);
+	border-radius: 999px;
+	box-shadow: var(--shadow-s);
+	transition: transform 0.15s ease, box-shadow 0.15s ease, background 0.15s ease;
+}
+.modal-button-container button:hover,
+.setting-item-control button:hover,
+button.mod-cta:hover,
+button.mod-warning:hover {
+	transform: translateY(-1px);
+	box-shadow: var(--shadow-l);
+}
+button.mod-cta {
+	background: var(--granola-moss);
+	color: var(--granola-cream);
+	border-color: var(--granola-moss-dark);
+}
+button.mod-cta:hover {
+	background: var(--granola-moss-dark);
+}
+button.mod-warning {
+	background: var(--granola-olive);
+	color: var(--granola-cream);
+	border-color: var(--granola-olive-dark);
+}
+
+/* Tags: soft moss pill */
+.tag,
+a.tag {
+	font-family: var(--font-ui-granola);
+	font-weight: 600;
+	border-radius: 999px;
+}
+
+/* Callouts: soft cream card, warm shadow, no hard borders */
+.callout {
+	border: none;
+	border-radius: var(--radius-l);
+	box-shadow: var(--shadow-s);
+	background: var(--color-base-05);
+	overflow: hidden;
+}
+.callout-title {
+	background: var(--granola-moss-pale);
+	color: var(--granola-moss-dark);
+	font-family: var(--font-ui-granola);
+	font-weight: 600;
+	padding: 10px 14px;
+}
+.callout-content {
+	background: var(--color-base-00);
+	padding: 10px 14px;
+}
+
+/* Active tab: soft moss underline */
+.workspace-tab-header.is-active {
+	position: relative;
+}
+.workspace-tab-header.is-active::after {
+	content: '';
+	position: absolute;
+	left: 8px;
+	right: 8px;
+	bottom: 2px;
+	height: 2px;
+	border-radius: 999px;
+	background: var(--granola-moss);
+}
+
+.side-dock-ribbon-action:hover,
+.clickable-icon:hover {
+	color: var(--granola-olive-dark);
+}
+
+::-webkit-scrollbar-thumb {
+	background: var(--color-base-35);
+	border-radius: 999px;
+}
+
+body.active-line .cm-active:not(.HyperMD-header, .HyperMD-codeblock)::before,
+body.active-line .cm-active.HyperMD-quote::before {
+	content: '';
+	height: 100%;
+	position: absolute;
+	left: -1.125em;
+	border-left: 3px solid var(--granola-moss);
+	border-radius: 10px 0 0 10px;
+	opacity: 0.85;
+}
+
+.theme-dark .modal-container .suggestion-item.is-selected {
+	background: var(--color-accent);
+}
+
+/* MINIMAL LINE-ART LEAF (single stroke, no fill) */
+:root {
+	--granola-leaf: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='26' height='26' viewBox='0 0 24 24'%3E%3Cpath d='M4 20c8-1 14-7 15-16-9 1-15 7-16 16z' fill='none' stroke='%236b7a3f' stroke-width='1.4' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M6.5 17.5c4-3.2 8-7.2 10.8-12.8' fill='none' stroke='%236b7a3f' stroke-width='1' stroke-linecap='round'/%3E%3C/svg%3E");
+	--granola-sprout: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='22' height='22' viewBox='0 0 24 24'%3E%3Cpath d='M12 21V11' fill='none' stroke='%238a6d3f' stroke-width='1.4' stroke-linecap='round'/%3E%3Cpath d='M12 12c0-4 3-6 7-6-1 4-3 6-7 6z' fill='none' stroke='%238a6d3f' stroke-width='1.4' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M12 15c0-3-2.5-5-6-5 1 3 2.5 5 6 5z' fill='none' stroke='%238a6d3f' stroke-width='1.4' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+}
+
+/* Soft warm wash + line-art leaves on the chrome only (titlebar,
+   sidebar header, empty pane) — the editor pane itself stays a
+   clean solid cream so body text stays easy to read */
+.titlebar,
+.nav-header,
+.empty-state {
+	background-image:
+		var(--granola-leaf),
+		var(--granola-sprout),
+		linear-gradient(180deg, var(--granola-moss-pale) 0%, var(--color-base-00) 70%);
+	background-repeat: no-repeat, no-repeat, no-repeat;
+	background-position: 90% 20%, 10% 75%, center;
+	background-size: 24px auto, 20px auto, 100% 100%;
+	opacity: 1;
+}
+
+.workspace-split.mod-left-split .nav-header {
+	border-bottom: 1px solid var(--color-base-30);
+}
