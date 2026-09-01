@@ -116,25 +116,25 @@ body.theme-light.is-mobile {
 	--color-purple: #9683a3;
 	--color-pink: #c98a9b;
 
-	--color-base-00: #faf6ee; /* main editor background */
+	--color-base-00: #faf6ee; /* main editor background — stays paper-cream so notes stay readable */
 	--color-base-05: #f7f1e6;
 	--color-base-10: #f2ead9; /* code blocks */
-	--color-base-20: #efe5d2;
-	--color-base-25: #ebdec7;
-	--color-base-30: #e2d2b8; /* dividers */
-	--color-base-35: #d3c0a0;
-	--color-base-40: #bfa980;
-	--color-base-50: #a68f68;
-	--color-base-60: #8a7555;
-	--color-base-70: #6c5c42;
-	--color-base-100: #332a1d;
+	--color-base-20: #e1e2c4; /* sidebar / secondary bg — olive-tinted */
+	--color-base-25: #d7d9b4;
+	--color-base-30: #c9cd9e; /* dividers */
+	--color-base-35: #b3b884;
+	--color-base-40: #9aa06a;
+	--color-base-50: #818852;
+	--color-base-60: #666d3f;
+	--color-base-70: #4d5330;
+	--color-base-100: #2a2e1a;
 
 	--color-accent-hsl: var(--accent-h), var(--accent-s), var(--accent-l);
 	--color-accent: hsl(var(--accent-h), var(--accent-s), var(--accent-l));
 	--color-accent-1: hsl(var(--accent-h), var(--accent-s), calc(var(--accent-l) + 2.5%));
 	--color-accent-2: hsl(var(--accent-h), var(--accent-s), calc(var(--accent-l) + 5%));
 
-	--background-modifier-hover: #efe5d2;
+	--background-modifier-hover: #d7d9b4;
 	--background-secondary-alt: var(--color-base-05);
 	--background-modifier-box-shadow: var(--granola-shadow);
 	--background-modifier-cover: rgba(225, 222, 180, 0.55);
@@ -177,18 +177,18 @@ body.theme-dark.is-mobile {
 	--color-purple: #b3a0c3;
 	--color-pink: #e0a5b6;
 
-	--color-base-00: #241d16; /* main editor background — espresso */
+	--color-base-00: #241d16; /* main editor background — espresso, stays readable */
 	--color-base-05: #2a2119;
 	--color-base-10: #2f251b; /* code blocks */
-	--color-base-20: #1f1810;
-	--color-base-25: #362b1f;
-	--color-base-30: #493a29; /* dividers */
-	--color-base-35: #5a4835;
-	--color-base-40: #715a41;
-	--color-base-50: #8a7256;
-	--color-base-60: #a68f70;
-	--color-base-70: #c4af90;
-	--color-base-100: #f2e8d8;
+	--color-base-20: #1c2013; /* sidebar / secondary bg — mossy dark */
+	--color-base-25: #29301c;
+	--color-base-30: #3a4527; /* dividers */
+	--color-base-35: #4a5730;
+	--color-base-40: #5e6d3d;
+	--color-base-50: #78864f;
+	--color-base-60: #94a065;
+	--color-base-70: #b3bd88;
+	--color-base-100: #eef0d8;
 
 	--color-accent-hsl: var(--accent-h), var(--accent-s), var(--accent-l);
 	--color-accent: hsl(var(--accent-h), var(--accent-s), var(--accent-l));
@@ -422,6 +422,28 @@ body.active-line .cm-active.HyperMD-quote::before {
 	opacity: 1;
 }
 
+/* Thick moss "window frame" borders — this is the part that reads
+   as the theme's main color at a glance, like the chunky green
+   card borders in the reference */
+.titlebar {
+	border-bottom: 2px solid var(--granola-moss);
+}
+.workspace-split.mod-left-split,
+.workspace-split.mod-right-split {
+	border-right: 2px solid var(--granola-moss);
+}
+.workspace-split.mod-right-split {
+	border-right: none;
+	border-left: 2px solid var(--granola-moss);
+}
 .workspace-split.mod-left-split .nav-header {
-	border-bottom: 1px solid var(--color-base-30);
+	border-bottom: 2px solid var(--granola-moss);
+}
+.workspace-tab-header-container {
+	border-bottom: 2px solid var(--granola-moss);
+	background: var(--granola-moss-pale);
+}
+.status-bar {
+	border-top: 2px solid var(--granola-moss);
+	background: var(--granola-moss-pale);
 }
