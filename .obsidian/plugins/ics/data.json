@@ -19,21 +19,6 @@
       },
       "calendarType": "remote"
     },
-    "#work💼": {
-      "icsName": "#work💼",
-      "icsUrl": "https://calendar.google.com/calendar/ical/d98979f0179c75a3e3390f7e908281782a64a49ec59783ef4658fc5f3deefbcc%40group.calendar.google.com/private-a27e4e118585c4c5c5b777017017c1ea/basic.ics",
-      "format": {
-        "checkbox": true,
-        "includeEventEndTime": true,
-        "icsName": true,
-        "summary": true,
-        "location": true,
-        "description": true,
-        "calendarType": "remote",
-        "showAttendees": false
-      },
-      "calendarType": "remote"
-    },
     "#todo": {
       "icsName": "#todo",
       "icsUrl": "https://calendar.google.com/calendar/ical/ca01425c7a7dbb5a08c84ae9aa5deba2e7d84abe2ef565184dd45cd21b224c27%40group.calendar.google.com/private-aecce73937e227a1f649f356100bbcb6/basic.ics",
@@ -64,9 +49,44 @@
       },
       "calendarType": "remote"
     },
+    "#concert": {
+      "icsName": "#concert",
+      "icsUrl": "https://calendar.google.com/calendar/ical/9897cf4c3c671637ad3bb47189bef86af52c3250fde9281667165b70076a295f%40group.calendar.google.com/private-3144e2ce49247a316ec9590cb2bcd17c/basic.ics",
+      "ownerEmail": "",
+      "format": {
+        "checkbox": true,
+        "includeEventEndTime": true,
+        "icsName": true,
+        "summary": true,
+        "location": true,
+        "description": false,
+        "calendarType": "remote",
+        "showAttendees": false,
+        "showOngoing": true,
+        "showTransparentEvents": false
+      },
+      "calendarType": "remote"
+    },
+    "#work💼": {
+      "icsName": "#work💼",
+      "icsUrl": "https://calendar.google.com/calendar/ical/d98979f0179c75a3e3390f7e908281782a64a49ec59783ef4658fc5f3deefbcc%40group.calendar.google.com/private-a27e4e118585c4c5c5b777017017c1ea/basic.ics",
+      "format": {
+        "checkbox": true,
+        "includeEventEndTime": true,
+        "icsName": true,
+        "summary": true,
+        "location": true,
+        "description": true,
+        "calendarType": "remote",
+        "showAttendees": false,
+        "showOngoing": true,
+        "showTransparentEvents": false
+      },
+      "calendarType": "remote"
+    },
     "#game": {
       "icsName": "#game",
-      "icsUrl": "https://calendar.google.com/calendar/ical/54e0ade765b819ec16144e3a378f5e49f55bdfdc4536e342c6f5dd1b0ac938c7%40group.calendar.google.com/public/basic.ics",
+      "icsUrl": "https://calendar.google.com/calendar/ical/54e0ade765b819ec16144e3a378f5e49f55bdfdc4536e342c6f5dd1b0ac938c7%40group.calendar.google.com/private-e4a306adabb819da0f0e6be85a8013d3/basic.ics",
       "ownerEmail": "",
       "format": {
         "checkbox": true,

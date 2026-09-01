@@ -11,8 +11,8 @@
   "monospaceFontFamily": "JetBrains Mono,D2Coding",
   "textFontFamily": "Quicksand,Gowun Dodum,나눔고딕",
   "interfaceFontFamily": "Quicksand,Gowun Dodum,나눔고딕",
-  "nativeMenus": false,
+  "nativeMenus": true,
   "accentColor": "",
   "showViewHeader": true,
-  "showRibbon": false
+  "showRibbon": true
 }
