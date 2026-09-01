@@ -25,18 +25,18 @@
             }
           },
           {
-            "id": "4df7fa0c4422546a",
+            "id": "a7e1c8a4a23fac45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2026/09_September/2026-09-01 Tue.md",
+                "file": "remoteBrain/99_InsightON/대한유화 SHE/보건 (2026-07-15).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-01 Tue"
+              "title": "보건 (2026-07-15)"
             }
           }
         ],
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2026/09_September/2026-09-01 Tue.md",
+                "file": "remoteBrain/99_InsightON/대한유화 SHE/보건 (2026-07-15).md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
@@ -180,12 +180,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4df7fa0c4422546a",
+  "active": "a7e1c8a4a23fac45",
   "lastOpenFiles": [
     "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/99_InsightON/대한유화 SHE/보건 (2026-07-15).md",
-    "remoteBrain/Report/2026/09_September.md",
     "remoteBrain/Daily-Docs/2026/09_September/2026-09-01 Tue.md",
+    "remoteBrain/Report/2026/09_September.md",
     "remoteBrain/_templater/Daily.md",
     "remoteBrain/99_InsightON/대한유화 SHE/소방 (2026-08-13).md",
     "README.md",
