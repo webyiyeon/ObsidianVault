@@ -119,7 +119,7 @@ body {
 	--granola-shadow: rgba(120, 90, 50, 0.14);
 
 	--accent-h: 100; /* sage */
-	--accent-s: 26%;
+	--accent-s: 18%;
 	--accent-d: 58%;
 	--accent-l: 46%;
 
@@ -139,9 +139,9 @@ body {
 	--tag-background-color-d: #33402a;
 	--tag-font-color-d: #c3d6b3;
 
-	--highlight-background-color--normal: hsl(38deg 70% 70% / 30%) !important;
-	--highlight-background-color-underline: hsl(20deg 65% 60% / 100%) !important;
-	--highlight-background-color--active: hsl(100deg 30% 55% / 25%) !important;
+	--highlight-background-color--normal: hsl(38deg 45% 70% / 30%) !important;
+	--highlight-background-color-underline: hsl(20deg 42% 55% / 100%) !important;
+	--highlight-background-color--active: hsl(100deg 20% 52% / 25%) !important;
 }
 
 /* ── MOSS color scheme ── */
@@ -156,7 +156,7 @@ body.granola-scheme-moss {
 	--granola-shadow: rgba(95, 100, 45, 0.16);
 
 	--accent-h: 80;
-	--accent-s: 38%;
+	--accent-s: 28%;
 	--accent-d: 56%;
 	--accent-l: 40%;
 
@@ -175,8 +175,8 @@ body.granola-scheme-moss {
 	--tag-background-color-d: #3a3f22;
 	--tag-font-color-d: #d3d9a8;
 
-	--highlight-background-color-underline: hsl(48deg 60% 50% / 100%) !important;
-	--highlight-background-color--active: hsl(80deg 35% 45% / 25%) !important;
+	--highlight-background-color-underline: hsl(48deg 40% 48% / 100%) !important;
+	--highlight-background-color--active: hsl(80deg 24% 45% / 25%) !important;
 }
 
 /* ── DESERT color scheme ── */
@@ -191,7 +191,7 @@ body.granola-scheme-desert {
 	--granola-shadow: rgba(120, 70, 40, 0.18);
 
 	--accent-h: 18;
-	--accent-s: 55%;
+	--accent-s: 42%;
 	--accent-d: 62%;
 	--accent-l: 48%;
 
@@ -210,8 +210,8 @@ body.granola-scheme-desert {
 	--tag-background-color-d: #4a2c1e;
 	--tag-font-color-d: #e8c2a8;
 
-	--highlight-background-color-underline: hsl(30deg 60% 55% / 100%) !important;
-	--highlight-background-color--active: hsl(300deg 15% 50% / 25%) !important;
+	--highlight-background-color-underline: hsl(30deg 40% 52% / 100%) !important;
+	--highlight-background-color--active: hsl(300deg 12% 50% / 25%) !important;
 }
 
 /* COLOR SCHEMES × LIGHT/DARK
@@ -244,8 +244,8 @@ body.theme-light.is-mobile {
 	--tag-background: var(--tag-background-color-l);
 	--tag-color: var(--tag-font-color-l);
 
-	--text-muted: hsl(var(--base-h), calc(var(--base-s) - 5%), calc(var(--base-l) - 55%));
-	--text-faint: hsl(var(--base-h), calc(var(--base-s) - 5%), calc(var(--base-l) - 30%));
+	--text-muted: hsl(var(--base-h), calc(var(--base-s) - 5%), calc(var(--base-l) - 63%));
+	--text-faint: hsl(var(--base-h), calc(var(--base-s) - 5%), calc(var(--base-l) - 38%));
 	--text-formatted: hsl(var(--base-h), calc(var(--base-s) - 5%), calc(var(--base-l) - 35%));
 
 	--text-accent: hsl(var(--accent-h), var(--accent-s), var(--accent-l));
@@ -280,8 +280,8 @@ body.theme-dark.is-mobile {
 	--tag-background: var(--tag-background-color-d);
 	--tag-color: var(--tag-font-color-d);
 
-	--text-muted: hsl(var(--base-h), var(--base-s), calc(var(--base-d) + 58%));
-	--text-faint: hsl(var(--base-h), var(--base-s), calc(var(--base-d) + 26%));
+	--text-muted: hsl(var(--base-h), var(--base-s), calc(var(--base-d) + 66%));
+	--text-faint: hsl(var(--base-h), var(--base-s), calc(var(--base-d) + 34%));
 	--text-formatted: hsl(var(--base-h), var(--base-s), calc(var(--base-d) + 46%));
 
 	--text-accent: hsl(var(--accent-h), var(--accent-s), var(--accent-d));
