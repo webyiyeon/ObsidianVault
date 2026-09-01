@@ -1,0 +1,413 @@
+/*─────────────────────────────────────────────────────────
+Y2K BUBBLEGUM
+A holographic, bubblegum-pop Y2K theme for Obsidian.
+Built on the same variable structure Obsidian's built-in
+default.css derives all UI colors from, so it covers the
+whole app (panes, tabs, modals, editor) not just a few spots.
+────────────────────────────────────────────────────────── */
+
+@charset "UTF-8";
+
+body {
+	/* Base palette hue/sat/lightness — everything neutral (panes,
+	   borders, muted text) is derived from these */
+	--base-h: 322;
+	--base-s: 45%;
+	--base-d: 12%;  /* dark mode base lightness */
+	--base-l: 98%;  /* light mode base lightness */
+
+	--accent-h: 322;  /* hot pink */
+	--accent-s: 100%;
+	--accent-d: 68%;  /* dark mode accent lightness */
+	--accent-l: 60%;  /* light mode accent lightness */
+
+	/* Holo flourish colors, used by the gradients below */
+	--holo-pink: #ff5fb0;
+	--holo-purple: #a374ff;
+	--holo-blue: #4fb3ff;
+	--holo-cyan: #3ddfd0;
+	--holo-yellow: #ffe066;
+	--holo-gradient: linear-gradient(
+		90deg,
+		var(--holo-pink),
+		var(--holo-purple),
+		var(--holo-blue),
+		var(--holo-cyan),
+		var(--holo-pink)
+	);
+
+	--h1-color: var(--holo-pink);
+	--h2-color: var(--holo-purple);
+	--h3-color: var(--holo-blue);
+	--h4-color: #ff8fc7;
+	--h5-color: #b494ff;
+	--h6-color: var(--text-muted);
+
+	--strong-color: var(--holo-pink);
+	--em-color: var(--holo-purple);
+	--quote-color: var(--holo-blue);
+
+	--tag-background-color-l: #ffe1f4;
+	--tag-font-color-l: #d6339f;
+	--tag-background-color-d: #4a1a42;
+	--tag-font-color-d: #ff9ecf;
+
+	--highlight-background-color--normal: hsl(322deg 100% 70% / 22%) !important;
+	--highlight-background-color-underline: hsl(190deg 100% 55% / 100%) !important;
+	--highlight-background-color--active: hsl(322deg 100% 70% / 32%) !important;
+
+	/* Bubbly rounded font for headings only; body text stays on a
+	   normal readable stack for actual note-taking */
+	--font-text-theme: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+		Inter, Ubuntu, sans-serif;
+	--font-editor-theme: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+		Inter, Ubuntu, sans-serif;
+	--font-monospace-theme: 'JetBrains Mono', 'Fira Code', Consolas,
+		'Roboto Mono', monospace;
+	--font-interface-theme: -apple-system, BlinkMacSystemFont, 'Segoe UI',
+		Roboto, Inter, Ubuntu, sans-serif;
+	--font-heading-bubbly: 'Comic Sans MS', 'Segoe Print', 'Baloo 2',
+		var(--font-text-theme);
+
+	--h1-size: 1.8rem;
+	--h2-size: 1.5rem;
+	--h3-size: 1.25rem;
+	--h4-size: 1.1rem;
+	--h5-size: 1rem;
+	--h6-size: 0.9rem;
+
+	/* Chunky bubble-ish corners everywhere */
+	--radius-s: 8px;
+	--radius-m: 14px;
+	--radius-l: 20px;
+	--radius-xl: 28px;
+	--checkbox-radius: 50%;
+
+	--link-external-decoration: underline;
+	--link-decoration: none;
+
+	--line-width: 40rem;
+	--line-height: 1.6;
+	--max-width: 90%;
+	--max-col-width: 18em;
+	--icon-muted: 0.6;
+	--nested-padding: 1.1em;
+	--folding-offset: 10px;
+	--line-width-adaptive: var(--line-width);
+	--line-width-wide: calc(var(--line-width) + 12.5%);
+}
+
+/* COLOR SCHEMES
+────────────────────────────────────────────────────── */
+
+.theme-light,
+body.theme-light.is-mobile {
+	color-scheme: light;
+	--highlight-mix-blend-mode: darken;
+	--mono-rgb-0: 255, 255, 255;
+	--mono-rgb-100: 0, 0, 0;
+
+	--color-red-rgb: 255, 79, 122;
+	--color-red: #ff4f7a;
+	--color-green-rgb: 61, 220, 132;
+	--color-green: #3ddc84;
+	--color-orange: #ff9a3d;
+	--color-yellow: #e0ad00;
+	--color-cyan: #23c4b6;
+	--color-blue: #2e93ff;
+	--color-purple: #9060ff;
+	--color-pink: #ff2f9e;
+
+	--color-base-00: #fffbff; /* main editor background */
+	--color-base-05: #fff5fc;
+	--color-base-10: #ffeefa; /* code blocks */
+	--color-base-20: #ffeaf8;
+	--color-base-25: #ffdff3;
+	--color-base-30: #ffd0ec; /* dividers */
+	--color-base-35: #f3b6dd;
+	--color-base-40: #dd9bc7;
+	--color-base-50: #bb7cab;
+	--color-base-60: #925c85;
+	--color-base-70: #6f4566;
+	--color-base-100: #341330;
+
+	--color-accent-hsl: var(--accent-h), var(--accent-s), var(--accent-l);
+	--color-accent: hsl(var(--accent-h), var(--accent-s), var(--accent-l));
+	--color-accent-1: hsl(
+		var(--accent-h),
+		var(--accent-s),
+		calc(var(--accent-l) + 2.5%)
+	);
+	--color-accent-2: hsl(
+		var(--accent-h),
+		var(--accent-s),
+		calc(var(--accent-l) + 5%)
+	);
+
+	--background-modifier-hover: #ffe0f4;
+	--background-secondary-alt: var(--color-base-05);
+	--background-modifier-box-shadow: rgba(255, 95, 176, 0.15);
+	--background-modifier-cover: rgba(255, 220, 245, 0.5);
+
+	--text-highlight-bg-l: rgba(255, 214, 240, 0.65);
+	--text-highlight-bg: var(--text-highlight-bg-l);
+	--text-highlight-bg-active: rgba(77, 216, 255, 0.45);
+
+	--input-shadow: inset 0 0 0 1px rgba(255, 95, 176, 0.15),
+		0 2px 6px 0 rgba(255, 95, 176, 0.12), 0 1px 1.5px 0 rgba(0, 0, 0, 0.03);
+	--input-shadow-hover: inset 0 0 0 1px rgba(255, 95, 176, 0.3),
+		0 2px 8px 0 rgba(255, 95, 176, 0.22), 0 1px 1.5px 0 rgba(0, 0, 0, 0.03);
+	--shadow-s: 0px 1px 2px rgba(163, 63, 130, 0.06),
+		0px 3.4px 6.7px rgba(163, 63, 130, 0.08), 0px 15px 30px rgba(163, 63, 130, 0.1);
+	--shadow-l: 0px 1.8px 7.3px rgba(163, 63, 130, 0.09),
+		0px 6.3px 24.7px rgba(163, 63, 130, 0.14), 0px 30px 90px rgba(163, 63, 130, 0.22);
+
+	--tag-background: var(--tag-background-color-l);
+	--tag-color: var(--tag-font-color-l);
+
+	--text-muted: hsl(var(--base-h), calc(var(--base-s) - 10%), calc(var(--base-l) - 55%));
+	--text-faint: hsl(var(--base-h), calc(var(--base-s) - 10%), calc(var(--base-l) - 30%));
+	--text-formatted: hsl(var(--base-h), calc(var(--base-s) - 10%), calc(var(--base-l) - 35%));
+
+	--text-accent: hsl(var(--accent-h), var(--accent-s), var(--accent-l));
+	--text-accent-hover: hsl(var(--accent-h), var(--accent-s), calc(var(--accent-l) - 10%));
+}
+
+.theme-dark,
+body.theme-dark.is-mobile {
+	color-scheme: dark;
+	--highlight-mix-blend-mode: lighten;
+	--mono-rgb-0: 0, 0, 0;
+	--mono-rgb-100: 255, 255, 255;
+
+	--color-red-rgb: 255, 99, 138;
+	--color-red: #ff638a;
+	--color-green-rgb: 90, 240, 160;
+	--color-green: #5af0a0;
+	--color-orange: #ffab5c;
+	--color-yellow: #ffe066;
+	--color-cyan: #4be7d6;
+	--color-blue: #5fb8ff;
+	--color-purple: #b98cff;
+	--color-pink: #ff6ec7;
+
+	--color-base-00: #170821; /* main editor background — deep grape */
+	--color-base-05: #1c0b28;
+	--color-base-10: #23103a; /* code blocks */
+	--color-base-20: #190a28; /* unfocused nav */
+	--color-base-25: #29143f;
+	--color-base-30: #391c56; /* dividers */
+	--color-base-35: #4a2570;
+	--color-base-40: #6a3898;
+	--color-base-50: #8c53bd;
+	--color-base-60: #b380dd;
+	--color-base-70: #d3aef0;
+	--color-base-100: #ffe9fb;
+
+	--color-accent-hsl: var(--accent-h), var(--accent-s), var(--accent-l);
+	--color-accent: hsl(var(--accent-h), var(--accent-s), var(--accent-l));
+	--color-accent-1: hsl(
+		var(--accent-h),
+		var(--accent-s),
+		calc(var(--accent-l) - 3.8%)
+	);
+	--color-accent-2: hsl(
+		var(--accent-h),
+		var(--accent-s),
+		calc(var(--accent-l) + 3.8%)
+	);
+
+	--titlebar-background-focused: var(--color-base-10);
+	--background-modifier-form-field: var(--color-base-25);
+	--background-secondary-alt: var(--color-base-30);
+	--interactive-normal: var(--color-base-30);
+	--interactive-hover: var(--color-base-35);
+	--background-modifier-box-shadow: rgba(0, 0, 0, 0.35);
+	--background-modifier-cover: rgba(23, 8, 33, 0.6);
+
+	--text-highlight-bg-d: rgba(255, 110, 199, 0.35);
+	--text-highlight-bg: var(--text-highlight-bg-d);
+	--text-highlight-bg-active: rgba(75, 231, 214, 0.35);
+
+	--text-selection: hsla(var(--color-accent-hsl), 0.3);
+	--input-shadow: inset 0 0.5px 0.5px 0.5px rgba(255, 255, 255, 0.08),
+		0 2px 6px 0 rgba(255, 110, 199, 0.2), 0 1px 1.5px 0 rgba(0, 0, 0, 0.2);
+	--input-shadow-hover: inset 0 0.5px 1px 0.5px rgba(255, 255, 255, 0.14),
+		0 2px 8px 0 rgba(255, 110, 199, 0.35), 0 1px 1.5px 0 rgba(0, 0, 0, 0.3);
+	--shadow-s: 0px 1px 2px rgba(0, 0, 0, 0.25),
+		0px 3.4px 6.7px rgba(0, 0, 0, 0.3), 0px 15px 30px rgba(0, 0, 0, 0.4);
+	--shadow-l: 0px 1.8px 7.3px rgba(0, 0, 0, 0.3),
+		0px 6.3px 24.7px rgba(0, 0, 0, 0.35), 0px 30px 90px rgba(0, 0, 0, 0.45);
+
+	--tag-background: var(--tag-background-color-d);
+	--tag-color: var(--tag-font-color-d);
+
+	--text-muted: hsl(var(--base-h), var(--base-s), calc(var(--base-d) + 62%));
+	--text-faint: hsl(var(--base-h), var(--base-s), calc(var(--base-d) + 28%));
+	--text-formatted: hsl(var(--base-h), var(--base-s), calc(var(--base-d) + 48%));
+
+	--text-accent: hsl(var(--accent-h), var(--accent-s), var(--accent-d));
+	--text-accent-hover: hsl(var(--accent-h), var(--accent-s), calc(var(--accent-d) + 12%));
+}
+
+/* HOLOGRAPHIC FLOURISHES
+────────────────────────────────────────────────────── */
+
+@keyframes y2k-holo-shift {
+	0% { background-position: 0% 50%; }
+	100% { background-position: 200% 50%; }
+}
+
+/* Shimmering holo gradient on H1s */
+.markdown-preview-view h1,
+.HyperMD-header-1,
+.cm-header-1,
+.view-header-title {
+	font-family: var(--font-heading-bubbly);
+	background: var(--holo-gradient);
+	background-size: 200% auto;
+	-webkit-background-clip: text;
+	background-clip: text;
+	-webkit-text-fill-color: transparent;
+	animation: y2k-holo-shift 6s linear infinite;
+}
+
+.markdown-preview-view h2,
+.HyperMD-header-2,
+.cm-header-2,
+.markdown-preview-view h3,
+.HyperMD-header-3,
+.cm-header-3 {
+	font-family: var(--font-heading-bubbly);
+}
+
+/* Blockquotes: italic + holo left bar */
+body:not(.default-font-color) .markdown-preview-view blockquote,
+body:not(.default-font-color) span.cm-quote.cm-quote-1 {
+	font-style: italic;
+	color: var(--quote-color);
+}
+.markdown-preview-view blockquote {
+	border-left: 4px solid transparent;
+	border-image: var(--holo-gradient) 1;
+	border-radius: 2px;
+}
+
+/* Bold / italic */
+body:not(.default-font-color) strong,
+body:not(.default-font-color) span:not(.cm-highlight).cm-strong {
+	color: var(--strong-color);
+}
+body:not(.default-font-color) em,
+body:not(.default-font-color) span:not(.cm-highlight).cm-em {
+	color: var(--em-color);
+}
+
+/* Fancy sparkly highlight */
+body.fancy-highlight span.cm-highlight,
+body.fancy-highlight .markdown-preview-view mark,
+body.fancy-highlight span.search-result-file-matched-text {
+	background-image: linear-gradient(
+		0deg,
+		var(--highlight-background-color-underline) 0%,
+		var(--highlight-background-color-underline) 2px,
+		var(--highlight-background-color--active) 2px,
+		var(--highlight-background-color--active) 100%
+	) !important;
+}
+
+/* Completed checkboxes fade like a popped bubble */
+.markdown-preview-view ul > li.task-list-item.is-checked,
+.markdown-source-view.mod-cm6 .HyperMD-task-line[data-task='x'],
+.markdown-source-view.mod-cm6 .HyperMD-task-line[data-task='X'] {
+	text-decoration: line-through;
+	color: var(--text-faint);
+}
+
+/* Rounded, glossy images */
+img {
+	border-radius: var(--radius-m);
+	box-shadow: var(--shadow-s);
+}
+
+/* Pill-shaped, gradient-glow buttons */
+button:not(.clickable-icon),
+.modal-button-container button {
+	border-radius: 999px;
+	transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+button:not(.clickable-icon):hover,
+.modal-button-container button:hover {
+	transform: translateY(-1px);
+	box-shadow: 0 4px 14px hsla(var(--color-accent-hsl), 0.4);
+}
+button.mod-cta {
+	background: var(--holo-gradient);
+	background-size: 200% auto;
+	color: white;
+}
+button.mod-cta:hover {
+	background-position: 100% 50%;
+}
+
+/* Tag pills */
+.tag,
+a.tag {
+	border-radius: 999px;
+	font-family: var(--font-heading-bubbly);
+}
+
+/* Active tab gets a holo underline */
+.workspace-tab-header.is-active {
+	position: relative;
+}
+.workspace-tab-header.is-active::after {
+	content: '';
+	position: absolute;
+	left: 8px;
+	right: 8px;
+	bottom: 2px;
+	height: 2px;
+	border-radius: 999px;
+	background: var(--holo-gradient);
+	background-size: 200% auto;
+	animation: y2k-holo-shift 6s linear infinite;
+}
+
+/* Ribbon icons glow pink on hover */
+.side-dock-ribbon-action:hover,
+.clickable-icon:hover {
+	color: var(--holo-pink);
+}
+
+/* Scrollbar: holo thumb */
+::-webkit-scrollbar-thumb {
+	background: linear-gradient(180deg, var(--holo-pink), var(--holo-blue));
+	border-radius: 999px;
+}
+
+/* Focus active line uses the accent instead of a plain bar */
+body.active-line .cm-active:not(.HyperMD-header, .HyperMD-codeblock)::before,
+body.active-line .cm-active.HyperMD-quote::before {
+	content: '';
+	height: 100%;
+	position: absolute;
+	left: -1.125em;
+	border-left: 3px solid var(--holo-pink);
+	border-radius: 10px 0 0 10px;
+	opacity: 0.85;
+}
+
+.theme-dark .modal-container .suggestion-item.is-selected {
+	background: var(--color-accent);
+}
+
+/* Subtle sparkle-dot texture on chrome areas only (titlebar, nav header,
+   empty pane) — the actual note editor stays a clean solid pastel so
+   text is easy to read */
+.titlebar,
+.nav-header,
+.empty-state {
+	background-image: radial-gradient(circle, hsla(var(--color-accent-hsl), 0.35) 1px, transparent 1.2px);
+	background-size: 18px 18px;
+}
