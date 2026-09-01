@@ -135,7 +135,12 @@ SORT file.name ASC
 <%*
 if (monthlyExisting) {
 	const stub = tp.config.target_file;
-	await app.workspace.getLeaf(false).openFile(monthlyExisting);
+	const openLeaf = app.workspace.getLeavesOfType("markdown").find(l => l.view?.file?.path === monthlyExisting.path);
+	if (openLeaf) {
+		app.workspace.revealLeaf(openLeaf);
+	} else {
+		await app.workspace.getLeaf(false).openFile(monthlyExisting);
+	}
 	tR = "";
 	if (stub && stub.path !== monthlyExisting.path) {
 		setTimeout(() => { app.vault.delete(stub).catch(() => {}); }, 500);
