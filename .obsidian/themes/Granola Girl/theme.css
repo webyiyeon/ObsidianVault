@@ -403,24 +403,24 @@ body.granola-scheme-default.theme-light.is-mobile {
 	--color-purple: #9683a3;
 	--color-pink: #c98a9b;
 
-	--color-base-00: #f5f4f3; /* main editor background */
-	--color-base-05: #f0efed;
-	--color-base-10: #e7e6e4; /* code blocks */
-	--color-base-20: #e3e1de;
-	--color-base-25: #dcdad6;
-	--color-base-30: #d0ceca; /* dividers */
-	--color-base-35: #bdbab6;
-	--color-base-40: #a4a19b;
+	--color-base-00: #f7f5f1; /* main editor background */
+	--color-base-05: #f3f0ea;
+	--color-base-10: #ece8df; /* code blocks */
+	--color-base-20: #e8e3d9;
+	--color-base-25: #e2dcd0;
+	--color-base-30: #d8d0c2; /* dividers */
+	--color-base-35: #c6bdad;
+	--color-base-40: #afa490;
 	--color-base-50: #a68f68;
 	--color-base-60: #8a7555;
 	--color-base-70: #6c5c42;
 	--color-base-100: #332a1d;
 
-	--background-modifier-hover: #e3e1de;
-	--background-modifier-cover: rgba(127, 118, 99, 0.55);
-	--text-highlight-bg-l: rgba(151, 143, 131, 0.3);
+	--background-modifier-hover: #e8e3d9;
+	--background-modifier-cover: rgba(220, 213, 200, 0.55);
+	--text-highlight-bg-l: rgba(178, 154, 118, 0.3);
 	--text-highlight-bg: var(--text-highlight-bg-l);
-	--text-highlight-bg-active: rgba(48, 53, 46, 0.28);
+	--text-highlight-bg-active: rgba(128, 143, 119, 0.28);
 }
 
 body.granola-scheme-default.theme-dark,
@@ -436,23 +436,23 @@ body.granola-scheme-default.theme-dark.is-mobile {
 	--color-purple: #b3a0c3;
 	--color-pink: #e0a5b6;
 
-	--color-base-00: #1e1d1c; /* main editor background — espresso */
-	--color-base-05: #232120;
-	--color-base-10: #272524; /* code blocks */
-	--color-base-20: #191816;
-	--color-base-25: #2c2b29;
-	--color-base-30: #3b3937; /* dividers */
-	--color-base-35: #4a4845;
-	--color-base-40: #5d5955;
+	--color-base-00: #201d1a; /* main editor background — espresso */
+	--color-base-05: #26211d;
+	--color-base-10: #2a2520; /* code blocks */
+	--color-base-20: #1b1814;
+	--color-base-25: #302b25;
+	--color-base-30: #413931; /* dividers */
+	--color-base-35: #51483e;
+	--color-base-40: #655a4d;
 	--color-base-50: #8a7256;
 	--color-base-60: #a68f70;
 	--color-base-70: #c4af90;
 	--color-base-100: #f2e8d8;
 
-	--background-modifier-cover: rgba(63, 62, 61, 0.6);
-	--text-highlight-bg-d: rgba(174, 162, 156, 0.28);
+	--background-modifier-cover: rgba(32, 29, 26, 0.6);
+	--text-highlight-bg-d: rgba(196, 160, 139, 0.28);
 	--text-highlight-bg: var(--text-highlight-bg-d);
-	--text-highlight-bg-active: rgba(74, 83, 69, 0.28);
+	--text-highlight-bg-active: rgba(151, 169, 139, 0.28);
 }
 
 body.granola-scheme-moss.theme-light,
@@ -468,24 +468,24 @@ body.granola-scheme-moss.theme-light.is-mobile {
 	--color-purple: #9683a3;
 	--color-pink: #c98a9b;
 
-	--color-base-00: #eff0ed; /* main editor background — pale sage, still light for readability */
-	--color-base-05: #e9eae7;
-	--color-base-10: #e0e1dc; /* code blocks */
-	--color-base-20: #d5d5d1; /* sidebar / secondary bg — a shade deeper olive than the editor, tone-on-tone */
-	--color-base-25: #c9c9c4;
-	--color-base-30: #b8b9b2; /* dividers */
-	--color-base-35: #a1a29a;
-	--color-base-40: #888981;
+	--color-base-00: #f1f2eb; /* main editor background — pale sage, still light for readability */
+	--color-base-05: #ebede4;
+	--color-base-10: #e3e6d7; /* code blocks */
+	--color-base-20: #dadacc; /* sidebar / secondary bg — a shade deeper olive than the editor, tone-on-tone */
+	--color-base-25: #cfd0bd;
+	--color-base-30: #bfc1aa; /* dividers */
+	--color-base-35: #a8ab91;
+	--color-base-40: #909278;
 	--color-base-50: #818852;
 	--color-base-60: #666d3f;
 	--color-base-70: #4d5330;
 	--color-base-100: #2a2e1a;
 
-	--background-modifier-hover: #c9c9c4;
-	--background-modifier-cover: rgba(122, 121, 96, 0.55);
-	--text-highlight-bg-l: rgba(151, 143, 131, 0.3);
+	--background-modifier-hover: #cfd0bd;
+	--background-modifier-cover: rgba(214, 212, 191, 0.55);
+	--text-highlight-bg-l: rgba(178, 154, 118, 0.3);
 	--text-highlight-bg: var(--text-highlight-bg-l);
-	--text-highlight-bg-active: rgba(83, 86, 77, 0.28);
+	--text-highlight-bg-active: rgba(100, 107, 78, 0.28);
 }
 
 body.granola-scheme-moss.theme-dark,
@@ -501,23 +501,23 @@ body.granola-scheme-moss.theme-dark.is-mobile {
 	--color-purple: #b3a0c3;
 	--color-pink: #e0a5b6;
 
-	--color-base-00: #191b18; /* main editor background — deep green, still readable with light text */
-	--color-base-05: #1e201d;
-	--color-base-10: #242622; /* code blocks */
-	--color-base-20: #1d1e1c; /* sidebar / secondary bg — a touch deeper than the editor, tone-on-tone */
-	--color-base-25: #262824;
-	--color-base-30: #373834; /* dividers */
-	--color-base-35: #444641;
-	--color-base-40: #565951;
+	--color-base-00: #191e15; /* main editor background — deep green, still readable with light text */
+	--color-base-05: #1e2419;
+	--color-base-10: #232a1e; /* code blocks */
+	--color-base-20: #1e201a; /* sidebar / secondary bg — a touch deeper than the editor, tone-on-tone */
+	--color-base-25: #282b21;
+	--color-base-30: #383d2f; /* dividers */
+	--color-base-35: #474d3a;
+	--color-base-40: #596149;
 	--color-base-50: #78864f;
 	--color-base-60: #94a065;
 	--color-base-70: #b3bd88;
 	--color-base-100: #eef0d8;
 
-	--background-modifier-cover: rgba(63, 62, 61, 0.6);
-	--text-highlight-bg-d: rgba(84, 88, 74, 0.25);
+	--background-modifier-cover: rgba(32, 29, 26, 0.6);
+	--text-highlight-bg-d: rgba(157, 168, 134, 0.25);
 	--text-highlight-bg: var(--text-highlight-bg-d);
-	--text-highlight-bg-active: rgba(84, 88, 74, 0.28);
+	--text-highlight-bg-active: rgba(157, 168, 134, 0.28);
 }
 
 body.granola-scheme-desert.theme-light,
@@ -533,24 +533,24 @@ body.granola-scheme-desert.theme-light.is-mobile {
 	--color-purple: #8a6a82;
 	--color-pink: #c9899b;
 
-	--color-base-00: #eae9e6; /* main editor background — warm sand */
-	--color-base-05: #e1dfda;
-	--color-base-10: #d8d5cf; /* code blocks */
-	--color-base-20: #cdc9c2;
-	--color-base-25: #beb9b1;
-	--color-base-30: #ada79d; /* dividers */
-	--color-base-35: #9d968c;
-	--color-base-40: #8b837a;
+	--color-base-00: #f0eae0; /* main editor background — warm sand */
+	--color-base-05: #e8e1d3;
+	--color-base-10: #e1d8c6; /* code blocks */
+	--color-base-20: #dacdb5;
+	--color-base-25: #cebea1;
+	--color-base-30: #c0ab89; /* dividers */
+	--color-base-35: #b29977;
+	--color-base-40: #a08465;
 	--color-base-50: #a06f3d;
 	--color-base-60: #825a34;
 	--color-base-70: #63452a;
 	--color-base-100: #2e2015;
 
-	--background-modifier-hover: #beb9b1;
-	--background-modifier-cover: rgba(141, 129, 114, 0.55);
-	--text-highlight-bg-l: rgba(174, 168, 159, 0.3);
+	--background-modifier-hover: #cebea1;
+	--background-modifier-cover: rgba(203, 188, 168, 0.55);
+	--text-highlight-bg-l: rgba(181, 154, 110, 0.3);
 	--text-highlight-bg: var(--text-highlight-bg-l);
-	--text-highlight-bg-active: rgba(36, 31, 35, 0.28);
+	--text-highlight-bg-active: rgba(130, 114, 126, 0.28);
 }
 
 body.granola-scheme-desert.theme-dark,
@@ -566,23 +566,23 @@ body.granola-scheme-desert.theme-dark.is-mobile {
 	--color-purple: #b394ab;
 	--color-pink: #e0a5b8;
 
-	--color-base-00: #1c1a19; /* main editor background — dusk desert brown */
-	--color-base-05: #221f1e;
-	--color-base-10: #282524; /* code blocks */
-	--color-base-20: #1d1b1a;
-	--color-base-25: #292725;
-	--color-base-30: #393633; /* dividers */
-	--color-base-35: #46423f;
-	--color-base-40: #57514c;
+	--color-base-00: #1f1816; /* main editor background — dusk desert brown */
+	--color-base-05: #261e1a;
+	--color-base-10: #2c2420; /* code blocks */
+	--color-base-20: #201a16;
+	--color-base-25: #2e2621;
+	--color-base-30: #40352c; /* dividers */
+	--color-base-35: #4f4136;
+	--color-base-40: #635140;
 	--color-base-50: #8f6a42;
 	--color-base-60: #ab8760;
 	--color-base-70: #c8a888;
 	--color-base-100: #f5e6d2;
 
-	--background-modifier-cover: rgba(93, 91, 90, 0.6);
-	--text-highlight-bg-d: rgba(180, 172, 164, 0.28);
+	--background-modifier-cover: rgba(31, 24, 22, 0.6);
+	--text-highlight-bg-d: rgba(192, 157, 127, 0.28);
 	--text-highlight-bg: var(--text-highlight-bg-d);
-	--text-highlight-bg-active: rgba(47, 39, 45, 0.28);
+	--text-highlight-bg-active: rgba(171, 156, 167, 0.28);
 }
 
 body.granola-scheme-oat.theme-light,
