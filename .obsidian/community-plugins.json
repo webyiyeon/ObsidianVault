@@ -19,9 +19,9 @@
   "obsidian-day-and-night",
   "obsidian-excalidraw-plugin",
   "homepage",
-  "execute-code",
   "share-note",
   "note-refactor-obsidian",
   "emoji-shortcodes",
-  "metafolders"
+  "metafolders",
+  "execute-code"
 ]

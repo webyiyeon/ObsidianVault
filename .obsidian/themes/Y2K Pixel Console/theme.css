@@ -311,8 +311,12 @@ img {
 }
 
 /* "Press Start!" button: white / thick blue border / pixel text,
-   inverts on hover, presses down on click — no gloss, no gradients */
-button:not(.clickable-icon),
+   inverts on hover, presses down on click — no gloss, no gradients.
+   Only style "real" buttons that show a label (modals, settings,
+   CTAs, plugin action buttons). Icon-only overlay buttons Obsidian
+   injects itself — e.g. the code-block copy button — are excluded
+   so they stay their normal small, unobtrusive selves. */
+button:not(.clickable-icon):not(.copy-code-button):not(.view-action):not(.titlebar-button),
 .modal-button-container button {
 	font-family: var(--font-pixel);
 	font-size: 0.7em;
@@ -323,12 +327,12 @@ button:not(.clickable-icon),
 	box-shadow: 0 3px 0 0 var(--pixel-blue-dark);
 	transition: transform 0.08s ease, box-shadow 0.08s ease;
 }
-button:not(.clickable-icon):hover,
+button:not(.clickable-icon):not(.copy-code-button):not(.view-action):not(.titlebar-button):hover,
 .modal-button-container button:hover {
 	background: var(--pixel-blue);
 	color: var(--pixel-white);
 }
-button:not(.clickable-icon):active,
+button:not(.clickable-icon):not(.copy-code-button):not(.view-action):not(.titlebar-button):active,
 .modal-button-container button:active {
 	transform: translateY(3px);
 	box-shadow: 0 0 0 0 var(--pixel-blue-dark);
