@@ -133,33 +133,13 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "e3aa292fb483d111",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
-            }
-          },
-          {
-            "id": "7632737903621deb",
-            "type": "leaf",
-            "state": {
-              "type": "planner-time-tracker",
-              "state": {},
-              "icon": "timer",
-              "title": "Time Tracker"
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 305.864013671875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,7 +161,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "98136a3754005d01",
+  "active": "26ab458a8c085ce8",
   "lastOpenFiles": [
     "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/Daily-Docs/2026/09_September/2026-09-01 Tue.md",

@@ -1,3 +1,31 @@
+<%*
+/* Periodic-Notes replacement: computes today's path, opens the note
+   if it already exists (deleting the blank stub Templater just made),
+   or moves this stub into place if it's a genuinely new day. */
+const currentDate  = window.moment();
+const previousDate = currentDate.clone().add(-1, "days");
+const nextDate      = currentDate.clone().add(+1, "days");
+
+const currentDate_ymd  = currentDate.format("YYYY-MM-DD");
+const currentDate_wday = currentDate.format("ddd");
+const currentDate_year  = currentDate.format("YYYY");
+const currentDate_month = currentDate.format("MM_MMMM");
+
+const previousDate_year  = previousDate.format("YYYY");
+const previousDate_month = previousDate.format("MM_MMMM");
+const previousDate_ymd   = previousDate.format("YYYY-MM-DD");
+const previousDate_wday  = previousDate.format("ddd");
+
+const nextDate_year  = nextDate.format("YYYY");
+const nextDate_month = nextDate.format("MM_MMMM");
+const nextDate_ymd   = nextDate.format("YYYY-MM-DD");
+const nextDate_wday  = nextDate.format("ddd");
+
+const dailyFolder = `remoteBrain/Daily-Docs/${currentDate_year}/${currentDate_month}`;
+const dailyFilename = `${currentDate_ymd} ${currentDate_wday}`;
+const dailyTargetPath = `${dailyFolder}/${dailyFilename}.md`;
+const dailyExisting = app.vault.getAbstractFileByPath(dailyTargetPath);
+-%>
 ---
 wakeup🌞:
 sleep🌜:
@@ -12,23 +40,6 @@ tags:
   - routine
 ---
 
-<%*
-/* Parsing Date */ 
-currentDate  = moment(tp.file.title, 'YYYY-MM-DD dd')
-previousDate = moment(tp.file.title, 'YYYY-MM-DD dd').add(-1, "days")
-nextDate     = moment(tp.file.title, 'YYYY-MM-DD dd').add(+1, "days")
-
-previousDate_year  = previousDate.format("YYYY")
-previousDate_month = previousDate.format("MM_MMMM")
-previousDate_ymd   = previousDate.format("YYYY-MM-DD")
-previousDate_wday  = previousDate.format("ddd") 
-
-nextDate_year  = nextDate.format("YYYY")
-nextDate_month = nextDate.format("MM_MMMM") 
-nextDate_ymd   = nextDate.format("YYYY-MM-DD")
-nextDate_wday  = nextDate.format("ddd")
--%>
-
 🔺 [[remoteBrain/Daily-docs/<% previousDate_year %>/<% previousDate_month %>/<% previousDate_ymd %> <% previousDate_wday %> | <% previousDate_ymd %> <% previousDate_wday %>]]
 🔻 [[remoteBrain/Daily-docs/<% nextDate_year %>/<% nextDate_month %>/<% nextDate_ymd %> <% nextDate_wday %> | <% nextDate_ymd %> <% nextDate_wday %>]]
 
@@ -38,7 +49,7 @@ ___
 
 ```gEvent
 type: week
-date: <% tp.file.title %>
+date: <% currentDate_ymd %> <% currentDate_wday %>
 navigation: false
 showAllDay: true
 hourRange: [8, 24]
@@ -73,8 +84,7 @@ const dayMap = {
     4: "Thursday", 5: "Friday", 6: "Saturday", 0: "Sunday"
 };
 
-const fileDate = moment(tp.file.title, "YYYY-MM-DD dd");
-const today = dayMap[fileDate.day()];
+const today = dayMap[currentDate.day()];
 
 // 2. 랜덤 이미지 선정 (Animal Crossing 폴더)
 const folderPath = "remoteBrain/_templater/Animal Crossing"; // 폴더 경로 설정 
@@ -125,9 +135,20 @@ tasks.forEach(task => {
 ```tasks
 not done
 (tags include #work💼) OR (tags include #chores🧺) OR (tags include #todo)
-path does not include <%tp.file.title%>
+path does not include <% currentDate_ymd %> <% currentDate_wday %>
 hide backlink
 ```
 
 
 # Notes
+<%*
+if (dailyExisting) {
+	const stub = tp.config.target_file;
+	await app.workspace.getLeaf(false).openFile(dailyExisting);
+	if (stub && stub.path !== dailyExisting.path) {
+		try { await app.vault.delete(stub); } catch (e) {}
+	}
+} else {
+	await tp.file.move(`${dailyFolder}/${dailyFilename}`);
+}
+-%>

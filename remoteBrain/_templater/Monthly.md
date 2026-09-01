@@ -1,3 +1,13 @@
+<%*
+/* Periodic-Notes replacement: computes this month's path, opens the
+   note if it already exists (deleting the blank stub Templater just
+   made), or moves this stub into place if it's a genuinely new month. */
+const currentDate = window.moment();
+const monthlyFolder = `remoteBrain/Report/${currentDate.format("YYYY")}`;
+const monthlyFilename = currentDate.format("MM_MMMM");
+const monthlyTargetPath = `${monthlyFolder}/${monthlyFilename}.md`;
+const monthlyExisting = app.vault.getAbstractFileByPath(monthlyTargetPath);
+-%>
 ## Checking In on My Goals 🌱
 
 1. How are you feeling this month?  
@@ -116,4 +126,15 @@ WHERE file.folder = "remoteBrain/Daily-Docs/{{date:YYYY}}/{{date:MM}}_{{date:MMM
 SORT file.name ASC
 
 ```
+<%*
+if (monthlyExisting) {
+	const stub = tp.config.target_file;
+	await app.workspace.getLeaf(false).openFile(monthlyExisting);
+	if (stub && stub.path !== monthlyExisting.path) {
+		try { await app.vault.delete(stub); } catch (e) {}
+	}
+} else {
+	await tp.file.move(`${monthlyFolder}/${monthlyFilename}`);
+}
+-%>
 
