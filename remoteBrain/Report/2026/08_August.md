@@ -19,15 +19,15 @@
 ## 🚀 How Close Am I to My Yearly Goals This Month?
 
 - [ ] Did I exercise around three times a week?
-- [ ] Did I take at least one post-meal walk each day?
-- [ ] Did I spend at least 10 minutes tidying up each day?
-- [ ] Did I eat my meals on time and log them honestly?
+- [x] Did I take at least one post-meal walk each day?
+- [x] Did I spend at least 10 minutes tidying up each day?
+- [x] Did I eat my meals on time and log them honestly?
 - [ ] Did I engage with Japanese at least once a week, even lightly?
 - [ ] Did I save at least KRW 600,000 this month?
 - [ ] Did I stay on top of my graduate classes and assignments?
 - [ ] Did I write on my blog consistently this week and aim for one post this month?`
 - [ ] Did I read for at least 5 minutes a day?
-- [ ] Did I switch to recovery mode when my energy was low?               
+- [x] Did I switch to recovery mode when my energy was low?               
 
 
 ## A Thankful Record

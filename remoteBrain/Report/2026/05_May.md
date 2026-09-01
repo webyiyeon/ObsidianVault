@@ -1,13 +1,13 @@
 ## Checking In on My Goals 🌱
 
 1. How are you feeling this month?  
-    
+    아주 최고야!!!
 2. What goals have you started?  
-    
+    페스티벌 다니기
 3. What goals have you not started yet?  
-    
+    음... 기사 시험?
 4. What obstacles are in your way?  
-    
+    사실 노는 게 목표여서 괜찮음.
 5. How can you realistically overcome those obstacles?  
     
 6. Adjustments to goals  

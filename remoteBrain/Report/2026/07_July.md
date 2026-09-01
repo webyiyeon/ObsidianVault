@@ -1,19 +1,19 @@
 ## Checking In on My Goals 🌱
 
 1. How are you feeling this month?  
-    
+    Happy Birthday to ME!
 2. What goals have you started?  
-    
+    논문 작성!
 3. What goals have you not started yet?  
-    
+    논문 작성....
 4. What obstacles are in your way?  
-    
+    하고 싶은 게 너무 많아~
 5. How can you realistically overcome those obstacles?  
-    
+    내가 힘을 내야겠지...
 6. Adjustments to goals  
-    
+    다음 달부터 열심히 하기
 7. TO DO this month in order to move forward  
-    
+    THE DECADE FINAL...💊
 
 
 ## 🚀 How Close Am I to My Yearly Goals This Month?

@@ -661,7 +661,9 @@ body.granola-scheme-oat.theme-dark.is-mobile {
    color scheme is active — no per-scheme duplication needed.
 ────────────────────────────────────────────────────── */
 
-/* Warm serif headings, no gradients / no hard shadows */
+/* Warm serif headings, no gradients / no hard shadows — tighter
+   vertical rhythm than Obsidian's default (the stock heading
+   margins read as big empty gaps, especially above image grids) */
 .markdown-preview-view h1,
 .HyperMD-header-1,
 .cm-header-1,
@@ -669,6 +671,8 @@ body.granola-scheme-oat.theme-dark.is-mobile {
 	font-family: var(--font-heading-granola);
 	font-weight: 600;
 	letter-spacing: 0.2px;
+	margin-top: 0.3em;
+	margin-bottom: 0.25em;
 }
 .markdown-preview-view h2,
 .HyperMD-header-2,
@@ -678,6 +682,30 @@ body.granola-scheme-oat.theme-dark.is-mobile {
 .cm-header-3 {
 	font-family: var(--font-heading-granola);
 	font-weight: 600;
+	margin-top: 0.6em;
+	margin-bottom: 0.25em;
+}
+.markdown-preview-view h4,
+.HyperMD-header-4,
+.cm-header-4,
+.markdown-preview-view h5,
+.HyperMD-header-5,
+.cm-header-5,
+.markdown-preview-view h6,
+.HyperMD-header-6,
+.cm-header-6 {
+	margin-top: 0.5em;
+	margin-bottom: 0.2em;
+}
+/* Images/embeds right after a heading shouldn't add their own big
+   gap on top of the heading's own margin */
+.markdown-preview-view h1 + p,
+.markdown-preview-view h2 + p,
+.markdown-preview-view h3 + p,
+.markdown-preview-view h1 + .internal-embed,
+.markdown-preview-view h2 + .internal-embed,
+.markdown-preview-view h3 + .internal-embed {
+	margin-top: 0.2em;
 }
 
 /* Properties (frontmatter) panel: back to plain left-aligned,
@@ -859,36 +887,41 @@ a.tag {
 	padding: 10px 14px;
 }
 
-/* Dataview tables: rounded card instead of a plain browser grid,
-   accent header bar, soft row stripes instead of hard gridlines */
+/* Dataview tables: no solid header fill / card box — just a clean
+   accent underline below small uppercase labels, soft row stripes,
+   and a smaller font size so it reads as a table, not body text */
 .dataview.table-view-table,
 table.dataview {
 	border-collapse: separate;
 	border-spacing: 0;
 	width: 100%;
+	font-size: 0.88em;
 	border-radius: var(--radius-m);
 	overflow: hidden;
-	box-shadow: var(--shadow-s);
 }
 .dataview.table-view-table thead tr,
 table.dataview thead tr {
-	background: var(--granola-ui-accent-pale);
+	border-bottom: 2px solid var(--granola-ui-accent);
 }
 .dataview.table-view-table th,
 table.dataview th {
+	background: transparent;
 	color: var(--granola-ui-accent-dark);
-	font-family: var(--font-heading-granola);
-	font-weight: 600;
+	font-family: var(--font-ui-granola);
+	font-weight: 700;
+	font-size: 0.85em;
+	letter-spacing: 0.03em;
+	text-transform: uppercase;
 	text-align: left;
-	padding: 8px 12px;
+	padding: 6px 10px;
 	border: none;
 }
 .dataview.table-view-table td,
 table.dataview td {
-	padding: 7px 12px;
+	padding: 6px 10px;
 	border: none;
 	border-top: 1px solid var(--color-base-25);
-	background: var(--color-base-00);
+	background: transparent;
 }
 .dataview.table-view-table tbody tr:nth-child(even) td,
 table.dataview tbody tr:nth-child(even) td {
