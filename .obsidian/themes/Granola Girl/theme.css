@@ -4,7 +4,8 @@ Warm, soft-serif "that girl" aesthetic. One theme, switchable
 via Style Settings (Settings → Style Settings → Granola Girl):
   • Color scheme  — Default (cream + sage/terracotta) /
                      Moss (yellow-leaning olive green) /
-                     Desert (sunset rust + dusty plum)
+                     Desert (sunset rust + dusty plum) /
+                     Oat (calm & minimal, warm-paper neutrals)
   • Empty screen  — Mountain & desert / Joshua Tree sunset /
                      your own image / plain
 Built on the same variable structure Obsidian's built-in
@@ -34,6 +35,9 @@ settings:
             -
                 label: Desert (sunset rust + dusty plum)
                 value: granola-scheme-desert
+            -
+                label: Oat (calm & minimal, warm-paper neutrals)
+                value: granola-scheme-oat
     -
         id: granola-empty-bg-mode
         title: Empty screen background
@@ -214,8 +218,49 @@ body.granola-scheme-desert {
 	--highlight-background-color--active: hsl(300deg 12% 50% / 25%) !important;
 }
 
+/* ── OAT color scheme ──
+   Modeled on the Minimal theme's structure and on Flexoki (the
+   warm-paper palette built for exactly this "easy on the eyes but
+   still well-organized" brief): near-black text on warm off-white,
+   muted low-saturation everything else, restrained single-accent
+   headings instead of the other schemes' multi-hue heading system. */
+body.granola-scheme-oat {
+	--granola-ui-accent: #a8683f;        /* soft clay */
+	--granola-ui-accent-dark: #7d4b2b;
+	--granola-ui-accent-pale: #ede4d5;
+	--granola-ui-warn: #7a8570;          /* muted sage-gray, kept quiet on purpose */
+	--granola-ui-warn-dark: #5a6350;
+	--granola-honey: #b89a4a;
+	--granola-neutral: #fffcf0;           /* Flexoki paper white */
+	--granola-shadow: rgba(60, 55, 45, 0.12);
+
+	--accent-h: 25;
+	--accent-s: 32%;
+	--accent-d: 55%;
+	--accent-l: 42%;
+
+	--h1-color: var(--granola-ui-accent-dark);
+	--h2-color: var(--text-normal);
+	--h3-color: var(--text-normal);
+	--h4-color: var(--granola-honey);
+	--h5-color: var(--text-muted);
+
+	--strong-color: var(--granola-ui-accent-dark);
+	--em-color: var(--text-muted);
+	--quote-color: var(--text-muted);
+
+	--tag-background-color-l: var(--granola-ui-accent-pale);
+	--tag-font-color-l: var(--granola-ui-accent-dark);
+	--tag-background-color-d: #33291f;
+	--tag-font-color-d: #d9c3a8;
+
+	--highlight-background-color--normal: hsl(45deg 35% 75% / 30%) !important;
+	--highlight-background-color-underline: hsl(25deg 35% 50% / 100%) !important;
+	--highlight-background-color--active: hsl(45deg 20% 55% / 25%) !important;
+}
+
 /* COLOR SCHEMES × LIGHT/DARK
-   Mechanics shared by all three color schemes (formulas over the
+   Mechanics shared by all four color schemes (formulas over the
    already-scoped vars above resolve correctly no matter which
    scheme class is active on <body>, so they only need to be
    written once).
@@ -484,6 +529,71 @@ body.granola-scheme-desert.theme-dark.is-mobile {
 	--text-highlight-bg-d: rgba(224, 154, 95, 0.28);
 	--text-highlight-bg: var(--text-highlight-bg-d);
 	--text-highlight-bg-active: rgba(179, 148, 171, 0.28);
+}
+
+body.granola-scheme-oat.theme-light,
+body.granola-scheme-oat.theme-light.is-mobile {
+	--color-red-rgb: 175, 77, 63;
+	--color-red: #af4d3f;
+	--color-green-rgb: 122, 138, 79;
+	--color-green: #7a8a4f;
+	--color-orange: #b8763a;
+	--color-yellow: #b89a4a;
+	--color-cyan: #5f8f8a;
+	--color-blue: #5f7a94;
+	--color-purple: #7d6a94;
+	--color-pink: #a86a7a;
+
+	--color-base-00: #fffcf0; /* main editor background — Flexoki warm paper white */
+	--color-base-05: #fbf8ec;
+	--color-base-10: #f2f0e5; /* code blocks */
+	--color-base-20: #f2f0e5;
+	--color-base-25: #e6e4d9;
+	--color-base-30: #dad8ce; /* dividers */
+	--color-base-35: #cecdc3;
+	--color-base-40: #b7b5ac;
+	--color-base-50: #9f9d94;
+	--color-base-60: #6f6e69;
+	--color-base-70: #423f3a;
+	--color-base-100: #100f0f;
+
+	--background-modifier-hover: #e6e4d9;
+	--background-modifier-cover: rgba(230, 225, 210, 0.55);
+	--text-highlight-bg-l: rgba(184, 154, 74, 0.28);
+	--text-highlight-bg: var(--text-highlight-bg-l);
+	--text-highlight-bg-active: rgba(122, 133, 112, 0.25);
+}
+
+body.granola-scheme-oat.theme-dark,
+body.granola-scheme-oat.theme-dark.is-mobile {
+	--color-red-rgb: 217, 122, 104;
+	--color-red: #d97a68;
+	--color-green-rgb: 163, 184, 122;
+	--color-green: #a3b87a;
+	--color-orange: #d9a06a;
+	--color-yellow: #d9c07a;
+	--color-cyan: #8fbdb8;
+	--color-blue: #8fa8c0;
+	--color-purple: #a894c0;
+	--color-pink: #c497a8;
+
+	--color-base-00: #100f0f; /* main editor background — Flexoki near-black */
+	--color-base-05: #171615;
+	--color-base-10: #1c1b1a; /* code blocks */
+	--color-base-20: #1c1b1a;
+	--color-base-25: #282726;
+	--color-base-30: #343331; /* dividers */
+	--color-base-35: #403e3c;
+	--color-base-40: #575653;
+	--color-base-50: #6d6b66;
+	--color-base-60: #878580;
+	--color-base-70: #a3a19b;
+	--color-base-100: #cecdc3;
+
+	--background-modifier-cover: rgba(16, 15, 15, 0.6);
+	--text-highlight-bg-d: rgba(217, 192, 122, 0.25);
+	--text-highlight-bg: var(--text-highlight-bg-d);
+	--text-highlight-bg-active: rgba(163, 184, 122, 0.25);
 }
 
 /* GRANOLA FLOURISHES

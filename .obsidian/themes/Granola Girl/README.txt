@@ -5,6 +5,7 @@
    - Default: 크림 + 세이지그린/테라코타
    - Moss: 노란기 도는 올리브그린
    - Desert: 노을진 러스트(테라코타) + 더스티 플럼
+   - Oat: Minimal 테마 구조 + Flexoki(따뜻한 종이색) 참고한 저채도 무채색 톤, 눈 편함
 
 2. Empty screen background — 빈 화면(탭에 아무 노트도 안 열려있을 때) 배경 그림
    - Mountain & desert (default): 산+사막 듄+선인장
