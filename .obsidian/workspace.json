@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +115,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2026/09_September/2026-09-01 Tue.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
@@ -190,7 +189,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d8775952e1eabc10",
+  "active": "51763d5ec5e8ad04",
   "lastOpenFiles": [
     "remoteBrain/Daily-Docs/2026/09_September/2026-09-01 Tue.md",
     "remoteBrain/VisionBoard/2026.md",
