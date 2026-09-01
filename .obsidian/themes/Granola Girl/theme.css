@@ -225,18 +225,18 @@ body.granola-scheme-desert {
    muted low-saturation everything else, restrained single-accent
    headings instead of the other schemes' multi-hue heading system. */
 body.granola-scheme-oat {
-	--granola-ui-accent: #a8683f;        /* soft clay */
-	--granola-ui-accent-dark: #7d4b2b;
-	--granola-ui-accent-pale: #ede4d5;
+	--granola-ui-accent: #9c7259;         /* muted clay, less orange */
+	--granola-ui-accent-dark: #6e5344;
+	--granola-ui-accent-pale: #e9e3d9;
 	--granola-ui-warn: #7a8570;          /* muted sage-gray, kept quiet on purpose */
 	--granola-ui-warn-dark: #5a6350;
-	--granola-honey: #b89a4a;
-	--granola-neutral: #fffcf0;           /* Flexoki paper white */
-	--granola-shadow: rgba(60, 55, 45, 0.12);
+	--granola-honey: #a89974;             /* muted, much less yellow than the other schemes' honey */
+	--granola-neutral: #fbfaf5;
+	--granola-shadow: rgba(60, 55, 45, 0.1);
 
 	--accent-h: 25;
-	--accent-s: 32%;
-	--accent-d: 55%;
+	--accent-s: 20%;
+	--accent-d: 50%;
 	--accent-l: 42%;
 
 	--h1-color: var(--granola-ui-accent-dark);
@@ -251,12 +251,28 @@ body.granola-scheme-oat {
 
 	--tag-background-color-l: var(--granola-ui-accent-pale);
 	--tag-font-color-l: var(--granola-ui-accent-dark);
-	--tag-background-color-d: #33291f;
-	--tag-font-color-d: #d9c3a8;
+	--tag-background-color-d: #2e2820;
+	--tag-font-color-d: #cfc2ae;
 
-	--highlight-background-color--normal: hsl(45deg 35% 75% / 30%) !important;
-	--highlight-background-color-underline: hsl(25deg 35% 50% / 100%) !important;
-	--highlight-background-color--active: hsl(45deg 20% 55% / 25%) !important;
+	--highlight-background-color--normal: hsl(45deg 20% 75% / 30%) !important;
+	--highlight-background-color-underline: hsl(25deg 22% 48% / 100%) !important;
+	--highlight-background-color--active: hsl(45deg 12% 55% / 25%) !important;
+
+	/* Minimal-theme-inspired proportions: quieter heading hierarchy
+	   (Minimal's h1 is only ~1.1em — flat on purpose, so headings
+	   don't shout), tighter line-height, smaller corner radii */
+	--h1-size: 1.5rem;
+	--h2-size: 1.25rem;
+	--h3-size: 1.1rem;
+	--h4-size: 1.02rem;
+	--h5-size: 0.95rem;
+	--h6-size: 0.85rem;
+	--line-height: 1.5;
+	--radius-s: 4px;
+	--radius-m: 6px;
+	--radius-l: 8px;
+	--radius-xl: 10px;
+	--checkbox-radius: 20%;
 }
 
 /* COLOR SCHEMES × LIGHT/DARK
@@ -544,20 +560,20 @@ body.granola-scheme-oat.theme-light.is-mobile {
 	--color-purple: #7d6a94;
 	--color-pink: #a86a7a;
 
-	--color-base-00: #fffcf0; /* main editor background — Flexoki warm paper white */
-	--color-base-05: #fbf8ec;
-	--color-base-10: #f2f0e5; /* code blocks */
-	--color-base-20: #f2f0e5;
-	--color-base-25: #e6e4d9;
-	--color-base-30: #dad8ce; /* dividers */
-	--color-base-35: #cecdc3;
-	--color-base-40: #b7b5ac;
-	--color-base-50: #9f9d94;
-	--color-base-60: #6f6e69;
-	--color-base-70: #423f3a;
-	--color-base-100: #100f0f;
+	--color-base-00: #fbfaf5; /* main editor background — Flexoki paper white, desaturated a touch further */
+	--color-base-05: #f8f6ef;
+	--color-base-10: #efece4; /* code blocks */
+	--color-base-20: #efece4;
+	--color-base-25: #e3e1d8;
+	--color-base-30: #d7d5cc; /* dividers */
+	--color-base-35: #cbc9c1;
+	--color-base-40: #b4b2ab;
+	--color-base-50: #9c9a93;
+	--color-base-60: #6d6c67;
+	--color-base-70: #403e3a;
+	--color-base-100: #141310;
 
-	--background-modifier-hover: #e6e4d9;
+	--background-modifier-hover: #e3e1d8;
 	--background-modifier-cover: rgba(230, 225, 210, 0.55);
 	--text-highlight-bg-l: rgba(184, 154, 74, 0.28);
 	--text-highlight-bg: var(--text-highlight-bg-l);
@@ -622,22 +638,13 @@ body.granola-scheme-oat.theme-dark.is-mobile {
 	font-weight: 600;
 }
 
-/* Properties (frontmatter) panel: values center-aligned, but
-   property titles/keys stay left-aligned and consistent with each
-   other (a mix of key alignments looked messier than uniform left).
-   Multi-value pill lists (tags, lists) center as a group. A row
-   divider + a key/value divider give it a table feel — but only
-   those inner lines, no border around the block itself. */
-.metadata-properties {
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-	max-width: 40em;
-	margin: 0 auto;
-}
+/* Properties (frontmatter) panel: back to plain left-aligned,
+   full-width — turns out that read better than the centered /
+   narrowed version. A row divider + a key/value divider still give
+   it a table feel, just without the width/alignment fuss. */
 .metadata-property {
 	width: 100%;
-	text-align: center;
+	text-align: left;
 	padding: 6px 0;
 	border-bottom: 1px solid var(--color-base-30);
 }
@@ -659,7 +666,7 @@ body.granola-scheme-oat.theme-dark.is-mobile {
 .metadata-property-value,
 .metadata-property-value input,
 .metadata-property-value .metadata-input-longtext {
-	text-align: center;
+	text-align: left;
 }
 .metadata-property:hover,
 .metadata-property-key:hover,
@@ -693,9 +700,7 @@ body.granola-scheme-oat.theme-dark.is-mobile {
 .metadata-property-value .metadata-input-longtext,
 .metadata-property-value .multi-select-container {
 	border-radius: 0 !important;
-}
-.metadata-property-value .multi-select-container {
-	justify-content: center;
+	justify-content: flex-start;
 }
 
 /* Blockquote: soft warn-color bar + warm tint, italic */
