@@ -151,17 +151,17 @@ body {
 
 	/* ── DEFAULT color scheme (fallback if Style Settings hasn't run
 	   yet, and the values used when "Default" is selected) ── */
-	--granola-ui-accent: #81897d;       /* sage */
-	--granola-ui-accent-dark: #636a5f;
+	--granola-ui-accent: #7d9b6b;       /* sage */
+	--granola-ui-accent-dark: #5f7a4f;
 	--granola-ui-accent-pale: #e4ead9;
-	--granola-ui-warn: #9e8a81;         /* terracotta */
-	--granola-ui-warn-dark: #826f66;
-	--granola-honey: #a49784;
+	--granola-ui-warn: #c97b56;         /* terracotta */
+	--granola-ui-warn-dark: #a9603f;
+	--granola-honey: #cfa059;
 	--granola-neutral: #faf6ee;         /* cream */
 	--granola-shadow: rgba(120, 90, 50, 0.14);
 
 	--accent-h: 100; /* sage */
-	--accent-s: 5%;
+	--accent-s: 26%;
 	--accent-d: 58%;
 	--accent-l: 46%;
 
@@ -181,24 +181,24 @@ body {
 	--tag-background-color-d: #33402a;
 	--tag-font-color-d: #c3d6b3;
 
-	--highlight-background-color--normal: hsl(38deg 14% 70% / 30%) !important;
-	--highlight-background-color-underline: hsl(20deg 13% 55% / 100%) !important;
-	--highlight-background-color--active: hsl(100deg 6% 52% / 25%) !important;
+	--highlight-background-color--normal: hsl(38deg 70% 70% / 30%) !important;
+	--highlight-background-color-underline: hsl(20deg 65% 60% / 100%) !important;
+	--highlight-background-color--active: hsl(100deg 30% 55% / 25%) !important;
 }
 
 /* ── MOSS color scheme ── */
 body.granola-scheme-moss {
-	--granola-ui-accent: #606455;
-	--granola-ui-accent-dark: #45483c;
+	--granola-ui-accent: #6b7a3f;
+	--granola-ui-accent-dark: #4d5a2a;
 	--granola-ui-accent-pale: #e3e6c9;
-	--granola-ui-warn: #6e675b;
-	--granola-ui-warn-dark: #524d42;
-	--granola-honey: #a49784;
+	--granola-ui-warn: #8a6d3f;
+	--granola-ui-warn-dark: #6b5429;
+	--granola-honey: #cfa059;
 	--granola-neutral: #faf6ee;
 	--granola-shadow: rgba(95, 100, 45, 0.16);
 
 	--accent-h: 80;
-	--accent-s: 9%;
+	--accent-s: 38%;
 	--accent-d: 56%;
 	--accent-l: 40%;
 
@@ -217,23 +217,23 @@ body.granola-scheme-moss {
 	--tag-background-color-d: #3a3f22;
 	--tag-font-color-d: #d3d9a8;
 
-	--highlight-background-color-underline: hsl(48deg 13% 48% / 100%) !important;
-	--highlight-background-color--active: hsl(80deg 8% 45% / 25%) !important;
+	--highlight-background-color-underline: hsl(48deg 60% 50% / 100%) !important;
+	--highlight-background-color--active: hsl(80deg 35% 45% / 25%) !important;
 }
 
 /* ── DESERT color scheme ── */
 body.granola-scheme-desert {
-	--granola-ui-accent: #8f746b;       /* rust */
-	--granola-ui-accent-dark: #6c564f;
+	--granola-ui-accent: #c05a3a;       /* rust */
+	--granola-ui-accent-dark: #953f26;
 	--granola-ui-accent-pale: #f3d9c8;
-	--granola-ui-warn: #7e767c;         /* dusty plum */
-	--granola-ui-warn-dark: #615960;
-	--granola-honey: #a4967f;
+	--granola-ui-warn: #8a6a82;         /* dusty plum */
+	--granola-ui-warn-dark: #6b4f66;
+	--granola-honey: #d9a24a;
 	--granola-neutral: #f7ecd9;         /* sand */
 	--granola-shadow: rgba(120, 70, 40, 0.18);
 
 	--accent-h: 18;
-	--accent-s: 13%;
+	--accent-s: 55%;
 	--accent-d: 62%;
 	--accent-l: 48%;
 
@@ -252,8 +252,8 @@ body.granola-scheme-desert {
 	--tag-background-color-d: #4a2c1e;
 	--tag-font-color-d: #e8c2a8;
 
-	--highlight-background-color-underline: hsl(30deg 13% 52% / 100%) !important;
-	--highlight-background-color--active: hsl(300deg 4% 50% / 25%) !important;
+	--highlight-background-color-underline: hsl(30deg 60% 55% / 100%) !important;
+	--highlight-background-color--active: hsl(300deg 15% 50% / 25%) !important;
 }
 
 /* ── OAT color scheme ──
@@ -392,197 +392,197 @@ body.theme-dark.is-mobile {
 
 body.granola-scheme-default.theme-light,
 body.granola-scheme-default.theme-light.is-mobile {
-	--color-red-rgb: 156, 124, 119;
-	--color-red: #9c7c77;
-	--color-green-rgb: 129, 138, 124;
-	--color-green: #818a7c;
-	--color-orange: #a08a7f;
-	--color-yellow: #a59783;
-	--color-cyan: #7f8f8c;
-	--color-blue: #7f898f;
-	--color-purple: #948e98;
-	--color-pink: #b3a0a6;
+	--color-red-rgb: 201, 90, 74;
+	--color-red: #c95a4a;
+	--color-green-rgb: 125, 155, 107;
+	--color-green: #7d9b6b;
+	--color-orange: #c97b56;
+	--color-yellow: #cfa059;
+	--color-cyan: #6ba398;
+	--color-blue: #6b8fa3;
+	--color-purple: #9683a3;
+	--color-pink: #c98a9b;
 
-	--color-base-00: #faf6ee; /* main editor background */
-	--color-base-05: #f7f1e6;
-	--color-base-10: #f2ead9; /* code blocks */
-	--color-base-20: #efe5d2;
-	--color-base-25: #ebdec7;
-	--color-base-30: #e2d2b8; /* dividers */
-	--color-base-35: #d3c0a0;
-	--color-base-40: #bfa980;
+	--color-base-00: #f5f4f3; /* main editor background */
+	--color-base-05: #f0efed;
+	--color-base-10: #e7e6e4; /* code blocks */
+	--color-base-20: #e3e1de;
+	--color-base-25: #dcdad6;
+	--color-base-30: #d0ceca; /* dividers */
+	--color-base-35: #bdbab6;
+	--color-base-40: #a4a19b;
 	--color-base-50: #a68f68;
 	--color-base-60: #8a7555;
 	--color-base-70: #6c5c42;
 	--color-base-100: #332a1d;
 
-	--background-modifier-hover: #efe5d2;
-	--background-modifier-cover: rgba(230, 216, 190, 0.55);
-	--text-highlight-bg-l: rgba(207, 160, 89, 0.3);
+	--background-modifier-hover: #e3e1de;
+	--background-modifier-cover: rgba(127, 118, 99, 0.55);
+	--text-highlight-bg-l: rgba(151, 143, 131, 0.3);
 	--text-highlight-bg: var(--text-highlight-bg-l);
-	--text-highlight-bg-active: rgba(125, 155, 107, 0.28);
+	--text-highlight-bg-active: rgba(48, 53, 46, 0.28);
 }
 
 body.granola-scheme-default.theme-dark,
 body.granola-scheme-default.theme-dark.is-mobile {
-	--color-red-rgb: 181, 152, 147;
-	--color-red: #b59893;
-	--color-green-rgb: 152, 162, 146;
-	--color-green: #98a292;
-	--color-orange: #b8a497;
-	--color-yellow: #bbb09d;
-	--color-cyan: #9fafab;
-	--color-blue: #9fa9af;
-	--color-purple: #b2adb6;
-	--color-pink: #cbbabf;
+	--color-red-rgb: 224, 122, 104;
+	--color-red: #e07a68;
+	--color-green-rgb: 148, 184, 124;
+	--color-green: #94b87c;
+	--color-orange: #e0996f;
+	--color-yellow: #e0b978;
+	--color-cyan: #8bc3b6;
+	--color-blue: #8bafc3;
+	--color-purple: #b3a0c3;
+	--color-pink: #e0a5b6;
 
-	--color-base-00: #241d16; /* main editor background — espresso */
-	--color-base-05: #2a2119;
-	--color-base-10: #2f251b; /* code blocks */
-	--color-base-20: #1f1810;
-	--color-base-25: #362b1f;
-	--color-base-30: #493a29; /* dividers */
-	--color-base-35: #5a4835;
-	--color-base-40: #715a41;
+	--color-base-00: #1e1d1c; /* main editor background — espresso */
+	--color-base-05: #232120;
+	--color-base-10: #272524; /* code blocks */
+	--color-base-20: #191816;
+	--color-base-25: #2c2b29;
+	--color-base-30: #3b3937; /* dividers */
+	--color-base-35: #4a4845;
+	--color-base-40: #5d5955;
 	--color-base-50: #8a7256;
 	--color-base-60: #a68f70;
 	--color-base-70: #c4af90;
 	--color-base-100: #f2e8d8;
 
-	--background-modifier-cover: rgba(36, 29, 22, 0.6);
-	--text-highlight-bg-d: rgba(224, 153, 111, 0.28);
+	--background-modifier-cover: rgba(63, 62, 61, 0.6);
+	--text-highlight-bg-d: rgba(174, 162, 156, 0.28);
 	--text-highlight-bg: var(--text-highlight-bg-d);
-	--text-highlight-bg-active: rgba(148, 184, 124, 0.28);
+	--text-highlight-bg-active: rgba(74, 83, 69, 0.28);
 }
 
 body.granola-scheme-moss.theme-light,
 body.granola-scheme-moss.theme-light.is-mobile {
-	--color-red-rgb: 156, 124, 119;
-	--color-red: #9c7c77;
-	--color-green-rgb: 96, 101, 84;
-	--color-green: #606554;
-	--color-orange: #837965;
-	--color-yellow: #a59783;
-	--color-cyan: #7f8f8c;
-	--color-blue: #7f898f;
-	--color-purple: #948e98;
-	--color-pink: #b3a0a6;
+	--color-red-rgb: 201, 90, 74;
+	--color-red: #c95a4a;
+	--color-green-rgb: 107, 122, 63;
+	--color-green: #6b7a3f;
+	--color-orange: #a9843f;
+	--color-yellow: #cfa059;
+	--color-cyan: #6ba398;
+	--color-blue: #6b8fa3;
+	--color-purple: #9683a3;
+	--color-pink: #c98a9b;
 
-	--color-base-00: #f3f6e7; /* main editor background — pale sage, still light for readability */
-	--color-base-05: #eef2df;
-	--color-base-10: #e7edd0; /* code blocks */
-	--color-base-20: #e1e2c4; /* sidebar / secondary bg — a shade deeper olive than the editor, tone-on-tone */
-	--color-base-25: #d7d9b4;
-	--color-base-30: #c9cd9e; /* dividers */
-	--color-base-35: #b3b884;
-	--color-base-40: #9aa06a;
+	--color-base-00: #eff0ed; /* main editor background — pale sage, still light for readability */
+	--color-base-05: #e9eae7;
+	--color-base-10: #e0e1dc; /* code blocks */
+	--color-base-20: #d5d5d1; /* sidebar / secondary bg — a shade deeper olive than the editor, tone-on-tone */
+	--color-base-25: #c9c9c4;
+	--color-base-30: #b8b9b2; /* dividers */
+	--color-base-35: #a1a29a;
+	--color-base-40: #888981;
 	--color-base-50: #818852;
 	--color-base-60: #666d3f;
 	--color-base-70: #4d5330;
 	--color-base-100: #2a2e1a;
 
-	--background-modifier-hover: #d7d9b4;
-	--background-modifier-cover: rgba(225, 222, 180, 0.55);
-	--text-highlight-bg-l: rgba(207, 160, 89, 0.3);
+	--background-modifier-hover: #c9c9c4;
+	--background-modifier-cover: rgba(122, 121, 96, 0.55);
+	--text-highlight-bg-l: rgba(151, 143, 131, 0.3);
 	--text-highlight-bg: var(--text-highlight-bg-l);
-	--text-highlight-bg-active: rgba(107, 122, 63, 0.28);
+	--text-highlight-bg-active: rgba(83, 86, 77, 0.28);
 }
 
 body.granola-scheme-moss.theme-dark,
 body.granola-scheme-moss.theme-dark.is-mobile {
-	--color-red-rgb: 181, 152, 147;
-	--color-red: #b59893;
-	--color-green-rgb: 154, 160, 142;
-	--color-green: #9aa08e;
-	--color-orange: #aca38f;
-	--color-yellow: #bbb09d;
-	--color-cyan: #9fafab;
-	--color-blue: #9fa9af;
-	--color-purple: #b2adb6;
-	--color-pink: #cbbabf;
+	--color-red-rgb: 224, 122, 104;
+	--color-red: #e07a68;
+	--color-green-rgb: 163, 184, 118;
+	--color-green: #a3b876;
+	--color-orange: #d1b06a;
+	--color-yellow: #e0b978;
+	--color-cyan: #8bc3b6;
+	--color-blue: #8bafc3;
+	--color-purple: #b3a0c3;
+	--color-pink: #e0a5b6;
 
-	--color-base-00: #182310; /* main editor background — deep green, still readable with light text */
-	--color-base-05: #1d2914;
-	--color-base-10: #223018; /* code blocks */
-	--color-base-20: #1f2416; /* sidebar / secondary bg — a touch deeper than the editor, tone-on-tone */
-	--color-base-25: #29301c;
-	--color-base-30: #3a4527; /* dividers */
-	--color-base-35: #4a5730;
-	--color-base-40: #5e6d3d;
+	--color-base-00: #191b18; /* main editor background — deep green, still readable with light text */
+	--color-base-05: #1e201d;
+	--color-base-10: #242622; /* code blocks */
+	--color-base-20: #1d1e1c; /* sidebar / secondary bg — a touch deeper than the editor, tone-on-tone */
+	--color-base-25: #262824;
+	--color-base-30: #373834; /* dividers */
+	--color-base-35: #444641;
+	--color-base-40: #565951;
 	--color-base-50: #78864f;
 	--color-base-60: #94a065;
 	--color-base-70: #b3bd88;
 	--color-base-100: #eef0d8;
 
-	--background-modifier-cover: rgba(36, 29, 22, 0.6);
-	--text-highlight-bg-d: rgba(163, 184, 118, 0.25);
+	--background-modifier-cover: rgba(63, 62, 61, 0.6);
+	--text-highlight-bg-d: rgba(84, 88, 74, 0.25);
 	--text-highlight-bg: var(--text-highlight-bg-d);
-	--text-highlight-bg-active: rgba(163, 184, 118, 0.28);
+	--text-highlight-bg-active: rgba(84, 88, 74, 0.28);
 }
 
 body.granola-scheme-desert.theme-light,
 body.granola-scheme-desert.theme-light.is-mobile {
-	--color-red-rgb: 150, 115, 109;
-	--color-red: #96736d;
-	--color-green-rgb: 118, 118, 102;
-	--color-green: #767666;
-	--color-orange: #988170;
-	--color-yellow: #a6967d;
-	--color-cyan: #7f8f8c;
-	--color-blue: #898f94;
-	--color-purple: #7f757c;
-	--color-pink: #b2a0a5;
+	--color-red-rgb: 201, 80, 58;
+	--color-red: #c9503a;
+	--color-green-rgb: 138, 138, 82;
+	--color-green: #8a8a52;
+	--color-orange: #c97a3f;
+	--color-yellow: #d9a24a;
+	--color-cyan: #6ba398;
+	--color-blue: #7a8fa3;
+	--color-purple: #8a6a82;
+	--color-pink: #c9899b;
 
-	--color-base-00: #f7ecd9; /* main editor background — warm sand */
-	--color-base-05: #f3e5c8;
-	--color-base-10: #efdcb8; /* code blocks */
-	--color-base-20: #ecd3a3;
-	--color-base-25: #e5c48a;
-	--color-base-30: #dcb26e; /* dividers */
-	--color-base-35: #cf9d5a;
-	--color-base-40: #bd8548;
+	--color-base-00: #eae9e6; /* main editor background — warm sand */
+	--color-base-05: #e1dfda;
+	--color-base-10: #d8d5cf; /* code blocks */
+	--color-base-20: #cdc9c2;
+	--color-base-25: #beb9b1;
+	--color-base-30: #ada79d; /* dividers */
+	--color-base-35: #9d968c;
+	--color-base-40: #8b837a;
 	--color-base-50: #a06f3d;
 	--color-base-60: #825a34;
 	--color-base-70: #63452a;
 	--color-base-100: #2e2015;
 
-	--background-modifier-hover: #e5c48a;
-	--background-modifier-cover: rgba(220, 190, 150, 0.55);
-	--text-highlight-bg-l: rgba(217, 162, 74, 0.3);
+	--background-modifier-hover: #beb9b1;
+	--background-modifier-cover: rgba(141, 129, 114, 0.55);
+	--text-highlight-bg-l: rgba(174, 168, 159, 0.3);
 	--text-highlight-bg: var(--text-highlight-bg-l);
-	--text-highlight-bg-active: rgba(138, 106, 130, 0.28);
+	--text-highlight-bg-active: rgba(36, 31, 35, 0.28);
 }
 
 body.granola-scheme-desert.theme-dark,
 body.granola-scheme-desert.theme-dark.is-mobile {
-	--color-red-rgb: 176, 144, 138;
-	--color-red: #b0908a;
-	--color-green-rgb: 151, 151, 137;
-	--color-green: #979789;
-	--color-orange: #b29e8d;
-	--color-yellow: #c0b5a0;
-	--color-cyan: #9fafab;
-	--color-blue: #acb1b6;
-	--color-purple: #a89fa6;
-	--color-pink: #cbbabf;
+	--color-red-rgb: 224, 112, 90;
+	--color-red: #e0705a;
+	--color-green-rgb: 168, 168, 120;
+	--color-green: #a8a878;
+	--color-orange: #e09a5f;
+	--color-yellow: #e8c078;
+	--color-cyan: #8bc3b6;
+	--color-blue: #9fb0c3;
+	--color-purple: #b394ab;
+	--color-pink: #e0a5b8;
 
-	--color-base-00: #241611; /* main editor background — dusk desert brown */
-	--color-base-05: #2b1c15;
-	--color-base-10: #32211a; /* code blocks */
-	--color-base-20: #251811;
-	--color-base-25: #34241a;
-	--color-base-30: #4a3322; /* dividers */
-	--color-base-35: #5c4029;
-	--color-base-40: #74502f;
+	--color-base-00: #1c1a19; /* main editor background — dusk desert brown */
+	--color-base-05: #221f1e;
+	--color-base-10: #282524; /* code blocks */
+	--color-base-20: #1d1b1a;
+	--color-base-25: #292725;
+	--color-base-30: #393633; /* dividers */
+	--color-base-35: #46423f;
+	--color-base-40: #57514c;
 	--color-base-50: #8f6a42;
 	--color-base-60: #ab8760;
 	--color-base-70: #c8a888;
 	--color-base-100: #f5e6d2;
 
-	--background-modifier-cover: rgba(36, 22, 17, 0.6);
-	--text-highlight-bg-d: rgba(224, 154, 95, 0.28);
+	--background-modifier-cover: rgba(93, 91, 90, 0.6);
+	--text-highlight-bg-d: rgba(180, 172, 164, 0.28);
 	--text-highlight-bg: var(--text-highlight-bg-d);
-	--text-highlight-bg-active: rgba(179, 148, 171, 0.28);
+	--text-highlight-bg-active: rgba(47, 39, 45, 0.28);
 }
 
 body.granola-scheme-oat.theme-light,

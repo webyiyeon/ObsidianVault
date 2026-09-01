@@ -53,9 +53,18 @@
               "icon": "lucide-file",
               "title": "2026-09-01 Tue"
             }
+          },
+          {
+            "id": "03e3f8a05f0e4a98",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2026/09_September/2026-09-01 Tue.md",
+                "file": "remoteBrain/VisionBoard/2026.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
@@ -195,11 +204,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8a09c0eec9c40277",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "remoteBrain/99_InsightON/대한유화 SHE/보건 (2026-07-15).md",
     "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/Daily-Docs/2026/09_September/2026-09-01 Tue.md",
+    "remoteBrain/99_InsightON/대한유화 SHE/보건 (2026-07-15).md",
     "remoteBrain/Report/2026/09_September.md",
     "remoteBrain/_templater/Daily.md",
     "remoteBrain/99_InsightON/대한유화 SHE/소방 (2026-08-13).md",
