@@ -581,8 +581,7 @@ body.granola-scheme-desert.theme-dark.is-mobile {
 .metadata-property-value,
 .metadata-property-value input,
 .metadata-property-value .metadata-input-longtext,
-.metadata-property-value .multi-select-container,
-.metadata-property-value .multi-select-pill {
+.metadata-property-value .multi-select-container {
 	border-radius: 0 !important;
 }
 .metadata-property-value .multi-select-container {

@@ -64,9 +64,10 @@
       },
       "calendarType": "remote"
     },
-    "#luv💗": {
-      "icsName": "#luv💗",
-      "icsUrl": "https://calendar.google.com/calendar/ical/c20c8922314c8208dd80b5cbf1cf63079c34b539d3e2450a0d89aac4bb4c452b%40group.calendar.google.com/private-e2341745d1936896dd49f7e96aece1c4/basic.ics",
+    "#game": {
+      "icsName": "#game",
+      "icsUrl": "https://calendar.google.com/calendar/u/0?cid=NTRlMGFkZTc2NWI4MTllYzE2MTQ0ZTNhMzc4ZjVlNDlmNTViZGZkYzQ1MzZlMzQyYzZmNWRkMWIwYWM5MzhjN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+      "ownerEmail": "",
       "format": {
         "checkbox": true,
         "includeEventEndTime": true,
@@ -75,9 +76,44 @@
         "location": true,
         "description": false,
         "calendarType": "remote",
-        "showAttendees": false
+        "showAttendees": false,
+        "showOngoing": true,
+        "showTransparentEvents": false
       },
       "calendarType": "remote"
     }
+  },
+  "fieldExtraction": {
+    "enabled": true,
+    "patterns": [
+      {
+        "name": "Google Meet",
+        "pattern": "GOOGLE-CONFERENCE",
+        "matchType": "contains",
+        "priority": 1,
+        "extractedFieldName": "Video Call URLs"
+      },
+      {
+        "name": "Zoom",
+        "pattern": "zoom.us",
+        "matchType": "contains",
+        "priority": 2,
+        "extractedFieldName": "Video Call URLs"
+      },
+      {
+        "name": "Skype",
+        "pattern": "https:\\/\\/join\\.skype\\.com\\/[a-zA-Z0-9]+",
+        "matchType": "regex",
+        "priority": 3,
+        "extractedFieldName": "Video Call URLs"
+      },
+      {
+        "name": "Microsoft Teams",
+        "pattern": "https:\\/\\/teams\\.microsoft\\.com\\/l\\/meetup-join\\/[^>]+",
+        "matchType": "regex",
+        "priority": 4,
+        "extractedFieldName": "Video Call URLs"
+      }
+    ]
   }
 }
