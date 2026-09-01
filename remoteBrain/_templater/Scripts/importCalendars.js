@@ -106,7 +106,7 @@ function ruleMatchesDate(rrule, dtstartMoment, target) {
 }
 
 async function importCalendars(tp, dateStr) {
-	const { requestUrl } = require("obsidian");
+	const { requestUrl } = tp.obsidian;
 	const targetDate = window.moment(dateStr, "YYYY-MM-DD");
 	const targetYMD = targetDate.format("YYYYMMDD");
 
