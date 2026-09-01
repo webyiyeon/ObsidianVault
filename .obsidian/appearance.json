@@ -1,6 +1,6 @@
 {
   "theme": "system",
-  "cssTheme": "Things",
+  "cssTheme": "Granola Girl",
   "enabledCssSnippets": [
     "walktogether",
     "walktogether-font",
@@ -9,8 +9,8 @@
   "baseFontSizeAction": true,
   "baseFontSize": 15,
   "monospaceFontFamily": "JetBrains Mono,D2Coding",
-  "textFontFamily": "D2Coding,나눔고딕,그리운 묘은흘림체",
-  "interfaceFontFamily": "D2Coding,나눔고딕,그리운 묘은흘림체",
+  "textFontFamily": "Quicksand,Gowun Dodum,나눔고딕",
+  "interfaceFontFamily": "Quicksand,Gowun Dodum,나눔고딕",
   "nativeMenus": false,
   "accentColor": "",
   "showViewHeader": true,
