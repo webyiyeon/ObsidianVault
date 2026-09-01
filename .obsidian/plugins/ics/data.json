@@ -31,7 +31,8 @@
         "location": true,
         "description": true,
         "calendarType": "remote",
-        "showAttendees": false
+        "showAttendees": false,
+        "showTransparentEvents": true
       },
       "calendarType": "remote"
     },
@@ -46,7 +47,8 @@
         "location": true,
         "description": true,
         "calendarType": "remote",
-        "showAttendees": false
+        "showAttendees": false,
+        "showTransparentEvents": true
       },
       "calendarType": "remote"
     },
