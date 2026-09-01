@@ -512,6 +512,49 @@ body.granola-scheme-desert.theme-dark.is-mobile {
 	font-weight: 600;
 }
 
+/* Properties (frontmatter) panel: values center-aligned, but
+   property titles/keys stay left-aligned and consistent with each
+   other (a mix of key alignments looked messier than uniform left).
+   Multi-value pill lists (tags, lists) center as a group. A row
+   divider + a key/value divider give it a table feel — but only
+   those inner lines, no border around the block itself. */
+.metadata-properties {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	max-width: 40em;
+	margin: 0 auto;
+}
+.metadata-property {
+	width: 100%;
+	text-align: center;
+	padding: 6px 0;
+	border-bottom: 1px solid var(--color-base-30);
+}
+.metadata-property:last-child {
+	border-bottom: none;
+}
+.metadata-property-key {
+	justify-content: flex-start;
+	text-align: left;
+	flex: 0 0 8em;
+	border-right: 1px solid var(--color-base-30);
+	padding-right: 10px;
+	margin-right: 10px;
+}
+.metadata-property-key .metadata-property-key-input {
+	justify-content: flex-start;
+	text-align: left;
+}
+.metadata-property-value,
+.metadata-property-value input,
+.metadata-property-value .metadata-input-longtext {
+	text-align: center;
+}
+.metadata-property-value .multi-select-container {
+	justify-content: center;
+}
+
 /* Blockquote: soft warn-color bar + warm tint, italic */
 body:not(.default-font-color) .markdown-preview-view blockquote,
 body:not(.default-font-color) span.cm-quote.cm-quote-1 {

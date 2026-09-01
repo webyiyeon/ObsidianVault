@@ -30,27 +30,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2026/09_September/2026-09-01 Tue.md",
+                "file": "remoteBrain/99_InsightON/대한유화 SHE/소방 (2026-08-13).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-01 Tue"
+              "title": "소방 (2026-08-13)"
             }
           },
           {
             "id": "51763d5ec5e8ad04",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/_templater/Daily.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Daily"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteBrain/Daily-Docs/2026/09_September/2026-09-01 Tue.md",
+                "file": "remoteBrain/_templater/Daily.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
@@ -190,16 +195,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d8775952e1eabc10",
+  "active": "51763d5ec5e8ad04",
   "lastOpenFiles": [
+    "remoteBrain/Daily-Docs/2026/08_August/2026-08-06 Thu.md",
+    "remoteBrain/_templater/Daily.md",
     "remoteBrain/Daily-Docs/2026/09_September/2026-09-01 Tue.md",
+    "remoteBrain/99_InsightON/대한유화 SHE/소방 (2026-08-13).md",
     "remoteBrain/VisionBoard/2026.md",
+    "remoteBrain/99_InsightON/대한유화 SHE/산업안전 (2026-08-26).md",
+    "remoteBrain/99_InsightON/대한유화 SHE/소방 (2026-07-31).md",
+    "remoteBrain/99_InsightON/대한유화 SHE/산업안전 (2026-08-19).md",
+    "remoteBrain/99_InsightON/대한유화 SHE/보건 (2026-07-15).md",
+    "remoteBrain/99_InsightON/대한유화 SHE/변경관리 (2026-08-07).md",
+    "remoteBrain/99_InsightON/대한유화 SHE/2026-08-25 To Do List.md",
+    "remoteBrain/99_InsightON/대한유화 SHE/2026-08-28 주간회의.md",
     "remoteBrain/_templater/Daily (2025).md",
     "remoteBrain/Report/2026/09_September.md",
-    "remoteBrain/_templater/Daily.md",
     "remoteBrain/_templater/daily__tmp_rename.md",
     "remoteBrain/_templater/daily.md",
-    "remoteBrain/99_InsightON/대한유화 SHE/보건 (2026-07-15).md",
     "remoteBrain/99_InsightON/대한유화 SHE/보건 (2026-07-23).md",
     "remoteBrain/00_Web Developer/Git 형상관리 관련.md",
     "remoteBrain/VisionBoard/2025.md",
@@ -207,19 +220,11 @@
     "remoteBrain/Daily-Docs/2026/09_September",
     "remoteBrain/99_InsightON/대한유화 SHE/2026-08-21 주간회의.md",
     "remoteBrain/Daily-Docs/2026/08_August/2026-08-28 Fri.md",
-    "remoteBrain/99_InsightON/대한유화 SHE/2026-08-28 주간회의.md",
     "remoteBrain/99_InsightON/대한유화 SHE/PSM (2026-08-27).md",
     "remoteBrain/99_InsightON/SK USHE.md",
     "remoteBrain/99_InsightON/슬기로운 독서생활 (종료).md",
     "remoteBrain/Daily-Docs/2026/08_August/2026-08-27 Thu.md",
-    "remoteBrain/99_InsightON/대한유화 SHE/산업안전 (2026-08-26).md",
-    "remoteBrain/99_InsightON/대한유화 SHE/PSM (2026-08-18).md",
-    "remoteBrain/99_InsightON/대한유화 SHE/2026-08-25 To Do List.md",
-    "remoteBrain/99_InsightON/대한유화 SHE/2026-08-24 공통 협의.md",
-    "remoteBrain/Daily-Docs/2026/08_August/2026-08-25 Tue.md",
-    "remoteBrain/01_Traveler/2026 Tokyo/주일본 대한민국 대사관.md",
     "remoteBrain/01_Traveler/2027 Tokyo",
-    "remoteBrain/01_Traveler/2026 Tokyo/01.🎀퓨로랜드 (예약완료).md",
     "remoteBrain/01_Traveler/2026 Tokyo/Files/RECEIPT_enclosed.pdf",
     "remoteBrain/01_Traveler/2026 Tokyo/Files/E-Ticket.pdf",
     "remoteBrain/01_Traveler/2026 Tokyo/Files/기모노 바우처.pdf",
