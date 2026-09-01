@@ -11,5 +11,7 @@
     "margin": "0",
     "downscalePercent": 95
   },
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "useTab": true,
+  "openBehavior": ""
 }
