@@ -1,0 +1,110 @@
+/* ============================================================
+   Google Calendar plugin (YukiGasai) — muted pastel palette
+   ------------------------------------------------------------
+   The plugin renders event backgrounds as an inline style based
+   on Google's saturated 24-color palette, so overriding requires
+   !important to win over the inline style.
+   ============================================================ */
+
+:root {
+	--gcal-c1: #baa392;  /* was #ac725e brown */
+	--gcal-c2: #d1a29b;  /* was #d06b64 red-brown */
+	--gcal-c3: #e2938a;  /* was #f83a22 red */
+	--gcal-c4: #e2a08d;  /* was #fa573c orange-red */
+	--gcal-c5: #e3b08b;  /* was #ff7537 orange */
+	--gcal-c6: #e8c496;  /* was #ffad46 yellow-orange */
+	--gcal-c7: #9ecbb8;  /* was #42d692 green-teal */
+	--gcal-c8: #93bfa0;  /* was #16a765 green */
+	--gcal-c9: #b0cf9a;  /* was #7bd148 light green */
+	--gcal-c10: #c9d6a3; /* was #b3dc6c yellow-green */
+	--gcal-c11: #e5dba0; /* was #fbe983 yellow */
+	--gcal-c12: #e0c98f; /* was #fad165 gold */
+	--gcal-c13: #a9d4c2; /* was #92e1c0 mint */
+	--gcal-c14: #a8cdd1; /* was #9fe1e7 cyan */
+	--gcal-c15: #a5c2d6; /* was #9fc6e7 light blue */
+	--gcal-c16: #8fadd1; /* was #4986e7 blue */
+	--gcal-c17: #a8abd6; /* was #9a9cff periwinkle */
+	--gcal-c18: #b6a6d6; /* was #b99aff purple */
+	--gcal-c19: #bfbfbf; /* was #c2c2c2 gray */
+	--gcal-c20: #c9bdb8; /* was #cabdbf taupe */
+	--gcal-c21: #cfa9ac; /* was #cca6ac dusty rose */
+	--gcal-c22: #d9a3b5; /* was #f691b2 pink */
+	--gcal-c23: #c98fc7; /* was #cd74e6 magenta */
+	--gcal-c24: #ab9bd1; /* was #a47ae2 violet */
+	--gcal-text: #3a3630;
+
+	/* used by .googleCalendarDailyDot if the "highlight daily notes" addon is enabled */
+	--daily-dot-color: var(--gcal-c16);
+}
+
+/* Month view mini-dots */
+.googleCalendarDot_1  { fill: var(--gcal-c1)  !important; }
+.googleCalendarDot_2  { fill: var(--gcal-c2)  !important; }
+.googleCalendarDot_3  { fill: var(--gcal-c3)  !important; }
+.googleCalendarDot_4  { fill: var(--gcal-c4)  !important; }
+.googleCalendarDot_5  { fill: var(--gcal-c5)  !important; }
+.googleCalendarDot_6  { fill: var(--gcal-c6)  !important; }
+.googleCalendarDot_7  { fill: var(--gcal-c7)  !important; }
+.googleCalendarDot_8  { fill: var(--gcal-c8)  !important; }
+.googleCalendarDot_9  { fill: var(--gcal-c9)  !important; }
+.googleCalendarDot_10 { fill: var(--gcal-c10) !important; }
+.googleCalendarDot_11 { fill: var(--gcal-c11) !important; }
+.googleCalendarDot_12 { fill: var(--gcal-c12) !important; }
+.googleCalendarDot_13 { fill: var(--gcal-c13) !important; }
+.googleCalendarDot_14 { fill: var(--gcal-c14) !important; }
+.googleCalendarDot_15 { fill: var(--gcal-c15) !important; }
+.googleCalendarDot_16 { fill: var(--gcal-c16) !important; }
+.googleCalendarDot_17 { fill: var(--gcal-c17) !important; }
+.googleCalendarDot_18 { fill: var(--gcal-c18) !important; }
+.googleCalendarDot_19 { fill: var(--gcal-c19) !important; }
+.googleCalendarDot_20 { fill: var(--gcal-c20) !important; }
+.googleCalendarDot_21 { fill: var(--gcal-c21) !important; }
+.googleCalendarDot_22 { fill: var(--gcal-c22) !important; }
+.googleCalendarDot_23 { fill: var(--gcal-c23) !important; }
+.googleCalendarDot_24 { fill: var(--gcal-c24) !important; }
+
+/* Week / day / schedule / timeline event blocks — background is set
+   inline by the plugin, so !important is required here */
+.googleCalendarEvent_Calendar_Color_1,  .googleCalendarEvent_Event_Color_1  { background: var(--gcal-c1)  !important; }
+.googleCalendarEvent_Calendar_Color_2,  .googleCalendarEvent_Event_Color_2  { background: var(--gcal-c2)  !important; }
+.googleCalendarEvent_Calendar_Color_3,  .googleCalendarEvent_Event_Color_3  { background: var(--gcal-c3)  !important; }
+.googleCalendarEvent_Calendar_Color_4,  .googleCalendarEvent_Event_Color_4  { background: var(--gcal-c4)  !important; }
+.googleCalendarEvent_Calendar_Color_5,  .googleCalendarEvent_Event_Color_5  { background: var(--gcal-c5)  !important; }
+.googleCalendarEvent_Calendar_Color_6,  .googleCalendarEvent_Event_Color_6  { background: var(--gcal-c6)  !important; }
+.googleCalendarEvent_Calendar_Color_7,  .googleCalendarEvent_Event_Color_7  { background: var(--gcal-c7)  !important; }
+.googleCalendarEvent_Calendar_Color_8,  .googleCalendarEvent_Event_Color_8  { background: var(--gcal-c8)  !important; }
+.googleCalendarEvent_Calendar_Color_9,  .googleCalendarEvent_Event_Color_9  { background: var(--gcal-c9)  !important; }
+.googleCalendarEvent_Calendar_Color_10, .googleCalendarEvent_Event_Color_10 { background: var(--gcal-c10) !important; }
+.googleCalendarEvent_Calendar_Color_11, .googleCalendarEvent_Event_Color_11 { background: var(--gcal-c11) !important; }
+.googleCalendarEvent_Calendar_Color_12, .googleCalendarEvent_Event_Color_12 { background: var(--gcal-c12) !important; }
+.googleCalendarEvent_Calendar_Color_13, .googleCalendarEvent_Event_Color_13 { background: var(--gcal-c13) !important; }
+.googleCalendarEvent_Calendar_Color_14, .googleCalendarEvent_Event_Color_14 { background: var(--gcal-c14) !important; }
+.googleCalendarEvent_Calendar_Color_15, .googleCalendarEvent_Event_Color_15 { background: var(--gcal-c15) !important; }
+.googleCalendarEvent_Calendar_Color_16, .googleCalendarEvent_Event_Color_16 { background: var(--gcal-c16) !important; }
+.googleCalendarEvent_Calendar_Color_17, .googleCalendarEvent_Event_Color_17 { background: var(--gcal-c17) !important; }
+.googleCalendarEvent_Calendar_Color_18, .googleCalendarEvent_Event_Color_18 { background: var(--gcal-c18) !important; }
+.googleCalendarEvent_Calendar_Color_19, .googleCalendarEvent_Event_Color_19 { background: var(--gcal-c19) !important; }
+.googleCalendarEvent_Calendar_Color_20, .googleCalendarEvent_Event_Color_20 { background: var(--gcal-c20) !important; }
+.googleCalendarEvent_Calendar_Color_21, .googleCalendarEvent_Event_Color_21 { background: var(--gcal-c21) !important; }
+.googleCalendarEvent_Calendar_Color_22, .googleCalendarEvent_Event_Color_22 { background: var(--gcal-c22) !important; }
+.googleCalendarEvent_Calendar_Color_23, .googleCalendarEvent_Event_Color_23 { background: var(--gcal-c23) !important; }
+.googleCalendarEvent_Calendar_Color_24, .googleCalendarEvent_Event_Color_24 { background: var(--gcal-c24) !important; }
+
+/* Readable text on the new lighter pastel backgrounds */
+.googleCalendarEvent,
+.googleCalendarEvent * ,
+.googleCalendarName,
+.googleCalendarName a {
+	color: var(--gcal-text) !important;
+}
+
+/* "Today" marker: use the theme's accent color instead of the
+   plugin's hardcoded red / #4285f4 blue, scoped to Google Calendar
+   views only so it doesn't affect the Calendar / Periodic Notes plugins */
+.workspace-leaf-content[data-type^="google-calendar-view"] .today {
+	color: var(--text-on-accent) !important;
+	background: var(--interactive-accent) !important;
+}
+#calendar-container .today {
+	color: var(--interactive-accent) !important;
+}

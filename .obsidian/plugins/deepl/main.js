@@ -46,6 +46,7 @@ var toLanguages = {
   ID: "Indonesian",
   IT: "Italian",
   JA: "Japanese",
+  KO: "Korean",
   LT: "Lithuanian",
   LV: "Latvian",
   NL: "Dutch",
@@ -230,6 +231,7 @@ var fromLanguages = {
   ID: "Indonesian",
   IT: "Italian",
   JA: "Japanese",
+  KO: "Korean",
   LT: "Lithuanian",
   LV: "Latvian",
   NL: "Dutch",
@@ -473,3 +475,5 @@ var DeepLPlugin = class extends import_obsidian5.Plugin {
     }
   }
 };
+
+/* nosourcemap */

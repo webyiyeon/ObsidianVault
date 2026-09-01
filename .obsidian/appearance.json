@@ -3,7 +3,8 @@
   "cssTheme": "Things",
   "enabledCssSnippets": [
     "walktogether",
-    "walktogether-font"
+    "walktogether-font",
+    "google-calendar-muted"
   ],
   "baseFontSizeAction": true,
   "baseFontSize": 15,
