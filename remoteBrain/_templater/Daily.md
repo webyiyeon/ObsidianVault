@@ -1,8 +1,13 @@
 <%*
-/* Periodic-Notes replacement: computes today's path, opens the note
-   if it already exists (deleting the blank stub Templater just made),
-   or moves this stub into place if it's a genuinely new day. */
-const currentDate  = window.moment();
+/* Periodic-Notes replacement: computes the target date, opens the
+   note if it already exists (deleting the blank stub Templater just
+   made), or moves this stub into place if it's a genuinely new day.
+   The date is NOT always "today" — clicking a date on the calendar
+   creates the file directly at its already-dated path (e.g.
+   tomorrow's), so pull the date from that filename when present and
+   only fall back to today for the Alt+1 / generic-stub case. */
+const stubPathMatch = tp.config.target_file.path.match(/(\d{4}-\d{2}-\d{2}) (\w{3})\.md$/);
+const currentDate = stubPathMatch ? window.moment(stubPathMatch[1], "YYYY-MM-DD") : window.moment();
 const previousDate = currentDate.clone().add(-1, "days");
 const nextDate      = currentDate.clone().add(+1, "days");
 

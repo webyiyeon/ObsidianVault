@@ -1,8 +1,13 @@
 <%*
-/* Periodic-Notes replacement: computes this month's path, opens the
-   note if it already exists (deleting the blank stub Templater just
-   made), or moves this stub into place if it's a genuinely new month. */
-const currentDate = window.moment();
+/* Periodic-Notes replacement: computes the target month's path, opens
+   the note if it already exists (deleting the blank stub Templater
+   just made), or moves this stub into place if it's a genuinely new
+   month. Pull the month from the file's own path when it's already
+   sitting in a dated Report/YYYY/MM_Month.md location (e.g. created
+   by clicking a month on the calendar); otherwise fall back to the
+   current month for the Alt+3 / generic-stub case. */
+const stubMonthMatch = tp.config.target_file.path.match(/Report\/(\d{4})\/(\d{2})_\w+\.md$/);
+const currentDate = stubMonthMatch ? window.moment(`${stubMonthMatch[1]}-${stubMonthMatch[2]}-01`, "YYYY-MM-DD") : window.moment();
 const monthlyFolder = `remoteBrain/Report/${currentDate.format("YYYY")}`;
 const monthlyFilename = currentDate.format("MM_MMMM");
 const monthlyTargetPath = `${monthlyFolder}/${monthlyFilename}.md`;
