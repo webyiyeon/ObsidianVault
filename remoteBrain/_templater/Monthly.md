@@ -6,7 +6,8 @@ const currentDate = window.moment();
 const monthlyFolder = `remoteBrain/Report/${currentDate.format("YYYY")}`;
 const monthlyFilename = currentDate.format("MM_MMMM");
 const monthlyTargetPath = `${monthlyFolder}/${monthlyFilename}.md`;
-const monthlyExisting = app.vault.getAbstractFileByPath(monthlyTargetPath);
+const monthlyAlreadyAtTarget = tp.config.target_file.path === monthlyTargetPath;
+const monthlyExisting = monthlyAlreadyAtTarget ? null : app.vault.getAbstractFileByPath(monthlyTargetPath);
 -%>
 ## Checking In on My Goals 🌱
 
@@ -134,7 +135,7 @@ if (monthlyExisting) {
 	if (stub && stub.path !== monthlyExisting.path) {
 		setTimeout(() => { app.vault.delete(stub).catch(() => {}); }, 500);
 	}
-} else {
+} else if (!monthlyAlreadyAtTarget) {
 	await tp.file.move(`${monthlyFolder}/${monthlyFilename}`);
 }
 -%>
