@@ -1,19 +1,3 @@
-<%*
-/* Periodic-Notes replacement: computes the target month's path, opens
-   the note if it already exists (deleting the blank stub Templater
-   just made), or moves this stub into place if it's a genuinely new
-   month. Pull the month from the file's own path when it's already
-   sitting in a dated Report/YYYY/MM_Month.md location (e.g. created
-   by clicking a month on the calendar); otherwise fall back to the
-   current month for the Alt+3 / generic-stub case. */
-const stubMonthMatch = tp.config.target_file.path.match(/Report\/(\d{4})\/(\d{2})_\w+\.md$/);
-const currentDate = stubMonthMatch ? window.moment(`${stubMonthMatch[1]}-${stubMonthMatch[2]}-01`, "YYYY-MM-DD") : window.moment();
-const monthlyFolder = `remoteBrain/Report/${currentDate.format("YYYY")}`;
-const monthlyFilename = currentDate.format("MM_MMMM");
-const monthlyTargetPath = `${monthlyFolder}/${monthlyFilename}.md`;
-const monthlyAlreadyAtTarget = tp.config.target_file.path === monthlyTargetPath;
-const monthlyExisting = monthlyAlreadyAtTarget ? null : app.vault.getAbstractFileByPath(monthlyTargetPath);
--%>
 ## Checking In on My Goals 🌱
 
 1. How are you feeling this month?  
@@ -54,7 +38,7 @@ TABLE
 FROM 
 	#routine 
 WHERE 
-	file.folder = "remoteBrain/Daily-Docs/<% currentDate.format("YYYY") %>/<% currentDate.format("MM_MMMM") %>"
+	file.folder = "remoteBrain/Daily-Docs/2026/09_September"
 sort file.name	
 ```
 
@@ -71,7 +55,7 @@ TABLE
 FROM 
 	 #routine 
 WHERE 
-	file.folder = "remoteBrain/Daily-Docs/<% currentDate.format("YYYY") %>/<% currentDate.format("MM_MMMM") %>"
+	file.folder = "remoteBrain/Daily-Docs/2026/09_September"
 sort file.name
 ```
 
@@ -128,20 +112,8 @@ TABLE WITHOUT ID
   ) AS "drawing practice"
 
 FROM #routine
-WHERE file.folder = "remoteBrain/Daily-Docs/<% currentDate.format("YYYY") %>/<% currentDate.format("MM_MMMM") %>"
+WHERE file.folder = "remoteBrain/Daily-Docs/2026/09_September"
 SORT file.name ASC
 
 ```
-<%*
-if (monthlyExisting) {
-	const stub = tp.config.target_file;
-	await app.workspace.getLeaf(false).openFile(monthlyExisting);
-	tR = "";
-	if (stub && stub.path !== monthlyExisting.path) {
-		setTimeout(() => { app.vault.delete(stub).catch(() => {}); }, 500);
-	}
-} else if (!monthlyAlreadyAtTarget) {
-	await tp.file.move(`${monthlyFolder}/${monthlyFilename}`);
-}
--%>
 

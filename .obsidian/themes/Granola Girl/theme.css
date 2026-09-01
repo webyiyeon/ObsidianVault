@@ -855,6 +855,51 @@ a.tag {
 	padding: 10px 14px;
 }
 
+/* Dataview tables: rounded card instead of a plain browser grid,
+   accent header bar, soft row stripes instead of hard gridlines */
+.dataview.table-view-table,
+table.dataview {
+	border-collapse: separate;
+	border-spacing: 0;
+	width: 100%;
+	border-radius: var(--radius-m);
+	overflow: hidden;
+	box-shadow: var(--shadow-s);
+}
+.dataview.table-view-table thead tr,
+table.dataview thead tr {
+	background: var(--granola-ui-accent-pale);
+}
+.dataview.table-view-table th,
+table.dataview th {
+	color: var(--granola-ui-accent-dark);
+	font-family: var(--font-ui-granola);
+	font-weight: 600;
+	text-align: left;
+	padding: 8px 12px;
+	border: none;
+}
+.dataview.table-view-table td,
+table.dataview td {
+	padding: 7px 12px;
+	border: none;
+	border-top: 1px solid var(--color-base-25);
+	background: var(--color-base-00);
+}
+.dataview.table-view-table tbody tr:nth-child(even) td,
+table.dataview tbody tr:nth-child(even) td {
+	background: var(--color-base-05);
+}
+.dataview.table-view-table tbody tr:hover td,
+table.dataview tbody tr:hover td {
+	background: var(--granola-ui-accent-pale);
+}
+.dataview.table-view-table a,
+table.dataview a {
+	color: var(--granola-ui-accent-dark);
+	font-weight: 600;
+}
+
 /* Active tab: soft underline */
 .workspace-tab-header.is-active {
 	position: relative;
