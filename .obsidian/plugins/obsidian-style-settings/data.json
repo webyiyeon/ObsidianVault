@@ -1,5 +1,6 @@
 {
   "minimal-advanced@@cursor": "pointer",
   "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
-  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-maroon"
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-maroon",
+  "granola-girl-moss@@granola-empty-bg-mode": "var(--granola-landscape)"
 }

@@ -25,6 +25,9 @@ settings:
                 label: Mountain & desert (default)
                 value: 'var(--granola-landscape)'
             -
+                label: Joshua Tree sunset
+                value: 'var(--granola-joshua)'
+            -
                 label: My own image
                 value: 'var(--granola-custom-bg)'
             -
@@ -429,6 +432,11 @@ body.active-line .cm-active.HyperMD-quote::before {
    background, i.e. only where no text/icons ever sit */
 :root {
 	--granola-landscape: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='130' viewBox='0 0 400 130'%3E%3Ccircle cx='310' cy='28' r='16' fill='%23cfa059' opacity='0.85'/%3E%3Cpath d='M0,85 L45,50 L90,78 L140,35 L190,70 L245,42 L300,75 L350,30 L400,60 L400,130 L0,130 Z' fill='%23b3b884'/%3E%3Cpath d='M0,100 L55,65 L110,95 L170,55 L230,92 L290,60 L340,98 L400,80 L400,130 L0,130 Z' fill='%236b7a3f'/%3E%3Cpath d='M0,130 C70,105 150,120 220,108 C300,96 350,112 400,105 L400,130 L0,130 Z' fill='%234d5a2a'/%3E%3Cg stroke='%23e3e6c9' stroke-width='2' stroke-linecap='round' fill='none'%3E%3Cpath d='M130,130 L130,108 M130,116 C124,116 122,112 122,108 M130,112 C136,112 138,108 138,104'/%3E%3C/g%3E%3Cg stroke='%23e3e6c9' stroke-width='1.6' stroke-linecap='round' fill='none'%3E%3Cpath d='M290,130 L290,112 M290,120 C286,120 284,117 284,114'/%3E%3C/g%3E%3C/svg%3E");
+
+	/* Joshua Tree NP: plum-to-terracotta-to-sand sunset sky (baked
+	   into the SVG itself via its own gradient, so it doesn't depend
+	   on the shared sky layer below), two Joshua trees, boulders */
+	--granola-joshua: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='150' viewBox='0 0 400 150'%3E%3Cdefs%3E%3ClinearGradient id='sky' x1='0' y1='0' x2='0' y2='1'%3E%3Cstop offset='0%25' stop-color='%238a7290'/%3E%3Cstop offset='45%25' stop-color='%23d99b6f'/%3E%3Cstop offset='100%25' stop-color='%23f2d9a0'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect x='0' y='0' width='400' height='150' fill='url(%23sky)'/%3E%3Ccircle cx='200' cy='118' r='22' fill='%23f2c26b' opacity='0.9'/%3E%3Cpath d='M0,140 C100,115 200,130 300,110 C350,100 380,118 400,108 L400,150 L0,150 Z' fill='%23d9b483'/%3E%3Cpath d='M0,150 C90,128 180,142 260,128 C330,118 370,132 400,126 L400,150 L0,150 Z' fill='%23b97b52'/%3E%3Cellipse cx='45' cy='134' rx='20' ry='12' fill='%23a06a4a'/%3E%3Cellipse cx='60' cy='140' rx='13' ry='8' fill='%238a5638'/%3E%3Cg stroke='%232e2416' stroke-linecap='round' fill='none'%3E%3Cpath d='M120,128 L120,78' stroke-width='7'/%3E%3Cpath d='M120,100 Q104,94 94,72' stroke-width='5'/%3E%3Cpath d='M120,88 Q138,82 150,64' stroke-width='5'/%3E%3Cpath d='M270,134 L270,108' stroke-width='5'/%3E%3Cpath d='M270,120 Q282,116 290,102' stroke-width='3.5'/%3E%3C/g%3E%3Cg stroke='%232e2416' stroke-width='1.8' stroke-linecap='round' fill='none'%3E%3Cpath d='M120,78 L112,68 M120,78 L116,62 M120,78 L122,60 M120,78 L128,63 M120,78 L131,70'/%3E%3Cpath d='M94,72 L86,64 M94,72 L90,58 M94,72 L96,56 M94,72 L102,60 M94,72 L104,68'/%3E%3Cpath d='M150,64 L142,56 M150,64 L146,50 M150,64 L152,48 M150,64 L158,52 M150,64 L160,60'/%3E%3Cpath d='M270,108 L265,101 M270,108 L268,96 M270,108 L272,95 M270,108 L276,98 M270,108 L278,103'/%3E%3Cpath d='M290,102 L285,95 M290,102 L288,90 M290,102 L292,89 M290,102 L296,92 M290,102 L298,97'/%3E%3C/g%3E%3C/svg%3E");
 
 	/* User-supplied empty-screen image. Drop a file literally named
 	   empty-bg.jpg (or empty-bg.png) next to this theme.css and pick
