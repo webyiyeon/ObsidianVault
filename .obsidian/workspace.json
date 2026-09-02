@@ -23,54 +23,8 @@
               "icon": "lucide-file",
               "title": "2026"
             }
-          },
-          {
-            "id": "3ddcbaa0c7afc4af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remoteBrain/Report/2026/09_September.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "09_September"
-            }
-          },
-          {
-            "id": "0a67248d8212977d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remoteBrain/99_InsightON/대한유화 SHE/보건 (2026-07-15).md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "보건 (2026-07-15)"
-            }
-          },
-          {
-            "id": "e0932ba6d9195450",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remoteBrain/Daily-Docs/2026/09_September/2026-09-02 Wed.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-09-02 Wed"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +49,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "파일 탐색기"
             }
           },
           {
@@ -119,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5386199951172,
-    "collapsed": true
+    "width": 271.5386199951172
   },
   "right": {
     "id": "e1f0c7632e67bdc4",
@@ -151,8 +104,8 @@
             "state": {
               "type": "custom-frames-perflexity",
               "state": {},
-              "icon": "lucide-bot-message-square",
-              "title": "Perflexity"
+              "icon": "lucide-ghost",
+              "title": "custom-frames-perflexity"
             }
           },
           {
@@ -161,8 +114,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -171,8 +124,8 @@
             "state": {
               "type": "planner-timeline",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
+              "icon": "lucide-ghost",
+              "title": "planner-timeline"
             }
           },
           {
@@ -181,8 +134,18 @@
             "state": {
               "type": "planner-time-tracker",
               "state": {},
-              "icon": "timer",
-              "title": "Time Tracker"
+              "icon": "lucide-ghost",
+              "title": "planner-time-tracker"
+            }
+          },
+          {
+            "id": "f1ec50987d8fc456",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
             }
           }
         ],
@@ -195,29 +158,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:빠른 전환기 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
       "obsidian42-brat:BRAT": false,
       "obsidian-custom-frames:Open Google Calendar": false,
       "obsidian-custom-frames:Open Perflexity": false,
-      "obsidian-day-and-night:Toggle Theme": false,
-      "homepage:Open homepage": false,
-      "metafolders:Metafolders": false,
-      "obsidian-git:Open Git source control": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
-      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-day-and-night:Toggle Theme": false,
       "obsidian-excalidraw-plugin:New drawing": false,
+      "homepage:Open homepage": false,
+      "metafolders:Metafolders": false,
+      "templater-obsidian:Templater": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "0a67248d8212977d",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "remoteBrain/99_InsightON/대한유화 SHE/보건 (2026-07-15).md",
     "remoteBrain/Daily-Docs/2026/09_September/2026-09-02 Wed.md",
     "Untitled.md",
-    "remoteBrain/99_InsightON/대한유화 SHE/보건 (2026-07-15).md",
     "remoteBrain/99_InsightON/대한유화 SHE/보건 (2026-07-23).md",
     "remoteBrain/99_InsightON/V3.md",
     "remoteBrain/99_InsightON/SK Chemicals/SK USHE.md",
