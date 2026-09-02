@@ -158,6 +158,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "periodic-notes:Open today": false,
       "switcher:빠른 전환기 열기": false,
       "canvas:새 캔버스 만들기": false,
       "command-palette:명령어 팔레트 열기": false,
@@ -172,12 +173,12 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "homepage:Open homepage": false,
       "metafolders:Metafolders": false,
-      "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "remoteBrain/Report/2026/06_June.md",
     "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/99_InsightON/대한유화 SHE/보건 (2026-07-15).md",
     "remoteBrain/Daily-Docs/2026/09_September/2026-09-02 Wed.md",
@@ -209,7 +210,6 @@
     "remoteBrain/_templater/Monthly.md.tmp.16356.5678f1e332a6",
     "remoteBrain/_templater/Daily.md.tmp.16356.60ba200dbbaf",
     "remoteBrain/99_InsightON/대한유화 SHE/PSM (2026-08-27).md",
-    "remoteBrain/99_InsightON/대한유화 SHE/2026-08-24 공통 협의.md",
     "remoteBrain/_templater/_disabled/importCalendars.js",
     "remoteBrain/_templater/_disabled",
     "remoteBrain/_templater/InsertCalendarEvents.md.tmp.16356.4186b0bbeac6",
