@@ -38,9 +38,24 @@
               "icon": "lucide-file",
               "title": "산업안전 - 교육 - 법정선임 (2026-09-02)"
             }
+          },
+          {
+            "id": "d82f981771e32b29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2026/09_September/2026-09-02 Wed.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-09-02 Wed"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,11 +197,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "878a511d077ae446",
+  "active": "d82f981771e32b29",
   "lastOpenFiles": [
-    "remoteBrain/99_InsightON/대한유화 SHE/산업안전 - 교육 (2026-08-19).md",
-    "remoteBrain/99_InsightON/대한유화 SHE/산업안전 - 교육 - 법정선임 (2026-09-02).md",
     "remoteBrain/Daily-Docs/2026/09_September/2026-09-03 Thu.md",
+    "Untitled.md",
+    "remoteBrain/99_InsightON/대한유화 SHE/산업안전 - 교육 - 법정선임 (2026-09-02).md",
+    "remoteBrain/99_InsightON/대한유화 SHE/산업안전 - 교육 (2026-08-19).md",
     "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/99_InsightON/대한유화 SHE/보건 (2026-07-15).md",
     "remoteBrain/Report/2026/06_June.md",
@@ -212,7 +228,6 @@
     "remoteBrain/Report/2026/04_April.md",
     "remoteBrain/Report/2026/03_March.md",
     "remoteBrain/Report/2026/08_August.md",
-    "remoteBrain/Daily-Docs/2026/08_August/2026-08-31 Mon.md",
     "remoteBrain/_templater/Monthly.md.tmp.16356.e156594b5344",
     "remoteBrain/_templater/Monthly.md.tmp.16356.5678f1e332a6",
     "remoteBrain/_templater/Daily.md.tmp.16356.60ba200dbbaf",
