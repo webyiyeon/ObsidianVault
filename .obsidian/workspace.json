@@ -23,8 +23,24 @@
               "icon": "lucide-file",
               "title": "2026"
             }
+          },
+          {
+            "id": "ab1f98b22444c9e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2026/09_September/2026-09-04 Fri.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-09-04 Fri"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,10 +182,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "ab1f98b22444c9e9",
   "lastOpenFiles": [
+    "remoteBrain/VisionBoard/2026.md",
+    "remoteBrain/Daily-Docs/2026/09_September/2026-09-04 Fri.md",
     "remoteBrain/Daily-Docs/2026/09_September/2026-09-03 Thu.md",
-    "Untitled.md",
     "remoteBrain/99_InsightON/대한유화 SHE/보건 (2026-07-15).md",
     "remoteBrain/99_InsightON/대한유화 SHE/PSM (2026-08-18).md",
     "remoteBrain/99_InsightON/대한유화 SHE/PSM (2026-08-27).md",
@@ -184,7 +201,6 @@
     "remoteBrain/99_InsightON/대한유화 SHE/산업안전 - 교육 (2026-08-19).md",
     "remoteBrain/99_InsightON/대한유화 SHE/보건 (2026-07-23).md",
     "remoteBrain/Daily-Docs/2026/09_September/2026-09-02 Wed.md",
-    "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/Report/2026/06_June.md",
     "remoteBrain/99_InsightON/V3.md",
     "remoteBrain/99_InsightON/SK Chemicals/SK USHE.md",
