@@ -23,8 +23,24 @@
               "icon": "lucide-file",
               "title": "2026"
             }
+          },
+          {
+            "id": "e57372e40ea71be5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/DDR/POS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "POS"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,8 +182,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e57372e40ea71be5",
   "lastOpenFiles": [
+    "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/99_InsightON/대한유화 SHE/2026-09-04 디자인 회의.md",
     "remoteBrain/99_InsightON/대한유화 SHE/2026-08-24 공통 협의.md",
     "remoteBrain/99_InsightON/대한유화 SHE/2026-08-25 To Do List.md",
@@ -175,7 +192,6 @@
     "Untitled.md",
     "remoteBrain/99_InsightON/대한유화 SHE/산업안전 - 교육 - 법정선임 (2026-09-02).md",
     "remoteBrain/Daily-Docs/2026/09_September/2026-09-03 Thu.md",
-    "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/99_InsightON/대한유화 SHE/보건 (2026-07-15).md",
     "remoteBrain/99_InsightON/대한유화 SHE/PSM (2026-08-18).md",
     "remoteBrain/99_InsightON/대한유화 SHE/PSM (2026-08-27).md",
