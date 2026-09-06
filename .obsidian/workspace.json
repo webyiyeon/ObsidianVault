@@ -23,39 +23,8 @@
               "icon": "lucide-file",
               "title": "2026"
             }
-          },
-          {
-            "id": "ab1f98b22444c9e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remoteBrain/99_InsightON/대한유화 SHE/산업안전 - 교육 - 법정선임 (2026-09-02).md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "산업안전 - 교육 - 법정선임 (2026-09-02)"
-            }
-          },
-          {
-            "id": "5055fcf1dee03743",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remoteBrain/99_InsightON/대한유화 SHE/2026-09-04 디자인 회의.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-09-04 디자인 회의"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +49,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "파일 탐색기"
             }
           },
           {
@@ -179,10 +148,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:빠른 전환기 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
       "obsidian42-brat:BRAT": false,
       "obsidian-custom-frames:Open Google Calendar": false,
       "obsidian-custom-frames:Open Perflexity": false,
@@ -197,10 +166,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5055fcf1dee03743",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "remoteBrain/99_InsightON/대한유화 SHE/2026-08-24 공통 협의.md",
     "remoteBrain/99_InsightON/대한유화 SHE/2026-09-04 디자인 회의.md",
+    "remoteBrain/99_InsightON/대한유화 SHE/2026-08-24 공통 협의.md",
     "remoteBrain/99_InsightON/대한유화 SHE/2026-08-25 To Do List.md",
     "remoteBrain/Daily-Docs/2026/09_September/2026-09-04 Fri.md",
     "Untitled.md",
