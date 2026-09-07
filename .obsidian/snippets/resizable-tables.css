@@ -1,0 +1,28 @@
+/* 표(table) 열 너비를 마우스로 드래그해서 조절할 수 있게 해주는 스니펫
+   - 리딩 뷰(Reading view)와 라이브 프리뷰(Live Preview) 양쪽에 적용됨
+   - 셀 오른쪽 아래 모서리를 드래그하면 그 열 너비가 조절됩니다 */
+
+.markdown-preview-view table,
+.markdown-source-view table,
+.markdown-rendered table {
+  table-layout: fixed;
+}
+
+.markdown-preview-view th,
+.markdown-preview-view td,
+.markdown-source-view th,
+.markdown-source-view td,
+.markdown-rendered th,
+.markdown-rendered td {
+  resize: horizontal;
+  overflow: auto;
+  white-space: normal;
+  min-width: 40px;
+}
+
+/* 표 전체를 가로 스크롤 가능하게 감싸서, 열을 넓혀도 화면 밖으로 안 잘리게 함 */
+.markdown-preview-view table,
+.markdown-rendered table {
+  display: block;
+  overflow-x: auto;
+}
