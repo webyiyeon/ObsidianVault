@@ -4,7 +4,8 @@
   "enabledCssSnippets": [
     "walktogether",
     "walktogether-font",
-    "google-calendar-muted"
+    "google-calendar-muted",
+    "resizable-tables"
   ],
   "baseFontSizeAction": true,
   "baseFontSize": 16,

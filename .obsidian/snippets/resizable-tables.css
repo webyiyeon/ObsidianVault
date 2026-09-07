@@ -20,6 +20,28 @@
   min-width: 40px;
 }
 
+/* 못생긴 기본 리사이즈 삼각형 아이콘 제거 */
+.markdown-preview-view th::-webkit-resizer,
+.markdown-preview-view td::-webkit-resizer,
+.markdown-source-view th::-webkit-resizer,
+.markdown-source-view td::-webkit-resizer,
+.markdown-rendered th::-webkit-resizer,
+.markdown-rendered td::-webkit-resizer {
+  background-color: transparent;
+}
+
+/* 셀에 마우스를 올렸을 때만 은은한 손잡이 표시 */
+.markdown-preview-view th:hover::-webkit-resizer,
+.markdown-preview-view td:hover::-webkit-resizer,
+.markdown-source-view th:hover::-webkit-resizer,
+.markdown-source-view td:hover::-webkit-resizer,
+.markdown-rendered th:hover::-webkit-resizer,
+.markdown-rendered td:hover::-webkit-resizer {
+  background-color: var(--text-faint);
+  opacity: 0.5;
+  border-radius: 2px 0 2px 0;
+}
+
 /* 표 전체를 가로 스크롤 가능하게 감싸서, 열을 넓혀도 화면 밖으로 안 잘리게 함 */
 .markdown-preview-view table,
 .markdown-rendered table {
