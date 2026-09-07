@@ -106,9 +106,9 @@
   "workspace:next-tab": [
     {
       "modifiers": [
-        "Ctrl"
+        "Mod"
       ],
-      "key": "PageDown"
+      "key": "Tab"
     }
   ],
   "periodic-notes:open-yearly-note": [
