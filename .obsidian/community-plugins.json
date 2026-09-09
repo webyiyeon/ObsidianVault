@@ -13,7 +13,6 @@
   "google-calendar",
   "mousewheel-image-zoom",
   "ics",
-  "text-snippets-obsidian",
   "obsidian-day-and-night",
   "obsidian-excalidraw-plugin",
   "homepage",
@@ -24,5 +23,6 @@
   "execute-code",
   "templater-obsidian",
   "periodic-notes",
-  "obsidian-html-plugin"
+  "obsidian-html-plugin",
+  "obsidian-latex-suite"
 ]
