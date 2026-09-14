@@ -1,0 +1,10 @@
+@media print {
+  .markdown-rendered hr {
+    visibility: hidden;
+    height: 0;
+    margin: 0;
+    border: 0;
+    break-after: page;
+    page-break-after: always;
+  }
+}
