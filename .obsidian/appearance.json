@@ -5,7 +5,8 @@
     "walktogether",
     "walktogether-font",
     "google-calendar-muted",
-    "resizable-tables"
+    "resizable-tables",
+    "print-page-break"
   ],
   "baseFontSizeAction": true,
   "baseFontSize": 16,

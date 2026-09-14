@@ -23,24 +23,8 @@
               "icon": "lucide-file",
               "title": "2026"
             }
-          },
-          {
-            "id": "26f6b85987b9b713",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remoteBrain/02_UNIST/20260914 고급전자회로 설계 및 디스플레이 기술 특론 과제 샘플 (20255178_박이연).md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "20260914 고급전자회로 설계 및 디스플레이 기술 특론 과제 샘플 (20255178_박이연)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,7 +147,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "periodic-notes:Open today": false,
       "switcher:빠른 전환기 열기": false,
       "canvas:새 캔버스 만들기": false,
       "command-palette:명령어 팔레트 열기": false,
@@ -178,14 +161,15 @@
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "26f6b85987b9b713",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/Images/Pasted image 20260914231721.png",
     "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/02_UNIST/20260914 고급전자회로 설계 및 디스플레이 기술 특론 과제 샘플 (20255178_박이연).md",
+    "remoteBrain/Daily-Docs/Images/Pasted image 20260914231721.png",
     "remoteBrain/Daily-Docs/2026/09_September/2026-09-14 Mon.md",
     "remoteBrain/99_InsightON/대한유화 SHE/보건 (2026-07-23).md",
     "remoteBrain/99_InsightON/대한유화 SHE/보건 (2026-07-15).md",
@@ -227,7 +211,6 @@
     "remoteBrain/Daily-Docs/Images/Pasted image 20260423174342.png",
     "remoteBrain/Daily-Docs/Images/Pasted image 20260423174334.png",
     "remoteBrain/Daily-Docs/Images/이미지 (9).png",
-    "remoteBrain/Daily-Docs/Images/이미지 (1).jpg",
-    "remoteBrain/_templater/Animal Crossing/패치_노랑.gif"
+    "remoteBrain/Daily-Docs/Images/이미지 (1).jpg"
   ]
 }
