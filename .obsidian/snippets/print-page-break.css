@@ -1,10 +1,18 @@
 @media print {
+  .markdown-preview-view hr,
   .markdown-rendered hr {
-    visibility: hidden;
-    height: 0;
+    display: block;
+    height: 1px;
     margin: 0;
     border: 0;
+    opacity: 0;
     break-after: page;
     page-break-after: always;
+  }
+
+  .markdown-preview-view hr + *,
+  .markdown-rendered hr + * {
+    break-before: page;
+    page-break-before: always;
   }
 }
