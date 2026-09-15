@@ -10,8 +10,8 @@
   "newlineSymbol": "$nl$",
   "stopSymbol": "$tb$",
   "pasteSymbol": "$pst$",
-  "useTab": true,
-  "useSpace": false,
+  "useTab": false,
+  "useSpace": true,
   "wordDelimiters": "",
   "isWYSIWYG": true
 }
