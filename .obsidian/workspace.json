@@ -147,7 +147,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "periodic-notes:Open today": false,
       "switcher:빠른 전환기 열기": false,
       "canvas:새 캔버스 만들기": false,
       "command-palette:명령어 팔레트 열기": false,
@@ -162,14 +161,15 @@
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/Daily-Docs/2026/09_September/2026-09-15 Tue.md",
     "Untitled.md",
-    "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/Daily-Docs/2026/09_September/2026-09-14 Mon.md",
     "remoteBrain/Daily-Docs/Images/Pasted image 20260914231721.png",
     "remoteBrain/02_UNIST/20260914 고급전자회로 설계 및 디스플레이 기술 특론 과제 (20255178_박이연).md",
