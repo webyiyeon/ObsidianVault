@@ -1,0 +1,505 @@
+/* =========================================================
+   Win98 x Y2K x Pixel x Bubble — Tistory Skin
+   ---------------------------------------------------------
+   이미지/아이콘은 직접 준비하신다고 하셔서, 배경·프로필·로고
+   자리에는 "여기에 이미지를 넣으세요" 주석을 남겨뒀습니다.
+   교체할 땐 해당 selector 의 background-image 나
+   img 태그의 src 만 바꾸면 됩니다.
+   ========================================================= */
+
+@import url("https://cdn.jsdelivr.net/npm/galmuri/dist/galmuri.css");
+
+:root{
+  /* Win98 grayscale */
+  --win-face:      #c0c0c0;
+  --win-face-lt:   #dfdfdf;
+  --win-shadow:    #808080;
+  --win-shadow-dk: #404040;
+  --win-white:     #ffffff;
+
+  /* Y2K candy accents */
+  --y2k-pink:   #ff6ec7;
+  --y2k-purple: #b967ff;
+  --y2k-cyan:   #00e5ff;
+  --y2k-lime:   #ccff00;
+  --y2k-yellow: #fff45c;
+  --y2k-navy:   #000080;
+
+  --font-pixel-head: "Galmuri11", "Dotum", sans-serif;
+  --font-pixel-body: "Galmuri9", "Dotum", sans-serif;
+
+  --radius-bubble: 999px;
+  --content-width: 680px;
+  --sidebar-width: 260px;
+}
+
+*{ box-sizing:border-box; }
+
+html,body{
+  margin:0; padding:0;
+  font-family: var(--font-pixel-body);
+  font-size: 13px;
+  line-height: 1.7;
+  color:#222;
+}
+
+body{
+  /* ===== 데스크톱 배경: 원하는 배경 이미지가 있으면
+     background-image: url('images/wallpaper.png'); 로 교체하세요 ===== */
+  background:
+    radial-gradient(circle at 12% 18%, rgba(255,255,255,.55) 0%, rgba(255,255,255,0) 4%),
+    radial-gradient(circle at 82% 12%, rgba(255,255,255,.4) 0%, rgba(255,255,255,0) 5%),
+    radial-gradient(circle at 90% 70%, rgba(255,255,255,.45) 0%, rgba(255,255,255,0) 4%),
+    radial-gradient(circle at 25% 85%, rgba(255,255,255,.35) 0%, rgba(255,255,255,0) 5%),
+    radial-gradient(circle at 60% 45%, rgba(255,255,255,.25) 0%, rgba(255,255,255,0) 6%),
+    linear-gradient(135deg, #6fe3ff 0%, #b967ff 55%, #ff8fd6 100%);
+  background-attachment: fixed;
+  min-height: 100vh;
+}
+
+a{ color:#0000ee; text-decoration:none; }
+a:hover{ text-decoration:underline; }
+img{ max-width:100%; display:block; }
+
+::-webkit-scrollbar{ width:16px; height:16px; }
+::-webkit-scrollbar-track{ background:var(--win-face); }
+::-webkit-scrollbar-thumb{
+  background:var(--win-face);
+  border:2px outset var(--win-face);
+}
+::-webkit-scrollbar-button{
+  background:var(--win-face);
+  border:2px outset var(--win-face);
+}
+
+/* =========================================================
+   레이아웃
+   ========================================================= */
+.desktop{
+  max-width: 980px;
+  margin: 24px auto;
+  padding: 0 16px;
+}
+
+.desktop-main{
+  display:flex;
+  gap:20px;
+  align-items:flex-start;
+}
+
+.main-col{
+  flex: 1 1 auto;
+  min-width: 0;
+  max-width: var(--content-width);
+}
+
+.sidebar{
+  flex: 0 0 var(--sidebar-width);
+  width: var(--sidebar-width);
+}
+
+@media (max-width: 780px){
+  .desktop-main{ flex-direction:column; }
+  .sidebar{ width:100%; flex-basis:auto; }
+  .main-col{ max-width:100%; }
+}
+
+/* =========================================================
+   Win98 창(window) 공통 컴포넌트
+   ========================================================= */
+.win{
+  background: var(--win-face);
+  border: 2px outset var(--win-face);
+  box-shadow: 4px 4px 0 rgba(0,0,0,.25);
+  margin-bottom: 18px;
+}
+
+.win-title{
+  background: linear-gradient(90deg, var(--y2k-navy) 0%, var(--y2k-purple) 55%, var(--y2k-pink) 100%);
+  color:#fff;
+  font-family: var(--font-pixel-head);
+  font-size: 12px;
+  letter-spacing:.5px;
+  padding: 5px 6px;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:8px;
+  white-space:nowrap;
+  overflow:hidden;
+}
+
+.win-title-text{
+  overflow:hidden;
+  text-overflow:ellipsis;
+  white-space:nowrap;
+}
+
+.win-controls{ display:flex; gap:3px; flex:0 0 auto; }
+.win-btn{
+  width:16px; height:14px;
+  background: var(--win-face);
+  border: 1px outset var(--win-face);
+  font-size:9px; line-height:14px;
+  text-align:center; color:#000;
+  font-family: var(--font-pixel-head);
+  user-select:none;
+}
+
+.win-body{
+  background:#fff;
+  padding: 14px;
+  font-family: var(--font-pixel-body);
+}
+
+/* =========================================================
+   버블 버튼 / 뱃지
+   ========================================================= */
+.bubble-btn{
+  display:inline-block;
+  padding: 6px 16px;
+  border-radius: var(--radius-bubble);
+  background: linear-gradient(180deg, rgba(255,255,255,.95) 0%, var(--y2k-cyan) 45%, #0091b8 100%);
+  border: 1px solid rgba(255,255,255,.7);
+  box-shadow: 0 2px 5px rgba(0,0,0,.3), inset 0 1px 3px rgba(255,255,255,.9);
+  color:#00323d;
+  font-family: var(--font-pixel-head);
+  font-size: 11px;
+  text-decoration:none;
+  cursor:pointer;
+}
+.bubble-btn:hover{ filter:brightness(1.08); text-decoration:none; }
+.bubble-btn:active{ transform: translateY(1px); }
+
+.meta-badge{
+  display:inline-block;
+  padding: 2px 10px;
+  border-radius: var(--radius-bubble);
+  background: linear-gradient(180deg, #fff 0%, var(--y2k-pink) 60%, #d63f9a 100%);
+  color:#3a0021;
+  font-family: var(--font-pixel-head);
+  font-size: 10px;
+  text-decoration:none;
+}
+
+/* =========================================================
+   상단 헤더(타이틀바 + 메뉴바)
+   ========================================================= */
+.topbar-body{ padding: 16px; }
+
+.blog-brand{
+  display:flex;
+  align-items:center;
+  gap:14px;
+  margin-bottom: 12px;
+}
+
+.blog-logo-frame{
+  /* ===== 로고/아이콘 이미지를 여기에 넣으세요 (48x48 권장) =====
+     예: <img src="images/logo.png" alt="logo">
+     지금은 빈 픽셀 프레임만 준비되어 있습니다. */
+  width:48px; height:48px;
+  flex: 0 0 auto;
+  background: var(--win-face-lt);
+  border: 2px inset var(--win-face);
+  display:flex; align-items:center; justify-content:center;
+  font-family: var(--font-pixel-head);
+  font-size:9px;
+  color:var(--win-shadow-dk);
+  text-align:center;
+}
+
+.blog-titles{ min-width:0; }
+
+.blog-title{
+  margin:0;
+  font-family: var(--font-pixel-head);
+  font-size: 20px;
+  line-height:1.3;
+}
+.blog-title a{ color:#000; }
+
+.blog-desc{
+  margin: 4px 0 0;
+  font-size: 12px;
+  color:#444;
+}
+
+.menu-bar{
+  display:flex;
+  flex-wrap:wrap;
+  gap:6px;
+  background: var(--win-face-lt);
+  border: 2px inset var(--win-face);
+  padding: 6px;
+}
+
+.menu-bar a,
+.menu-item{
+  display:inline-block;
+  padding: 4px 10px;
+  background: var(--win-face);
+  border: 1px outset var(--win-face);
+  font-family: var(--font-pixel-head);
+  font-size: 11px;
+  color:#000;
+  text-decoration:none;
+}
+.menu-bar a:hover,
+.menu-item:hover{
+  border-style: inset;
+  background: var(--y2k-yellow);
+}
+
+/* =========================================================
+   글 목록 / 본문 (s_article_rep)
+   ========================================================= */
+.post-window .win-title-text{ font-size:12px; }
+
+.post-meta{
+  display:flex;
+  align-items:center;
+  gap:8px;
+  flex-wrap:wrap;
+  margin-bottom: 10px;
+  font-size: 11px;
+  color:#555;
+}
+
+.meta-date{ font-family: var(--font-pixel-body); }
+.meta-comments{ font-family: var(--font-pixel-body); }
+
+.post-thumb-link{ display:block; margin-bottom:10px; }
+
+.pixel-frame{
+  border: 3px solid var(--win-face);
+  outline: 2px solid var(--win-shadow-dk);
+  outline-offset: -1px;
+  image-rendering: pixelated;
+}
+
+.post-summary{ margin: 0 0 12px; color:#333; }
+
+.post-content{
+  font-size: 14px;
+  line-height: 1.85;
+}
+.post-content img{
+  border: 3px solid var(--win-face);
+  outline: 2px solid var(--win-shadow-dk);
+  outline-offset: -1px;
+  margin: 10px 0;
+}
+
+.tag-label{
+  margin-top: 16px;
+  padding-top: 12px;
+  border-top: 2px dashed var(--win-shadow);
+  font-size: 12px;
+}
+.tag-label-title{
+  font-family: var(--font-pixel-head);
+  color: var(--y2k-purple);
+  margin-right: 6px;
+}
+.tag-label a{
+  display:inline-block;
+  margin: 2px 4px 2px 0;
+  padding: 2px 10px;
+  border-radius: var(--radius-bubble);
+  background: var(--y2k-cyan);
+  color:#00323d;
+  font-size: 11px;
+}
+
+.prev-next{
+  display:flex;
+  justify-content:space-between;
+  gap:10px;
+  margin-top: 16px;
+}
+.prev-next-item{
+  flex:1 1 0;
+  padding: 8px 10px;
+  background: var(--win-face-lt);
+  border: 2px outset var(--win-face);
+  font-size: 12px;
+  color:#000;
+}
+.prev-next-item.next{ text-align:right; }
+
+.related-window .win-body{ padding: 10px 14px; }
+.related-list{ list-style:none; margin:0; padding:0; }
+.related-list li{ padding: 4px 0; border-bottom: 1px dotted var(--win-shadow); font-size:12px; }
+.related-list li:last-child{ border-bottom:none; }
+
+/* =========================================================
+   카테고리 / 검색 / 태그 리스트 페이지 (s_list)
+   ========================================================= */
+.list-desc{ font-size:12px; color:#555; margin-top:0; }
+.empty-msg{
+  text-align:center;
+  padding: 30px 0;
+  font-family: var(--font-pixel-head);
+  color: var(--y2k-purple);
+}
+.list-items{ list-style:none; margin:0; padding:0; }
+.list-item{
+  display:flex;
+  gap:10px;
+  padding: 10px 0;
+  border-bottom: 1px dashed var(--win-shadow);
+}
+.list-item:last-child{ border-bottom:none; }
+.list-thumb{ width:72px; height:72px; object-fit:cover; flex:0 0 auto; }
+.list-item-body{ min-width:0; }
+.list-date{ font-size:10px; color:#888; }
+.list-title{ display:block; font-family: var(--font-pixel-head); font-size:12px; margin: 2px 0 4px; }
+.list-summary{ margin:0; font-size:12px; color:#555; }
+
+/* =========================================================
+   페이징
+   ========================================================= */
+.paging-body{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  gap:10px;
+  padding: 12px;
+}
+.paging-nums{ display:flex; gap:4px; }
+.page-num{
+  display:inline-block;
+  min-width:22px;
+  text-align:center;
+  padding: 4px 6px;
+  background: var(--win-face);
+  border: 1px outset var(--win-face);
+  font-family: var(--font-pixel-head);
+  font-size: 11px;
+  color:#000;
+}
+.page-num:hover{ border-style:inset; background: var(--y2k-yellow); }
+.no_more_prev, .no_more_next{ visibility:hidden; }
+
+/* =========================================================
+   댓글
+   ========================================================= */
+.comment-window .win-body{ padding: 14px; }
+
+/* =========================================================
+   사이드바 위젯 공통
+   ========================================================= */
+.sidebar .win-body{ padding: 12px; font-size:12px; }
+
+.profile-photo-frame{
+  /* ===== 프로필 이미지를 여기에 넣으세요 =====
+     [##_blog_image_##] 치환자가 자동으로 <img> 를 그려줍니다.
+     직접 이미지를 쓰려면 이 블록 안의 img 태그 크기만 조정하세요. */
+  width: 88px; height: 88px;
+  margin: 0 auto 10px;
+  background: var(--win-face-lt);
+  border: 2px inset var(--win-face);
+  overflow:hidden;
+  display:flex; align-items:center; justify-content:center;
+}
+.profile-photo-frame img{ width:100%; height:100%; object-fit:cover; }
+
+.profile-body{ text-align:center; }
+.profile-blogger{
+  font-family: var(--font-pixel-head);
+  color: var(--y2k-purple);
+  margin: 0 0 6px;
+}
+.profile-desc{ margin:0; color:#555; }
+
+.search-box{ display:flex; gap:6px; }
+.search-input{
+  flex:1 1 auto;
+  min-width:0;
+  padding: 6px 8px;
+  border: 2px inset var(--win-face);
+  font-family: var(--font-pixel-body);
+  font-size: 12px;
+}
+.search-submit{ flex:0 0 auto; padding: 6px 12px; }
+
+.category-body :where(ul){ list-style:none; margin:0; padding-left:2px; }
+.category-body :where(li){ padding: 3px 0; }
+.category-body a{ font-size:12px; }
+
+.recent-list{ list-style:none; margin:0; padding:0; }
+.recent-list li{
+  display:flex; align-items:center; gap:8px;
+  padding: 6px 0;
+  border-bottom: 1px dotted var(--win-shadow);
+}
+.recent-list li:last-child{ border-bottom:none; }
+.recent-thumb{ width:32px; height:32px; object-fit:cover; flex:0 0 auto; }
+.recent-list a{ font-size:12px; flex:1 1 auto; min-width:0; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+.recent-date{ font-size:10px; color:#999; flex:0 0 auto; }
+
+.tag-body{ display:flex; flex-wrap:wrap; gap:6px; }
+.tag-bubble{
+  display:inline-block;
+  padding: 3px 10px;
+  border-radius: var(--radius-bubble);
+  color:#fff;
+  font-size: 11px;
+  text-decoration:none;
+}
+.tag-bubble.cloud1{ background: var(--y2k-navy); font-size:13px; padding:5px 14px; }
+.tag-bubble.cloud2{ background: var(--y2k-purple); font-size:12px; padding:4px 12px; }
+.tag-bubble.cloud3{ background: var(--y2k-pink); color:#3a0021; }
+.tag-bubble.cloud4{ background: var(--y2k-cyan); color:#00323d; }
+.tag-bubble.cloud5{ background: var(--win-face); color:#000; border:1px outset var(--win-face); }
+
+.counter-body{ text-align:center; }
+.counter-lcd{
+  background: #0b2e0b;
+  color: var(--y2k-lime);
+  font-family: var(--font-pixel-head);
+  font-size: 16px;
+  letter-spacing: 2px;
+  padding: 8px;
+  border: 2px inset var(--win-face);
+  margin-bottom: 8px;
+}
+.counter-label{ font-size:9px; margin-right:8px; opacity:.8; }
+.counter-row{
+  display:flex; justify-content:space-between;
+  font-size: 10px; color:#555;
+}
+
+/* =========================================================
+   하단 태스크바
+   ========================================================= */
+.taskbar{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  margin-top: 20px;
+  padding: 6px 10px;
+  background: var(--win-face);
+  border: 2px outset var(--win-face);
+  box-shadow: 4px 4px 0 rgba(0,0,0,.25);
+}
+.start-btn{
+  display:inline-flex;
+  align-items:center;
+  gap:6px;
+  padding: 5px 14px;
+  background: linear-gradient(180deg, var(--y2k-lime), #7fa300);
+  border: 1px outset var(--win-face);
+  font-family: var(--font-pixel-head);
+  font-size: 12px;
+  color:#0d2200;
+}
+.taskbar-clock{
+  background:#0b2e0b;
+  color: var(--y2k-lime);
+  font-family: var(--font-pixel-head);
+  font-size: 12px;
+  padding: 5px 10px;
+  border: 2px inset var(--win-face);
+}
