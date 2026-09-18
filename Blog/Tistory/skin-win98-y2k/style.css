@@ -1,6 +1,9 @@
 /* =========================================================
-   Win98 x Y2K x Pixel x Bubble — Tistory Skin
+   Aqua Glass x Y2K x Pixel x Bubble — Tistory Skin
    ---------------------------------------------------------
+   레퍼런스: Windows XP 시절 아쿠아리움 스크린세이버 UI
+   (둥근 창틀, 유리 광택 타이틀바, 물방울, 재생바 스타일 하단바)
+
    이미지/아이콘은 직접 준비하신다고 하셔서, 배경·프로필·로고
    자리에는 "여기에 이미지를 넣으세요" 주석을 남겨뒀습니다.
    교체할 땐 해당 selector 의 background-image 나
@@ -10,12 +13,15 @@
 @import url("https://cdn.jsdelivr.net/npm/galmuri/dist/galmuri.css");
 
 :root{
-  /* Win98 grayscale */
-  --win-face:      #c0c0c0;
-  --win-face-lt:   #dfdfdf;
-  --win-shadow:    #808080;
-  --win-shadow-dk: #404040;
-  --win-white:     #ffffff;
+  /* 유리(glass) 톤 — 창틀/패널 */
+  --glass-1: #eaf8ff;
+  --glass-2: #bfe6ff;
+  --glass-3: #7ecbf5;
+  --glass-4: #2f8fd1;
+  --glass-deep: #0b3d63;
+  --line: #bfe0f2;
+  --ink: #14324a;
+  --ink-soft: #3c6079;
 
   /* Y2K 하늘색 x 초록색 accents */
   --y2k-sky:    #4fc3f7;
@@ -23,11 +29,13 @@
   --y2k-green:  #5cd65c;
   --y2k-mint:   #c6ff4d;
   --y2k-lime:   #ccff00;
-  --y2k-navy:   #000080;
+  --y2k-navy:   #063a63;
 
   --font-pixel-head: "Galmuri11", "Dotum", sans-serif;
   --font-pixel-body: "Galmuri9", "Dotum", sans-serif;
 
+  --radius-window: 16px;
+  --radius-chip: 10px;
   --radius-bubble: 999px;
   --content-width: 680px;
   --sidebar-width: 260px;
@@ -40,36 +48,34 @@ html,body{
   font-family: var(--font-pixel-body);
   font-size: 13px;
   line-height: 1.7;
-  color:#222;
+  color: var(--ink);
 }
 
 body{
-  /* ===== 데스크톱 배경: 원하는 배경 이미지가 있으면
+  /* ===== 데스크톱(물속) 배경: 원하는 배경 이미지가 있으면
      background-image: url('images/wallpaper.png'); 로 교체하세요 ===== */
   background:
-    radial-gradient(circle at 12% 18%, rgba(255,255,255,.55) 0%, rgba(255,255,255,0) 4%),
-    radial-gradient(circle at 82% 12%, rgba(255,255,255,.4) 0%, rgba(255,255,255,0) 5%),
-    radial-gradient(circle at 90% 70%, rgba(255,255,255,.45) 0%, rgba(255,255,255,0) 4%),
-    radial-gradient(circle at 25% 85%, rgba(255,255,255,.35) 0%, rgba(255,255,255,0) 5%),
-    radial-gradient(circle at 60% 45%, rgba(255,255,255,.25) 0%, rgba(255,255,255,0) 6%),
-    linear-gradient(135deg, #8fe3ff 0%, #4fc3f7 45%, #5cd65c 100%);
+    radial-gradient(circle at 10% 15%, rgba(255,255,255,.6) 0%, rgba(255,255,255,0) 3.5%),
+    radial-gradient(circle at 80% 8%,  rgba(255,255,255,.5) 0%, rgba(255,255,255,0) 3%),
+    radial-gradient(circle at 92% 60%, rgba(255,255,255,.5) 0%, rgba(255,255,255,0) 4%),
+    radial-gradient(circle at 30% 92%, rgba(255,255,255,.4) 0%, rgba(255,255,255,0) 4%),
+    radial-gradient(circle at 65% 45%, rgba(255,255,255,.3) 0%, rgba(255,255,255,0) 5%),
+    radial-gradient(circle at 45% 75%, rgba(255,255,255,.35) 0%, rgba(255,255,255,0) 3%),
+    linear-gradient(180deg, #d9f5ff 0%, #7ecbf5 35%, #2f8fd1 70%, #0b3d63 100%);
   background-attachment: fixed;
   min-height: 100vh;
 }
 
-a{ color:#0000ee; text-decoration:none; }
+a{ color: var(--glass-4); text-decoration:none; }
 a:hover{ text-decoration:underline; }
 img{ max-width:100%; display:block; }
 
-::-webkit-scrollbar{ width:16px; height:16px; }
-::-webkit-scrollbar-track{ background:var(--win-face); }
+::-webkit-scrollbar{ width:14px; height:14px; }
+::-webkit-scrollbar-track{ background: var(--glass-1); }
 ::-webkit-scrollbar-thumb{
-  background:var(--win-face);
-  border:2px outset var(--win-face);
-}
-::-webkit-scrollbar-button{
-  background:var(--win-face);
-  border:2px outset var(--win-face);
+  background: linear-gradient(180deg, var(--glass-3), var(--glass-4));
+  border-radius: var(--radius-bubble);
+  border: 2px solid var(--glass-1);
 }
 
 /* =========================================================
@@ -105,49 +111,61 @@ img{ max-width:100%; display:block; }
 }
 
 /* =========================================================
-   Win98 창(window) 공통 컴포넌트
+   유리창(window) 공통 컴포넌트
    ========================================================= */
 .win{
-  background: var(--win-face);
-  border: 2px outset var(--win-face);
-  box-shadow: 4px 4px 0 rgba(0,0,0,.25);
-  margin-bottom: 18px;
+  background: linear-gradient(180deg, #ffffff 0%, #eaf6ff 100%);
+  border-radius: var(--radius-window);
+  border: 2px solid #ffffff;
+  box-shadow: 0 0 0 1px rgba(11,61,99,.45), 0 10px 22px rgba(6,40,70,.22);
+  overflow: hidden;
+  margin-bottom: 20px;
 }
 
 .win-title{
-  background: linear-gradient(90deg, var(--y2k-navy) 0%, var(--y2k-teal) 55%, var(--y2k-green) 100%);
+  position: relative;
+  background: linear-gradient(180deg, #8fd6ff 0%, #2f8fd1 55%, #0b3d63 100%);
   color:#fff;
   font-family: var(--font-pixel-head);
   font-size: 12px;
   letter-spacing:.5px;
-  padding: 5px 6px;
+  padding: 7px 10px;
   display:flex;
   align-items:center;
   justify-content:space-between;
   gap:8px;
   white-space:nowrap;
   overflow:hidden;
+  text-shadow: 0 1px 1px rgba(0,20,40,.35);
+}
+.win-title::after{
+  /* 유리 광택 하이라이트 */
+  content:"";
+  position:absolute; left:0; right:0; top:0; height:55%;
+  background: linear-gradient(180deg, rgba(255,255,255,.65), rgba(255,255,255,0));
+  pointer-events:none;
 }
 
 .win-title-text{
+  position:relative; z-index:1;
   overflow:hidden;
   text-overflow:ellipsis;
   white-space:nowrap;
 }
 
-.win-controls{ display:flex; gap:3px; flex:0 0 auto; }
+.win-controls{ position:relative; z-index:1; display:flex; gap:5px; flex:0 0 auto; }
 .win-btn{
-  width:16px; height:14px;
-  background: var(--win-face);
-  border: 1px outset var(--win-face);
-  font-size:9px; line-height:14px;
-  text-align:center; color:#000;
-  font-family: var(--font-pixel-head);
+  width:14px; height:14px;
+  border-radius:50%;
+  background: radial-gradient(circle at 35% 30%, #ffffff 0%, #bfe6ff 45%, #3fa0dd 100%);
+  border: 1px solid rgba(255,255,255,.9);
+  box-shadow: 0 1px 2px rgba(0,20,40,.4);
+  font-size:0;
   user-select:none;
 }
 
 .win-body{
-  background:#fff;
+  background: linear-gradient(180deg, #ffffff 0%, #f4fbff 100%);
   padding: 14px;
   font-family: var(--font-pixel-body);
 }
@@ -157,11 +175,11 @@ img{ max-width:100%; display:block; }
    ========================================================= */
 .bubble-btn{
   display:inline-block;
-  padding: 6px 16px;
+  padding: 7px 18px;
   border-radius: var(--radius-bubble);
   background: linear-gradient(180deg, rgba(255,255,255,.95) 0%, var(--y2k-sky) 45%, #0091b8 100%);
-  border: 1px solid rgba(255,255,255,.7);
-  box-shadow: 0 2px 5px rgba(0,0,0,.3), inset 0 1px 3px rgba(255,255,255,.9);
+  border: 1px solid rgba(255,255,255,.8);
+  box-shadow: 0 3px 6px rgba(6,40,70,.3), inset 0 1px 3px rgba(255,255,255,.9);
   color:#00323d;
   font-family: var(--font-pixel-head);
   font-size: 11px;
@@ -185,6 +203,15 @@ img{ max-width:100%; display:block; }
 /* =========================================================
    상단 헤더(타이틀바 + 메뉴바)
    ========================================================= */
+.topbar-window .win-title{
+  padding: 10px 12px;
+  background:
+    radial-gradient(circle at 20% 70%, rgba(255,255,255,.55) 0%, rgba(255,255,255,0) 3%),
+    radial-gradient(circle at 60% 30%, rgba(255,255,255,.45) 0%, rgba(255,255,255,0) 2.5%),
+    radial-gradient(circle at 85% 65%, rgba(255,255,255,.4) 0%, rgba(255,255,255,0) 2%),
+    linear-gradient(180deg, #8fd6ff 0%, #2f8fd1 55%, #0b3d63 100%);
+}
+
 .topbar-body{ padding: 16px; }
 
 .blog-brand{
@@ -197,15 +224,17 @@ img{ max-width:100%; display:block; }
 .blog-logo-frame{
   /* ===== 로고/아이콘 이미지를 여기에 넣으세요 (48x48 권장) =====
      예: <img src="images/logo.png" alt="logo">
-     지금은 빈 픽셀 프레임만 준비되어 있습니다. */
+     지금은 빈 유리 프레임만 준비되어 있습니다. */
   width:48px; height:48px;
   flex: 0 0 auto;
-  background: var(--win-face-lt);
-  border: 2px inset var(--win-face);
+  border-radius: var(--radius-chip);
+  background: linear-gradient(180deg, #ffffff, #cdeeff);
+  border: 1px solid var(--line);
+  box-shadow: inset 0 2px 4px rgba(11,61,99,.2);
   display:flex; align-items:center; justify-content:center;
   font-family: var(--font-pixel-head);
   font-size:9px;
-  color:var(--win-shadow-dk);
+  color: var(--ink-soft);
   text-align:center;
 }
 
@@ -217,38 +246,40 @@ img{ max-width:100%; display:block; }
   font-size: 20px;
   line-height:1.3;
 }
-.blog-title a{ color:#000; }
+.blog-title a{ color: var(--ink); }
 
 .blog-desc{
   margin: 4px 0 0;
   font-size: 12px;
-  color:#444;
+  color: var(--ink-soft);
 }
 
 .menu-bar{
   display:flex;
   flex-wrap:wrap;
   gap:6px;
-  background: var(--win-face-lt);
-  border: 2px inset var(--win-face);
-  padding: 6px;
+  background: var(--glass-1);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-chip);
+  padding: 8px;
 }
 
 .menu-bar a,
 .menu-item{
   display:inline-block;
-  padding: 4px 10px;
-  background: var(--win-face);
-  border: 1px outset var(--win-face);
+  padding: 5px 12px;
+  border-radius: var(--radius-bubble);
+  background: linear-gradient(180deg, #ffffff, var(--glass-2));
+  border: 1px solid #fff;
+  box-shadow: 0 1px 3px rgba(11,61,99,.2);
   font-family: var(--font-pixel-head);
   font-size: 11px;
-  color:#000;
+  color: var(--ink);
   text-decoration:none;
 }
 .menu-bar a:hover,
 .menu-item:hover{
-  border-style: inset;
-  background: var(--y2k-mint);
+  background: linear-gradient(180deg, #ffffff, var(--y2k-mint));
 }
 
 /* =========================================================
@@ -263,7 +294,7 @@ img{ max-width:100%; display:block; }
   flex-wrap:wrap;
   margin-bottom: 10px;
   font-size: 11px;
-  color:#555;
+  color: var(--ink-soft);
 }
 
 .meta-date{ font-family: var(--font-pixel-body); }
@@ -272,29 +303,30 @@ img{ max-width:100%; display:block; }
 .post-thumb-link{ display:block; margin-bottom:10px; }
 
 .pixel-frame{
-  border: 3px solid var(--win-face);
-  outline: 2px solid var(--win-shadow-dk);
+  border: 3px solid #fff;
+  outline: 2px solid var(--glass-3);
   outline-offset: -1px;
-  image-rendering: pixelated;
+  border-radius: 10px;
 }
 
-.post-summary{ margin: 0 0 12px; color:#333; }
+.post-summary{ margin: 0 0 12px; color: var(--ink-soft); }
 
 .post-content{
   font-size: 14px;
   line-height: 1.85;
 }
 .post-content img{
-  border: 3px solid var(--win-face);
-  outline: 2px solid var(--win-shadow-dk);
+  border: 3px solid #fff;
+  outline: 2px solid var(--glass-3);
   outline-offset: -1px;
+  border-radius: 10px;
   margin: 10px 0;
 }
 
 .tag-label{
   margin-top: 16px;
   padding-top: 12px;
-  border-top: 2px dashed var(--win-shadow);
+  border-top: 1px dashed var(--line);
   font-size: 12px;
 }
 .tag-label-title{
@@ -320,23 +352,24 @@ img{ max-width:100%; display:block; }
 }
 .prev-next-item{
   flex:1 1 0;
-  padding: 8px 10px;
-  background: var(--win-face-lt);
-  border: 2px outset var(--win-face);
+  padding: 8px 12px;
+  border-radius: var(--radius-chip);
+  background: linear-gradient(180deg, #ffffff, var(--glass-1));
+  border: 1px solid var(--line);
   font-size: 12px;
-  color:#000;
+  color: var(--ink);
 }
 .prev-next-item.next{ text-align:right; }
 
 .related-window .win-body{ padding: 10px 14px; }
 .related-list{ list-style:none; margin:0; padding:0; }
-.related-list li{ padding: 4px 0; border-bottom: 1px dotted var(--win-shadow); font-size:12px; }
+.related-list li{ padding: 4px 0; border-bottom: 1px dotted var(--line); font-size:12px; }
 .related-list li:last-child{ border-bottom:none; }
 
 /* =========================================================
    카테고리 / 검색 / 태그 리스트 페이지 (s_list)
    ========================================================= */
-.list-desc{ font-size:12px; color:#555; margin-top:0; }
+.list-desc{ font-size:12px; color: var(--ink-soft); margin-top:0; }
 .empty-msg{
   text-align:center;
   padding: 30px 0;
@@ -348,14 +381,14 @@ img{ max-width:100%; display:block; }
   display:flex;
   gap:10px;
   padding: 10px 0;
-  border-bottom: 1px dashed var(--win-shadow);
+  border-bottom: 1px dashed var(--line);
 }
 .list-item:last-child{ border-bottom:none; }
-.list-thumb{ width:72px; height:72px; object-fit:cover; flex:0 0 auto; }
+.list-thumb{ width:72px; height:72px; object-fit:cover; flex:0 0 auto; border-radius:8px; }
 .list-item-body{ min-width:0; }
-.list-date{ font-size:10px; color:#888; }
+.list-date{ font-size:10px; color:#8fb3c7; }
 .list-title{ display:block; font-family: var(--font-pixel-head); font-size:12px; margin: 2px 0 4px; }
-.list-summary{ margin:0; font-size:12px; color:#555; }
+.list-summary{ margin:0; font-size:12px; color: var(--ink-soft); }
 
 /* =========================================================
    페이징
@@ -370,16 +403,18 @@ img{ max-width:100%; display:block; }
 .paging-nums{ display:flex; gap:4px; }
 .page-num{
   display:inline-block;
-  min-width:22px;
+  min-width:24px;
   text-align:center;
-  padding: 4px 6px;
-  background: var(--win-face);
-  border: 1px outset var(--win-face);
+  padding: 5px 7px;
+  border-radius: var(--radius-bubble);
+  background: linear-gradient(180deg, #ffffff, var(--glass-2));
+  border: 1px solid #fff;
+  box-shadow: 0 1px 3px rgba(11,61,99,.2);
   font-family: var(--font-pixel-head);
   font-size: 11px;
-  color:#000;
+  color: var(--ink);
 }
-.page-num:hover{ border-style:inset; background: var(--y2k-mint); }
+.page-num:hover{ background: linear-gradient(180deg, #ffffff, var(--y2k-mint)); }
 .no_more_prev, .no_more_next{ visibility:hidden; }
 
 /* =========================================================
@@ -398,8 +433,10 @@ img{ max-width:100%; display:block; }
      직접 이미지를 쓰려면 이 블록 안의 img 태그 크기만 조정하세요. */
   width: 88px; height: 88px;
   margin: 0 auto 10px;
-  background: var(--win-face-lt);
-  border: 2px inset var(--win-face);
+  border-radius: 50%;
+  background: linear-gradient(180deg, #ffffff, #cdeeff);
+  border: 3px solid #fff;
+  box-shadow: 0 0 0 1px var(--line), inset 0 2px 4px rgba(11,61,99,.2);
   overflow:hidden;
   display:flex; align-items:center; justify-content:center;
 }
@@ -411,18 +448,22 @@ img{ max-width:100%; display:block; }
   color: var(--y2k-teal);
   margin: 0 0 6px;
 }
-.profile-desc{ margin:0; color:#555; }
+.profile-desc{ margin:0; color: var(--ink-soft); }
 
 .search-box{ display:flex; gap:6px; }
 .search-input{
   flex:1 1 auto;
   min-width:0;
-  padding: 6px 8px;
-  border: 2px inset var(--win-face);
+  padding: 7px 10px;
+  border-radius: var(--radius-bubble);
+  background: var(--glass-1);
+  border: 1px solid var(--line);
+  box-shadow: inset 0 2px 4px rgba(11,61,99,.15);
   font-family: var(--font-pixel-body);
   font-size: 12px;
+  color: var(--ink);
 }
-.search-submit{ flex:0 0 auto; padding: 6px 12px; }
+.search-submit{ flex:0 0 auto; padding: 7px 14px; }
 
 .category-body :where(ul){ list-style:none; margin:0; padding-left:2px; }
 .category-body :where(li){ padding: 3px 0; }
@@ -432,12 +473,12 @@ img{ max-width:100%; display:block; }
 .recent-list li{
   display:flex; align-items:center; gap:8px;
   padding: 6px 0;
-  border-bottom: 1px dotted var(--win-shadow);
+  border-bottom: 1px dotted var(--line);
 }
 .recent-list li:last-child{ border-bottom:none; }
-.recent-thumb{ width:32px; height:32px; object-fit:cover; flex:0 0 auto; }
+.recent-thumb{ width:32px; height:32px; object-fit:cover; flex:0 0 auto; border-radius:6px; }
 .recent-list a{ font-size:12px; flex:1 1 auto; min-width:0; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
-.recent-date{ font-size:10px; color:#999; flex:0 0 auto; }
+.recent-date{ font-size:10px; color:#8fb3c7; flex:0 0 auto; }
 
 .tag-body{ display:flex; flex-wrap:wrap; gap:6px; }
 .tag-bubble{
@@ -447,59 +488,69 @@ img{ max-width:100%; display:block; }
   color:#fff;
   font-size: 11px;
   text-decoration:none;
+  box-shadow: 0 1px 3px rgba(11,61,99,.25);
 }
 .tag-bubble.cloud1{ background: var(--y2k-navy); font-size:13px; padding:5px 14px; }
 .tag-bubble.cloud2{ background: var(--y2k-teal); font-size:12px; padding:4px 12px; }
 .tag-bubble.cloud3{ background: var(--y2k-green); color:#0b3d1f; }
 .tag-bubble.cloud4{ background: var(--y2k-sky); color:#00323d; }
-.tag-bubble.cloud5{ background: var(--win-face); color:#000; border:1px outset var(--win-face); }
+.tag-bubble.cloud5{ background: linear-gradient(180deg,#fff,var(--glass-2)); color: var(--ink); box-shadow:none; border:1px solid var(--line); }
 
 .counter-body{ text-align:center; }
 .counter-lcd{
-  background: #0b2e0b;
+  background: #072a20;
   color: var(--y2k-lime);
   font-family: var(--font-pixel-head);
   font-size: 16px;
   letter-spacing: 2px;
   padding: 8px;
-  border: 2px inset var(--win-face);
+  border-radius: var(--radius-chip);
   margin-bottom: 8px;
+  box-shadow: inset 0 0 8px rgba(0,0,0,.5);
 }
 .counter-label{ font-size:9px; margin-right:8px; opacity:.8; }
 .counter-row{
   display:flex; justify-content:space-between;
-  font-size: 10px; color:#555;
+  font-size: 10px; color: var(--ink-soft);
 }
 
 /* =========================================================
-   하단 태스크바
+   하단 컨트롤바 (재생바 스타일 taskbar)
    ========================================================= */
 .taskbar{
   display:flex;
   align-items:center;
   justify-content:space-between;
+  gap:10px;
   margin-top: 20px;
-  padding: 6px 10px;
-  background: var(--win-face);
-  border: 2px outset var(--win-face);
-  box-shadow: 4px 4px 0 rgba(0,0,0,.25);
+  padding: 8px 14px;
+  border-radius: var(--radius-bubble);
+  background:
+    radial-gradient(circle at 15% 30%, rgba(255,255,255,.5) 0%, rgba(255,255,255,0) 3%),
+    radial-gradient(circle at 70% 70%, rgba(255,255,255,.4) 0%, rgba(255,255,255,0) 3%),
+    linear-gradient(180deg, #eaf8ff 0%, #bfe6ff 100%);
+  border: 1px solid #fff;
+  box-shadow: 0 0 0 1px var(--line), 0 6px 14px rgba(6,40,70,.2);
 }
 .start-btn{
   display:inline-flex;
   align-items:center;
   gap:6px;
-  padding: 5px 14px;
-  background: linear-gradient(180deg, var(--y2k-lime), #7fa300);
-  border: 1px outset var(--win-face);
+  padding: 6px 16px;
+  border-radius: var(--radius-bubble);
+  background: radial-gradient(circle at 30% 25%, #eaffea, var(--y2k-green) 55%, #2f9e44 100%);
+  border: 1px solid rgba(255,255,255,.8);
+  box-shadow: 0 2px 6px rgba(6,40,70,.3), inset 0 1px 2px rgba(255,255,255,.8);
   font-family: var(--font-pixel-head);
   font-size: 12px;
   color:#0d2200;
 }
 .taskbar-clock{
-  background:#0b2e0b;
+  background:#072a20;
   color: var(--y2k-lime);
   font-family: var(--font-pixel-head);
   font-size: 12px;
-  padding: 5px 10px;
-  border: 2px inset var(--win-face);
+  padding: 6px 12px;
+  border-radius: var(--radius-bubble);
+  box-shadow: inset 0 0 6px rgba(0,0,0,.5);
 }
