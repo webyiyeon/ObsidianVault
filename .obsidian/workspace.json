@@ -23,8 +23,24 @@
               "icon": "lucide-file",
               "title": "2026"
             }
+          },
+          {
+            "id": "33faa47ac4567ef6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2026/09_September/2026-09-18 Fri.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-09-18 Fri"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,7 +82,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "검색"
             }
           }
         ]
@@ -165,8 +181,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e0cd7ee134df37c4",
   "lastOpenFiles": [
+    "Untitled.md",
+    "remoteBrain/Daily-Docs/2026/09_September/2026-09-18 Fri.md",
+    "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/Daily-Docs/2026/09_September/2026-09-17 Thu.md",
     "Blog/Tistory/skin-win98-y2k/style.css.tmp.31584.868112a28825",
     "remoteBrain/99_InsightON/대한유화 SHE/PSM - 자체감사 (2026-09-18).md",
@@ -176,9 +195,7 @@
     "Blog/Tistory/skin-win98-y2k",
     "remoteBrain/99_InsightON/대한유화 SHE/PSM - 위험성평가 (2026-08-27).md",
     "remoteBrain/99_InsightON/대한유화 SHE/PSM - 설비, 공정안전자료, 가동전안전점검 (2026-08-18).md",
-    "remoteBrain/Daily-Docs/2026/09_September/2026-09-18 Fri.md",
     "remoteBrain/99_InsightON/대한유화 SHE/협력사 (2026-09-16).md",
-    "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/Daily-Docs/2026/09_September/2026-09-16 Wed.md",
     "remoteBrain/Daily-Docs/2026/09_September/2026-09-15 Tue.md",
     "remoteBrain/Daily-Docs/2026/09_September/2026-09-14 Mon.md",
