@@ -23,24 +23,8 @@
               "icon": "lucide-file",
               "title": "2026"
             }
-          },
-          {
-            "id": "33faa47ac4567ef6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remoteBrain/Daily-Docs/2026/09_September/2026-09-18 Fri.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-09-18 Fri"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,7 +147,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "periodic-notes:Open today": false,
       "switcher:빠른 전환기 열기": false,
       "canvas:새 캔버스 만들기": false,
       "command-palette:명령어 팔레트 열기": false,
@@ -178,13 +161,14 @@
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "e0cd7ee134df37c4",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Untitled.md",
     "remoteBrain/Daily-Docs/2026/09_September/2026-09-18 Fri.md",
+    "Untitled.md",
     "remoteBrain/VisionBoard/2026.md",
     "remoteBrain/Daily-Docs/2026/09_September/2026-09-17 Thu.md",
     "Blog/Tistory/skin-win98-y2k/style.css.tmp.31584.868112a28825",

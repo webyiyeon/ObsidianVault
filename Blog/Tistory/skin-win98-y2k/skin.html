@@ -14,9 +14,9 @@
   <!-- ===================== 헤더 (타이틀바 + 메뉴바) ===================== -->
   <header class="win topbar-window">
     <div class="win-title">
-      <span class="win-title-text">★ [##_title_##] - Win98 Explorer</span>
+      <span class="win-title-text">[##_title_##]</span>
       <span class="win-controls">
-        <span class="win-btn">_</span><span class="win-btn">&#9633;</span><span class="win-btn">x</span>
+        <span class="win-btn">&#9662;</span><span class="win-btn">_</span><span class="win-btn">&#9633;</span><span class="win-btn">x</span>
       </span>
     </div>
     <div class="win-body topbar-body">
@@ -52,9 +52,9 @@
       <s_article_rep>
         <article class="win post-window">
           <div class="win-title">
-            <span class="win-title-text">&#128196; [##_article_rep_title_##]</span>
+            <span class="win-title-text">[##_article_rep_title_##]</span>
             <span class="win-controls">
-              <span class="win-btn">_</span><span class="win-btn">&#9633;</span><span class="win-btn">x</span>
+              <span class="win-btn">&#9662;</span><span class="win-btn">_</span><span class="win-btn">&#9633;</span><span class="win-btn">x</span>
             </span>
           </div>
           <div class="win-body post-body">
@@ -196,8 +196,9 @@
             <div class="win-body">
               <s_search>
                 <div class="search-box">
+                  <label class="search-label">검색어</label>
                   <input type="text" name="[##_search_name_##]" value="[##_search_text_##]" class="search-input" placeholder="검색어 입력..." onkeypress="if(event.keyCode==13){[##_search_onclick_submit_##]}">
-                  <input type="button" value="GO" class="bubble-btn search-submit" onclick="[##_search_onclick_submit_##]">
+                  <input type="button" value="검색" class="search-submit" onclick="[##_search_onclick_submit_##]">
                 </div>
               </s_search>
             </div>

@@ -1,8 +1,24 @@
 /* =========================================================
-   Aqua Glass x Y2K x Pixel x Bubble — Tistory Skin
+   Windows Live Messenger 대화창 — Tistory Skin
    ---------------------------------------------------------
-   레퍼런스: Windows XP 시절 아쿠아리움 스크린세이버 UI
-   (둥근 창틀, 유리 광택 타이틀바, 물방울, 재생바 스타일 하단바)
+   레퍼런스: Windows Live Messenger 2009 대화창
+   - 타이틀바(창틀 전부)는 WLM 기본값인 은색/하늘색 Aero 유리
+     (스크린샷 속 빨강은 유저가 고르는 "씨루" 테마 색이라 그 대화창만의
+     우연이었을 뿐, WLM 자체 기본색이 아니라서 제외 — 태그 클라우드 쪽엔
+     포인트로만 살짝 남겨둠)
+   - 프로필/썸네일 사진에 밝은 초록 테두리
+   - 가독성 최우선: 본문·메타 정보는 색이 있는 패널 대신
+     흰 배경 + 진한 텍스트로 평문 표기 (예전엔 파란 글래스 패널에
+     흰 글자를 얹었다가 "가독성 너무 떨어진다"는 피드백을 받음)
+   - 포인트 컬러: 타이틀 텍스트는 하늘색 단색(그라데이션/글로시 효과 없음),
+     그 외 강조 요소(사진 테두리/카테고리/태그/버튼)는 밝은 초록
+   - 제목(글 제목/블로그 타이틀)만 "머니그라피-픽셀(Moneygraphy-Pixel, 토스 배포)",
+     그 외 제목·버튼류는 "PF스타더스트(PfStardust)" 픽셀 도트 폰트 — 전부
+     noonnu.cc 통해 jsdelivr CDN으로 불러옴. 작은 본문 글자는 픽셀 폰트가
+     잘 안 보여서 본문은 기본 고딕(맑은 고딕 등)을 그대로 씁니다.
+
+   그림자(box-shadow / text-shadow)는 쓰지 않고, 그라데이션과
+   테두리만으로 입체감(베벨/글래스 하이라이트)을 표현합니다.
 
    이미지/아이콘은 직접 준비하신다고 하셔서, 배경·프로필·로고
    자리에는 "여기에 이미지를 넣으세요" 주석을 남겨뒀습니다.
@@ -10,29 +26,64 @@
    img 태그의 src 만 바꾸면 됩니다.
    ========================================================= */
 
-@import url("https://cdn.jsdelivr.net/npm/galmuri/dist/galmuri.css");
+@font-face{
+  font-family: "PfStardust";
+  src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/PFStardust.woff") format("woff");
+  font-weight: normal;
+  font-display: swap;
+}
+@font-face{
+  font-family: "Moneygraphy-Pixel";
+  src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/2411-2@1.0/Moneygraphy-Pixel.woff2") format("woff2");
+  font-weight: normal;
+  font-display: swap;
+}
 
 :root{
-  /* 유리(glass) 톤 — 창틀/패널 */
-  --glass-1: #eaf8ff;
-  --glass-2: #bfe6ff;
-  --glass-3: #7ecbf5;
-  --glass-4: #2f8fd1;
-  --glass-deep: #0b3d63;
-  --line: #bfe0f2;
-  --ink: #14324a;
-  --ink-soft: #3c6079;
+  /* 크롬(chrome) 톤 — 창틀/버튼 */
+  --glass-1: #f2f7fb;
+  --glass-2: #d7e6f2;
+  --glass-3: #aecbe3;
+  --glass-4: #4295df;
+  --glass-deep: #274866;
+  --line: #c3d7e8;
+  --ink: #1c3350;
+  --ink-soft: #4f6b87;
+  --title-g1: #a8dcff;
+  --title-g2: #4fb3f0;
+  --title-g3: #338edf;
 
-  /* Y2K 하늘색 x 초록색 accents */
-  --y2k-sky:    #4fc3f7;
-  --y2k-teal:   #00b8a9;
-  --y2k-green:  #5cd65c;
-  --y2k-mint:   #c6ff4d;
-  --y2k-lime:   #ccff00;
-  --y2k-navy:   #063a63;
+  /* "Now Playing" 글래스 패널 — 파랑 계열 (일부 뱃지류에서만 사용) */
+  --panel-1: #7cc0f0;
+  --panel-2: #2f74c9;
+  --panel-3: #123f7a;
 
-  --font-pixel-head: "Galmuri11", "Dotum", sans-serif;
-  --font-pixel-body: "Galmuri9", "Dotum", sans-serif;
+  /* 창틀 타이틀바 — 기본 Aero 파랑/은색 유리 (WLM 스크린샷의 빨강은 유저가
+     고른 '씨루' 테마 색이라 기본값이 아니어서 제외) */
+  --aero-1: #eef7ff;
+  --aero-2: #cfe4f7;
+  --aero-3: #9cc6ec;
+
+  /* 태그 클라우드 포인트로만 쓰는 빨강 (씨루 테마 참고) */
+  --msn-red-1: #e2565a;
+  --msn-red-2: #c62828;
+  --msn-red-3: #7a1010;
+
+  /* Windows Live Messenger 참고 — 프로필 사진 테두리 / 포인트 초록 */
+  --msn-green: #7ac833;
+  --msn-green-dark: #4f9c1e;
+
+  /* 포인트 컬러: 타이틀(하늘색 단색)만 예외, 나머지 텍스트는 채도 낮춰서 가독성 우선 */
+  --y2k-sky:    #5fb0ea;
+  --y2k-teal:   #29a9f0;
+  --y2k-green:  #4fc3f7;
+  --y2k-mint:   #dcefff;
+  --y2k-lime:   #8fd3f7;
+  --y2k-navy:   #10345c;
+
+  --font-pixel-head: "PfStardust", "Malgun Gothic", sans-serif;
+  --font-pixel-body: "Malgun Gothic", "Apple SD Gothic Neo", sans-serif;
+  --font-script: "Moneygraphy-Pixel", "Malgun Gothic", sans-serif;
 
   --radius-window: 16px;
   --radius-chip: 10px;
@@ -52,16 +103,10 @@ html,body{
 }
 
 body{
-  /* ===== 데스크톱(물속) 배경: 원하는 배경 이미지가 있으면
-     background-image: url('images/wallpaper.png'); 로 교체하세요 ===== */
-  background:
-    radial-gradient(circle at 10% 15%, rgba(255,255,255,.6) 0%, rgba(255,255,255,0) 3.5%),
-    radial-gradient(circle at 80% 8%,  rgba(255,255,255,.5) 0%, rgba(255,255,255,0) 3%),
-    radial-gradient(circle at 92% 60%, rgba(255,255,255,.5) 0%, rgba(255,255,255,0) 4%),
-    radial-gradient(circle at 30% 92%, rgba(255,255,255,.4) 0%, rgba(255,255,255,0) 4%),
-    radial-gradient(circle at 65% 45%, rgba(255,255,255,.3) 0%, rgba(255,255,255,0) 5%),
-    radial-gradient(circle at 45% 75%, rgba(255,255,255,.35) 0%, rgba(255,255,255,0) 3%),
-    linear-gradient(180deg, #d9f5ff 0%, #7ecbf5 35%, #2f8fd1 70%, #0b3d63 100%);
+  background-image: url('images/wp2808001-windows-98-background.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   background-attachment: fixed;
   min-height: 100vh;
 }
@@ -111,27 +156,27 @@ img{ max-width:100%; display:block; }
 }
 
 /* =========================================================
-   유리창(window) 공통 컴포넌트
+   유리창(window) 공통 컴포넌트 — 브러시드 크롬 베젤
    ========================================================= */
 .win{
   border-radius: var(--radius-window);
   border: 4px solid transparent;
   background:
     linear-gradient(#fff,#fff) padding-box,
-    linear-gradient(180deg, #ffffff 0%, #cfe9fb 25%, #8ec8ee 55%, #4f9bd4 100%) border-box;
-  box-shadow: 0 0 0 1px rgba(10,50,90,.3), 0 14px 26px rgba(5,30,55,.32);
+    linear-gradient(180deg, #ffffff 0%, #eef5fb 10%, #cddced 25%, #aecbe3 42%, #dceaf5 58%, #b9d2e6 78%, #eef6fb 100%) border-box;
   overflow: hidden;
   margin-bottom: 22px;
 }
 
 .win-title{
   position: relative;
-  background: linear-gradient(180deg, #ffffff 0%, #eef7ff 45%, #d3ecfb 100%);
+  background: linear-gradient(180deg, #ffffff 0%, var(--aero-1) 45%, var(--aero-2) 100%);
   color: var(--ink);
   font-family: var(--font-pixel-head);
+  font-weight: 700;
   font-size: 12px;
-  letter-spacing:.5px;
-  padding: 8px 10px;
+  letter-spacing:.3px;
+  padding: 9px 10px;
   display:flex;
   align-items:center;
   justify-content:space-between;
@@ -156,27 +201,51 @@ img{ max-width:100%; display:block; }
   text-overflow:ellipsis;
   white-space:nowrap;
 }
+/* 상단 헤더에만: 창 메뉴/아이콘 느낌의 4색 플래그 아이콘 */
+.topbar-window .win-title-text::before{
+  content:"";
+  display:inline-block;
+  width:13px; height:13px;
+  margin-right:6px;
+  vertical-align:-2px;
+  border-radius:3px;
+  background:
+    conic-gradient(from 90deg at 50% 50%,
+      #ff6b57 0deg 90deg,
+      #7ed957 90deg 180deg,
+      #4fa8ff 180deg 270deg,
+      #ffd24f 270deg 360deg);
+}
 
-.win-controls{ position:relative; z-index:1; display:flex; gap:2px; flex:0 0 auto; }
+.win-controls{ position:relative; z-index:1; display:flex; gap:3px; flex:0 0 auto; }
 .win-btn{
-  width:18px; height:16px;
+  width:19px; height:17px;
   border-radius:4px;
-  background: transparent;
-  border: none;
+  background: linear-gradient(180deg, #ffffff 0%, var(--glass-2) 100%);
+  border: 1px solid var(--line);
   color: var(--ink-soft);
   font-size:10px;
-  line-height:16px;
+  line-height:17px;
   text-align:center;
   font-family: var(--font-pixel-head);
   user-select:none;
 }
-.win-btn:hover{ background: var(--glass-2); }
+.win-btn:hover{ background: linear-gradient(180deg, #ffffff 0%, var(--glass-3) 100%); }
 
 .win-body{
-  background: linear-gradient(180deg, #ffffff 0%, #f4fbff 100%);
+  background: linear-gradient(180deg, #ffffff 0%, #f2f8fc 100%);
   padding: 14px;
   font-family: var(--font-pixel-body);
   border-radius: 0 0 13px 13px;
+}
+
+/* 글 제목 — 픽셀 폰트, 하늘색 단색, 작은 타이틀바 텍스트 크기 */
+.post-window .win-title-text{
+  font-family: var(--font-script);
+  font-weight: 700;
+  font-size: 12px;
+  letter-spacing:.2px;
+  color: var(--title-g3);
 }
 
 /* =========================================================
@@ -186,21 +255,20 @@ img{ max-width:100%; display:block; }
   display:inline-block;
   padding: 7px 18px;
   border-radius: var(--radius-bubble);
-  background: linear-gradient(180deg, rgba(255,255,255,.95) 0%, var(--y2k-sky) 45%, #0091b8 100%);
-  border: 1px solid rgba(255,255,255,.8);
-  box-shadow: 0 4px 9px rgba(6,40,70,.4), inset 0 2px 3px rgba(255,255,255,.95), inset 0 -8px 12px rgba(0,60,100,.2);
-  color:#00323d;
+  background: linear-gradient(180deg, #ffffff 0%, var(--glass-2) 45%, var(--glass-3) 100%);
+  border: 1px solid #fff;
+  color: var(--ink);
   font-family: var(--font-pixel-head);
+  font-weight: 700;
   font-size: 11px;
   text-decoration:none;
   cursor:pointer;
 }
-.bubble-btn:hover{ filter:brightness(1.08); text-decoration:none; }
+.bubble-btn:hover{ filter:brightness(1.05); text-decoration:none; }
 .bubble-btn:active{ transform: translateY(1px); }
 
 /* ---------------------------------------------------------
-   더 읽기(read-more) — 프루티거 에어로(Frutiger Aero) 글래스 버튼
-   물방울처럼 맺힌 하이라이트 + 은은한 청록 그라데이션 + 샤인 스윕
+   더 읽기(read-more) — 크롬 재생(Play) 버튼
    --------------------------------------------------------- */
 .bubble-btn.read-more{
   position: relative;
@@ -208,24 +276,16 @@ img{ max-width:100%; display:block; }
   align-items: center;
   gap: 10px;
   overflow: hidden;
-  padding: 8px 8px 8px 18px;
-  background:
-    linear-gradient(180deg, rgba(255,255,255,.65) 0%, rgba(255,255,255,0) 42%),
-    linear-gradient(180deg, #9be8ff 0%, #4fc3f7 38%, #10b3a3 78%, #059c8a 100%);
-  border: 1px solid rgba(255,255,255,.85);
-  box-shadow:
-    0 1px 0 rgba(255,255,255,.9) inset,
-    0 -10px 14px rgba(4,90,90,.25) inset,
-    0 6px 14px rgba(4,60,70,.35),
-    0 1px 3px rgba(4,60,70,.25);
-  color: #04424a;
-  text-shadow: 0 1px 0 rgba(255,255,255,.55);
-  transition: filter .18s ease, box-shadow .18s ease, transform .12s ease;
+  padding: 6px 18px 6px 6px;
+  background: linear-gradient(180deg, #ffffff, var(--glass-2));
+  border: 1px solid #fff;
+  color: var(--ink);
+  transition: filter .18s ease, transform .12s ease;
 }
-/* 유리 표면 하이라이트: 버튼 상단에 맺힌 광택 */
+/* 유리 표면 하이라이트: 버튼 맨 윗단에만 얇게 맺힌 광택 */
 .bubble-btn.read-more::before{
   content:"";
-  position:absolute; left:4%; right:4%; top:8%; height:40%;
+  position:absolute; left:4%; right:4%; top:6%; height:26%;
   border-radius: 999px;
   background: linear-gradient(180deg, rgba(255,255,255,.85), rgba(255,255,255,0));
   pointer-events:none;
@@ -239,53 +299,43 @@ img{ max-width:100%; display:block; }
   transition: transform .55s ease;
   pointer-events:none;
 }
-.bubble-btn.read-more:hover{
-  filter: brightness(1.05) saturate(1.08);
-  box-shadow:
-    0 1px 0 rgba(255,255,255,.9) inset,
-    0 -10px 14px rgba(4,90,90,.25) inset,
-    0 8px 18px rgba(4,60,70,.4),
-    0 1px 3px rgba(4,60,70,.3);
-}
+.bubble-btn.read-more:hover{ filter: brightness(1.03); }
 .bubble-btn.read-more:hover::after{ transform: skewX(-20deg) translateX(340px); }
-.bubble-btn.read-more:active{
-  transform: translateY(1px);
-  box-shadow:
-    0 1px 0 rgba(255,255,255,.7) inset,
-    0 -6px 10px rgba(4,90,90,.3) inset,
-    0 2px 6px rgba(4,60,70,.35);
-}
+.bubble-btn.read-more:active{ transform: translateY(1px); }
 
-.read-more-label{ position:relative; z-index:1; letter-spacing:.5px; }
+.read-more-label{ position:relative; z-index:1; font-weight:700; letter-spacing:.3px; }
 
 .read-more-arrow{
   position:relative; z-index:1;
   display:inline-flex;
   align-items:center;
   justify-content:center;
-  width: 22px; height: 22px;
+  width: 30px; height: 30px;
   flex: 0 0 auto;
   border-radius: 50%;
-  background: radial-gradient(circle at 32% 28%, #ffffff 0%, #eafffb 35%, #bdf3ea 60%, #23c2ab 100%);
-  border: 1px solid rgba(255,255,255,.9);
-  box-shadow: 0 2px 4px rgba(4,60,70,.35), inset 0 -3px 4px rgba(6,110,95,.35);
-  color: #04574f;
-  font-size: 10px;
-  text-shadow:none;
+  background: radial-gradient(circle at 34% 30%, #ffffff 0%, #eafbe0 45%, var(--msn-green) 100%);
+  border: 1px solid #fff;
+  color: var(--msn-green-dark);
+  font-size: 12px;
+  padding-left: 2px;
   transition: transform .18s ease;
 }
 .bubble-btn.read-more:hover .read-more-arrow{ transform: translateX(3px); }
 
+/* 카테고리/날짜/댓글수 — 메신저 대화 상단 정보 줄처럼 배경 없이 평문으로 */
 .meta-badge{
-  display:inline-block;
-  padding: 2px 10px;
-  border-radius: var(--radius-bubble);
-  background: linear-gradient(180deg, #fff 0%, var(--y2k-green) 60%, #2f9e44 100%);
-  color:#0b3d1f;
+  display:inline-flex;
+  align-items:center;
+  gap:4px;
+  color: var(--msn-green-dark);
   font-family: var(--font-pixel-head);
-  font-size: 10px;
+  font-weight:800;
+  font-size: 12px;
+  letter-spacing:.2px;
   text-decoration:none;
 }
+.meta-badge::before{ content:"\25B6"; font-size:9px; }
+.meta-badge:hover{ text-decoration:underline; }
 
 /* =========================================================
    상단 헤더(타이틀바 + 메뉴바)
@@ -306,9 +356,8 @@ img{ max-width:100%; display:block; }
   width:48px; height:48px;
   flex: 0 0 auto;
   border-radius: var(--radius-chip);
-  background: linear-gradient(180deg, #ffffff, #cdeeff);
+  background: linear-gradient(180deg, #ffffff, var(--glass-2));
   border: 1px solid var(--line);
-  box-shadow: inset 0 2px 4px rgba(11,61,99,.2);
   display:flex; align-items:center; justify-content:center;
   font-family: var(--font-pixel-head);
   font-size:9px;
@@ -320,11 +369,14 @@ img{ max-width:100%; display:block; }
 
 .blog-title{
   margin:0;
-  font-family: var(--font-pixel-head);
-  font-size: 20px;
+  font-family: var(--font-script);
+  font-weight: 700;
+  font-size: 18px;
   line-height:1.3;
 }
-.blog-title a{ color: var(--ink); }
+.blog-title a{
+  color: var(--title-g3);
+}
 
 .blog-desc{
   margin: 4px 0 0;
@@ -345,58 +397,57 @@ img{ max-width:100%; display:block; }
 .menu-bar a,
 .menu-item{
   display:inline-block;
-  padding: 5px 12px;
-  border-radius: var(--radius-bubble);
-  background: linear-gradient(180deg, #ffffff, var(--glass-2));
-  border: 1px solid #fff;
-  box-shadow: 0 2px 5px rgba(11,61,99,.25), inset 0 1px 2px rgba(255,255,255,.9);
+  padding: 6px 12px;
+  border-radius: 6px;
+  background: transparent;
+  border: 1px solid transparent;
   font-family: var(--font-pixel-head);
+  font-weight: 700;
   font-size: 11px;
   color: var(--ink);
   text-decoration:none;
 }
 .menu-bar a:hover,
 .menu-item:hover{
-  background: linear-gradient(180deg, #ffffff, var(--y2k-mint));
+  background: linear-gradient(180deg, #eafbe0, #d3f2c0);
+  border: 1px solid var(--msn-green);
 }
 
 /* =========================================================
    글 목록 / 본문 (s_article_rep)
    ========================================================= */
-.post-window .win-title-text{ font-size:12px; }
-
 .post-meta{
   display:flex;
   align-items:center;
-  gap:8px;
+  gap:10px;
   flex-wrap:wrap;
-  margin-bottom: 10px;
-  font-size: 11px;
+  margin-bottom: 12px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--line);
+  font-size: 12px;
+}
+.meta-date, .meta-comments{
+  font-family: var(--font-pixel-body);
   color: var(--ink-soft);
 }
-
-.meta-date{ font-family: var(--font-pixel-body); }
-.meta-comments{ font-family: var(--font-pixel-body); }
 
 .post-thumb-link{ display:block; margin-bottom:10px; }
 
 .pixel-frame{
-  border: 3px solid #fff;
-  outline: 2px solid var(--glass-3);
-  outline-offset: -1px;
   border-radius: 10px;
 }
 
 .post-summary{ margin: 0 0 12px; color: var(--ink-soft); }
+.post-summary, .post-summary *{ font-family: var(--font-pixel-body) !important; }
 
+/* 티스토리 에디터가 본문에 문단마다 font-family 인라인 스타일을 박아넣는 경우가
+   많아서, 글자색/크기는 작성자 의도를 존중해 그대로 두고 폰트만 강제 통일합니다 */
 .post-content{
   font-size: 14px;
   line-height: 1.85;
 }
+.post-content, .post-content *{ font-family: var(--font-pixel-body) !important; }
 .post-content img{
-  border: 3px solid #fff;
-  outline: 2px solid var(--glass-3);
-  outline-offset: -1px;
   border-radius: 10px;
   margin: 10px 0;
 }
@@ -409,7 +460,8 @@ img{ max-width:100%; display:block; }
 }
 .tag-label-title{
   font-family: var(--font-pixel-head);
-  color: var(--y2k-teal);
+  font-weight: 800;
+  color: var(--msn-green-dark);
   margin-right: 6px;
 }
 .tag-label a{
@@ -417,8 +469,8 @@ img{ max-width:100%; display:block; }
   margin: 2px 4px 2px 0;
   padding: 2px 10px;
   border-radius: var(--radius-bubble);
-  background: var(--y2k-sky);
-  color:#00323d;
+  background: var(--msn-green);
+  color:#123018;
   font-size: 11px;
 }
 
@@ -452,7 +504,8 @@ img{ max-width:100%; display:block; }
   text-align:center;
   padding: 30px 0;
   font-family: var(--font-pixel-head);
-  color: var(--y2k-teal);
+  font-weight: 800;
+  color: var(--msn-green-dark);
 }
 .list-items{ list-style:none; margin:0; padding:0; }
 .list-item{
@@ -464,9 +517,10 @@ img{ max-width:100%; display:block; }
 .list-item:last-child{ border-bottom:none; }
 .list-thumb{ width:72px; height:72px; object-fit:cover; flex:0 0 auto; border-radius:8px; }
 .list-item-body{ min-width:0; }
-.list-date{ font-size:10px; color:#8fb3c7; }
-.list-title{ display:block; font-family: var(--font-pixel-head); font-size:12px; margin: 2px 0 4px; }
+.list-date{ font-size:10px; color:#7c9ab5; }
+.list-title{ display:block; font-family: var(--font-pixel-head); font-weight: 700; font-size:12px; margin: 2px 0 4px; }
 .list-summary{ margin:0; font-size:12px; color: var(--ink-soft); }
+.list-summary, .list-summary *{ font-family: var(--font-pixel-body) !important; }
 
 /* =========================================================
    페이징
@@ -487,12 +541,12 @@ img{ max-width:100%; display:block; }
   border-radius: var(--radius-bubble);
   background: linear-gradient(180deg, #ffffff, var(--glass-2));
   border: 1px solid #fff;
-  box-shadow: 0 2px 5px rgba(11,61,99,.25), inset 0 1px 2px rgba(255,255,255,.9);
   font-family: var(--font-pixel-head);
+  font-weight: 700;
   font-size: 11px;
   color: var(--ink);
 }
-.page-num:hover{ background: linear-gradient(180deg, #ffffff, var(--y2k-mint)); }
+.page-num:hover{ background: linear-gradient(180deg, #ffffff, var(--glass-3)); }
 .no_more_prev, .no_more_next{ visibility:hidden; }
 
 /* =========================================================
@@ -505,16 +559,22 @@ img{ max-width:100%; display:block; }
    ========================================================= */
 .sidebar .win-body{ padding: 12px; font-size:12px; }
 
+/* MSN 메신저 로그인창 참고 — 사이드바 위젯 타이틀바는 파랑기 거의 없는 얇은 은색 바로 */
+.sidebar .win-title{
+  background: linear-gradient(180deg, #ffffff 0%, var(--glass-1) 100%);
+  color: var(--ink);
+  font-size: 11px;
+}
+.sidebar .win-title::after{ display:none; }
+
 .profile-photo-frame{
   /* ===== 프로필 이미지를 여기에 넣으세요 =====
      [##_blog_image_##] 치환자가 자동으로 <img> 를 그려줍니다.
      직접 이미지를 쓰려면 이 블록 안의 img 태그 크기만 조정하세요. */
-  width: 88px; height: 88px;
-  margin: 0 auto 10px;
-  border-radius: 50%;
-  background: linear-gradient(180deg, #ffffff, #cdeeff);
-  border: 3px solid #fff;
-  box-shadow: 0 0 0 1px var(--line), inset 0 2px 4px rgba(11,61,99,.2);
+  width: 104px; height: 104px;
+  margin: 4px auto 12px;
+  border-radius: 12px;
+  background: linear-gradient(180deg, #ffffff, var(--glass-2));
   overflow:hidden;
   display:flex; align-items:center; justify-content:center;
 }
@@ -523,29 +583,57 @@ img{ max-width:100%; display:block; }
 .profile-body{ text-align:center; }
 .profile-blogger{
   font-family: var(--font-pixel-head);
-  color: var(--y2k-teal);
+  font-weight: 800;
+  color: var(--msn-green-dark);
   margin: 0 0 6px;
 }
 .profile-desc{ margin:0; color: var(--ink-soft); }
 
-.search-box{ display:flex; gap:6px; }
+/* MSN 메신저 로그인창 참고 — 라벨 위, 인풋 아래로 쌓은 로그인 폼 스타일 */
+.search-box{ display:flex; flex-direction:column; gap:5px; }
+.search-label{
+  font-family: var(--font-pixel-body);
+  font-size: 11px;
+  color: var(--ink-soft);
+}
 .search-input{
-  flex:1 1 auto;
-  min-width:0;
+  width:100%;
   padding: 7px 10px;
-  border-radius: var(--radius-bubble);
-  background: var(--glass-1);
+  border-radius: 4px;
+  background: #ffffff;
   border: 1px solid var(--line);
-  box-shadow: inset 0 2px 4px rgba(11,61,99,.15);
   font-family: var(--font-pixel-body);
   font-size: 12px;
   color: var(--ink);
 }
-.search-submit{ flex:0 0 auto; padding: 7px 14px; }
+.search-submit{
+  align-self: center;
+  width:auto;
+  min-width: 120px;
+  margin-top: 4px;
+  padding: 5px 12px;
+  border-radius: 4px;
+  background: linear-gradient(180deg, #ffffff 0%, var(--glass-2) 100%);
+  border: 1px solid var(--line);
+  font-family: var(--font-pixel-head);
+  font-weight: 700;
+  font-size: 11px;
+  color: var(--ink);
+  cursor:pointer;
+}
+.search-submit:hover{ filter:brightness(1.03); }
+.search-submit:active{ transform: translateY(1px); }
 
+/* 티스토리 카테고리 위젯([##_category_##])은 자체 인라인 스타일을 달고 나올 때가
+   있어서 !important 로 폰트를 강제 적용합니다 */
+.category-body,
+.category-body *{
+  font-family: var(--font-pixel-body) !important;
+  color: var(--ink) !important;
+}
 .category-body :where(ul){ list-style:none; margin:0; padding-left:2px; }
 .category-body :where(li){ padding: 3px 0; }
-.category-body a{ font-size:12px; }
+.category-body a{ font-size:12px !important; }
 
 .recent-list{ list-style:none; margin:0; padding:0; }
 .recent-list li{
@@ -556,7 +644,7 @@ img{ max-width:100%; display:block; }
 .recent-list li:last-child{ border-bottom:none; }
 .recent-thumb{ width:32px; height:32px; object-fit:cover; flex:0 0 auto; border-radius:6px; }
 .recent-list a{ font-size:12px; flex:1 1 auto; min-width:0; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
-.recent-date{ font-size:10px; color:#8fb3c7; flex:0 0 auto; }
+.recent-date{ font-size:10px; color:#7c9ab5; flex:0 0 auto; }
 
 .tag-body{ display:flex; flex-wrap:wrap; gap:6px; }
 .tag-bubble{
@@ -566,44 +654,34 @@ img{ max-width:100%; display:block; }
   color:#fff;
   font-size: 11px;
   text-decoration:none;
-  box-shadow: 0 1px 3px rgba(11,61,99,.25);
 }
-.tag-bubble.cloud1{ background: var(--y2k-navy); font-size:13px; padding:5px 14px; }
-.tag-bubble.cloud2{ background: var(--y2k-teal); font-size:12px; padding:4px 12px; }
-.tag-bubble.cloud3{ background: var(--y2k-green); color:#0b3d1f; }
-.tag-bubble.cloud4{ background: var(--y2k-sky); color:#00323d; }
-.tag-bubble.cloud5{ background: linear-gradient(180deg,#fff,var(--glass-2)); color: var(--ink); box-shadow:none; border:1px solid var(--line); }
+.tag-bubble.cloud1{ background: var(--msn-red-2); font-size:13px; padding:5px 14px; }
+.tag-bubble.cloud2{ background: var(--msn-green-dark); font-size:12px; padding:4px 12px; }
+.tag-bubble.cloud3{ background: var(--msn-green); color:#123018; }
+.tag-bubble.cloud4{ background: var(--msn-red-1); color:#5c0e0e; }
+.tag-bubble.cloud5{ background: linear-gradient(180deg,#fff,var(--glass-2)); color: var(--ink); border:1px solid var(--line); }
 
 .counter-body{ text-align:center; }
 .counter-lcd{
-  position:relative;
-  overflow:hidden;
-  background: linear-gradient(180deg, #6fd0ff 0%, #1d6fb8 55%, #0a2f52 100%);
-  color:#ffffff;
+  background: var(--glass-1);
+  border: 1px solid var(--line);
+  color: var(--ink);
   font-family: var(--font-pixel-head);
+  font-weight: 800;
   font-size: 16px;
   letter-spacing: 2px;
   padding: 10px;
   border-radius: var(--radius-chip);
   margin-bottom: 8px;
-  box-shadow: inset 0 -10px 16px rgba(0,0,0,.25), 0 4px 10px rgba(6,40,70,.3);
-  text-shadow: 0 1px 2px rgba(0,0,0,.4);
 }
-.counter-lcd::after{
-  content:"";
-  position:absolute; left:0; right:0; top:0; height:45%;
-  background: linear-gradient(180deg, rgba(255,255,255,.55), rgba(255,255,255,0));
-  pointer-events:none;
-}
-.counter-label, .counter-num{ position:relative; z-index:1; }
-.counter-label{ font-size:9px; margin-right:8px; opacity:.85; }
+.counter-label{ font-size:9px; margin-right:8px; color: var(--ink-soft); }
 .counter-row{
   display:flex; justify-content:space-between;
   font-size: 10px; color: var(--ink-soft);
 }
 
 /* =========================================================
-   하단 컨트롤바 (재생바 스타일 taskbar)
+   하단 컨트롤바
    ========================================================= */
 .taskbar{
   display:flex;
@@ -613,12 +691,8 @@ img{ max-width:100%; display:block; }
   margin-top: 20px;
   padding: 8px 14px;
   border-radius: var(--radius-bubble);
-  background:
-    radial-gradient(circle at 15% 30%, rgba(255,255,255,.5) 0%, rgba(255,255,255,0) 3%),
-    radial-gradient(circle at 70% 70%, rgba(255,255,255,.4) 0%, rgba(255,255,255,0) 3%),
-    linear-gradient(180deg, #eaf8ff 0%, #bfe6ff 100%);
+  background: linear-gradient(180deg, #ffffff 0%, var(--glass-2) 100%);
   border: 1px solid #fff;
-  box-shadow: 0 0 0 1px var(--line), 0 6px 14px rgba(6,40,70,.2);
 }
 .start-btn{
   display:inline-flex;
@@ -626,20 +700,20 @@ img{ max-width:100%; display:block; }
   gap:6px;
   padding: 6px 16px;
   border-radius: var(--radius-bubble);
-  background: radial-gradient(circle at 30% 25%, #eaffea, var(--y2k-green) 55%, #2f9e44 100%);
-  border: 1px solid rgba(255,255,255,.8);
-  box-shadow: 0 2px 6px rgba(6,40,70,.3), inset 0 1px 2px rgba(255,255,255,.8);
+  background: linear-gradient(180deg, #eafbe0 0%, var(--msn-green) 55%, var(--msn-green-dark) 100%);
+  border: 1px solid #fff;
   font-family: var(--font-pixel-head);
+  font-weight: 700;
   font-size: 12px;
-  color:#0d2200;
+  color:#123018;
 }
 .taskbar-clock{
-  background: linear-gradient(180deg, #6fd0ff 0%, #1d6fb8 60%, #0a2f52 100%);
-  color:#ffffff;
+  background: linear-gradient(180deg, #ffffff 0%, var(--glass-2) 100%);
+  color: var(--ink);
   font-family: var(--font-pixel-head);
+  font-weight: 700;
   font-size: 12px;
   padding: 6px 14px;
   border-radius: var(--radius-bubble);
-  box-shadow: inset 0 -6px 10px rgba(0,0,0,.25), 0 2px 6px rgba(6,40,70,.3);
-  text-shadow: 0 1px 2px rgba(0,0,0,.4);
+  border: 1px solid #fff;
 }
