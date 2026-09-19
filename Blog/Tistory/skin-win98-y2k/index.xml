@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <skin>
   <information>
-    <name>Win98 Y2K Bubble</name>
-    <version>1.0</version>
+    <name>Web1.0 Y2K Homepage</name>
+    <version>2.0</version>
     <description>
-      <![CDATA[윈도우98 + Y2K + 픽셀 + 버블 감성의 정보/리뷰용 티스토리 스킨. 사이드바 포함.]]>
+      <![CDATA[GeoCities/Web1.0 스타일 Y2K 홈페이지 감성의 티스토리 스킨. web-yiyeon.tistory.com 실제 구조(헤더/글목록/글보기/사이드바/푸터) 그대로 재구성.]]>
     </description>
     <license>
       <![CDATA[자유롭게 수정 가능합니다.]]>
