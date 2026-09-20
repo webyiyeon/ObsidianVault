@@ -89,51 +89,78 @@
         <!-- ---------- 글 상세 (퍼머링크) ---------- -->
         <div class="area-view">
           <s_article_rep>
-            <article class="article-type-view">
-              <h2 class="view-title">[##_article_rep_title_##]</h2>
-              <div class="box-meta">
-                <a href="[##_article_rep_category_link_##]" class="link-category">[##_article_rep_category_##]</a>
-                <span class="date">[##_article_rep_date_##]</span>
-                <s_rp_count><span class="reply">[##_article_rep_rp_cnt_##]</span></s_rp_count>
-              </div>
 
-              <div class="article-content view">
+            <!-- 글 헤더: 썸네일 배경 배너 + 카테고리/제목/작성자/날짜 -->
+            <div class="article-header" style="background-image:url('[##_article_rep_thumbnail_url_##]')">
+              <div class="inner-header">
+                <div class="box-meta">
+                  <p class="category"><a href="[##_article_rep_category_link_##]">[##_article_rep_category_##]</a></p>
+                  <h2 class="title-article">[##_article_rep_title_##]</h2>
+                  <div class="box-info">
+                    <span class="writer">[##_article_rep_author_##]</span>
+                    <span class="date">[##_article_rep_date_##]</span>
+                    <s_rp_count><span class="reply">[##_article_rep_rp_cnt_##]</span></s_rp_count>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- 본문 -->
+            <div class="article-view">
+              <div class="contents_style">
                 [##_article_rep_desc_##]
               </div>
+            </div>
+
+            <div class="article-footer">
 
               <s_tag_label>
-                <div class="tag-label">
-                  <span class="tag-label-title">Tag</span> [##_tag_label_rep_##]
+                <div class="article-tag">
+                  <h3 class="title-footer">Tag</h3>
+                  <div class="box-tag">[##_tag_label_rep_##]</div>
                 </div>
               </s_tag_label>
 
-              <nav class="prev-next">
-                <s_article_prev>
-                  <a href="[##_article_prev_link_##]" class="prev">← [##_article_prev_title_##]</a>
-                </s_article_prev>
-                <s_article_next>
-                  <a href="[##_article_next_link_##]" class="next">[##_article_next_title_##] →</a>
-                </s_article_next>
-              </nav>
+              <div class="article-page">
+                <h3 class="title-footer">'[##_article_rep_category_##]'의 다른 기록</h3>
+                <ul>
+                  <s_article_prev>
+                    <li><a href="[##_article_prev_link_##]"><span>이전</span><strong>[##_article_prev_title_##]</strong></a></li>
+                  </s_article_prev>
+                  <li class="current"><span>현재</span><strong>[##_article_rep_title_##]</strong></li>
+                  <s_article_next>
+                    <li><a href="[##_article_next_link_##]"><span>다음</span><strong>[##_article_next_title_##]</strong></a></li>
+                  </s_article_next>
+                </ul>
+              </div>
 
               <s_article_related>
-                <div class="related-window">
-                  <h3>'[##_article_rep_category_##]' 관련 기록</h3>
-                  <ul class="related-list">
+                <div class="article-related">
+                  <h3 class="title-footer">관련 기록</h3>
+                  <ul class="list-related">
                     <s_article_related_rep>
-                      <li><a href="[##_article_related_rep_link_##]">[##_article_related_rep_title_##]</a></li>
+                      <li class="item-related">
+                        <a href="[##_article_related_rep_link_##]" class="link-related">
+                          <span class="thumnail" style="background-image:url('[##_article_related_rep_thumbnail_##]')"></span>
+                          <div class="box_content">
+                            <strong>[##_article_related_rep_title_##]</strong>
+                            <span class="date">[##_article_related_rep_date_##]</span>
+                          </div>
+                        </a>
+                      </li>
                     </s_article_related_rep>
                   </ul>
                 </div>
               </s_article_related>
-            </article>
-          </s_article_rep>
 
-          <div class="article-reply">
-            <div class="area-reply">
-              [##_comment_group_##]
+              <div class="article-reply">
+                <div class="area-reply">
+                  [##_comment_group_##]
+                </div>
+              </div>
+
             </div>
-          </div>
+          </s_article_rep>
 
           <s_paging>
             <div class="area-paging">

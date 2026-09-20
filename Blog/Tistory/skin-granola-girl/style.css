@@ -213,38 +213,114 @@ img{ max-width: 100%; display: block; }
 }
 
 /* ===================== 글 상세보기 ===================== */
-.article-type-view{
+
+/* 헤더: 썸네일 배경 배너 + 카테고리/제목/작성자/날짜 */
+.article-header{
+  position: relative;
+  min-height: 220px;
+  display: flex;
+  align-items: flex-end;
+  background-color: var(--sage);
+  background-size: cover;
+  background-position: center;
+  border-radius: 16px;
+  overflow: hidden;
+  margin-bottom: 0;
+}
+.article-header::before{
+  content: "";
+  position: absolute; inset: 0;
+  background: linear-gradient(180deg, rgba(69,60,50,.05), rgba(69,60,50,.78));
+}
+.article-header .inner-header{ position: relative; padding: 28px 30px; width: 100%; color: #fff; }
+.article-header .category{ margin: 0 0 8px; }
+.article-header .category a{
+  display: inline-block;
+  font-size: 11px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #fff;
+  border-bottom: 1px solid rgba(255,255,255,.6);
+  padding-bottom: 2px;
+}
+.title-article{
+  font-family: var(--font-head);
+  font-size: 26px;
+  font-weight: 700;
+  color: #fff;
+  margin: 0 0 10px;
+}
+.article-header .box-info{ display: flex; gap: 14px; font-size: 12px; color: rgba(255,255,255,.85); }
+.article-header .writer{ font-family: var(--font-hand); font-size: 14px; }
+
+/* 본문 */
+.article-view{
   background: var(--paper);
   border: 1px solid var(--line);
-  border-radius: 16px;
-  box-shadow: 0 3px 18px rgba(90, 70, 40, 0.06);
-  padding: 30px 28px;
+  border-top: none;
+  border-radius: 0 0 16px 16px;
+  padding: 32px 30px;
   margin-bottom: 20px;
 }
-.view-title{
+.contents_style{ font-size: 15px; color: var(--ink); line-height: 1.9; }
+.contents_style h2, .contents_style h3, .contents_style h4{
   font-family: var(--font-head);
-  font-size: 24px;
-  font-weight: 700;
   color: var(--ink);
-  margin: 0 0 14px;
+  margin: 30px 0 14px;
 }
-.article-type-view .box-meta{ margin-bottom: 20px; padding-bottom: 16px; border-bottom: 1px dashed var(--line); }
-.article-content.view{ font-size: 15px; color: var(--ink); }
-.article-content.view img{ border-radius: 10px; margin: 14px 0; }
-
-.tag-label{
-  margin-top: 22px;
-  padding-top: 16px;
-  border-top: 1px solid var(--line);
+.contents_style p{ margin: 0 0 16px; }
+.contents_style ul, .contents_style ol{ margin: 0 0 16px; padding-left: 22px; }
+.contents_style li{ margin-bottom: 4px; }
+.contents_style a{ color: var(--clay); text-decoration: underline; }
+.contents_style hr{ border: none; border-top: 1px solid var(--line); margin: 28px 0; }
+.contents_style blockquote{
+  margin: 0 0 16px;
+  padding: 12px 18px;
+  border-left: 3px solid var(--sage);
+  background: var(--cream);
+  color: var(--ink-soft);
+  font-family: var(--font-hand);
+  font-size: 15px;
+}
+.contents_style pre{
+  background: #3a332a;
+  color: #ecdfc8;
+  padding: 16px;
+  overflow-x: auto;
+  border-radius: 10px;
+  margin: 0 0 16px;
   font-size: 13px;
 }
-.tag-label-title{
-  color: var(--sage-dark);
-  font-family: var(--font-head);
-  font-weight: 700;
-  margin-right: 8px;
+.contents_style code{ font-family: "Courier New", monospace; }
+.contents_style p > code{ background: var(--oat); color: var(--clay); padding: 1px 6px; border-radius: 4px; }
+.contents_style figure{ margin: 16px 0; text-align: center; }
+.contents_style figure img{ border-radius: 10px; max-width: 100%; }
+.contents_style figcaption{ font-size: 12px; color: var(--ink-soft); margin-top: 6px; }
+.contents_style table{ width: 100%; border-collapse: collapse; margin: 0 0 16px; font-size: 13px; }
+.contents_style table th, .contents_style table td{ border: 1px solid var(--line); padding: 8px 10px; }
+.contents_style table th{ background: var(--cream); }
+
+/* 푸터: 태그 / 이전-현재-다음 / 관련기록 / 댓글 */
+.article-footer{
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-top: none;
+  border-radius: 0 0 16px 16px;
+  margin-top: -20px;
+  padding: 0 30px 28px;
 }
-.tag-label a{
+.title-footer{
+  font-family: var(--font-head);
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--sage-dark);
+  margin: 0 0 12px;
+  padding-top: 22px;
+  border-top: 1px solid var(--line);
+}
+.article-footer > *:first-child .title-footer{ border-top: none; padding-top: 0; }
+.article-tag .box-tag{ font-size: 13px; }
+.article-tag .box-tag a{
   display: inline-block;
   margin: 2px 4px 2px 0;
   padding: 3px 12px;
@@ -253,25 +329,26 @@ img{ max-width: 100%; display: block; }
   color: var(--ink);
 }
 
-.prev-next{
-  display: flex;
-  justify-content: space-between;
-  margin-top: 20px;
-  font-size: 13px;
-  color: var(--ink-soft);
-}
-.prev-next a{ color: var(--ink-soft); }
-.prev-next a:hover{ color: var(--terracotta); }
+.article-page ul{ display: flex; flex-direction: column; gap: 8px; font-size: 13px; }
+.article-page li{ display: flex; gap: 10px; padding: 10px 14px; border: 1px solid var(--line); border-radius: 10px; }
+.article-page li.current{ background: var(--cream); font-weight: 700; }
+.article-page li span{ color: var(--terracotta); flex-shrink: 0; font-size: 11px; text-transform: uppercase; }
+.article-page a{ display: flex; gap: 10px; color: var(--ink); }
+.article-page a:hover strong{ color: var(--terracotta); }
 
-.related-window{ padding: 16px 18px; margin-top: 20px; }
-.related-window h3{
-  font-family: var(--font-head);
-  font-size: 14px;
-  margin: 0 0 10px;
-  color: var(--sage-dark);
+.list-related{ display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; }
+.item-related{ list-style: none; }
+.link-related{ display: flex; gap: 10px; border: 1px solid var(--line); border-radius: 12px; background: var(--paper); padding: 8px; align-items: center; }
+.link-related .thumnail{
+  flex: 0 0 60px; width: 60px; height: 60px;
+  background-size: cover; background-position: center;
+  border-radius: 8px;
+  background-color: var(--oat);
 }
-.related-list li{ padding: 4px 0; font-size: 13px; }
-.related-list li::before{ content: "· "; color: var(--terracotta); }
+.link-related .box_content{ min-width: 0; }
+.link-related strong{ display: block; font-size: 12.5px; color: var(--ink); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.link-related .date{ font-size: 11px; color: var(--ink-soft); }
+@media (max-width: 500px){ .list-related{ grid-template-columns: 1fr; } }
 
 .article-reply{ margin-top: 24px; }
 
