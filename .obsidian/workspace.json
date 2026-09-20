@@ -23,8 +23,39 @@
               "icon": "lucide-file",
               "title": "2026"
             }
+          },
+          {
+            "id": "03e921ae4db32756",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/Daily-Docs/2026/09_September/2026-09-21 Mon.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-09-21 Mon"
+            }
+          },
+          {
+            "id": "9356124ac43a77cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remoteBrain/99_InsightON/대한유화 SHE/PSM - 자체감사 (2026-09-18).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "PSM - 자체감사 (2026-09-18)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,7 +97,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "검색"
+              "title": "Search"
             }
           }
         ]
@@ -165,10 +196,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "03e921ae4db32756",
   "lastOpenFiles": [
-    "remoteBrain/Daily-Docs/2026/09_September/2026-09-20 Sun.md",
+    "remoteBrain/99_InsightON/대한유화 SHE/PSM - 자체감사 (2026-09-18).md",
+    "remoteBrain/99_InsightON/대한유화 SHE/협력사 (2026-09-21).md",
+    "remoteBrain/Daily-Docs/2026/09_September/2026-09-21 Mon.md",
     "remoteBrain/VisionBoard/2026.md",
+    "remoteBrain/Daily-Docs/2026/09_September/2026-09-20 Sun.md",
     "Blog/Tistory/skin-granola-girl/index.xml",
     "Blog/Tistory/skin-granola-girl/style.css",
     "Blog/Tistory/skin-granola-girl/skin.html",
@@ -183,7 +217,6 @@
     "Blog/Tistory/skin-geocities-y2k/style.css",
     "remoteBrain/Daily-Docs/2026/09_September/2026-09-18 Fri.md",
     "remoteBrain/Daily-Docs/2026/09_September/2026-09-17 Thu.md",
-    "remoteBrain/99_InsightON/대한유화 SHE/PSM - 자체감사 (2026-09-18).md",
     "remoteBrain/99_InsightON/대한유화 SHE/PSM - 위험성평가 (2026-08-27).md",
     "remoteBrain/99_InsightON/대한유화 SHE/PSM - 설비, 공정안전자료, 가동전안전점검 (2026-08-18).md",
     "remoteBrain/99_InsightON/대한유화 SHE/협력사 (2026-09-16).md",
@@ -204,7 +237,6 @@
     "remoteBrain/99_InsightON/대한유화 SHE/산업안전 - 사고 (2026-08-26).md",
     "remoteBrain/Daily-Docs/2026/09_September/2026-09-07 Mon.md",
     "remoteBrain/99_InsightON/대한유화 SHE/소방 (2026-08-13).md",
-    "remoteBrain/99_InsightON/대한유화 SHE/소방 (2026-07-31).md",
     "remoteBrain/Daily-Docs/Images/Pasted image 20260907104710.png",
     "remoteBrain/01_Traveler/2026 Tokyo/Files/퓨로랜드.jpg",
     "remoteBrain/Daily-Docs/Images/Pasted image 20260423174403.png",
