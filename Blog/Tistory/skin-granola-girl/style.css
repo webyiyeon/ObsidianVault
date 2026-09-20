@@ -279,6 +279,11 @@ article.article-type-common{
   padding: 16px;
   margin-bottom: 20px;
 }
+/* 썸네일이 없는 글은 <img src=""> 가 깨진 이미지 아이콘으로 보이므로,
+   서버가 has-thumbnail 속성을 붙여준 경우에만 img를 노출한다 */
+.thumbnail img{ display: none; width: 100%; height: 100%; object-fit: cover; }
+.thumbnail[has-thumbnail] img{ display: block; }
+
 .article-type-common .thumbnail{
   flex: 0 0 130px;
   width: 130px;
